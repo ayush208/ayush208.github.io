@@ -1,0 +1,925 @@
+.ui-ux-page section {
+  position: relative;
+}
+
+@media(max-width: 500px){
+  .projects-page section{
+    overflow: hidden;
+  }
+}
+
+.ui-ux-page section .hero_banner-right-bg {
+  z-index: 2;
+  position: relative;
+}
+
+.ui-ux-page .hero_banner-right-bg .banner-computer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  width: 60%;
+}
+
+.ui-ux-page section .hero_banner-right-bg .banner-computer .banner-cube {
+  position: absolute;
+  top: 100px;
+  z-index: 2;
+  right: 585px;
+}
+
+.ui-ux-page section .hero_banner-right-bg .banner-computer .banner-dialog {
+  position: absolute;
+  top: 320px;
+  right: 235px;
+  z-index: 2;
+}
+
+.ui-ux-page section .hero_banner-right-bg .banner-computer .banner-sphere {
+  position: absolute;
+  right: 10px;
+  top: 320px;
+  z-index: 2;
+}
+
+.ui-ux-page .hero_banner-left-bg {
+  z-index: -1;
+}
+
+.ui-ux-page .hero_banner-left-bg .banner-left-lines {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 55%;
+}
+
+.ui-ux-page .hero_banner-left-bg .banner-left-a-letter {
+  position: absolute;
+  z-index: 3;
+  left: 5px;
+  top: 60%;
+}
+
+.ui-ux-page .hero_banner {
+  /*max-width: 1160px;*/
+  width: 80%;
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  height: 548px;
+  z-index: 2;
+}
+
+.ui-ux-page .hero_banner-left {
+  margin-top: 80px;
+  position: relative;
+  width: 40%;
+}
+
+.ui-ux-page .hero_banner-left h1 {
+  height: 96px;
+  font-family: "BebasNeue";
+  font-size: 96px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: 1.3px;
+  color: #000000;
+}
+
+.ui-ux-page .hero_banner-left p {
+  max-width: 486px;
+  font-family:"Lato";
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+  color: #000000;
+}
+
+.ui-ux-page .hero_banner-left .purple_square {
+  color: #9595ef;
+}
+
+.ui-ux-page .hero_banner-right {
+  position: relative;
+  width: 60%;
+  margin-top: 15px;
+}
+
+.ui-ux-page .our_workflow {
+  max-width: 1160px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ui-ux-page .our_workflow-img {
+  margin: 0 auto;
+  z-index: 1;
+}
+
+.ui-ux-page .our_workflow-heading {
+  text-align: center;
+}
+
+.ui-ux-page .our_workflow-heading h3 {
+  font-family: "BebasNeue";
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: 0.5px;
+  color: #000000;
+  margin-bottom: 12px;
+}
+
+.ui-ux-page .our_workflow-heading p {
+  max-width: 582px;
+  font-size: 25px;
+  font-family:"Lato";
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: #000000;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
+
+.ui-ux-page .our_workflow-items > ul {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.ui-ux-page .our_workflow-items > ul li {
+  min-height: 188px;
+  width: 20%;
+  margin: 0 5px;
+  box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+}
+
+.ui-ux-page .our_workflow-items > ul li:hover {
+  /*box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);*/
+}
+
+.ui-ux-page .our_workflow-items > ul li:hover p {
+  visibility: inherit;
+}
+
+.ui-ux-page .our_workflow-items > ul li h4 {
+  font-family:"Lato";
+  text-align: center;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: 0.3px;
+  color: #000000;
+  margin-bottom: 16px;
+  margin-top: 37px;
+}
+
+.ui-ux-page .our_workflow-items > ul li p {
+  margin: 0px 14px 32px 14px;
+  /*visibility: hidden;*/
+  visibility: visible;
+  font-family:"Lato";
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #000000;
+}
+
+.ui-ux-page .our_workflow-items > ul li .our_workflow-items-img {
+  display: none;
+}
+
+.ui-ux-page .tools_we_use {
+  /*max-width: 1160px;*/
+  width: 80%;
+  margin: 0 auto;
+  /*padding-top: 83px;*/
+  padding-top: 0px;
+  margin-bottom: 80px;
+}
+
+.ui-ux-page .tools_we_use-heading {
+  text-align: left;
+}
+
+.ui-ux-page .tools_we_use-heading h3 {
+  height: 43px;
+  font-family: "BebasNeue";
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: 0.5px;
+  color: #000000;
+}
+
+.ui-ux-page .tools_we_use-items {
+  margin-top: 43px;
+}
+
+.ui-ux-page .tools_we_use-items ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ui-ux-page .tools_we_use-items ul li, .tool {
+  min-width: 19%;
+  height: 252px;
+  margin: 0 5px;
+  position: relative;
+}
+
+.ui-ux-page .tools_we_use-items ul li:hover, .tool:hover {
+  box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+}
+
+.ui-ux-page .tools_we_use-items ul li img {
+  margin-top: 32px;
+  margin-bottom: 24px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ui-ux-page .tools_we_use-items ul li h4 {
+  height: 36px;
+  margin-bottom: 32px;
+  font-family:"Lato";
+  text-align: center;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+  color: #000000;
+}
+
+.ui-ux-page .behance-bg {
+  background: url(../img/behance-lines-bg.svg) no-repeat;
+  position: absolute;
+  height: 440px;
+  width: 100%;
+  z-index: -1;
+  background-size: cover;
+}
+
+.ui-ux-page .behance_section {
+  /*max-width: 1160px;*/
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.ui-ux-page .behance_section-left {
+  width: 70%;
+}
+
+.ui-ux-page .behance_section-left h3 {
+  /*margin-top: 210px;*/
+  margin-top: 105px;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  height: 43px;
+  font-family: "BebasNeue";
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: 0.5px;
+  color: #000000;
+}
+
+.ui-ux-page .behance_section-left p {
+  margin-top: 32px;
+  margin-bottom: 97px;
+  max-width: 766px;
+  font-family:"Lato";
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+  color: #000000;
+}
+
+.ui-ux-page .behance_section-left a {
+  font-family: "BebasNeue";
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: 1.5px;
+  color: #000000;
+  position: relative;
+}
+
+.ui-ux-page .behance_section-left a:hover {
+  color: #9595ef;
+}
+
+.ui-ux-page .behance_section-left a:hover:after {
+  left: 0;
+  left: auto;
+  width: 100%;
+  background: #9595ef;
+}
+
+.ui-ux-page .behance_section-left a:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 0;
+  bottom: -5px;
+  background: #000000;
+  height: 2px;
+  width: 50px;
+  transition-property: width;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
+}
+
+.ui-ux-page .behance_section-right {
+  width: 30%;
+}
+
+.ui-ux-page .behance_section-right .behance-items {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li .icon {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  width: 296px;
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li .icon:hover {
+  box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li:hover a {
+  font-family:"Lato";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: 0.2px;
+  color: #000000;
+  color: #9595ef;
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li:hover a span {
+  background: url(../img/external-link-purple.svg);
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li img {
+  padding: 16px;
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li a {
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-bottom: 16px;
+  font-family:"Lato";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: 0.2px;
+}
+
+.ui-ux-page .behance_section-right .behance-items ul li a span {
+  background: url(../img/external-link.svg) no-repeat;
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .ui-ux-page {
+    background: url(../img/lines-footer-bg.svg) 35% bottom no-repeat;
+    background-size: auto;
+  }
+  .ui-ux-page .hero_banner-left-bg .banner-left-a-letter {
+    display: none;
+  }
+  .ui-ux-page .hero_banner-left-bg .banner-left-lines {
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 65%;
+    width: 130px;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer {
+    top: -25px !important;
+    /*max-width: 59%;*/
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer .banner-sphere {
+    display: none;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer .banner-cube {
+    position: absolute;
+    z-index: 2;
+    max-width: 8%;
+    top: 19% !important;
+    right: 75% !important;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer .banner-dialog {
+    position: absolute;
+    z-index: 2;
+    max-width: 15%;
+    top: 62% !important;
+    right: 30% !important;
+  }
+  .ui-ux-page .hero_banner {
+    margin-bottom: 90px;
+    margin-top: 0px;
+    height: auto;
+  }
+  .ui-ux-page .hero_banner-left {
+    order: 2;
+    width: 50%;
+    margin-top: 10px;
+  }
+  .ui-ux-page .hero_banner-left h1 {
+    font-size: 64px;
+    width: 293px;
+    line-height: 1.13;
+    letter-spacing: 0.9px;
+    height: auto;
+  }
+  .ui-ux-page .hero_banner-left p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    width: 272px;
+  }
+  .ui-ux-page .hero_banner-left .purple_square {
+    font-size: 14px;
+  }
+  .ui-ux-page .hero_banner-right {
+    order: 1;
+    width: 100%;
+  }
+  .ui-ux-page .our_workflow p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+  }
+  .ui-ux-page .our_workflow-img {
+    display: none;
+  }
+  .ui-ux-page .our_workflow-items > ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .ui-ux-page .our_workflow-items > ul li {
+    min-height: 355px;
+    margin: 40px 5px;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+    width: 31%;
+    margin-top: 20px;
+  }
+  .ui-ux-page .our_workflow-items > ul li .our_workflow-items-img {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 90px;
+    max-width: 115px;
+    margin: 0 auto;
+  }
+  .ui-ux-page .our_workflow-items > ul li h4 {
+    margin-bottom: 16px;
+    margin-top: 37px;
+    font-size: 14px;
+  }
+  
+  
+  
+  
+  
+  
+  .ui-ux-page .our_workflow-items > ul li p {
+    margin: 0px 14px 32px 14px;
+    /*visibility: inherit;*/
+    visibility: visible;
+    font-family:"Lato";
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    text-align: center !important;
+    color: #000000;
+    text-align: left;
+  }
+  
+  
+  
+  
+  
+  
+  .ui-ux-page .behance-bg {
+    background: url(../img/behance-lines-bg.svg) 78% 100% no-repeat;
+    position: absolute;
+    height: 420px;
+  }
+  .ui-ux-page .behance_section {
+    max-width: 1160px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+  }
+  .ui-ux-page .behance_section-left {
+    width: 50%;
+  }
+  .ui-ux-page .behance_section-left h3 {
+    margin-top: 40px;
+  }
+  .ui-ux-page .behance_section-left p {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    margin-bottom: 0px;
+  }
+  .ui-ux-page .behance_section-left a {
+    position: absolute;
+    bottom: 55px;
+    font-size: 18px;
+    width: 185px;
+  }
+  .ui-ux-page .behance_section-right {
+    width: 50%;
+  }
+  .ui-ux-page .behance_section-right .behance-items {
+    /*margin-top: 155px;*/
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li {
+    width: 194px;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li img {
+    padding: 7px;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li a {
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: 0.1px;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li a:hover {
+    font-size: 10px;
+    line-height: 1.4;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li a span {
+    width: 10px;
+    height: 10px;
+    background-size: contain;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li:hover a {
+    font-size: 10px;
+    line-height: 1.4;
+    letter-spacing: 0.1px;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li:hover a span {
+    width: 10px;
+    height: 10px;
+    background-size: contain;
+  }
+  .ui-ux-page .tools_we_use {
+    margin-bottom: 40px;
+  }
+  .ui-ux-page .tools_we_use-items {
+    margin-top: 0px;
+  }
+  .ui-ux-page .tools_we_use-items ul {
+    flex-wrap: wrap;
+  }
+  .ui-ux-page .tools_we_use-items ul li {
+    height: auto;
+    width: 25%;
+    margin: 0 auto;
+  }
+  .ui-ux-page .tools_we_use-items ul li img {
+    margin-bottom: 0px;
+    margin-top: 20px;
+  }
+  .ui-ux-page .tools_we_use-items ul li h4 {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    margin-bottom: 0px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .ui-ux-page .hero_banner-left-bg {
+    display: none;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer {
+    top: -50px;
+    right: -25px;
+    width: 100%;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer .banner-sphere {
+    display: none;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer .banner-cube {
+    position: absolute;
+    z-index: 2;
+    max-width: 8%;
+    top: 19% !important;
+    right: 75% !important;
+  }
+  .ui-ux-page .hero_banner-right-bg .banner-computer .banner-dialog {
+    position: absolute;
+    z-index: 2;
+    max-width: 15%;
+    top: 62% !important;
+    right: 30% !important;
+  }
+  .ui-ux-page .hero_banner {
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 90px;
+    height: auto;
+  }
+  .ui-ux-page .hero_banner-left {
+    order: 2;
+    width: 100%;
+    margin-top: 52%;
+  }
+  .ui-ux-page .hero_banner-left h1 {
+    font-size: 64px;
+    width: 165px;
+    line-height: 1.13;
+    letter-spacing: 0.9px;
+    height: auto;
+  }
+  .ui-ux-page .hero_banner-left p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+  }
+  .ui-ux-page .hero_banner-left .purple_square {
+    font-size: 10px;
+  }
+  .ui-ux-page .hero_banner-right {
+    order: 1;
+    width: 100%;
+  }
+  .ui-ux-page .our_workflow {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .ui-ux-page .our_workflow p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+  }
+  .ui-ux-page .our_workflow-img {
+    display: none;
+  }
+  .ui-ux-page .our_workflow-items > ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .ui-ux-page .our_workflow-items > ul .our_workflow-items-img {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 88px;
+    width: 48%;
+  }
+  .ui-ux-page .our_workflow-items > ul li {
+    height: auto;
+    margin: 0 5px;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+    width: 48%;
+    margin-left: 125px;
+    position: relative;
+  }
+  .ui-ux-page .our_workflow-items > ul li .our_workflow-items-img {
+    display: block;
+    height: auto;
+    width: 115px;
+    margin: 0 auto;
+    position: absolute;
+    left: -135px;
+    transform: translateY(65px);
+  }
+  .ui-ux-page .our_workflow-items > ul li h4 {
+    margin-bottom: 16px;
+    margin-top: 37px;
+    font-size: 14px;
+  }
+  
+  
+  
+  
+  .ui-ux-page .our_workflow-items > ul li p {
+    margin: 0px 14px 32px 14px;
+    /*visibility: inherit;*/
+    visibility: visible;
+    font-family:"Lato";
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #000000;
+    text-align: left;
+  }
+  
+  
+  
+  
+  .ui-ux-page .behance-bg {
+    background: url(../img/behance-lines-bg.svg) no-repeat;
+    position: absolute;
+    height: 150px;
+    z-index: -1;
+    background-size: cover;
+    top: 90px;
+  }
+  .ui-ux-page .behance_section {
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    padding-bottom: 45px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+  }
+  .ui-ux-page .behance_section-left {
+    width: 100%;
+  }
+  .ui-ux-page .behance_section-left h3 {
+    margin-top: 80px;
+  }
+  .ui-ux-page .behance_section-left p {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    margin-bottom: 26px;
+  }
+  .ui-ux-page .behance_section-left a {
+    position: absolute;
+    bottom: 0;
+    font-size: 18px;
+    width: 185px;
+  }
+  .ui-ux-page .behance_section-right {
+    width: 100%;
+  }
+  .ui-ux-page .behance_section-right .behance-items {
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 0px;
+    justify-content: center;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul {
+    display: flex;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li {
+    width: 100%;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li img {
+    padding: 7px;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li a {
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: 0.1px;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li a:hover {
+    font-size: 10px;
+    line-height: 1.4;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li a span {
+    width: 10px;
+    height: 10px;
+    background-size: contain;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li:hover a {
+    font-size: 10px;
+    line-height: 1.4;
+    letter-spacing: 0.1px;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li:hover a span {
+    width: 10px;
+    height: 10px;
+    background-size: contain;
+  }
+  .ui-ux-page .behance_section-right .behance-items ul li:nth-child(even) {
+    margin-left: 16px;
+  }
+  .ui-ux-page .tools_we_use {
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 40px;
+  }
+  .ui-ux-page .tools_we_use-items {
+    margin-top: 0px;
+  }
+  .ui-ux-page .tools_we_use-items ul {
+    flex-wrap: wrap;
+  }
+  .ui-ux-page .tools_we_use-items ul li {
+    height: auto;
+    width: 33%;
+    margin: 0 auto;
+  }
+  .ui-ux-page .tools_we_use-items ul li:hover {
+    box-shadow: none;
+  }
+  .ui-ux-page .tools_we_use-items ul li img {
+    margin-bottom: 0px;
+    margin-top: 20px;
+  }
+  .ui-ux-page .tools_we_use-items ul li h4 {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    margin-bottom: 0px;
+  }
+}
+
+
+
+@media (min-width: 376px) and (max-width: 556px) {
+    .ui-ux-page .hero_banner-left{
+        margin-top: 65%;
+    }
+    .ui-ux-page .hero_banner-right-bg .banner-computer svg{
+        width: 100%;
+        height: 100%;
+    }
+}

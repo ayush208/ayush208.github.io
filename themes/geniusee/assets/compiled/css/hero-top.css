@@ -1,0 +1,255 @@
+/* New hero top */
+
+ .hero-top {
+    width: 100%;
+    margin-top: calc(16.66667vh - 6.66667vh);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 17.77777vh;
+}
+
+
+@media screen and (max-width:768px) {
+    .hero-top {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-top: 60px;
+        margin-bottom: 112px;
+    }
+}
+
+@media screen and (max-height: 400px) {
+    .hero-top {
+        margin-top: initial;
+    }
+}
+
+.hero-top .hero-text-wraper {
+    width: 50%;
+    height: 100%;
+    padding-left: 9.72222vw;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    z-index: 10;
+    position: relative
+}
+
+@media screen and (max-width:768px) {
+    .hero-top .hero-text-wraper {
+        /* width: 100%;
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1; */
+        width: 50%;
+        padding: 16px;
+        padding-left: 3.12907vw;
+    }
+}
+
+
+
+@media screen and (max-width:500px) {
+    .hero-top .hero-text-wraper {
+        width: 100%;
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+    }
+}
+
+.hero-top .hero-text-wraper .hero-text-content {
+    width: 80%
+}
+
+@media screen and (max-width:768px) {
+    .hero-top .hero-text-wraper .hero-text-content {
+        width: 100%
+    }
+}
+
+.hero-top .hero-text-wraper .hero-text-content .font-h1 {
+    padding-bottom: 16px;
+    letter-spacing: 2px;
+}
+.hero-top .hero-img-wraper {
+    width: 50%;
+    position: relative;
+    min-width: 500px;
+    width: 54.02778vw
+}
+
+@media screen and (max-width:768px) {
+    .hero-top .hero-img-wraper {
+        /* width: 100%;
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0; */
+        -ms-flex-item-align: center;
+            -ms-grid-row-align: center;
+            align-self: center;
+        width: 50%;
+        height: 29.98047vh;
+        min-width: initial
+    }
+}
+
+@media screen and (max-width:500px) {
+    .hero-top .hero-text-wraper .hero-text-content .font-h1 {
+        font-size: 64px;
+        margin-top: 20px;
+    }
+    .mvp-top{
+        margin-bottom: 50px;
+        margin-right: 112px;
+    }
+    .hero-top .hero-img-wraper {
+        width: 100%;
+        -webkit-box-ordinal-group: 1;
+        -ms-flex-order: 0;
+        order: 0;
+    }
+}
+
+.hero-top .hero-img-wraper svg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+/* @media screen and (max-width:768px) {
+    .hero-top .hero-img-wraper svg {
+        -webkit-transform: scale(1.4);
+        transform: scale(1.4);
+        bottom: 0;
+        left: initial;
+        right: -32px
+    }
+} */
+
+@media screen and (max-width: 768px){
+    .hero-top {
+        margin: initial;
+    }
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                -webkit-min-device-pixel-ratio: 2),
+only screen and (                -o-min-device-pixel-ratio: 2/1),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx){
+    .hero .hero-img-wraper svg{
+        top: -70px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .hero .hero-img-wraper svg{
+        top: -70px;
+    }
+}
+
+ @media screen and (max-width:768px) {
+    .hero-top .prod-dev svg,
+    .hero-top .mvp-top svg,
+    .hero-top .dedicated svg,
+    .hero-top .data-poc svg {
+        -webkit-transform: scale(1.4);
+        -ms-transform: scale(1.4);
+            transform: scale(1.4);
+        bottom: 0;
+        left: initial;
+        right: -32px
+    }
+} 
+
+.hero-top .hero-text-wraper .hero-text-content_full-width{
+    width: 100%;
+}
+
+.hero-top .dedicated svg{
+    -webkit-transform: scale(2) translate(-50px, 10px);
+        -ms-transform: scale(2) translate(-50px, 10px);
+            transform: scale(2) translate(-50px, 10px);
+    position: static;
+}
+
+.tshirt-first{
+    position: absolute;
+    bottom: -50px;
+    left: 3.194444444vw;
+}
+
+.lines-first{
+    position: absolute;
+    z-index: -1;
+    top: -100px;
+    left: -12%;
+    -webkit-transform: rotate(180deg) scale(0.5);
+        -ms-transform: rotate(180deg) scale(0.5);
+            transform: rotate(180deg) scale(0.5);
+}
+
+@media screen and (max-width: 1024px){
+    .tshirt-first{
+        display: none;
+    }
+    .lines-first{
+        display: none;
+    }
+    .hero-top .dedicated svg{
+        position: absolute;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .hero-top .dedicated svg{
+        -webkit-transform: scale(1.4) translate(-50px, 0px);
+            -ms-transform: scale(1.4) translate(-50px, 0px);
+                transform: scale(1.4) translate(-50px, 0px);
+    }
+    .hero-top .data-poc svg{
+        -webkit-transform: scale(1.3);
+            -ms-transform: scale(1.3);
+                transform: scale(1.3);
+    }
+    .hero-top .prod-dev svg{
+        -webkit-transform: scale(1.3);
+            -ms-transform: scale(1.3);
+                transform: scale(1.3);
+    }
+}
+
+@media screen and (max-width: 500px){
+    .hero-top .dedicated svg{
+        -webkit-transform: scale(1.8) translate(-30px, 20px);
+            -ms-transform: scale(1.8) translate(-30px, 20px);
+                transform: scale(1.8) translate(-30px, 20px);
+    }
+    .hero-top .data-poc svg{
+        -webkit-transform: scale(1.7) translate(-10px, 5px) !important;
+            -ms-transform: scale(1.7) translate(-10px, 5px) !important;
+                transform: scale(1.7) translate(-10px, 5px) !important;
+    }
+    .hero-top .mvp-top svg{
+        -webkit-transform: scale(2.1) translate(15px, 30px) !important;
+            -ms-transform: scale(2.1) translate(15px, 30px) !important;
+                transform: scale(2.1) translate(15px, 30px) !important;
+    }
+    .hero-top .prod-dev svg{
+        -webkit-transform: scale(1.6) translate(12px, 10px) !important;
+            -ms-transform: scale(1.6) translate(12px, 10px) !important;
+                transform: scale(1.6) translate(12px, 10px) !important;
+    }
+}

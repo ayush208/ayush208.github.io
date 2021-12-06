@@ -1,0 +1,552 @@
+.projects-page .projects-page-top-bg {
+    background: url(../img/projects-bg.svg) no-repeat;
+    position: absolute;
+    top: -260px;
+    background-size: 100%;
+    height: 820px;
+    width: 100%;
+    z-index: -1;
+    background-position-y: 100%
+}
+
+.projects-page .banner {
+    margin-top: 110px;
+    padding-bottom: 15px;
+    position: relative
+}
+
+.projects-page .banner .banner__bg-ideas {
+    position: absolute;
+    left: 0;
+    bottom: -95px
+}
+
+.projects-page .banner .banner__section {
+    max-width: 1440px;
+    margin: 0 auto 75px;
+    padding: 0 65px 80px;
+    margin-bottom: 75px
+}
+
+.projects-page .banner .banner__section-heading h1 {
+    width: 628px;
+    height: 120px;
+    font-family: BebasNeue;
+    font-size: 96px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: .9;
+    letter-spacing: 2.2px;
+    text-align: center;
+    color: #000;
+    margin: 0 auto
+}
+
+.projects-page .banner .banner__section-subheading {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.8;
+    letter-spacing: .3px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 40px
+}
+
+.bborder {
+    text-transform: uppercase;
+    color: #9595ef;
+    position: relative;
+    -webkit-transition: color .2s ease-out;
+    -o-transition: color .2s ease-out;
+    transition: color .2s ease-out;
+    font-family: BebasNeue
+}
+
+.bborder::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: -5px;
+    background: #9595ef;
+    height: 2px;
+    width: 60%;
+    -webkit-transition: width .3s ease-out;
+    -o-transition: width .3s ease-out;
+    transition: width .3s ease-out
+}
+
+.bborder:hover {
+    color: #9595ef
+}
+
+.bborder:hover:after {
+    width: 100%;
+    background-color: #9595ef
+}
+
+.projects-page .banner .banner__section-buttons .portfolio-main_tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.projects-page .banner .banner__section-buttons .portfolio-main_tags .portfolio-tags_sub {
+    margin-top: 9px;
+    width: 100%
+}
+
+.projects-page .banner .banner__section-buttons .portfolio-main_tags .hide_sub_ul {
+    display: none
+}
+
+@media screen and (max-width:768px) {
+    .projects-page .banner .banner__section-buttons .portfolio-main_tags .hide_sub_ul {
+        display: flex
+    }
+    #show_tags {
+        display: none
+    }
+}
+
+.banner__section-buttons .slick-slider .slick-next {
+    position: absolute;
+    right: -60px;
+    width: 40px;
+    height: 40px;
+    background: #9595ef;
+    border: initial;
+    background-image: url(../img/next.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -9999px;
+    top: 50%;
+    margin-top: -20px
+}
+
+.banner__section-buttons .slick-slider .slick-prev {
+    position: absolute;
+    left: -60px;
+    width: 40px;
+    height: 40px;
+    background: #9595ef;
+    border: initial;
+    background-image: url(../img/prev.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -9999px;
+    top: 50%;
+    margin-top: -20px
+}
+
+.projects-page .banner .banner__section-buttons ul li.active {
+    background-color: #9595ef;
+    color: #fff;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, .4)
+}
+
+.projects-page .banner .banner__section-buttons ul li.active a {
+    font-weight: 700
+}
+
+#show_tags {
+    text-align: center;
+    color: #9595ef;
+    font-family: Lato;
+    text-transform: capitalize;
+    margin: 10px auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -5ch;
+    bottom: 0
+}
+
+.projects-page .banner .banner__section-buttons ul li {
+    height: 65px;
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, .13);
+    margin: 18px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: 0;
+    width: 20%
+}
+
+.projects-page .banner .banner__section-buttons ul li:active,
+.projects-page .banner .banner__section-buttons ul li:hover {
+    background-color: #9595ef;
+    color: #fff;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, .4)
+}
+
+.projects-page .banner .banner__section-buttons ul li:active a,
+.projects-page .banner .banner__section-buttons ul li:hover a {
+    font-weight: 700
+}
+
+.projects-page .banner .banner__section-buttons ul li a {
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: .3px;
+    text-align: center;
+    width: inherit;
+    padding: 15px 0;
+    cursor: pointer;
+    width: 100%;
+    height: 100%
+}
+
+@media screen and (max-width:768px) {
+    .projects-page .banner .banner__section-buttons ul {
+        width: 80%;
+        margin: 0 auto
+    }
+    .projects-page .banner .banner__section-buttons ul li {
+        width: calc(50% - 40px - 36px);
+        margin: 18px
+    }
+}
+
+@media screen and (max-width:500px) {
+    .projects-page .banner .banner__section-buttons ul li,
+    .projects-page .banner .banner__section-buttons ul li.active {
+        margin: initial;
+        box-shadow: 0 5px 5px rgba(109, 102, 134, .13);
+        margin: 5px
+    }
+    .projects-page .banner .banner__section-buttons ul li a {
+        padding: initial;
+        padding: 7px
+    }
+    .projects-page .banner .banner__section-buttons ul .slick-list .slick-track {
+        display: flex;
+        align-items: center
+    }
+}
+
+.projects-page .projects__list {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding-left: 65px;
+    padding-right: 65px;
+    margin-bottom: 75px;
+    position: relative
+}
+
+.projects-page .projects__list .project__top__bg {
+    position: absolute;
+    top: 16%;
+    left: -30px;
+    width: 257px;
+    height: 262px;
+    z-index: -1
+}
+
+.projects-page .projects__list .project__bottom__bg {
+    position: absolute;
+    bottom: 20%;
+    right: -30px;
+    width: 257px;
+    height: 262px;
+    z-index: -1
+}
+
+@media(max-width:1030px) {
+    .projects-page .projects__list .project__bottom__bg {
+        right: 0
+    }
+}
+
+.projects-page .projects__list ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.projects-page .projects__list ul li.projects__list-item.mix {
+    display: none
+}
+
+.projects-page .projects__list ul li.projects__list-item:nth-child(even) {
+    margin-top: 84px;
+    margin-bottom: 0
+}
+
+.projects-page .projects__list ul li.projects__list-item {
+    width: 460px;
+    height: auto;
+    margin-top: 32px;
+    margin-bottom: 32px
+}
+
+.project__img.icon a {
+    display: flex;
+    height: 100%;
+}
+
+.projects-page .projects__list ul li.projects__list-item .project__img {
+    height: 460px;
+    background-color: #fff;
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, .13);
+    margin-bottom: 32px
+}
+
+.projects-page .projects__list ul li.projects__list-item .project__img:hover {
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, .4)
+}
+
+.projects-page .projects__list ul li.projects__list-item .project__img img {
+    padding: 24px;
+    height: auto;
+    width: auto;
+    object-fit: cover;
+}
+
+.projects-page .projects__list ul li.projects__list-item h3 {
+    font-family: BebasNeue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000
+}
+
+.projects-page .projects__list ul li.projects__list-item p {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: .2px;
+    color: #000
+}
+
+.projects-page .projects__list ul li.projects__list-item ul.project__tools {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%
+}
+
+.projects-page .projects__list ul li.projects__list-item ul.project__tools li {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: .2px;
+    color: #000;
+    background-color: #e6e6ef;
+    box-shadow: 0 0 8px rgba(50, 50, 50, .08);
+    border-radius: 100px;
+    padding: 0 12px;
+    margin: 0 10px 10px 0
+}
+
+.projects-page .projects__list ul li.projects__list-item ul.project__tools li a {
+    white-space: nowrap;
+    display: block;
+    margin: 0 auto;
+    text-align: center
+}
+
+.projects-page .projects__list ul li.projects__list-item ul.project__tools li a:hover {
+    color: #9595ef
+}
+
+@media (min-width:906px) and (max-width:1115px) {
+    .projects-page .banner .banner__section-buttons ul li {
+        width: 29%;
+        height: 65px;
+        margin: 22px 11px
+    }
+    .projects-page .banner .banner__section-buttons ul li a {
+        width: 100%
+    }
+}
+
+@media (max-width:1080px) {
+    .projects-page .projects__list ul li.projects__list-item {
+        width: 48%
+    }
+    .projects-page .projects__list ul li.projects__list-item .project__img {
+        height: auto
+    }
+}
+
+@media (max-width:767px) {
+    .projects-page .projects__list {
+        padding-left: 36px;
+        padding-right: 36px
+    }
+}
+
+@media (max-width:550px) {
+    .projects-page .projects__list ul li.projects__list-item:nth-child(even) {
+        margin-top: 24px;
+        margin-bottom: 24px
+    }
+    .projects-page .projects__list ul li.projects__list-item {
+        width: 100%;
+        height: auto;
+        margin-top: 24px;
+        margin-bottom: 24px
+    }
+    .projects-page .projects__list ul li.projects__list-item .project__img {
+        height: 280px;
+        margin-bottom: 24px;
+    }
+
+    .projects-page .projects__list ul li.projects__list-item .project__img img {
+        padding: 12px;
+        width: 100%;
+    }
+    .projects-page .projects__list ul li.projects__list-item h3 {
+        font-family: BebasNeue;
+        font-size: 36px;
+        font-weight: 700;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.17;
+        letter-spacing: .5px;
+        color: #000
+    }
+    .projects-page .projects__list ul li.projects__list-item p {
+        font-family: Lato;
+        font-size: 14px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.71;
+        letter-spacing: .2px;
+        color: #000
+    }
+}
+
+@media (min-width:460px) and (max-width:905px) {
+    .projects-page .banner {
+        margin-top: 55px
+    }
+    .projects-page .banner .banner__section-heading h1 {
+        width: 100%;
+        height: auto;
+        font-size: 88px
+    }
+    .projects-page .banner .banner__section-subheading {
+        font-size: 18px
+    }
+    .projects-page .banner .banner__section-buttons ul {
+        flex-grow: auto
+    }
+    .projects-page .banner .banner__section-buttons ul li {
+        width: 39%
+    }
+    .projects-page .banner .banner__section-buttons ul li a {
+        font-size: 20px;
+        width: 100%;
+        height: auto
+    }
+}
+
+@media (max-width:538px) {
+    .projects-page .banner .banner__section-buttons ul li {
+        width: 38%
+    }
+}
+
+@media (max-width:504px) {
+    .projects-page .banner .banner__section-buttons ul li {
+        width: 45%
+    }
+}
+
+@media (max-width:459px) {
+    .projects-page .banner {
+        margin-top: 5px
+    }
+    .projects-page .banner__bg-ideas {
+        top: 55px
+    }
+    .projects-page .banner__bg-ideas img {
+        width: 30%
+    }
+    .projects-page .banner .banner__section {
+        padding-left: 36px;
+        padding-right: 36px;
+        margin-bottom: 0;
+        padding-bottom: 0
+    }
+    .projects-page .banner .banner__section-heading h1 {
+        width: 100%;
+        height: auto;
+        font-size: 64px
+    }
+    .projects-page .banner .banner__section-subheading {
+        font-size: 16px;
+        width: 220px
+    }
+    .projects-page .banner .banner__section-buttons ul li {
+        width: 80%;
+        height: 39px
+    }
+    #main_tags .slick-slide[data-slick-index="5"] {
+        width: 116px !important
+    }
+    #main_tags .slick-slide[data-slick-index="7"] {
+        width: 98px !important
+    }
+    .projects-page .banner .banner__section-buttons ul li a {
+        font-size: 18px;
+        width: 100%
+    }
+    .projects-page .projects__list ul li.projects__list-item h3 {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: .3px
+    }
+    .projects-page .projects__list ul li.projects__list-item .project__desc {
+        font-size: 12px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.5;
+        letter-spacing: .2px
+    }
+    .projects-page .projects__list ul li.projects__list-item ul.project__tools li {
+        font-size: 12px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.5;
+        letter-spacing: .2px
+    }
+}
+
+@media (max-width:324px) {
+    .projects-page .banner .banner__section-buttons ul li {
+        width: 100%
+    }
+}
+
+@media(max-width:500px) {
+    .projects-page section {
+        overflow: hidden
+    }
+}

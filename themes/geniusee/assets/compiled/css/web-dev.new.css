@@ -1,0 +1,379 @@
+.projects-web-development .websites__types {
+    width: 100%;
+    padding: 4.375vh 9.72222vw .5vh;
+    position: relative;
+    margin: 0 auto
+}
+
+.projects-web-development .websites__types-heading {
+    text-align: center
+}
+
+.projects-web-development .websites__types-heading h3 {
+    font-family: bebasneue;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000
+}
+
+.projects-web-development .front__end {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    padding: 4.375vh 9.72222vw .5vh
+}
+
+.projects-web-development .front__end h2 {
+    font-family: bebasneue;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: .66;
+    letter-spacing: .9px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 15px
+}
+
+.projects-web-development .front__end p {
+    max-width: 787px;
+    min-height: 111px;
+    padding-top: 15px;
+    padding-bottom: 60px;
+    height: auto;
+    font-family: lato;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.8;
+    letter-spacing: .3px;
+    text-align: center;
+    margin: 0 auto
+}
+
+.projects-web-development .front__end__frameworks h3 {
+    font-family: bebasneue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000;
+    text-align: center;
+    padding-bottom: 40px
+}
+
+
+
+.projects-web-development .front__end__toolbars h3 {
+    font-family: bebasneue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 50px
+}
+
+.projects-web-development .back__end {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    padding: 4.375vh 9.72222vw .5vh
+}
+
+.projects-web-development .back__end h2 {
+    font-family: bebasneue;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: .66;
+    letter-spacing: .9px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 15px
+}
+
+.projects-web-development .back__end p {
+    max-width: 787px;
+    min-height: 111px;
+    padding-top: 15px;
+    padding-bottom: 60px;
+    height: auto;
+    font-family: lato;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.8;
+    letter-spacing: .3px;
+    text-align: center;
+    margin: 0 auto
+}
+
+.projects-web-development .back__end__technologies h3 {
+    font-family: bebasneue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000;
+    text-align: center;
+    padding-bottom: 40px
+}
+
+
+
+.projects-web-development .back__end__frameworks h3 {
+    font-family: bebasneue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 50px
+}
+
+.projects-web-development .back__end__databases h3 {
+    font-family: bebasneue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 50px
+}
+
+.projects-web-development .back__end__search_engines h3 {
+    font-family: bebasneue;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: .5px;
+    color: #000;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 50px
+}
+
+.projects-web-development .related_projects-wrap {
+    padding-bottom: 60px
+}
+
+.projects-web-development .related_projects-wrap h3 {
+    text-align: center
+}
+
+@media(min-width: 1025px) and (max-width:1250px) {
+    .projects-web-development .hero__banner {
+        padding-left:16px;
+        padding-right: 16px
+    }
+
+    .projects-web-development .hero__banner__media {
+        width: 57%;
+        max-height: 481px
+    }
+
+    .projects-web-development .hero__banner__media .cogwheel {
+        right: 25%
+    }
+
+    .projects-web-development .hero__banner__media .phone {
+        right: 43%
+    }
+
+    .projects-web-development .websites__types {
+        max-width: 100%;
+        margin: 0 auto;
+        position: relative;
+        margin-top: 105px;
+        padding-top: 70px;
+        padding-bottom: 70px;
+        padding-left: 56px;
+        padding-right: 56px
+    }
+
+    .projects-web-development .websites__types-heading {
+        text-align: center
+    }
+
+    .projects-web-development .websites__types-heading h3 {
+        font-family: bebasneue;
+        font-size: 36px;
+        font-weight: 700;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.17;
+        letter-spacing: .5px;
+        color: #000
+    }
+}
+
+@media(min-width: 768px) and (max-width:1024px) {
+    .projects-web-development .websites__types {
+        max-width: 100%;
+        margin: 0 auto;
+        position: relative;
+        margin-top: 105px;
+        padding-top: 70px;
+        padding-bottom: 70px
+    }
+
+    .projects-web-development .websites__types-heading {
+        text-align: center
+    }
+
+    .projects-web-development .websites__types-heading h3 {
+        font-family: bebasneue;
+        font-size: 36px;
+        font-weight: 700;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.17;
+        letter-spacing: .5px;
+        color: #000
+    }
+
+    .projects-web-development .front__end {
+        padding-top: 10px;
+        padding-left: 25px;
+        padding-right: 25px
+    }
+
+    .projects-web-development .front__end h2 {
+        font-size: 48px;
+        line-height: .88;
+        letter-spacing: .7px
+    }
+
+    .projects-web-development .front__end p {
+        min-height: auto;
+        max-width: 526px;
+        font-size: 20px;
+        line-height: 1.8;
+        letter-spacing: .3px;
+        margin: 0 auto
+    }
+
+    .projects-web-development .back__end {
+        padding-top: 10px;
+        padding-left: 25px;
+        padding-right: 25px
+    }
+
+    .projects-web-development .back__end h2 {
+        font-size: 48px;
+        line-height: .88;
+        letter-spacing: .7px
+    }
+
+    .projects-web-development .back__end p {
+        min-height: auto;
+        max-width: 526px;
+        font-size: 20px;
+        line-height: 1.8;
+        letter-spacing: .3px;
+        margin: 0 auto
+    }
+
+    .projects-web-development .opensource .web-development-lines {
+        position: absolute;
+        background: url(../img/web-development-lines.svg) no-repeat;
+        min-height: 428px;
+        width: 100%;
+        background-size: contain;
+        top: -25px
+    }
+}
+
+@media(min-width: 320px) and (max-width:767px) {
+    .projects-web-development .websites__types {
+        max-width:100%;
+        margin: 0 auto;
+        position: relative;
+        margin-top: 40px;
+        padding-top: 70px;
+        padding-bottom: 70px;
+        padding-left: 35px;
+        padding-right: 35px
+    }
+
+    .projects-web-development .front__end {
+        padding-top: 10px;
+        padding-left: 16px;
+        padding-right: 16px
+    }
+
+    .projects-web-development .front__end h2 {
+        font-size: 48px;
+        line-height: .88;
+        letter-spacing: .7px
+    }
+
+    .projects-web-development .front__end p {
+        min-height: auto;
+        max-width: 100%;
+        font-size: 20px;
+        line-height: 1.8;
+        letter-spacing: .3px;
+        margin: 0 auto
+    }
+
+    .projects-web-development .back__end {
+        padding-top: 10px;
+        padding-left: 16px;
+        padding-right: 16px
+    }
+
+    .projects-web-development .back__end h2 {
+        font-size: 48px;
+        line-height: .88;
+        letter-spacing: .7px
+    }
+
+    .projects-web-development .back__end p {
+        min-height: auto;
+        max-width: 100%;
+        font-size: 20px;
+        line-height: 1.8;
+        letter-spacing: .3px;
+        margin: 0 auto
+    }
+
+    .projects-web-development .opensource .web-development-lines {
+        position: absolute;
+        background: url(../img/web-development-lines.svg) no-repeat;
+        min-height: 428px;
+        width: 95%;
+        background-size: contain;
+        top: 66%
+    }
+    .projects-web-development .websites__types-heading h3 {
+        font-size: 36px;
+    }
+}

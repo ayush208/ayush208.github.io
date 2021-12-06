@@ -1,0 +1,108 @@
+/* technologies */
+
+.new-cards-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+    margin-bottom: 80px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.new-cards-wrapper .card {
+    margin-top: 32px;
+    display: block;
+    padding: 10px 20px 0;
+    height: 240px;
+    width: 180px;
+    margin: 0 32px;
+}
+.new-cards-wrapper .card:hover {
+    box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13)
+}
+
+.new-cards-wrapper .card .img-box {
+    width: 140px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.new-cards-wrapper .card .font-body-1 {
+    text-align: center
+}
+
+@media screen and (max-width: 1440px){
+    .new-cards-wrapper .card {
+        margin: 0 25px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .new-cards-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 8px;
+        margin-bottom: 80px;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .new-cards-wrapper .card {
+        display: block;
+        padding: 10px 20px 0;
+        height: 26.666666vh;
+        width: 12.5vw;
+    }
+    .new-cards-wrapper .card:hover {
+        box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13)
+    }
+    .new-cards-wrapper .card .img-box {
+        width: 9.722222vw;
+        height: 15.555555vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .new-cards-wrapper .card .font-body-1 {
+        text-align: center
+    }
+}
+
+@media screen and (max-width: 1633px){
+    .new-cards-wrapper{
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .new-cards-wrapper .card{
+        margin: initial;
+        padding: 10px 3px 0;
+        width: 146px;
+    }
+    .new-cards-wrapper .card:hover {
+        box-shadow: initial;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .new-cards-wrapper .card{
+        margin: initial;
+        padding: 10px 0 0;
+        width: 140px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .new-cards-wrapper .card{
+        margin: initial;
+        padding: 10px 0 0;
+        width: 50%;
+    }
+    .new-cards-wrapper .card .img-box {
+        margin: 0 auto;
+    }
+}

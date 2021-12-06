@@ -1,0 +1,283 @@
+.career-single .career-content {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 4vh 0 0 9.72222vw; }
+  @media (max-width: 600px) {
+    .career-single .career-content {
+      padding: 20px 15px 35px; } }
+  .career-single .career-content .top {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 50px;}
+    @media (max-width: 600px) {
+      .career-single .career-content .top {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column-reverse;
+        margin-bottom: 25px; } }
+    .career-single .career-content .top .col {
+      width: 50%; }
+      @media (max-width: 600px) {
+        .career-single .career-content .top .col {
+          width: 100%; } }
+      .career-single .career-content .top .col h1 {
+        font-family: "BebasNeue";
+        font-weight: bold;
+        font-size: 6.72222vw;
+        line-height: 1;
+        letter-spacing: 1.95px;
+        color: #000; }
+        @media (max-width: 800px) {
+          .career-single .career-content .top .col h1 {
+            font-size: 11.73403vw; } }
+        .career-single .career-content .top .col h1 span {
+          color: #9595ef; }
+      .career-single .career-content .top .col p {
+        font-family: "Lato";
+        font-weight: 300;
+        font-size: 1.38889vw;
+        line-height: 1.8;
+        letter-spacing: 0.28px;
+        color: #000; }
+        @media (max-width: 800px) {
+          .career-single .career-content .top .col p {
+            font-size: 2.60756vw; } }
+        @media (max-width: 600px) {
+          .career-single .career-content .top .col p {
+            font-size: 16px;
+            margin-bottom: 25px; } }
+      .career-single .career-content .top .col img {
+        width: 100%;
+        height: auto; }
+  .career-single .career-content .description {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin-top: 8.73016vh; }
+    @media (max-width: 800px) {
+      .career-single .career-content .description {
+        -webkit-box-orient: vertical;
+        -ms-flex-direction: column;
+        flex-direction: column; } }
+    .career-single .career-content .description .left {
+      height: 100%;
+      width: 25%;
+      position: relative; }
+      @media(max-width: 1050px){
+        .career-single .career-content .description .left{
+          width: 35%;
+        }
+      }
+      @media (max-width: 800px) {
+        .career-single .career-content .description .left {
+          width: 100%; margin-bottom: 45px; } }
+      .career-single .career-content .description .left .hr-card {
+        width: 100%;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        background: #fff;
+        padding: 0 1.875vw 7.1746vh;
+        -webkit-box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13);
+        box-shadow: 0 32px 44px 0 rgba(109, 102, 134, 0.13); }
+        @media(max-width: 1050px){
+          .career-single .career-content .description .left .hr-card{
+            width: 28vw;
+            padding-bottom: 25px;
+          }
+        }
+        @media (max-width: 800px) {
+          .career-single .career-content .description .left .hr-card {
+            width: 60%;
+            margin: 25px auto 0; } }
+        @media (max-width: 600px) {
+          .career-single .career-content .description .left .hr-card {
+            width: 100%;
+            padding: 0 15px 30px; } }
+        .career-single .career-content .description .left .hr-card .photo {
+          width: 200px;
+          height: auto;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          margin: 0 auto 32px; }
+        .career-single .career-content .description .left .hr-card .photo img{width: 100%}  
+        .career-single .career-content .description .left .hr-card h3.name {
+          font-family: "Lato";
+          font-size: 1.66667vw;
+          font-weight: bold;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.5;
+          letter-spacing: 0.3px;
+          text-align: center;
+          color: #000000;
+          margin-bottom: 5px; }
+          @media (max-width: 800px) {
+            .career-single .career-content .description .left .hr-card h3.name {
+              font-size: 3.12907vw; } }
+          @media (max-width: 600px) {
+            .career-single .career-content .description .left .hr-card h3.name {
+              font-size: 20px; } }
+        .career-single .career-content .description .left .hr-card h4.position {
+          font-family: "Lato";
+          font-size: 18px;
+          font-weight: 300;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.5;
+          letter-spacing: 0.3px;
+          text-align: center;
+          color: #000000;
+          margin-bottom: 32px; }
+          @media (max-width: 800px) {
+            .career-single .career-content .description .left .hr-card h4.position {
+              font-size: 3.12907vw; } }
+          @media (max-width: 600px) {
+            .career-single .career-content .description .left .hr-card h4.position {
+              font-size: 20px; } }
+        .career-single .career-content .description .left .hr-card a.send {
+          font-family: "BebasNeue";
+          font-size: 1.94444vw;
+          font-weight: bold;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1;
+          letter-spacing: 1.8px;
+          text-align: right;
+          color: #000000;
+          position: relative; 
+          display: block;
+          margin-right: 0;
+          transition: all .3s;
+          margin-top: 20px;
+        }
+          @media (max-width: 800px) {
+            .career-single .career-content .description .left .hr-card a.send {
+              font-size: 3.65059vw; } }
+          @media (max-width: 600px) {
+            .career-single .career-content .description .left .hr-card a.send {
+              font-size: 24px; } }
+          .career-single .career-content .description .left .hr-card a.send:after {
+            content: '';
+            width: 10%;
+            height: 3px;
+            background-color: #000;
+            margin: 15px auto 0;
+            position: absolute;
+            top: 60%;
+            right: 0;
+            transition: all .3s;}
+          @media(max-width: 600px){.career-single .career-content .description .left .hr-card a.send:after{top: 10px;}}  
+        .career-single .career-content .description .left .hr-card a.send:hover{color: #9595ef;}    
+        .career-single .career-content .description .left .hr-card a.send:hover:after{
+          width: 42%;
+          background-color: #9595ef;
+        }    
+        .career-single .career-content .description .left .hr-card .bottom {width: 100%;}
+          .career-single .career-content .description .left .hr-card .bottom .contact {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center; }
+            @media(max-width: 768px){
+              .career-single .career-content .description .left .hr-card .bottom .contact {
+                width: 100%;
+                justify-content: flex-start;
+                margin-bottom: 20px;
+              }
+            }
+            .career-single .career-content .description .left .hr-card .bottom .contact:hover svg path{fill:#9595ef;}
+            .career-single .career-content .description .left .hr-card .bottom .contact:hover a{color:#9595ef;}
+            .career-single .career-content .description .left .hr-card .bottom .contact svg {
+              width: 24px;
+              height: 24px; }
+            .career-single .career-content .description .left .hr-card .bottom .contact a {
+              display: inline-block;
+              font-family: "Lato";
+              font-size: 18px;
+              font-weight: 300;
+              font-style: normal;
+              font-stretch: normal;
+              line-height: 2.57;
+              letter-spacing: 0.2px;
+              color: #000000;
+              margin-left: 13px; }
+              @media (max-width: 800px) {
+                .career-single .career-content .description .left .hr-card .bottom .contact a {
+                  font-size: 1.82529vw; } }
+              @media (max-width: 768px) {
+                .career-single .career-content .description .left .hr-card .bottom .contact a {
+                  font-size: 14px; } }
+    .career-single .career-content .description .right {
+      margin-left: 4.58333vw; width: 55%; }
+      @media(max-width: 980px){
+        .career-single .career-content .description .right{width: 95%;margin-left: 0;}
+      }
+      .career-single .career-content .description .right .list h3 {
+        font-family: "BebasNeue";
+        font-size: 36px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.5;
+        letter-spacing: 0.3px;
+        color: #000000;
+        margin-bottom: 16px; }
+        @media (max-width: 600px) {
+          .career-single .career-content .description .right .list h3 {
+            font-size: 30px; } }
+      .career-single .career-content .description .right .list h3 span{color: #9595ef;}      
+      .career-single .career-content .description .right .list ul {
+        list-style: none;
+        margin-bottom: 60px; }
+        .career-single .career-content .description .right .list p,
+        .career-single .career-content .description .right .list ul li {
+          -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+          margin-bottom: 22px;
+          font-family: "Lato";
+          font-size: 18px;
+          font-weight: 300;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.2;
+          letter-spacing: 0.2px;
+          color: #000000; 
+          padding-left: 20px;
+          position: relative;
+        }
+          @media (max-width: 800px) {
+            .career-single .career-content .description .right .list p,
+            .career-single .career-content .description .right .list ul li {
+              font-size: 1.82529vw; } }
+          @media (max-width: 600px) {
+            .career-single .career-content .description .right .list p,
+            .career-single .career-content .description .right .list ul li {
+              font-size: 16px;
+              margin-bottom: 15px; } }
+          .career-single .career-content .description .right .list ul li:before {
+            content: "•";
+            position: absolute;
+            top: -3px;
+            left: 0;
+            font-size: 1.38889vw;
+            color: #000;
+          }
