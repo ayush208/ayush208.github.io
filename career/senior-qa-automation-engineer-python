@@ -1,0 +1,551 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<title>Senior QA Automation engineer (Python)</title>
+<link rel="canonical" href="https://geniusee.com/career/senior-qa-automation-engineer-python">
+<meta name="description" content="The platform for Revenue forecasting (USA). First Intelligent Revenue Management Platform built for the digital-selling and remote sales era. The platform solves the oldest problem in sales: the black box problem. The black box of Sales forecasting, pipelines, activity, and deals. Sales today operate on biased self-reported information and leaders are forced to use guesswork to make decisions causing forecasting slippage, lower win rates, inconsistent quota attainment, poor capacity allocation, and inefficient pipeline management.">
+<meta name="title" content="Senior QA Automation engineer (Python)">
+<meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="" />
+<meta property="og:type" content="website" />
+<meta name="image" property="og:image" content="https://geniusee.com/storage/app/media" />
+
+<meta property="og:image:type" content="image/png" />
+<meta property="og:url" content="https://geniusee.com/career/senior-qa-automation-engineer-python" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Geniusee" />
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="career-single wrapper">
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio">Clients</a></li>
+<li><a href="https://geniusee.com/blog">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+<div class="career-content page">
+<div class="top">
+<div class="col">
+<h1>Senior QA Automation engineer (Python)<span>.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/about">About</a><span>></span><a href="https://geniusee.com/career">Career</a><span>></span>Senior QA Automation engineer (Python)
+</div>
+<p>The platform for Revenue forecasting (USA). First Intelligent Revenue Management Platform built for the digital-selling and remote sales era. The platform solves the oldest problem in sales: the black box problem. The black box of Sales forecasting, pipelines, activity, and deals. Sales today operate on biased self-reported information and leaders are forced to use guesswork to make decisions causing forecasting slippage, lower win rates, inconsistent quota attainment, poor capacity allocation, and inefficient pipeline management.</p>
+</div>
+<div class="col">
+<img src="/storage/app/media/QA_big.svg" alt="Senior QA Automation engineer (Python)">
+</div>
+</div>
+<div class="description">
+<div class="left">
+<div class="hr-card">
+<div class="photo">
+<img src="/storage/app/media/Ira_R.png" alt="HR">
+</div>
+<h3 class="name">Iryna</h3>
+<h4 class="position">HR Manager</h4>
+<div class="bottom">
+<div class="contact" style="padding: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<path fill="#000" fill-rule="nonzero" d="M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6c0-1.11.89-2 2-2zm8 7l8-5H4l8 5zm-8 7h16V8.37l-8 4.99-8-4.99V18z" />
+</svg>
+<a href="mailto:i.yekholova@geniusee.com">i.yekholova@geniusee.com</a>
+</div>
+<div class="contact" style="padding: 0;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<path fill="#000" fill-rule="nonzero" d="M17 19H7V5h10v14zm0-18H7c-1.11 0-2 .89-2 2v18a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z" />
+</svg>
+<a href="tel:+380937930320">+380 93 793 03 20</a>
+</div>
+<div class="contact" style="padding: 0;">
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M20.36 13.5745C20.85 10.9097 20.07 8.05455 18 6.01086C15.96 3.93711 13.11 3.1557 10.45 3.64659C9.73 3.23585 8.89 3.00543 8 3.00543C5.23858 3.00543 3 5.24806 3 8.01447C3 8.90608 3.23 9.7476 3.64 10.4689C3.15 13.1337 3.93 15.9889 6 18.0326C8.04 20.1063 10.89 20.8877 13.55 20.3968C14.27 20.8076 15.11 21.038 16 21.038C18.7614 21.038 21 18.7954 21 16.0289C21 15.1373 20.77 14.2958 20.36 13.5745ZM16.34 13.9452C16.34 15.8085 14.91 17.191 12.04 17.191C9 17.191 7.67 15.7084 7.67 14.5964C7.67 14.0253 8.09 13.6246 8.67 13.6246C9.21503 13.6246 9.47088 13.9554 9.76637 14.3376C10.1703 14.8599 10.6482 15.4779 12.04 15.4779C13.27 15.4779 13.95 14.8067 13.95 14.1255C13.95 13.7047 13.75 13.2539 12.94 13.0536L10.25 12.3723C8.09 11.8314 7.7 10.6592 7.7 9.55726C7.7 7.27314 9.85 6.41158 11.86 6.41158C13.72 6.41158 15.91 7.44344 15.91 8.81592C15.91 9.40699 15.41 9.7476 14.83 9.7476C14.3708 9.7476 14.1375 9.48531 13.864 9.17774C13.4762 8.74178 13.0075 8.21484 11.7 8.21484C10.6 8.21484 10 8.71574 10 9.43704C10 10.1483 10.86 10.3787 11.62 10.549L13.61 10.9898C15.78 11.4807 16.34 12.753 16.34 13.9452Z" fill="black" /></svg>
+<a href="https://join.skype.com/invite/i26m79DwfAtp">irin117</a>
+</div>
+</div>
+<a href="mailto: info@geniusee.com?subject=Senior QA Automation engineer (Python)" class="send">Apply now</a>
+</div>
+</div>
+<div class="right">
+<div class="list">
+<h3>Requirements<span>.</span></h3>
+<ul><li>5+ years hands-on experience in QA Engineering</li>
+<li><span>Experience writing test plans, detailed test cases, and other formal test documentation</span></li>
+<li>Ability to troubleshoot and analyze issues to root cause, ideally at the code or log level</li>
+<li><span>Test automation experience, either building frameworks or using them</span></li>
+<li>Experience with web browser testing and automation with Selenium</li>
+<li><span>Hands on experience in testing APIs and automating the same</span></li>
+<li>Experience working in a CI / CD environment (like Jenkins, TeamCity, CircleCi, etc) for executing automated tests and scripts</li>
+<li><span>Experience with Windows and Linux operating systems</span></li>
+<li>Experience with scripting languages like Python and performance testing frameworks like JMeter</li>
+<li><span>Upper-intermediate level of English (both written and spoken)</span></li>
+</ul>
+</div>
+<div class="list">
+<h3>Would be a plus<span>.</span></h3>
+<ul><li>Experience with Behavior Driven Development (BDD) test automation frameworks</li>
+<li><span>Experience with collaboration and productivity tools such as Confluence, JIRA and test case management tools (like TestRail, Xray/Zephyr for JIRA, etc.)</span></li>
+<li>Experience with JavaScript and version control systems like Git</li>
+<li><span>Experience with Chrome Dev Tools</span></li>
+<li>Strong motivation, high level of commitment, proactive and positive attitude</li>
+<li><span>Great problem solving skills and detail-oriented approach</span></li>
+<li>Excellent written and verbal communication skills</li>
+</ul>
+</div>
+<div class="list">
+<h3>Company offers<span>.</span></h3>
+<ul><li>Competitive salary level;</li>
+<li><span>English classes in the office;</span></li>
+<li>Exciting and challenging startup projects;</li>
+<li><span>Ability to practice English and communication skills through permanent interaction with clients from all over the world;</span></li>
+<li>Career development opportunity;</li>
+<li><span>Informal and friendly atmosphere;</span></li>
+<li>Cozy office near the city center;</li>
+<li><span>The ability to focus on your work: a lack of bureaucracy and micromanagement;</span></li>
+<li>Flexible working hours (start your day between 8:00 and 11:30);</li>
+<li><span>Team buildings, corporate parties;</span></li>
+<li>Paid vacation (18 working days) and sick leaves;</li>
+<li><span>Insurance;</span></li>
+<li>Unlimited work from home (remote).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/career-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/a69f6aadd456a792e1ac1affbeb18c6b-1638441204"></script>
+
+
+</div>
+</body>
+</html>
