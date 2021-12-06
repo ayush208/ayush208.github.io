@@ -1,0 +1,1916 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Virtual Assistants and Digital Custody for Banking | Geniusee</title>
+<link rel="canonical" href="https://geniusee.com/single-blog/virtual-assistants-and-digital-custody-for-banking">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.">
+<meta name="keywords" content="">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="Virtual Assistants and Digital Custody for Banking" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/blog/blog146/preview.png" />
+<meta property="og:url" content="https://geniusee.com/single-blog/virtual-assistants-and-digital-custody-for-banking" />
+<meta property="og:description" content="Even in 2021, clients still experience tedious waiting and complicated solutions to their problems. Advanced finance companies are already leveraging their businesses by changing their service process with the introduction of artificial intelligence (AI) technologies and interactive voice banking.
+
+Users are increasingly looking to manage their money quickly, easily, and efficiently on a daily basis, and it is important for banks to meet these expectations.
+
+Financial companies need to move to a new level of service and constantly improve the service in terms of personal online customer service. This is an important competitive advantage now because it builds customer loyalty." />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://geniusee.com/single-blog/virtual-assistants-and-digital-custody-for-banking"
+          },
+          "headline": "Virtual Assistants and Digital Custody for Banking",
+          "description": "Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.",
+          "image": "https://geniusee.com/storage/app/media/blog/blog146/preview.png",  
+          "author": {
+            "@type": "Person",
+            "name": "Sophia V."
+          },  
+          "publisher": {
+            "@type": "Organization",
+            "name": "geniusee",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://geniusee.com/storage/app/media/logo.svg",
+              "width": 123,
+              "height": 31
+            }
+          },
+          "datePublished": "2020-10-06",
+          "dateModified": "2020-10-06"
+        }
+        </script>
+<style>    
+    /* Subscribe POPUP Style */
+    .subscribe{position:fixed;width:100vw;height:100vh;background:rgba(0,0,0,.8);top:0;left:0;right:0;bottom:0;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;z-index:9999}.subscribe .card{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:54%;max-width:1020px;background-color:#fffcfc;background-image-size:100% 100%;background-image-position:bottom right;-webkit-box-sizing:border-box;box-sizing:border-box}.subscribe .card .popup-left{width:62%;height:auto}.subscribe .card .popup-left img{width:100%;height:100%}.subscribe .card .popup-right{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:38%;margin-right:42px}.subscribe .card .popup-right .close-btn{position:absolute;top:0;right:0;padding:6px 12px;font-size:24px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:none}.subscribe .card .popup-right .close-btn:active,.subscribe .card .popup-right .close-btn:focus,.subscribe .card .popup-right .close-btn:hover{outline:0;border:none;background-color:rgba(149,149,239,.5)}.subscribe .card .popup-right .card-title{text-align:center}.subscribe .card .popup-right .card-title h2{margin:0;padding:0;font-family:BebasNeue;font-size:3.2vw;font-weight:700;line-height:1.25;letter-spacing:2px;text-transform:uppercase;color:#000}.subscribe .card .popup-right .card-title h2 span{color:#9595ef}.subscribe .card .popup-right .card-title h2 .title-dot{margin-left:-5px}.subscribe .card .popup-right .card-content{width:100%}.subscribe .card .popup-right .card-content .form-subscribe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:100%;margin:0;padding:0;margin-top:12px}.subscribe .card .popup-right .card-content .form-subscribe input{display:inline-block;height:40px;width:100%;margin-bottom:40px;font-family:Lato;font-size:18px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1;letter-spacing:.2px;color:#000;border:none;border-bottom:1px solid #000;-webkit-border-image:initial;-o-border-image:initial;border-image:initial;outline:0;background:0 0}.subscribe .card .popup-right .card-content .form-subscribe input::-webkit-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::-moz-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input:-ms-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::-ms-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::placeholder{color:#000}.subscribe .card .popup-right .card-action{margin-left:auto}.subscribe .card .popup-right .card-action button{padding:12px 36px;padding-top:18px;font-family:BebasNeue;font-size:28px;font-weight:700;font-style:normal;font-stretch:normal;line-height:1;letter-spacing:1.5px;color:#000;background-color:#9595ef;border:none;cursor:pointer}.subscribe .card .popup-right .card-action button:active,.subscribe .card .popup-right .card-action button:focus,.subscribe .card .popup-right .card-action button:hover{outline:0;color:#fffcfc}.subscribe .card .popup-right .result{width:100%;margin-top:40px;font-family:Lato;font-size:1.0416666667vw;text-align:center;color:rgba(149,149,239,.75)}@media (min-width:2048px){.subscribe .card{max-width:1148px;max-height:653px}}@media (max-width:1600px){.subscribe .card .popup-right .card-title h2{font-size:3.2vw}}@media (max-width:1440px){.subscribe .card{width:56%;height:56%;max-width:835px;max-height:486px}.subscribe .card .popup-right .card-title h2{font-size:3vw}.subscribe .card .popup-right .card-content .form-subscribe input{font-size:16px}}@media (max-width:1366px){.subscribe .card{max-width:725px;max-height:412px}.subscribe .card .popup-right .card-action button{padding:12px 36px;font-size:24px}}@media (max-width:1280px){.subscribe .card .popup-right .card-title h2{font-size:2.8vw}}@media (max-width:1136px){.subscribe .card .popup-right .card-title{margin-bottom:20px}.subscribe .card .popup-right .card-content .form-subscribe input{height:auto;font-size:14px}.subscribe .card .popup-right .card-action button{padding:10px 30px;font-size:22px}}@media (max-width:1024px){.subscribe .card{width:64%}.subscribe .card .popup-right .card-action button{padding:8px 24px;font-size:20px}}@media (max-width:992px){.subscribe .card{width:50%;height:auto;min-height:70%}.subscribe .card .popup-left{display:none}.subscribe .card .popup-right{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:100%;margin-left:42px;padding:20px 8px}.subscribe .card .popup-right .card-title h2{font-size:36px}.subscribe .card .popup-right .card-action{margin:0 auto}.subscribe .card .popup-right .result{font-size:14px}}@media (max-width:600px){.subscribe .card{width:80%;height:auto;min-height:50%}.subscribe .card .popup-right{margin:0;padding:42px 12px}}        
+</style>
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body class="wrapper" id="template">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<main class="main-posts">
+<div class="first-screen">
+<div class="left-content">
+<ul class="post-tags">
+<li><a href="../../blog/trends/1">trends</a></li>
+<li><a href="../../blog/research/1">research</a></li>
+<li><a href="../../blog/fintech/1">fintech</a></li>
+</ul>
+<h1 class="post-title">Virtual Assistants and Digital Custody for Banking<span style="color: #9595ef;">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/blog">Blog</a><span>></span>Virtual Assistants and Digital Custody for Banking
+</div>
+<div class="author-box"><img src="/storage/app/media/blog/Authors/SofiiaV.jpg" alt="Author's photo"> <div class="author-info">
+<p class="name">Sophia V.</p>
+<p class="date font-body-3">2021-11-05</p>
+</div>
+</div>
+</div>
+<div class="right-content">
+<div class="post-img" style="background-image: url(/storage/app/media/blog/blog146/postcard.png);"></div>
+</div>
+</div>
+<div class="main-content">
+<div class="post-link">
+<a href="/single-blog/what-are-key-skills-needed-in-fintech" aria-label="Previous" class="prev-post ">&#8592;</a>
+<a href="/single-blog/7-recent-trends-in-investment-banking-technology" aria-label="Next" class="prev-post ">&#8594;</a>
+</div>
+<div class="main-text"><p>Even in 2021, clients still experience tedious waiting and complicated solutions to their problems. Advanced finance companies are already leveraging their businesses by changing their service process with the introduction of artificial intelligence (AI) technologies and interactive voice banking.</p>
+<p>Users are increasingly looking to manage their money quickly, easily, and efficiently on a daily basis, and it is important for banks to meet these expectations.</p>
+<p>Financial companies need to move to a new level of service and constantly improve the service in terms of personal online customer service. This is an important competitive advantage now because it builds customer loyalty.</p></div>
+</div>
+<div class="navigation">
+<h2 class="font-h4" style="text-align: left; padding: initial;">In this post: </h2>
+<ol class="navigation_list" style="list-style-type: decimal;">
+</ol>
+</div>
+
+<style>
+    .main-content .main-text .posts-dots {
+        margin-left: 2.77778vw;
+    }
+    .main-content .main-text .posts-dots .posts-dot {
+        position: relative;
+        padding-left: 20px;
+    }
+    .main-content .main-text .posts-dots .posts-dot::before {
+        content: "•";
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 1.38889vw;
+        color: #000;
+    }
+    @media (max-width: 787px) {
+        .main-content .main-text .posts-dots .posts-dot::before {
+            top: -3px;
+            font-size: 20px;
+        }
+    }
+    @media (max-width: 500px) {
+        .main-content .main-text .posts-dots .posts-dot::before {
+            top: -2px;
+            font-size: 14px;
+        }
+    }
+    @media (min-width: 800px) {
+        .small-img-wrap {
+            max-width: 42%;
+            float: left;
+        }
+         .post-text_small-container::after {
+            display: block;
+            clear: both;
+            content: '';
+        }
+    }
+    .custom-table {
+        margin-top: 2.22222vh; 
+        display: grid;
+        border-top: 1px solid #000;
+        border-left: 1px solid #000;
+        overflow-x: scroll;
+    }
+    .custom-table_two {
+        grid-template-columns: repeat(2, 1fr);
+    }  
+    .custom-table_three {
+        grid-template-columns: repeat(3, 1fr);
+    }   
+    .custom-table > div {
+        min-width: 120px;
+        padding: 0.5em;
+        border-right: 1px solid #000;
+        border-bottom: 1px solid #000;
+    }
+    .main-posts .posts-content .posts-text .custom-table p {
+        line-height: 1.5em;
+    }
+    .custom-table__heading {
+        text-align: center;
+    }
+</style>
+<div class="posts-content">
+<h2 class="posts-title">Banking Virtual Assistant Use Cases</h2>
+<div class="posts-text">
+<p>
+Voice chatbots for digital banking read customer actions and process them to provide the most comprehensive solution from the company. After analyzing needs, behavior, and operations, the AI ​​assistant will guide the client “in the right direction,” saving a lot of time. Interactive voice banking streamlines back-office processes, simplifies customer interactions, and enhances user security with banking service providers.
+</p>
+<p>
+Text-to-speech voice recognition improves banking and helps customers:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+<p>
+make digital transactions, payments, and make a deposit or a loan;
+</p>
+</li>
+<li class="posts-dot">
+<p>
+check status, documents, and transaction histories;
+</p>
+</li>
+<li class="posts-dot">
+<p>
+seek information and more.
+</p>
+</li>
+</ul>
+<p>
+Voice assistants have tremendous potential in solving customer inquiries and managing banking operations through machine learning technologies, cloud computing, natural language processing, and optimized algorithms.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">Disadvantages of Traditional Customer Assistance</h3>
+</div>
+<div class="posts-text">
+<p>
+<strong>1. High maintenance cost</strong><br>
+The more operators a business employs, the higher its payroll, taxes, hiring costs, training, and equipment. Therefore, to optimize the cost of a call center, the first thing companies look for is an opportunity to cut staff.
+</p>
+<p>
+<strong>2. High Cost</strong><br>
+A traditional call center is considered “cheap.” This is the opinion of those who divide the operator's salary by the minutes worked. But if we take into account the associated costs, the cost of a minute of work will increase from $0.30 to $0.50.
+</p>
+<p>
+<strong>3. Staff turnover</strong><br>
+<a href="https://www.statista.com/markets/430/topic/920/callcenter/" rel="nofollow" target="_blank">According to statistics</a>, staff turnover in contact centers is about 30-45%, which is a lot. For other sectors of the economy, turnover does not exceed 15%.
+</p>
+<p>
+High turnover is costly, as the bank continually pays for hiring, training, supervising new employees, and reworking old ones while newcomers get on board.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog146/01.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="Disadvantages of traditional customer assistance | Geniusee" />
+</div>
+<div class="posts-text">
+<p>
+<strong>4. Sluggishness</strong><br>
+Often, the flow of calls comes into the call center unevenly. The flow is influenced by seasonality, advertising activity, and restrictive measures. For example, during the lockdowns in the spring of 2020, the number of incoming calls to banks in the USA grew so much that it was difficult to process them. The on-hold waiting time for US call centers has <a href="https://www.businesswire.com/news/home/20201217005370/en/COVID-Reshapes-Traditional-Customer-Service-as-Contact-Center-Traffic-Surges-and-Consumers-Voice-Frustration-%C2%A0" rel="nofollow" target="_blank">increased 50%</a>.
+</p>
+<p>
+It is difficult for call centers to adapt to the increasing load since the increase in capacity is directly related to the expansion of the staff and the organization of jobs. Because of this sluggishness, banks are losing the quality of their services and customer loyalty.
+</p>
+<p>
+<strong>5. Poor operator productivity</strong><br>
+No employee is on the line for eight hours without a break. According to the standards for call center operators, the time in a conversation should not exceed 40 minutes from each hour for an incoming line; for an outgoing line, it’s 50% of work time.
+</p>
+<p>
+<strong>6. Performance</strong><br>
+Call center operators have low productivity. This is due to the human factor: the work is difficult and stressful, so you need to rest.
+</p>
+<p>
+<strong>7. Low level of service</strong><br>
+Even the best call center employees get tired and stressed from dealing with unhappy customers. As a result, they are distracted from their scripts, and this negatively affects the conversion. Human error increases the customer's cost to the company and reduces profits.
+</p>
+<p>
+All these complexities make call center operations uneven and unpredictable. To reduce cost and improve contact center efficiency, companies are switching to robotic assistants: voice and chatbots.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">6 Tips for Successful Digital Custody</h3>
+<p>
+1. The salary of all bank employees depends on the satisfaction of the client, from the economist to the chairman of the board. The bank’s existence depends on the client's desire to use its services.
+</p>
+<p>
+2. Each loss of a client means a reduction in the bank's income and, accordingly, in the wages of employees. A loss can also result from a refusal of an employee to cooperate with a potential client who is interested in the bank, but for some reason, decided not to contact it.
+</p>
+<p>
+3. Competition in the banking market is constantly increasing, and it is the client who chooses the bank and not vice versa. Considering that in most cases, banks offer similar products and services, clients often choose the bank where they are comfortable and that is convenient. It is the quality of service that comes to the forefront in banking industry competition, which can become a competitive advantage.
+</p>
+<p>
+4. Everyone who comes into the bank is a potential client, even if they made a wrong turn. If they encounter employees with a positive attitude, the next time they come to the bank, it will be on purpose.
+</p>
+<p>
+5. Attracting a new client is many times more expensive for a bank than retaining an existing one. Retaining existing customers is no less important than attracting new ones, but at the same time, it is much cheaper for the bank.
+</p>
+<p>
+6. An employee of the bank is its face; that is, through the actions of employees, the client "rates" the entire organization. The bank can have excellent automation management, the most professional accounting, the most creative PR department, but if an unfriendly and incompetent employee in the call center answers the client’s call, then the entire bank will receive a negative assessment.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog146/02.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="Quote | Geniusee" />
+</div>
+<h2 class="posts-title">Top 10 AI-Powered Virtual Assistants for Banking</h2>
+<div class="posts-text">
+<p>
+As we mentioned above, the development of artificial intelligence has opened up new opportunities for the banking industry, and the merger of AI and digital banking has led banks to improve their offerings and services. The growth trends in the popularity of mobile banking have coincided with trends in the development and penetration of AI. While their progress is unrelated, it has certainly led to a merger as more banking financial institutions are exploring AI applications to improve their services.
+</p>
+<p>
+While enterprise automation solutions have hit the market, many organizations have researched client-centric AI applications. The most widespread of these are chatbots. They have come a very long way in their development: advances in machine learning and natural language processing have allowed them to learn from their interactions and have a conversation in natural language. Take Google Assistant, for example; until a few years ago, no one could have imagined such an assistant!
+</p>
+<p>
+According to <a href="https://www.semrush.com/blog/artificial-intelligence-stats/" rel="nofollow" target="_blank">the SemRush report</a>, the forecasted AI annual growth rate between 2020 and 2027 is 33.2%. Mobile banking is growing by leaps and bounds, reaching millions of devices. Integration of virtual assistants into mobile banking chat is the next step towards making these interactions smoother and more natural.
+</p>
+<p>
+While today's AI mobile banking assistants lack the digital capabilities of the Google Assistant, they are still the foremost AI applications in the banking sector. Below are the top 10 banking chatbots.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">1. Erica | Bank of America</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/03.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="Bank Of America | Geniusee" />
+</div>
+<p>
+Bank of America is one of the largest banks in the world but one of the last to join the chatbot trend. Now, 25 million clients of the bank are assisted by the Erica chatbot. She will help you find the right transaction, raise your awareness about your credit history, and tell you how you can improve your financial situation on your own with better money habits. Also, customers will be able to get access to basic information such as the nearest ATM or financial center. You can schedule a personal meeting with a finance professional right in the app, block and unblock debit cards, transfer money between accounts, and send funds using Zelle.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">2. Eno | Capital One (USA)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/04.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="Capital | Geniusee" />
+</div>
+<p>
+Banking holding Capital One launched Eno in early 2018. This is a text-based assistant that will help the bank's clients understand basic queries. Executives claim their chatbot is trainable and will therefore adapt over time to the needs of each user. With Eno, you can get information about your balance, transaction history, and credit limit. The chatbot understands emoji, which is quite unusual for a bank text chatbot.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">3. Ally Assist | Ally Bank (USA)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/05.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="Ally Bank | Geniusee" />
+</div>
+<p>
+New York-based Ally Bank was one of the first international banks to start working with chatbots back in 2015. The assistant responds to text and voice messages for payments, transfers, P2P transactions, and deposits. Also, the client can request summary information about their account or even transaction history and track the parameters of savings and expenses. Ally Bank claims its chatbot can predict customer needs by analyzing their bills and transactions using natural language processing to understand and resolve common customer service issues.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">4. Amy | HSBC (Hong Kong)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/06.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="HSBC | Geniusee" />
+</div>
+<p>
+The HSBC Corporate Banking Virtual Chatbot is ready to help you around the clock! Amy understands English and Chinese, and thanks to machine learning, she is getting better every day. The bank plans to gradually integrate the capabilities of the AI ​​assistant for more complex queries while continuing to improve the functionality of the AI ​​platform.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">5. HARO & DORI | Hang Seng Bank (Hong Kong)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/07.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="HARO DORI | Geniusee" />
+</div>
+<p>
+At the beginning of the year, Hang Seng Bank introduced two chatbots—HARO and DORI. The first one is designed to answer basic questions about the bank's products: mortgage, personal loan, and insurance. DORI is built into Facebook's Messenger and allows customers to search for discounts and make recommendations based on consumer preferences. Both chatbots understand Chinese, English, and a mixture of both.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">6. Aida | SEB (Sweden)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/08.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="CEB | Geniusee" />
+</div>
+<p>
+The Aida chatbot has been operating since 2017 and solves about 13% of issues related to the bank's IT support, helps bank customers with card problems, account inquiries, and reservations. SEB acknowledged that Aida faced processing difficulties due to the complexity of the Nordic languages, but the bank hopes to fix this in the future.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">7. Ceba | Commonwealth Bank (Australia)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/09.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="CEBA Commonwelth | Geniusee" />
+</div>
+<p>
+In January 2018, Australia's Commonwealth Bank showcased its Ceba chatbot, which is ready to simplify over 200 tasks, including card activation, account balance inquiry, payments, cardless withdrawals, etc., using machine learning, natural language processing, and AI. CBA aims for Ceba to be able to respond to 500,000 general consumer inquiries for more than 500 banking transactions by the end of the year.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">8. SIA | State Bank of India (India)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/10.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="SBI | Geniusee" />
+</div>
+<p>
+The State Bank of India began working with an AI-powered chatbot back in September 2017. Developed by Payjo, SIA aims to help the bank's clients in their daily banking business and answer their questions. According to Payjo, SIA can handle up to 10,000 requests per second, or nearly 864 million requests per day. With machine learning and a large set of FAQs, SIA is one of the largest AI banking applications.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">9. Eva | HDFC (India)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/11.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="HDFC | Geniusee" />
+</div>
+<p>
+HDFC partnered with Senseforth AI Research to launch the Eva chatbot in March 2018. Since its launch, Eva (Electronic Virtual Assistant) has processed over 2.7 million customer requests, conducted 1.2 million conversations, and interacted with more than 530,000 unique users in 17 countries, according to the bank.
+</p>
+</div>
+<div class="posts-text post-text_small-container">
+<h3 class="posts-title font-h5">10. iPal | ICICI (India)</h3>
+<div class="small-img-wrap">
+<img src="/storage/app/media/blog/blog146/12.png" style="display: block; max-width: 100%; margin: 0 auto;" alt="Ipal ICICI | Geniusee" />
+</div>
+<p>
+In February 2018, ICICI launched its iPal chatbot, which has already interacted with 3.1 million customers, responding to 6 million requests with an accuracy of 90%. The chatbot covers three areas of action at once: answering FAQs, conducting financial transactions such as paying bills, and doing practical tasks like changing your password. The bank says its chatbot will soon be integrated into major voice assistants like Cortana, Siri, and Google Assistant.
+</p>
+</div>
+<h2 class="posts-title">Banking Virtual Assistants vs. Chatbots</h2>
+<div class="posts-text">
+<p>
+Advanced chatbots were able to highlight keywords and mimic human dialogue back in the ‘60s. Hippies took LSD, The Beatles sold-out stadiums, and Joseph Weizenbaum created Eliza, a psychotherapist who came before many modern bots and even psychologists.
+</p>
+<p>
+For example, in the sentence "My father hates me," Eliza reacted to the keyword "father" and asked, "Who else in the family hates you?" But the robot-psychotherapist did not understand the essence of the questions. Modern chatbots also work keywords, linear scripts, and parodies of live dialogue.
+</p>
+<p>
+But since the ‘60s, something has changed: now, thanks to machine learning technologies and NLP, we can teach chatbots to understand natural language and context. It's still an imitation but more meaningful.
+</p>
+<p>
+To see the difference, let's compare a chatbot and an assistant; let's imagine we need to create a virtual financer that helps customers with deposit selection.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">Stage #1 User Requests</h3>
+<p>
+The first stage for a chatbot and a virtual assistant in banking is the same: we estimate user requests and come up with phrases they can write. Then we prescribe how the robot will act in response.
+</p>
+<p>
+The basic request is clear: pick up a deposit. But this request can have many parameters such as currency, duration, percentage, or the ability to replenish the deposit and close it early. Perhaps the user will immediately write the name of the deposit that needs to be found, or he will clarify the details, "What are the opening conditions?" Maybe, out of curiosity, he will start bombarding the bot with questions: "Which bank has the most favorable deposit conditions?" Moreover, in addition to inquiries about the case, there are “Hello,” “Goodbye,” “How are you?” and other small-talk phrases that need to be asked.
+</p>
+<p>
+You can anticipate endlessly but still not be able to predict all users' questions. When it seems that the described situations will be enough to cover 98% of requests, we stop (although then the harsh reality sinks in, and we find out that 80% will be covered at best).
+</p>
+<p>
+Then we scatter our assumptions about user needs for specific requests—intentions. Intentions indicate what the user wants but discards information about how he wrote about it. This stage is the same for chatbots and assistants.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">Stage #2</h3>
+<p>
+At this stage, we start to create an algorithm from which the robot will work. This is where the similarities between chatbot and virtual assistant for banking end.
+</p>
+<p>
+When coding a chatbot, the programmer manually defines keywords for each intent (user request), and when the user writes, the bot will search for these keywords in the phrase.
+</p>
+<p>
+When developing an assistant, the programmer teaches the algorithm to compare the user's replicas by lexical meaning. This allows you to find the closest intention.
+</p>
+<div class="custom-table custom-table_three">
+<div class="custom-table__heading">
+<p><strong>Completing a deposit with a chatbot</strong></p>
+</div>
+<div class="custom-table__heading">
+<p><strong>Completing a deposit with a virtual AI assistant</strong></p>
+</div>
+<div class="custom-table__heading">
+<p><strong>What's happened</strong></p>
+</div>
+<div class="custom-table__cell">
+<p>
+<strong>User:</strong> Hi! I want to complete a Euro deposit in your bank.<br>
+<strong>Bot:</strong> Hello!<br>
+<strong>Bot:</strong> What currency are you planning to open in?<br>
+<strong>User:</strong> Euro.<br>
+<strong>Bot:</strong> I can recommend the "online" deposit. The interest rate is 2% per year with the possibility of the early withdrawal of your money.
+</p>
+</div>
+<div class="custom-table__cell">
+<p>
+<strong>User:</strong> Hi! I want to complete a Euro deposit in your bank.<br>
+<strong>Assistant:</strong> Hello! I can recommend the "online" deposit. The best interest rate in the city, the ability to open any world currency, as well as the ability to withdraw part of the money or the full amount in advance.
+</p>
+</div>
+<div class="custom-table__cell">
+<p>
+Bot went to complete + deposit by keywords. I did not understand what currency was and asked again. Assistant went according to the closest intention and fetched all the data about the deposit.
+</p>
+</div>
+</div>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">How it works: a table comparing chatbots and virtual assistants</h3>
+<div class="custom-table custom-table_two">
+<div class="custom-table__heading">
+<p><strong>Chatbot</strong></p>
+</div>
+<div class="custom-table__heading">
+<p><strong>Virtual AI assistant</strong></p>
+</div>
+<div class="custom-table__cell">
+<p>To understand the user, we take keywords. When creating a chatbot, machine learning and NLU technologies are not used.</p>
+</div>
+<div class="custom-table__cell">
+<p>To understand the user, we make a smart comparison and choose the closest intent. Machine learning and NLU algorithms allow us to measure the distance between replicas. For example, the phrase "spaceship" is closer to "airplane" than "scooter" and very far from "get a loan."</p>
+</div>
+<div class="custom-table__cell">
+<p><strong>Preparation:</strong> For each intention, we write out the keywords (deposit_in_euro: deposit, euro, open + deposit, euro + deposit)</p>
+<p><strong>Algorithm:</strong></p>
+<ul class="posts-dots">
+<li class="posts-dot">
+<p>
+We take the words from the user's replica (“Recommend a deposit in euros” → advise, deposit, euros).
+</p>
+</li>
+<li class="posts-dot">
+<p>
+We select the intention, which contains the most keywords from the user's replica (deposit_in_euro).
+</p>
+</li>
+<li class="posts-dot">
+<p>
+If the bot did not find key word intersections, select the "we did not understand the user" intent.
+</p>
+</li>
+<li class="posts-dot">
+<p>
+We perform the action that corresponds to the intention.
+</p>
+</li>
+</ul>
+</div>
+<div class="custom-table__cell">
+<p><strong>Preparation:</strong> Train the Model for Smart Comparison</p>
+<p><strong>Algorithm:</strong></p>
+<ul class="posts-dots">
+<li class="posts-dot">
+<p>
+Compare a user's phrase with intent phrases using a smart comparison.
+</p>
+</li>
+<li class="posts-dot">
+<p>
+Choose an intention with the closest phrases.
+</p>
+</li>
+<li class="posts-dot">
+<p>
+If the selected intent is not close enough to the user's replica (the set threshold has not been passed), select the intent "we did not understand the user."
+</p>
+</li>
+<li class="posts-dot">
+<p>
+We perform the action that corresponds to the intention.
+</p>
+</li>
+</ul>
+</div>
+<div class="custom-table__cell">
+<p><strong>How to improve:</strong></p>
+<p>
+To reduce errors, you need to add commands and buttons.
+</p>
+<p>
+Then users will stop communicating in the language altogether but will simply click on the buttons.
+</p>
+<p>
+Such improvements lead to the degradation of spoken intelligence.
+</p>
+</div>
+<div class="custom-table__cell">
+<p><strong>How to improve:</strong></p>
+<p>
+After users chat with the robot, we will have new examples of phrases, and we will distribute them by intent.
+</p>
+<p>
+Over time, the percentage of coverage will increase, and the assistant will begin to better cope with communication.
+</p>
+<p>
+These improvements lead to better conversational intelligence.
+</p>
+</div>
+</div>
+</div>
+<h2 class="posts-title">Digital Custody in the Banking Industry</h2>
+<div class="posts-text">
+<p>
+It is quite understandable that in such a tough, competitive environment, one of a bank's greatest values is the database of its customers.
+</p>
+<p>
+When speaking about the trends in the development of the modern banking business, one cannot fail to note the rapid integration of the banking sector with telecommunications. By explaining this thesis, let us remember that today the consumer values ​​his time, which means that all other forms of banking services are increasingly preferred to be remote banking. The ability to use banking services anytime, anywhere is no longer a privilege of the elite but a growing need of the masses. It is clear that in such a situation, the internet and mobile communications are becoming the most promising methods of sales, which means that completely new approaches are increasingly invading the banking business. They not only cause the need to "reconfigure" all technologies but also change the principles — the account manager may no longer see the "face" of his client, which means that other methods can convey information with "high-precision" to the consumer exactly at the moment he needs it.
+</p>
+<p>
+As a result, the active use of internet sales technologies, mobile phones, and banking agents is changing the entire sales system at a commercial bank. The old schemes for organizing the work of departments and services are no longer effective.
+</p>
+<p>
+The importance of customer service and focus from front-office employees for the success of a retail project for any organization, not just a bank, is great. There are cases where the most successful concept on paper does not stand up to the test in practice due to mistakes in the selection and training of personnel, and even more often, due to the fact that employees who directly serve customers, for some reason, ignore the ideas promoted by management.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog146/13.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="Quote | Geniusee" />
+</div>
+<div class="posts-text">
+<p>
+In order to avoid such a problem, it is necessary to purposefully approach the issue of the selection and training of workers, and it should be remembered that not everyone will be able to train, and some will have to be let. If a person is not ready to work in the service sector, which undoubtedly includes the bank's retail division, then he will hardly be able to break himself, and if he succeeds for a short period of time, then in any case, he will start working without pleasure, which will always be obvious Customers can feel when the friendliness of the employee is sincere, and when he is only trying to play a role. Practice shows that experienced cashiers and tellers with a long banking experience, during their work in classical banks, have not learned to be customer-oriented. They know how to count money quickly, and without errors, they know how to draw up banking transactions, many of them are even familiar with the basic regulatory documents, but, unfortunately, if not all, then many of them are not ready to serve clients. That is why, when it is necessary to select a large number of front-office personnel, when the staff goes over hundreds of employees, the only way out is to look for people without banking experience but have a natural disposition to serve clients and train them in banking procedure. It is possible to teach a customer-oriented shop assistant about banking operations, but it can be impossible to make a gloomy cashier smile at customers.
+</p>
+<p>
+Today, all banks offer the same services at the same price, so customers do not go to the bank where it is cheaper, but to the one they like best. We sell our clients not so much banking products as a good mood.
+</p>
+<p>
+All contacts with clients begin with the first impression of the bank employee and, at the same time, of the bank itself. Unfortunately, you cannot make a first impression twice. An operator is usually the person with whom clients most often communicate. Clients do not know or see any other employees or managers. The professionalism and quality of service of the entire bank are assessed by the work of the operator, and if he works poorly, then the whole bank is bad for the client.
+</p>
+<p>
+Even if the operation performs quickly and accurately, this, surprisingly, is only half the battle. It is important for clients to feel their value and individuality.
+</p>
+</div>
+<h2 class="posts-title">Advantages of Virtual Assistants for Banking.</h2>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog146/14.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="Advantages for digital assistants for banking | Geniusee" />
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">1. Reduce the cost of call center services.</h3>
+<p>
+Traditional call centers are costly and cumbersome. They cannot quickly adjust to the growth of the load or changes in the sales script. Training takes time, and the growing number of calls requires an increase in the number of operators and the cost of the payroll. Smart assistants based on artificial intelligence, natural language processing, and machine learning evolve over time: they process the information received, learn and become smarter, joke and understand emotions. This makes it possible to reduce the labor cost while providing the same level of service.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">2. Increase the number of processed applications.</h3>
+<p>
+Artificial intelligence and machine learning allow the assistant to provide better and faster support to users than the operator. The robot finds the necessary information faster and does not make the client hang on the line for a long time, thereby processing more requests.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">3. Speed up processes within the bank.</h3>
+<p>
+A banking virtual assistant does not get sick, makes mistakes, deviates from the script, needs a workplace, works 24/7, and automatically provides analytics. Also, robotic bots can unload the contact center.
+</p>
+</div>
+<h2 class="posts-title">Virtual Assistant Development</h2>
+<div class="posts-text">
+<p>
+A virtual assistant for banking is not just a classifier or orchestration logic. In a similar vein, a graphical user interface is more than just lines and style. A banking virtual assistant is a complete channel of product experience. It requires careful and thoughtful design in order to meet the requirements of the end-users. The quality of the design determines how successful the virtual assistant will be.
+</p>
+<p>
+Regardless of the channel, it's important to develop a useful virtual assistant in banking that doesn't try to embrace the immense. You should brainstorm all the actions the assistant will perform and then develop an iterative plan for their implementation. High frequency and uncomplicated queries are the first aspects to cover. For example, "What time do you close?" is a high-frequency, low complexity question in banking. The strategy should also take into account changes in the frequency and complexity of the request.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog146/15.png" style="display: block; max-width: 1400px; margin: 0 auto;" alt="Virtual assistant development | Geniusee" />
+</div>
+<h2 class="posts-title">Conclusion</h2>
+<div class="posts-text">
+<p>
+Chatbots have already flooded the world; we can't imagine a day without them. When we address the security issues required for financial and banking transactions, voice banking assistants will become as popular as Siri or Google Assistant. Many financial players began to study the potential of this sector and even tried to create something of their own, but in the future, we will have even more cool features. The main thing is not to be afraid to accept new things!
+</p>
+</div>
+</div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "single-blog/virtual-assistants-and-digital-custody-for-banking"
+  },
+  "headline": "Virtual Assistants and Digital Custody for Banking | Geniusee",
+  "description": "Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.",
+  "image": "https://geniusee.com/storage/app/media/blog/blog146/preview.png",  
+  "author": {
+    "@type": "Person",
+    "name": "Sophia V."
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "geniusee",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geniusee.com/storage/app/media/logo.svg",
+      "width": 123,
+      "height": 31
+    }
+  },
+  "datePublished": "2021-11-05",
+  "dateModified": "2021-11-05"
+}
+</script>
+
+<section class="social_box">
+<div class="left_box">
+<ul class="post-tags">
+<li><a href="../../blog/trends/1">trends</a></li>
+<li><a href="../../blog/research/1">research</a></li>
+<li><a href="../../blog/fintech/1">fintech</a></li>
+ </ul>
+<div class="author-box"><img src="/storage/app/media/blog/Authors/SofiiaV.jpg" alt="Author's photo"> <div class="author-info">
+<p class="name">Sophia V.</p>
+<p class="date font-body-3">2021-11-05</p>
+</div>
+</div>
+
+</div>
+<div class="right_box">
+<p class="share-text" style="margin-top: 0px !important;">
+Enjoy this blog? Please, spread the word :)
+<br />
+Share with:
+</p>
+<ul class="share-buttons">
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2Fvirtual-assistants-and-digital-custody-for-banking&quote=" title="Share on Facebook" target="_blank">
+<img data-src="/storage/app/media/share-facebook.svg" class="lazyload share-facebook" alt="Share on Facebook" width="" height=""> </a>
+</li>
+<li>
+<a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2Fvirtual-assistants-and-digital-custody-for-banking&text=%20https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2Fvirtual-assistants-and-digital-custody-for-banking" target="_blank" title="Tweet">
+<img data-src="/storage/app/media/share-twitter.svg" class="lazyload share-twitter" alt="Tweet" width="" height=""> </a>
+</li>
+<li>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2Fvirtual-assistants-and-digital-custody-for-banking&title=&summary=&source=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2Fvirtual-assistants-and-digital-custody-for-banking" target="_blank" title="Share on LinkedIn">
+<img data-src="/storage/app/media/share-linkedIn.svg" class="lazyload share-linkedin" alt="Share on LinkedIn" width="" height=""> </a>
+</li>
+</ul>
+</div>
+</section>
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+   .card input {
+        width:100%;
+        height: 4.11111vh;
+        background-color: transparent;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000;
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+    }
+    
+    .card input::placeholder {
+        color: #333333;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 32px;
+    }
+    
+    .card input.error {
+        border: 1px solid red;    
+    }
+    input#main_form_email::placeholder { /* Chrome/Opera/Safari */
+        color: #000!important;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+        color: black!important;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+        color: black!important;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+        color: black!important;
+    }
+    .card {
+        display: flex;
+        justify-content: space-between;
+        max-width: 56%;
+        height: 127px;
+        box-shadow: 0px 10px 40px rgba(109, 102, 134, 0.12);
+        border-bottom: 4px solid #9494EC;
+        padding: 0 32px;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 50px auto;
+       
+        transition: 2s;
+    }
+    
+    .card.flip {
+        transform: rotateY(180deg);
+        transition: 2s;
+      
+    }
+    
+    .card.flip .front {
+         display: none;
+    }
+    
+    .back {
+        display: none;    
+    }
+         
+    .card.flip .back {
+        position: relative;
+        transform: rotateY(180deg);
+        width: 100%;
+        display: block;
+    }
+     
+    .front {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .card-content {
+        display: flex;
+        align-items: center;
+    }
+    
+    .card form {
+        padding: 20px 20px 1.77778vh;
+        width: calc(100vw / 4.5);
+       
+    }
+    
+    .card-titlet {
+        display:none;
+    }
+    
+    .card:last-child{
+        display:none;
+    }
+    
+    .card-action {
+        display: flex;
+        align-items: center;
+    }
+        
+    .card-action button {
+        width: 100%;
+        height: 48px;
+        background-color:#9494EC;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 17px;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 12px 20px;
+    }
+    
+    .back {
+        position: relative;
+    }
+    
+    .back h3 {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 32px;  
+        position: absolute;
+        top: 50%;
+        left: 38%;
+        transform: translateY(-50%);
+    }
+    
+    .conv1, .conv2, .circle1, .circle2 {
+        position: absolute;
+    }
+    
+    .conv1 {
+       left: -3%;
+       top: 3%;
+    }
+    
+    .conv2 {
+       left: 17%;
+       bottom: 6%;
+    }
+    
+    .circle1, .circle2 {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+    }
+        
+    .circle1 {
+        background-color: #FFACA0; 
+        right: 72%;
+        top: -11%;
+    }
+    
+    .circle2 {
+        display: flex;
+        background-color: #DADCFF;
+        top: -11%;
+        right: -6%;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .circle2 span {
+         padding: 7px;  
+    }
+    
+    @media(max-width:787px) {
+        .card {
+            justify-content: center;
+            flex-wrap: wrap;
+            max-width: 70%;
+        }
+        
+        .card-action button {
+             padding: 8px 10px;
+             font-size: 14px;
+        } 
+        .card-content {
+            width: 58%;
+        }
+        .card h3 {
+             font-size: 30px; 
+        }
+        .card form {
+            width: 100%;
+        }
+       .card .conv2 {
+            display: none;    
+        }
+    }
+    
+    @media(max-width: 640px) {
+         .back h3 {
+            left: 20%;
+        } 
+        .card-action {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+         .card-action button {
+             font-size: 18px;
+             line-height: 24px;
+             margin-top: 5px;
+             height: auto;
+        } 
+         .front {
+            flex-wrap: wrap;    
+        }
+        .card-content {
+            width: 100%;
+        }
+        .card-content img {
+            max-height: 34px;
+        }
+        .card {
+            height: auto;
+        }
+        .card form {
+            padding-top: 25px;
+            padding-right: 0;
+        }
+    }
+    
+    @media(max-width: 550px) {
+        .back h3 {
+             font-size: 22px; 
+        }
+    }
+    
+    @media(max-width: 500px) {
+        .card {
+            max-width: 80%;
+        }
+        .back .conv1 {
+            display: block;
+        }
+     }
+     
+      @media(max-width: 500px) {
+             .back h3 {
+             font-size: 20px; 
+        } 
+      }
+     
+     
+</style>
+<div id="card" class="card">
+<div id="front" class="front">
+<div class="card-content author ">
+<img src="/storage/app/media/mail1.svg" alt="icon mail">
+<form id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'" class="form">
+<input id="email" type="email" name="email" placeholder="E-mail" class="form-control" value="" required>
+</form>
+</div>
+<div class="card-action">
+<button onclick="flip()" class="btn btn-primary btn-block" form="form-subscribe-andradedev" href="#">Subscribe to our news</button>
+</div>
+</div>
+<div class="back">
+<img class="conv1" src="/storage/app/media/conv1.svg" alt="icon mail">
+<img class="conv2" src="/storage/app/media/conv2.svg" alt="icon mail">
+<div class="circle1"></div>
+<div class="circle2"><span onclick="unflip()">X</span></div>
+<h3><div id="result">Thank you for Subscription!</div></h3>
+</div>
+</div>
+<script>
+    var card = document.getElementById('card');
+    var input = document.getElementById('email');
+   
+     function flip() {
+         if(input.value.indexOf('@') > 0 ) {
+             input.classList.remove('error');
+              card.classList.add('flip');
+         } else {
+           input.classList.add('error');
+            }
+        
+    }
+    
+     function unflip() {
+         card.classList.remove('flip');
+        document.getElementById('email').value = "";
+    }
+    
+</script>
+
+<section class="popular_posts" style="width: 14vw;position: fixed;left: 4vw;top: 200px;display:none">
+<h4 class="font-body-3" style="font-weight: bold"> Popular posts: </h4>
+<a href="data-science-vs-data-engineering-job-roles-skills-and-salary" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+</a>
+<a href="what-are-key-skills-needed-in-fintech" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+</a>
+<a href="virtual-assistants-and-digital-custody-for-banking" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> Virtual Assistants and Digital Custody for Banking</p>
+</a>
+<a href="7-recent-trends-in-investment-banking-technology" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> 7 Recent Trends in Investment Banking Technology</p>
+</a>
+<a href="what-are-super-apps-the-most-successful-cases" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> What Are Super Apps? The Most Successful Cases</p>
+</a>
+</section>
+<style>
+            .popular_posts a p:hover{
+                transition: color .3s;
+                color: #9595ef;
+            }
+            @media screen and (max-width: 787px) {
+                .related_posts{
+                    width: 70% !important;
+                }
+                .popular_posts{
+                    display: none !important;
+                }
+                .navigation{
+                    width: 70% !important;
+                }
+            }
+            
+            @media screen and (max-width: 500px) {
+                .related_posts{
+                    width: 80% !important;
+                    grid-template-columns: 1fr !important;
+                }
+                .navigation{
+                    width: 80% !important;
+                }
+            }
+            
+             .navigation{
+                width: 55.55556vw;
+                margin: 50px auto;
+            }
+             .navigation .navigation_list li a:hover{
+                 color: #9595ef;
+             }
+        </style>
+</main>
+
+<div class="other-projects">
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3>Check out our other projects<span style="color: #9595ef">.</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/einkaufs-check"><img src="/storage/app/media/portfolio/einkaufs-check/preview.png" alt="record preview"></a></div><h3>EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/funderslink"><img src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" alt="record preview"></a></div><h3>Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/crave-retail"><img src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" alt="record preview"></a></div><h3>Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/pause"><img src="/storage/app/media/portfolio/pause/pause-preview.jpg" alt="record preview"></a></div><h3>Pause<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ajuma"><img src="/storage/app/media/portfolio/ajuma/Ajuma.png" alt="record preview"></a></div><h3>Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/zedosh"><img src="/storage/app/media/portfolio/zedosh/zedosh.png" alt="record preview"></a></div><h3>Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/revenu"><img src="/storage/app/media/revenu/login_dt.png" alt="record preview"></a></div><h3>Revenu<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/realmfive"><img src="/storage/app/media/realm_preview.png" alt="record preview"></a></div><h3>RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/factmata"><img src="/storage/app/media/factMata/factmata-preview.png" alt="record preview"></a></div><h3>FactMata<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+ Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/tradesmarter"><img src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" alt="record preview"></a></div><h3>TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/swoon"><img src="/storage/app/media/swoonProj/swoon-preview.png" alt="record preview"></a></div><h3>Swoon<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/gearhousepro"><img src="/storage/app/media/gearHousePro/preview.png" alt="record preview"></a></div><h3>GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/validify"><img src="/storage/app/media/validifyProj/validify-card@1x.png" alt="record preview"></a></div><h3>Validify<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ncourage"><img src="/storage/app/media/ncourageProj/ncourage-card@1x.png" alt="record preview"></a></div><h3>Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/wyzoo"><img src="/storage/app/media/wyzoo-preview.png" alt="record preview"></a></div><h3>Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/tamam"><img src="/storage/app/media/tamam-preview.png" alt="record preview"></a></div><h3>Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/digital-bits"><img src="/storage/app/media/digital_bits_preview.svg" alt="record preview"></a></div><h3>Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/totalizator-platform"><img src="/storage/app/media/totalizator.svg" alt="record preview"></a></div><h3>Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ua-light"><img src="/storage/app/media/ua_light 2.png" alt="record preview"></a></div><h3>Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/pool-party"><img src="/storage/app/media/pool_party.png" alt="record preview"></a></div><h3>Pool party<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/my-uber"><img src="/storage/app/media/myuber.png" alt="record preview"></a></div><h3>My Uber<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/crypto-analytics"><img src="/storage/app/media/bitspread.png" alt="record preview"></a></div><h3>Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/circular-review-system-vehicles"><img src="/storage/app/media/Circular-Review-System-for-vehicles.png" alt="record preview"></a></div><h3>Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/buzzshow"><img src="/storage/app/media/BuzShow 2.png" alt="record preview"></a></div><h3>BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/zaza"><img src="/storage/app/media/zaza.png" alt="record preview"></a></div><h3>ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/printbi"><img src="/storage/app/media/printBi.svg" alt="record preview"></a></div><h3>PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section> 
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+<style>
+    .modal-content .contact .form-wrap .contact__front-side .form .form-label {
+        padding-bottom: 20px!important;
+        margin-bottom: 0;
+        height: 100%;
+    }
+    .modal-content .contact {
+        width: 100%;
+        padding: 0;
+        height: 100%;
+        margin-bottom: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side {
+        flex-direction: column;
+        padding: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .form {
+        width: 100%;
+    }
+    .modal-content .contact .form-wrap, .modal-content .contact .form-wrap .contact__front-side {
+        width: 100%;
+        height: 350px;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    .modal-content .font-button {
+        font-button: 28px;    
+    }
+    .modal-content .form-btn-wrap {
+        margin-top: 0!important;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .title-wrap {
+        width: 100%;
+        margin-right: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .title-wrap .form-title {
+        font-size: 48px;
+    }
+    
+    .show-modal {
+        opacity: 1!important;
+        visibility: visible!important;
+        transform: scale(1.0)!important;
+        transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+    }
+    .close-button {
+        float: right;
+        width: 1.5rem;
+        line-height: 1.5rem;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 0.25rem;
+        background-color: lightgray;
+    }
+    .close-button:hover {
+        background-color: darkgray;
+    }
+    .modal-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding: 1rem 1.5rem;
+        width: 24rem;
+        border-radius: 0.5rem;
+        height: 400px;
+    }
+    .modal {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        opacity: 0;
+        visibility: hidden;
+        transform: scale(1.1);
+    }
+    @media screen and (min-width: 1560px) {
+        .modal-content {
+            height: 470px;
+        }
+    }
+</style>
+<div class="modal">
+<div class="modal-content">
+<span class="close-button">&times;</span>
+<div class="contact">
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h4 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h4>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="formBlog" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" alt="warning icon">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name_blog" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email_blog" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<textarea name="message" placeholder="* Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submitBlog" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/blog-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/fe596132d47a2bf05be642a3d9d9707e-1638441204"></script>
+
+<script>
+            var headers = $('h2.posts-title');
+            headers.each(function(){
+                $(this).attr('id', $(this).text().replace(/[^a-z0-9\s]/gi, '').toLowerCase().trim().split(' ').join('_'));
+                $('.navigation_list').append('<li style="margin-top: 10px;"><a class="font-body-3" href="#' + $(this).attr('id') +  '">' + $(this).text().replace(':', ' ') + '</a></li>');
+            });
+            
+            function ready() {
+                var modal = document.getElementsByClassName("modal")[0];
+                var closeButton = document.getElementsByClassName("close-button")[0];
+            
+                function toggleModal() {
+                    modal.classList.toggle("show-modal");
+                }
+            
+                function windowOnClick(event) {
+                    if (event.target === modal) {
+                        toggleModal();
+                    }
+                }
+            
+                closeButton.addEventListener("click", toggleModal);
+                window.addEventListener("click", windowOnClick);
+            }
+        
+            document.addEventListener("DOMContentLoaded", ready);
+        </script>
+
+</body>
+</html>
