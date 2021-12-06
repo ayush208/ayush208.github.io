@@ -1,0 +1,3218 @@
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+<meta charset="utf-8">
+<title>Geniusee: Custom Software Development Company</title>
+<meta name="description" content="Your custom software development partner. 64 technologies, full-cycle software and app development for FinTech, EdTech, consulting, outsourcing.">
+<meta name="keywords" content="app developement, software development, web development company, ui/ux design, IT company, outsourcing company, mobile development">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="Geniusee" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/mail_subsription_logo/G_IMG.png" />
+<meta property="og:url" content="https://geniusee.com" />
+<meta property="og:description" content="Your custom software development partner. 64 technologies, full-cycle software and app development for FinTech, EdTech, consulting, outsourcing." />
+<meta property="og:site_name" content="Geniusee" />
+<link rel="canonical" href="https://geniusee.com" />
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<meta name="google-site-verification" content="BIyPN3s89NN3oQHmDns031MWyI4joEsA2GB0OrLpso0" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<link rel="stylesheet" href="https://geniusee.com/themes/geniusee/assets/compiled/css/swiper-bundle.min.css">
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="themes/geniusee/assets/compiled/js/swiper-bundle.min.js" defer></script>
+
+<script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Geniusee",
+          "url": "https://geniusee.com/",
+          "logo": "https://geniusee.com/storage/app/media/logo.svg",
+          "sameAs": [
+            "https://www.facebook.com/geniuseesoftware/",
+            "https://www.linkedin.com/company/geniusee",
+            "https://twitter.com/GeniuseeSW",
+            "https://www.instagram.com/geniusee_software/"
+          ]
+        }
+        </script>
+
+<style>
+        @media (min-width: 500px) {
+            .block-mob-title {
+                display: none;
+            }
+        }
+
+        .loader-content-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .loader-line-wrapper {
+            background-color: #DFDEF4;
+            border-radius: 6px;
+            height: 6px;
+            width: 15%;
+        }
+
+        .loader {
+            animation-name: loader;
+            animation-duration: 3s;
+            animation-iteration-count: infinite;
+            animation-timing-function: ease-in-out;
+            background-color: #8585FF;
+            border-radius: 6px;
+            height: 6px;
+        }
+
+        .loader-h2 {
+            font-family: Lato;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 80px;
+            line-height: 96px;
+            color: #8585FF;
+            margin-bottom: 20px;
+        }
+
+        @keyframes loader {
+            0% {
+                width: 0;
+            }
+            75% {
+                width: 100%;
+            }
+            100% {
+                width: 100%;
+            }
+        }
+        @media (max-width: 600px) {
+            .loader-h2 {
+                font-weight: 600;
+                font-size: 32px;
+                line-height: 1.1;
+                color: #8585FF;
+            }
+            .loader-line-wrapper {
+                width: 130px;
+            }
+        }
+
+        #loader-wrapper {
+            position: fixed;
+            top: 0;
+            left: 0;
+            background: #fff;
+            width: 100%;
+            height: 100%;
+            z-index:999999999
+        }
+
+        .loaded #loader-wrapper {
+            opacity: 0;
+            -webkit-transition: all .3s ease-out;
+            transition:all .3s ease-out
+        }
+
+        .loaded #loader-wrapper {
+            visibility: hidden;
+            -webkit-transform: translateY(100%);
+            -ms-transform: translateY(100%);
+            transform: translateY(100%);
+            -webkit-transition: all .3s 1s ease-out;
+            transition:all .3s 1s ease-out
+        }
+
+        #loading-container {
+            position: relative;
+            transform: scale(.725);
+            font-family: roboto, sans-serif;
+            font-size: 1rem;
+            line-height: 1.5;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            min-height: 100vh;
+            background: #fff;
+            overflow:hidden
+        }
+    </style>
+</head>
+<body>
+<div id="loader-wrapper">
+<div class="loader-content-wrapper">
+<p class="loader-h2" style="font-family: Arial;">Loading</p>
+<div class="loader-line-wrapper">
+<div class="loader"></div>
+</div>
+</div>
+</div>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="wrapper main__page" id="main-page">
+
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div id="title">
+<div class="col-half col-img-mob"><img src="/storage/app/media/new-homepage/homepage-mob.png" alt="Homepage Image"></div>
+<div class="container">
+<div class="row">
+<div class="col-half">
+<h2 class="title">Inspiring<br>businesses<br>to bring<br>
+<div id="title-slider-text" class="swiper-title-text">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<span class="violet">innovative</span>
+ </div>
+<div class="swiper-slide">
+<span class="violet">creative</span>
+</div>
+<div class="swiper-slide">
+<span class="violet">stunning</span>
+</div>
+</div>
+</div>
+<div class="tabDisplay">
+<span class="violet">innovative</span>
+<img src="/storage/app/media/new-homepage/arrow.svg" alt="Arrow Image">
+</div>
+</h2>
+<h2 class="title">Ideas to life</h2>
+<p>Custom software and product development company aimed to help FinTech, EdTech and other businesses worldwide thrive through tech partnerships.</p>
+<a class="btn-yellow" href="#contact">Contact us</a></div>
+<div class="col-half animation-wrap">
+<div class="animation">
+
+<div class="swiper-title" id="title-slider">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="article-content">
+<div class="moving-shape"><img src="/storage/app/media/new-homepage/animations/bg-1.svg" alt="animation image"></div>
+<div class="letter letter-1">
+<img data-src="/storage/app/media/new-homepage/animations/g-1-min.png" class="lazyload " alt="animation image" width="451" height="454"> </div>
+<div class="face face-1">
+<img data-src="/storage/app/media/new-homepage/animations/left-1-min.png" class="lazyload " alt="animation image" width="370" height="352"> </div>
+ <div class="face-part face-part-1">
+<img data-src="/storage/app/media/new-homepage/animations/right-1-min.png" class="lazyload " alt="animation image" width="130" height="142"> </div>
+<div class="triangle">
+<img src="/storage/app/media/new-homepage/triangle.svg" alt="animation image">
+</div>
+<div class="circle"></div>
+<div class="plus">
+<img src="/storage/app/media/new-homepage/plus.svg" alt="animation image">
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="article-content">
+<div class="moving-shape"><img src="/storage/app/media/new-homepage/animations/bg-2.svg" alt="animation image"></div>
+<div class="letter letter-2">
+<img data-src="/storage/app/media/new-homepage/animations/g-2-min.png" class="lazyload " alt="animation image" width="451" height="453"> </div>
+<div class="face face-2">
+<img data-src="/storage/app/media/new-homepage/animations/left-2-min.png" class="lazyload " alt="animation image" width="250" height="258"> </div>
+<div class="face-part face-part-2">
+<img data-src="/storage/app/media/new-homepage/animations/right-2-min.png" class="lazyload " alt="animation image" width="130" height="149"> </div>
+<div class="triangle"><img src="/storage/app/media/new-homepage/triangle.svg" alt="animation image"></div>
+<div class="circle"></div>
+<div class="plus"><img src="/storage/app/media/new-homepage/plus.svg" alt="animation image"></div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="article-content">
+<div class="moving-shape"><img src="/storage/app/media/new-homepage/animations/bg-3.svg" alt="animation image"></div>
+<div class="letter letter-3">
+<img data-src="/storage/app/media/new-homepage/animations/g-3-min.png" class="lazyload " alt="animation image" width="451" height="453"> </div>
+<div class="face face-3">
+<img data-src="/storage/app/media/new-homepage/animations/left-3-min.png" class="lazyload " alt="animation image" width="250" height="340"> </div>
+<div class="face-part face-part-3">
+<img data-src="/storage/app/media/new-homepage/animations/right-3-min.png" class="lazyload " alt="animation image" width="230" height="247"> </div>
+<div class="triangle triangle-3"><img src="/storage/app/media/new-homepage/triangle.svg" alt="animation image"></div>
+<div class="circle circle-3"></div>
+<div class="plus plus-3"><img src="/storage/app/media/new-homepage/plus.svg" alt="animation image"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+<div class="lines-title"><img src="/storage/app/media/new-homepage/bg_lines_title.svg" alt="background lines"></div>
+</div>
+<section id="ourgoal">
+<div class="container grey-wrap js-between">
+<div class="row">
+<div class="col-half">
+<h3 class="violet">Innovate.&nbsp;<br>Accelerate.&nbsp;<br>Thrive!&nbsp;</h3>
+</div>
+<div class="col-half js-between">
+<p class="body-text">Geniusee team has completed 100+ projects on time and budget in different domains for dynamic businesses in FinTech, Edtech, Retail, etc, and startups from YCombinator & TechStars on Series A to D funding rounds.</p>
+<div class="row">
+<a class="logo-wrap logo-wrap-white" href="https://www.designrush.com/agency/profile/geniusee-llc" target="_blank" rel="nofollow">
+<img src="/storage/app/media/new-homepage/design-rush-logo.svg" alt="Design Rush Logo" class="ourgoal-logo">
+</a>
+<a class="logo-wrap logo-wrap-white" href="https://www.goodfirms.co/company/geniusee" target="_blank" rel="nofollow">
+<img src="/storage/app/media/new-homepage/good-firms-logo.svg" alt="Good Firms Logo" class="ourgoal-logo">
+</a>
+<a class="logo-wrap logo-wrap-white" href="https://clutch.co/profile/geniusee#summary" target="_blank" rel="nofollow">
+ <img src="/storage/app/media/new-homepage/clutch-logo.svg" alt="Clutch Logo" class="ourgoal-logo_clutch">
+</a>
+<a class="logo-wrap logo-wrap-white" href="https://techreviewer.co/companies/geniusee" target="_blank" rel="nofollow">
+<img src="/storage/app/media/new-homepage/techreviewer-logo.svg" alt="Techreviewer Logo" class="ourgoal-logo">
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="lines-wrap mt0" id="cases">
+<div class="container">
+<div class="row">
+<div class="swiper">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="row">
+<div class="col-half js-center">
+<img class="swiper-lazy" src="/storage/app/media/new-homepage/case-tamam.png" alt="Case Image">
+</div>
+<div class="col-half al-start">
+<img src="/storage/app/media/new-homepage/icon-tamam.svg" alt="Case Logo">
+<h3>
+Tamam&nbsp;<br>Delivery App
+</h3>
+<img src="/storage/app/media/new-homepage/quotes.svg" alt="Quotes">
+<p class="small-text main-text">
+We worked with Geniusee in a startup project. They are a professional and flexible team with different experience in many frameworks. We developed an on demand delivery app. I would like to thank them for this experience
+</p>
+<div class="row row-author">
+
+<p class="body-text">Abdullah Wasfi</p>
+<p class="small-text">Tamam CEO</p>
+</div>
+<div class="row row-tags">
+<div class="tag"><a href="/ui-ux-design">UI/UX Design</a></div>
+
+<div class="tag"><a href="/tools/react-native">ReactNative</a></div>
+<div class="tag"><a href="/tools/react">React.js</a></div>
+<div class="tag"><a href="/tools/node">Node.js</a></div>
+<div class="tag"><a href="/aws">AWS</a></div>
+</div>
+<div class="row js-start">
+<a class="btn-dark" href="/portfolio/geniusee/tamam">View Full Case</a>
+<a class="btn-grey" href="/portfolio">All Cases Studies</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="row">
+<div class="col-half js-center">
+<img class="swiper-lazy" src="/storage/app/media/new-homepage/case-zedosh.png" alt="Case Image">
+</div>
+<div class="col-half al-start">
+<img src="/storage/app/media/new-homepage/icon-zedosh.svg" alt="Case Logo">
+<h3>
+Zedosh&nbsp;<br>advertising platform
+</h3>
+<img src="/storage/app/media/new-homepage/quote-blue.svg" alt="Quotes">
+<p class="small-text main-text">
+Zedosh has built a new app which crosses traditional verticals - FinTech (including Open Banking and payments) with EdTech. Geniusee have been with us all along the way and without them we wouldn't have such a great app.
+</p>
+<div class="row row-author">
+
+<p class="body-text">Guillaume Kendall</p>
+<p class="small-text">Founder Zedosh</p>
+</div>
+<div class="row row-tags">
+<div class="tag"><a href="/ui-ux-design">UI/UX Design</a></div>
+<div class="tag"><a href="/tools/react-native">ReactNative</a></div>
+<div class="tag"><a href="/tools/php">PHP</a></div>
+<div class="tag"><a href="/qaqc-testing">QA/QC Testing</a></div>
+<div class="tag"><a href="/devops">DevOps</a></div>
+</div>
+<div class="row js-start">
+<a class="btn-dark" href="/portfolio/geniusee/zedosh">View Full Case</a>
+<a class="btn-grey" href="/portfolio">All Cases Studies</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="row">
+<div class="col-half js-center">
+<img class="swiper-lazy" src="/storage/app/media/new-homepage/ajuma.png" alt="Case Image">
+</div>
+<div class="col-half al-start">
+<img src="/storage/app/media/new-homepage/icon-ajuma.svg" alt="Case Logo">
+<h3>
+Ajuma – Enjoy the&nbsp;<br>Sun Safely
+</h3>
+<img src="/storage/app/media/new-homepage/icon-light-blue.svg" alt="Quotes">
+<p class="small-text main-text">
+What I find really special about Geniusee team is that whenever we have an urgent problem like on Friday when we noticed that you can't even add one user in the app with the cheap device, you are ready to help with a bug fix even Friday evening. This is sooo incredibly helpful!
+</p>
+<div class="row row-author">
+
+<p class="body-text">Julian Meyer-Arnek</p>
+<p class="small-text">CTO Ajuma</p>
+</div>
+<div class="row row-tags">
+<div class="tag"><a href="/mobile-development">Mobile Developmnet</a></div>
+<div class="tag"><a href="/qaqc-testing">QA/QC Testing</a></div>
+<div class="tag"><a href="/ui-ux-design">UI/UX Design</a></div>
+</div>
+<div class="row js-start">
+<a class="btn-dark" href="/portfolio/geniusee/ajuma">View Full Case</a>
+<a class="btn-grey" href="/portfolio">All Cases Studies</a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="row">
+<div class="col-half js-center">
+<img class="swiper-lazy" src="/storage/app/media/new-homepage/pause.png" alt="Case Image">
+</div>
+<div class="col-half al-start">
+<img src="/storage/app/media/new-homepage/icon-orange.svg" alt="Case Logo">
+<h3>
+Pause&nbsp;<br>Breathwork App
+</h3>
+<img src="/storage/app/media/new-homepage/quote-orange.svg" alt="Quotes">
+<p class="small-text main-text">
+Geniusee is a very diverse company with technically capable people. They are hard workers and constantly on the ball. They are willing to go the extra mile when needed. As a result, we have developed an even better app after that!
+</p>
+<div class="row row-author">
+
+<p class="body-text">Johan Stoop</p>
+<p class="small-text">COO Pause Breathwork</p>
+</div>
+<div class="row row-tags">
+<div class="tag"><a href="/ui-ux-design">UI/UX Design</a></div>
+<div class="tag"><a href="/tools/react-native">ReactNative</a></div>
+ <div class="tag"><a href="/tools/php">PHP</a></div>
+<div class="tag"><a href="/qaqc-testing">QA/QC Testing</a></div>
+<div class="tag"><a href="/devops">DevOps</a></div>
+</div>
+<div class="row js-start">
+<a class="btn-dark" href="/portfolio/geniusee/pause">View Full Case</a>
+<a class="btn-grey" href="/portfolio">All Cases Studies</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-button-prev"></div>
+<div class="swiper-button-next"></div>
+</div>
+</div>
+</div>
+</section>
+<section class="mt0">
+<div class="container grey-wrap">
+<div id="expertises">
+<div class="row">
+<div class="col-half js-center">
+<h3>What We Offer:</h3>
+</div>
+<div class="col-half">
+<div class="img-wrap img-wrap-eyes">
+<img class="fade" src="/storage/app/media/new-homepage/eyes.png" alt="eyes">
+</div>
+</div>
+</div>
+<div class="row row-cards">
+<div class="col-half">
+<a class="card-white card-white-small" href="https://geniusee.com/discovery-phase">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-discovery.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">Discovery Phase for detailed product overview in 2 weeks</p>
+
+</div>
+</a>
+<a class="card-white card-white-small" href="https://geniusee.com/aws">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-cloud.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">Complex cloud solutions implementation</p>
+<p class="small-text">E.g. Amazon Web Services, Google Cloud, Azure</p>
+</div>
+</a>
+<a class="card-white card-white-small" href="https://geniusee.com/ui-ux-design">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-uiux.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">User-centered product design by UI/UX experts</p>
+
+</div>
+ </a>
+<a class="card-white card-white-small" href="https://geniusee.com/product-development">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-web.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">Web/mobile product development</p>
+</div>
+</a>
+</div>
+<div class="col-half col-half-second-expertises">
+<a class="card-white card-white-small" href="https://geniusee.com/mvp-startups">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-mvp.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">MVP for startup and business in 2-3 months</p>
+</div>
+</a>
+<a class="card-white card-white-small" href="https://geniusee.com/dedicated-team">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-team.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">Dedicated team with proven expertise & certifications</p>
+
+</div>
+</a>
+<a class="card-white card-white-small" href="https://geniusee.com/data-science-poc">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-datascience.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">Data science & Data engineering services:</p>
+<p class="small-text">Proof of concept (POC) based on analytics & modeling</p>
+</div>
+</a>
+<a class="card-white card-white-small" href="https://geniusee.com/devops-support">
+<div class="card-white-small-img"><img src="/storage/app/media/new-homepage/icon-client.svg" alt="Expertise Icon"></div>
+<div class="card-white-small-text">
+<p class="bold-text">Client care, maintenance, support Legacy reengineering service</p>
+ </div>
+</a>
+</div>
+</div>
+<div class="row"><button class="btn-purple" type="button" id="moreBtn">Show More</button></div>
+</div>
+</div>
+<div class="container">
+<div id="certifications">
+<div class="row">
+<div class="col-half">
+<h3>Our teammates<br>certifications</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-half">
+<div class="card-white card-white-single">
+<img src="/storage/app/media/new-homepage//cert-1.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-2.png" alt="Teammates Certification Icon">
+<img class="img-logo-shadow" src="/storage/app/media/new-homepage/cert-3.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-4.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-5.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-6.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-7.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-8.png" alt="Teammates Certification Icon">
+<img src="/storage/app/media/new-homepage/cert-9.png" alt="Teammates Certification Icon"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="container grey-wrap mxMob0">
+<div id="services">
+<div class="row row-left">
+<div class="col-half js-center">
+<h3>Our Focus Industries</h3>
+</div>
+<div class="col-half">
+ <div class="img-wrap img-wrap-mouth">
+<img class="fade mouth-desktop" src="/storage/app/media/new-homepage/mouth.png" alt="mouth">
+<img class="mouth-mob" src="/storage/app/media/new-homepage/mouth-mob.png" alt="mouth">
+</div>
+</div>
+</div>
+<div class="row row-cards">
+<div class="col-half">
+<div class="card-white card-white-big fintech-bg">
+<div class="card-white-big-text">
+ <h5>FinTech</h5>
+<p class="small-text"><span>The FinTech industry will excide $320 bln in 5 years. Consider the experienced tech partner to develop disruptively financial products to skyrocket your business. Our team has extensive expertise in digital banking solutions, blockchain, financial data management, payment security, and predictive analytics. &nbsp;</span>
+<a class="violet bold-text d-ib" href="https://geniusee.com/fintech">Learn more...</a>
+</p>
+</div>
+</div>
+</div>
+<div class="col-half">
+<div class="card-white card-white-big edtech-bg">
+<div class="card-white-big-text">
+<h5>EdTech</h5>
+<p class="small-text"><span>Global EdTech market is rapidly growing - $181 bln in 5 years. The necessity of constant learning is proven by numbers. We study at various trainings from leading companies such as Amazon, Alphabet, Microsoft, IBM, Oracle etc. and realize that knowledge is the key to success in any undertaking. Therefore, we develop each EdTech application and platform with great responsibility and awareness. &nbsp;</span>
+<a class="violet bold-text d-ib" href="https://geniusee.com/edtech">Learn more...</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="row js-center">
+<a class="btn-yellow btn-long" href="https://calendly.com/o-konoval/30min" target="_blank" rel="nofollow">Start the talk</a>
+</div>
+</div>
+</div>
+</section>
+<section id="feedback">
+<div class="container js-between">
+<div class="row">
+<div class="col">
+<div class="img-wrap img-wrap-mouth-left"><img src="/storage/app/media/new-homepage/left-mouth.png" alt="Feedback Image"></div>
+</div>
+<div class="col">
+<h3>Our clients’<br>feedback:</h3>
+<div class="feedback-slider-wrap">
+<div class="swiper-feedback" id="feedback-slider">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/new-homepage/image.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Henry White</p>
+<p class="grey-text">CEO &amp; Co-Founder at Finance Unlocked</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>Geniusee delivered a truly reliable and fast platform that rarely goes down. They consistently meet the requirements of each sprint. Despite being located overseas, they work well with the internal team and deliver based on the project roadmap.</p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/new-homepage/image-2.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Andris Ezerins</p>
+<p class="grey-text">CTO at Wyzoo</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>The platform launched and feedback was very positive. Users utilize the platform to provide real-time information during presentations. Geniusee has a skilled team that was dedicated to delivering quality work on time and on budget.</p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/_Artem-Vahanov-min.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Artem Vahanov</p>
+ <p class="grey-text">Founder, MyUber.top</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>The launched website’s conversion rate met expectations, thanks to Geniusee’s user-friendly design and timely delivery. The team provided transparent project management and clear communication, which helped keep the project on track.</p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/_Jens-Jetzki-min.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Jens Jetzki</p>
+<p class="grey-text">Founder, Fair Friend</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>The high-quality app is visually appealing and stable on both iOS and Android, with no reported crashes. The team was easy to reach, receptive to input, and took the time to understand objectives. Their near-perfect deliverables are a great value for the cost.</p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/_Yaron-Shifman-min.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Yaron Shifman</p>
+<p class="grey-text">CEO, Swathly Ltd</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>After producing the MVP, Geniusee quickly developed the commercial build within a short time frame. The team remained committed to the project, despite ambiguous expectations, and maintained clear communication throughout the process. Their strong performance sets them up for future engagement.</p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/tom-madej-min.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Thomas Madej</p>
+<p class="grey-text">Director of Development, FuseChain Inc.</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>The Geniusee team quickly understood core concepts in building a complex fintech platform with limited oversight. They’ve worked collaboratively and efficiently to deliver high-quality code and strategic insights on the platform’s functionality.</p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="feedback-card">
+<div class="feedback-card-head">
+<img src="/storage/app/media/_Akihiro-Hara-min.png" alt="Client's Photo">
+<div class="feedback-card-head-text">
+<p class="bold-text">Akihiro Hara</p>
+<p class="grey-text">COO, Digniche LLC</p>
+</div>
+</div>
+<div class="feedback-card-content">
+<p>Geniusee team was very helpful on assessing and improving the platform without schematic chart. Low price but great service with swift and professional manner. Always on time and give us useful insights, great and dependable to work with.</p>
+ </div>
+</div>
+</div>
+
+</div>
+<div class="swiper-pagination pagination-feed"></div>
+<div class="swiper-buttons-wrap">
+<div class="swiper-button-prev button-prev-feed"></div>
+<div class="swiper-button-next button-next-feed"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="benefits">
+<div class="container">
+<div class="row row-left">
+<div class="col-half js-center">
+<h3>The advantages of working with Geniusee</h3>
+</div>
+<div class="col-half">
+<div class="img-wrap img-wrap-eye-one">
+<img class="fade eye-desktop" src="/storage/app/media/new-homepage/eye.png" alt="eye">
+<img class="eye-mob" src="/storage/app/media/new-homepage/eye-mob.png" alt="eye">
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-three"><img src="/storage/app/media/new-homepage/one.svg" alt="Card Icon">
+<div class="card-white card-white-column">
+<h5>Result-Oriented&nbsp;<br>Team</h5>
+<ul class="list-dot-small">
+<li>Constantly developing team of certified senior professionals.</li>
+<li>We collaborate in partnership.</li>
+<li>We ensure transparency, openness and comprehensive communication at all stages.</li>
+</ul>
+</div>
+</div>
+<div class="col-three"><img src="/storage/app/media/new-homepage/two.svg" alt="Card Icon">
+<div class="card-white card-white-column">
+<h5>versatile tech&nbsp;<br>stack</h5>
+<ul class="list-dot-small">
+<li>64 actively used technologies.<br>We tailor relevant tech stack for your particular business goal.</li>
+<li>We do not offer templates, we create solutions.</li>
+<li>5 years of delivering full-cycle product and software development.</li>
+</ul>
+</div>
+ </div>
+<div class="col-three"><img src="/storage/app/media/new-homepage/three.svg" alt="Card Icon">
+<div class="card-white card-white-column">
+<h5>Quality Proven&nbsp;<br>by Numbers</h5>
+<ul class="list-dot-small">
+<li>100+ successfully released projects in Fintech, EdTech, Retail and other domains that keep on scaling and performing.</li>
+<li>Only 5* reviews on Clutch, Design Rush etc., from satisfied clients in the USA, UK, Europe, Japan, Singapore.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="numbers">
+<div class="container js-between">
+<div class="row">
+<div class="col">
+<h3>Geniusee&nbsp;<br>in numbers</h3>
+</div>
+<div class="col">
+<div class="cards-numbers-wrap">
+<div class="card-white card-white-number">
+<p class="text-number">100+</p>
+<p>Projects &nbsp;<br>completed</p>
+</div>
+<div class="card-white card-white-number">
+<p class="text-number">+20%</p>
+<p>Clients &nbsp;<br>in 6 months</p>
+</div>
+<div class="card-white card-white-number">
+<p class="text-number">150+</p>
+<p>Team &nbsp;<br>members</p>
+</div>
+<div class="card-white card-white-number">
+<p class="text-number">64</p>
+<p>Technology &nbsp;<br>support and &nbsp;<br>services</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="partners">
+<div class="container">
+<div class="row">
+<div class="col-half">
+<h3>Our Partners</h3>
+</div>
+</div>
+<div class="row">
+<div class="logo-wrap logo-wrap-big bg-orange-light">
+<a href="https://partners.amazonaws.com/partners/0010h00001cDCrqAAG/Geniusee" target="_blank" rel="nofollow">
+<img src="/storage/app/media/new-homepage/aws.png" alt="AWS Logo"></div>
+</a>
+<div class="logo-wrap logo-wrap-big bg-green-light">
+<a href="https://apify.com/" target="_blank" rel="nofollow">
+<img src="/storage/app/media/new-homepage/apify.png" alt="Apify Logo">
+</a>
+</div>
+<div class="logo-wrap logo-wrap-big bg-red-light">
+<a href="https://www.ycombinator.com/companies/youteam" target="_blank" rel="nofollow">
+<img src="/storage/app/media/new-homepage/youteam.png" alt="YouTeam Logo">
+</a>
+</div>
+</div>
+</div>
+</section>
+<section id="blog">
+<div class="container">
+<div class="row">
+<div class="col-half">
+<h3>Visit Our Blog</h3>
+</div>
+</div>
+</div>
+<div class="row-slider">
+<div class="slider-wrap">
+<div class="swiper-blog" id="blog-slider">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog148/01.jpg" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary">
+<h5>
+Data Science vs. Data Engineering: Job Roles, Skills, and Salary
+</h5>
+</a>
+<p class="small-text grey-text">
+ Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Oles D.</span></p>
+<p class="small-text">2021-11-12</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/what-are-key-skills-needed-in-fintech">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog147/preview.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/what-are-key-skills-needed-in-fintech">
+<h5>
+The Most In-Demand Fintech Skills Developers Need Right Now
+</h5>
+</a>
+<p class="small-text grey-text">
+A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Sophia V.</span></p>
+<p class="small-text">2021-11-10</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/virtual-assistants-and-digital-custody-for-banking">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog146/preview.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/virtual-assistants-and-digital-custody-for-banking">
+<h5>
+Virtual Assistants and Digital Custody for Banking
+</h5>
+</a>
+<p class="small-text grey-text">
+Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Sophia V.</span></p>
+<p class="small-text">2021-11-05</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/7-recent-trends-in-investment-banking-technology">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog145/Preview.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/7-recent-trends-in-investment-banking-technology">
+<h5>
+7 Recent Trends in Investment Banking Technology
+</h5>
+</a>
+<p class="small-text grey-text">
+The investment banking industry was greatly affected by the recent technological revolution. Here are investment banking trends to look out for.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Nazar H.</span></p>
+<p class="small-text">2021-11-03</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/what-are-super-apps-the-most-successful-cases">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog144/preview.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/what-are-super-apps-the-most-successful-cases">
+<h5>
+What Are Super Apps? The Most Successful Cases
+</h5>
+</a>
+<p class="small-text grey-text">
+Take a closer look at the ecosystems in which several functions from finance, leisure, or lifestyle are combined at once - Super Apps.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Sophia V.</span></p>
+<p class="small-text">2021-10-25</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/how-to-choose-an-online-payment-system-that-will-fit-your-project-for-years">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog143/postcard.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+ <a style="color: #27273D;" href="single-blog/how-to-choose-an-online-payment-system-that-will-fit-your-project-for-years">
+<h5>
+How to Choose an Online Payment System that will fit your project for years
+</h5>
+</a>
+<p class="small-text grey-text">
+Online payment systems have completely transformed the e-commerce space and are facilitating many online businesses worldwide.
+</p>
+ <div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Ihor D.</span></p>
+<p class="small-text">2021-10-22</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/what-is-dns-and-how-does-dns-work">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog142/postcard.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/what-is-dns-and-how-does-dns-work">
+<h5>
+What Is DNS and How Does DNS Work?
+</h5>
+</a>
+<p class="small-text grey-text">
+Understanding DNS can be a little intimidating, but it isn’t hard once you start exploring it. Read on to learn what DNS does.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Marianna P.</span></p>
+<p class="small-text">2021-10-20</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/how-to-build-a-software-development-team-that-skyrockets-your-project">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog141/preview.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/how-to-build-a-software-development-team-that-skyrockets-your-project">
+<h5>
+How to Build a Software Development Team That Skyrockets Your Project
+</h5>
+</a>
+<p class="small-text grey-text">
+The quality of your software projects depends on how strong of a team you have. Here’s how to build a software development team for your projects.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Oksana K.</span></p>
+<p class="small-text">2021-10-18</p>
+</div>
+</div>
+</div>
+ </div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/results-of-the-global-surveys-on-the-impact-of-covid-19-on-fintech">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog140/01.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/results-of-the-global-surveys-on-the-impact-of-covid-19-on-fintech">
+<h5>
+Results of the Global Surveys on the impact of Covid-19 on FinTech
+</h5>
+</a>
+<p class="small-text grey-text">
+The global pandemic hasn’t left any sphere the same as it used to be before. Some branches suffered and some benefited. But how about FinTech?
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Sophia V.</span></p>
+<p class="small-text">2021-10-12</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/fundamental-react-concepts-and-its-personality">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog139/preview.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/fundamental-react-concepts-and-its-personality">
+<h5>
+Fundamental React Concepts and Its Personality
+</h5>
+</a>
+<p class="small-text grey-text">
+React JS is one of the most popular development frameworks worldwide. Here are some fundamental React concepts you must know.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Oleksandr M.</span></p>
+<p class="small-text">2021-10-08</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/poc-vs-mvp-vs-prototype-which-one-should-you-choose">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog138/main.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/poc-vs-mvp-vs-prototype-which-one-should-you-choose">
+<h5>
+POC vs MVP vs Prototype: the strategy for the best product-market fit
+</h5>
+</a>
+<p class="small-text grey-text">
+All three: PoC, prototype, and MVP have their pros and use cases. If you are doubtful of which one to use, read this article.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Oksana K.</span></p>
+ <p class="small-text">2021-10-04</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/aws-lambda-backend-development">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog137/4.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/aws-lambda-backend-development">
+<h5>
+Why You Should Use AWS Lambda in Backend Development
+</h5>
+</a>
+<p class="small-text grey-text">
+The variety of AWS Lambda use cases is vast, and it keeps increasing with time. If you still haven’t tried it out, this article will come in handy.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Dmytro Y.</span></p>
+<p class="small-text">2021-09-27</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/10-myths-about-development-of-edtech-projects">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog136/card.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/10-myths-about-development-of-edtech-projects">
+<h5>
+10 Myths About Development of EdTech Projects
+</h5>
+</a>
+<p class="small-text grey-text">
+Join us as we debunk the ten most common EdTech development myths!
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Taras T.</span></p>
+<p class="small-text">2021-09-21</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/ios-app-security">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog135/preview.jpg" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/ios-app-security">
+<h5>
+iOS App Security: Essential Steps to Take
+</h5>
+</a>
+<p class="small-text grey-text">
+iOS app security main issues solved: take them into account before writing the code and think about the security while creating the project architecture.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Daria Ch.</span></p>
+<p class="small-text">2021-09-17</p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="related-post-item" href="single-blog/successful-digital-banking-strategy">
+
+<img "img-lazy-load" src="/storage/app/media/blog/blog134/Digital Banking Strategy-min.png" alt="Post Image" width='359' height='160'>
+<div class="related-post-item-content">
+<a style="color: #27273D;" href="single-blog/successful-digital-banking-strategy">
+<h5>
+When and How to Create a Successful Digital Banking Strategy
+</h5>
+</a>
+<p class="small-text grey-text">
+Jumping into digital always requires good planning. Read this article to understand how to develop a successful digital banking strategy.
+</p>
+<div class="row">
+<p class="small-text">Written by<span class="bold-text">&nbsp;Nazar H.</span></p>
+<p class="small-text">2021-09-06</p>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="swiper-button-prev button-prev-blog"></div>
+<div class="swiper-button-next button-next-blog"></div>
+</div>
+</div>
+</div>
+</section>
+<script>
+        var columnToHide = document.querySelector('.col-half-second-expertises')
+        var moreBtn = document.querySelector("#moreBtn")
+        
+        moreBtn.addEventListener('click', toggleList);
+    
+        function toggleList () {
+            columnToHide.classList.toggle('active')
+
+            if ( moreBtn.innerText == "Show More") {
+                moreBtn.innerText = "Show Less";
+            }
+            else {
+               moreBtn.innerHTML = "Show More";
+            }
+        }    
+    </script>
+
+
+<style>
+    :-webkit-input-placeholder { font-family: Lato, Roboto, sans-serif!important; font-weight: 300!important; }
+    :-moz-placeholder { font-family: Lato, Roboto, sans-serif!important; font-weight: 300!important; } /* firefox 19+ */
+    :-ms-input-placeholder { font-family: Lato, Roboto, sans-serif!important; font-weight: 300!important; } /* ie */
+    input:-moz-placeholder { font-family: Lato, Roboto, sans-serif!important; font-weight: 300!important; }
+
+    button, input, optgroup, select, textarea {
+        font: inherit;
+    }
+
+    .contact .contacts-info {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-right: 6.25vw;
+        padding-top: 7.77778vh
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info {
+            width: 43%;
+            margin: 0
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .contacts-info {
+            width: 100%;
+            -webkit-box-ordinal-group: 3;
+            -ms-flex-order: 2;
+            order: 2;
+            padding: 0
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .contacts-info .contacts-items {
+            margin-bottom: 35px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        margin-bottom: 2.44444vh
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info .contacts-items .contacts-item {
+            margin-bottom: 20px
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .contacts-info .contacts-items .contacts-item {
+            margin-bottom: 22px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item img {
+        width: 1.66667vw;
+        height: auto;
+        margin-top: 5px;
+        margin-right: 1.11111vw
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info .contacts-items .contacts-item img {
+            width: 24px;
+            margin-top: 2px;
+            margin-right: 16px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 1.5;
+        letter-spacing: .277778px;
+        color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info .contacts-items .contacts-item .item-dscr, details.select_container {
+            font-size: 14px!important;
+            letter-spacing: .194444px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr:active,
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr:focus,
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr:hover {
+        outline: 0;
+        color: #9595ef
+    }
+
+    .contact .contacts-info .social-items {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between
+    }
+
+    .contact .contacts-info .social-items .social-item:last-child {
+        margin-right: 0
+    }
+
+    .contact .contacts-info .social-items .social-item .item-link {
+        display: block;
+        width: 1.66667vw;
+        min-width: 24px;
+        cursor: pointer
+    }
+
+    .contact .contacts-info .social-items .social-item .item-link img {
+        width: 100%;
+        height: auto
+    }
+
+    .contact .form-wrap {
+        position: relative;
+        perspective: 1000px
+    }
+
+    .form-success .contact__front-side {
+        transform: rotateY(180deg)
+    }
+
+    .form-success .contact__back-side {
+        transform: rotateY(360deg) !important;
+        color: #9595ef
+    }
+
+    .contact .form-wrap .contact__back-side,
+    .contact .form-wrap .contact__front-side {
+        transition: transform 1s;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden
+    }
+
+    .contact .form-wrap .contact__front-side {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+    }
+
+    .contact .form-wrap .contact__back-side {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        transform: rotateY(180deg);
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        border-radius: 40px;
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            width: 57%;
+            padding: 32px 24px 50px
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .form-wrap .contact__front-side {
+            width: 100%;
+            margin-bottom: 50px;
+            padding: 32px 18px 48px;
+            -webkit-box-ordinal-group: 2;
+            -ms-flex-order: 1;
+            order: 1
+        }
+        .contact .contacts-info .social-items .social-item {
+            height: 4.666667vh !important
+        }
+        .contact .contacts-info .social-items .social-item .item-link {
+            width: 4.66667vw !important
+        }
+    }
+
+    @media screen and (max-width:768px) {
+        .contact .form-wrap {
+            width: 100%;
+            height: auto;
+            perspective: initial;
+            position: static;
+            padding: 0;
+            margin-bottom: 30px
+        }
+        .contact .form-wrap .contact__back-side,
+        .contact .form-wrap .contact__front-side {
+            position: static;
+            backface-visibility: initial;
+            transform: initial
+        }
+        .contact .form-wrap .contact__front-side {
+            margin: 0 auto;
+            width: 100% !important
+        }
+        .contact .form-wrap .contact__back-side {
+            display: none
+        }
+        .contact .form-wrap .contact__back-side p {
+            color: #9595ef
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap {
+        width: 13vw;
+        margin-right: 3.38889vw
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .title-wrap {
+            width: 100%;
+            margin-bottom: 32px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap .form-title {
+        margin-bottom: .55556vh;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.12;
+        letter-spacing: .888889px;
+        text-transform: uppercase;
+        color: #000;
+        font-size: 4.44444vw
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .title-wrap .form-title {
+            font-size: 48px;
+            line-height: 1;
+            letter-spacing: .666667px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap .form-title span {
+        color: #9595ef
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap .form-dscr {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 1.8;
+        letter-spacing: .277778px;
+        color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .title-wrap .form-dscr {
+            margin-bottom: 5px;
+            font-size: 14px;
+            letter-spacing: .666667px
+        }
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form {
+            width: 100%
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-fieldset {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding: 0;
+        border: none
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input:active,
+    .contact .form-wrap .contact__front-side .form .form-input:focus,
+    .contact .form-wrap .contact__front-side .form .form-input:hover {
+        outline: 0;
+        border-bottom: 1px solid #000
+    }
+
+    input.form-input::-webkit-input-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    input.form-input::-moz-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    input.form-input:-ms-input-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    input.form-input::-ms-input-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    input.form-input::placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    /*@media(max-width:1024px) {
+        <!-- .contact .form-wrap .contact__front-side .form .form-input::-webkit-input-placeholder {
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+        .contact .form-wrap .contact__front-side .form .form-input::-moz-placeholder {
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+        .contact .form-wrap .contact__front-side .form .form-input:-ms-input-placeholder {
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+        .contact .form-wrap .contact__front-side .form .form-input::-ms-input-placeholder {
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+        .contact .form-wrap .contact__front-side .form .form-input::placeholder {
+            font-size: 14px;
+            letter-spacing: .166667px
+        } -->
+    }*/
+
+    .contact .form-wrap .contact__front-side .form .form-textarea {
+        width: 100%;
+        background-color: transparent;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 32px;
+        letter-spacing: 0.4px;
+        color: #7E7E9B!important;
+        border: none;
+        border-bottom: 1px solid #DFDEF4;
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-textarea {
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-textarea:active,
+    .contact .form-wrap .contact__front-side .form .form-textarea:focus,
+    .contact .form-wrap .contact__front-side .form .form-textarea:hover {
+        outline: 0;
+        border-bottom: 1px solid #000;
+    }
+    .contact .form-wrap .contact__front-side .form .form-textarea::-webkit-input-placeholder {
+        color: #7E7E9B;
+    }
+    .contact .form-wrap .contact__front-side .form .form-textarea:-moz-placeholder {
+        color: #7E7E9B;
+    }
+    .contact .form-wrap .contact__front-side .form .form-textarea::-moz-placeholder {
+        color: #7E7E9B;
+    }
+    .contact .form-wrap .contact__front-side .form .form-textarea:-ms-input-placeholder {
+        color: #7E7E9B;
+    }
+    .contact .form-wrap .contact__front-side .form .form-textarea::placeholder {
+        color: #7E7E9B;
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: end;
+        -ms-flex-pack: end;
+        justify-content: flex-end;
+        width: 100%;
+        margin-top: 1.66667vh;
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email {
+        position: relative;
+        background-color: transparent;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: 1.785px;
+        text-transform: uppercase;
+        text-align: right;
+        color: #000;
+        cursor: pointer;
+        border: none
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email {
+            font-size: 24px;
+            letter-spacing: .983571px
+        }
+    }
+
+    @media(max-width:768px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email {
+            font-size: 18px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 28px;
+        height: 2px;
+        background-color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:after {
+            width: 20px
+        }
+    }
+
+    @media(max-width:768px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:after {
+            width: 17px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:active,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:focus,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:hover {
+        outline: 0;
+        color: #9595ef
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:active:after,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:focus:after,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:hover:after {
+        background-color: #9595ef
+    }
+
+    .contact .form-wrap .contact__front-side .form #form-alert {
+        display: none;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 18px;
+        text-align: center;
+        color: #9595ef
+    }
+
+    @media(min-width:767px) and (max-width:1024px) and (orientation:landscape) {
+        .contact .form-wrap {
+            padding: 0;
+            height: auto
+        }
+        .contact .form-wrap .contact__front-side {
+            position: relative
+        }
+    }
+
+    .font-button {
+        font-family: BebasNeue;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1.66667vw;
+        line-height: 1.17 !important;
+        letter-spacing: 1.5px !important;
+        background-color: transparent
+    }
+
+    @media screen and (max-width:768px) {
+        .font-button {
+            font-size: 3.125vw
+        }
+    }
+
+    @media screen and (max-width:500px) {
+        .font-button {
+            font-size: 28px
+        }
+    }
+
+    .contact .contacts-info {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-right: 6.25vw;
+        padding-top: 7.77778vh;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info {
+            width: 43%;
+            margin: 0
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .contacts-info {
+            width: 100%;
+            -webkit-box-ordinal-group: 3;
+            -ms-flex-order: 2;
+            order: 2;
+            padding: 0
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .contacts-info .contacts-items {
+            margin-bottom: 35px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        margin-bottom: 2.44444vh;
+        margin-top: 5px
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item a {
+        -webkit-transition: initial;
+        -o-transition: initial;
+        transition: initial
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:first-child:hover .contacts-img-mail {
+        background-image: url(../img/email-outline-purple.svg)
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:first-child:hover a {
+        color: #9595ef
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:nth-child(2):hover .contacts-img-phone {
+        background-image: url(../img/cellphone-purple.svg)
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:nth-child(2):hover a {
+        color: #9595ef
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:nth-child(3):hover .contacts-img-marker {
+        background-image: url(../img/map-marker-purple.svg)
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:nth-child(3):hover a {
+        color: #9595ef
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:nth-child(4):hover .contacts-img-marker-second {
+        background-image: url(../img/map-marker-purple.svg)
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item:nth-child(4):hover a {
+        color: #9595ef
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info .contacts-items .contacts-item {
+            margin-bottom: 20px
+        }
+    }
+
+    @media(max-width:767px) {
+        .contact .contacts-info .contacts-items .contacts-item {
+            margin-bottom: 22px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 1.5;
+        letter-spacing: .277778px;
+        color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .contacts-info .contacts-items .contacts-item .item-dscr {
+            font-size: 14px;
+            letter-spacing: .194444px
+        }
+    }
+
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr:active,
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr:focus,
+    .contact .contacts-info .contacts-items .contacts-item .item-dscr:hover {
+        outline: 0;
+        color: #9595ef
+    }
+
+    .contact .contacts-info .social-items {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between
+    }
+
+    .contact .contacts-info .social-items .social-item {
+        height: 2.66666666vh
+    }
+
+    .contact .contacts-info .social-items .social-item a {
+        width: 100%;
+        height: 100%
+    }
+
+    .contact .contacts-info .social-items .social-item:last-child {
+        margin-right: 0
+    }
+
+    .contact .contacts-info .social-items .social-item .item-link {
+        display: block;
+        width: 1.66667vw;
+        min-width: 24px;
+        cursor: pointer
+    }
+
+    .contact .contacts-info .social-items .social-item .item-link img {
+        height: 100%
+    }
+
+    .contact .form-wrap .contact__front-side {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    @media(max-width:767px) {
+        .contact .form-wrap .contact__front-side {
+            width: 100%;
+            padding: 32px 18px 48px;
+            -webkit-box-ordinal-group: 2;
+            -ms-flex-order: 1;
+            order: 1
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap {
+        width: 13vw;
+        margin-right: 3.38889vw
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .title-wrap {
+            width: 100%;
+            margin-bottom: 32px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap .form-title {
+        margin-bottom: .55556vh;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.12;
+        letter-spacing: .888889px;
+        text-transform: uppercase;
+        color: #000;
+        font-size: 4.44444vw
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .title-wrap .form-title {
+            font-size: 48px;
+            line-height: 1;
+            letter-spacing: .666667px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap .form-title span {
+        color: #9595ef
+    }
+
+    .contact .form-wrap .contact__front-side .title-wrap .form-dscr {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 1.8;
+        letter-spacing: .277778px;
+        color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .title-wrap .form-dscr {
+            margin-bottom: 5px;
+            font-size: 14px;
+            letter-spacing: .666667px
+        }
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form {
+            width: 100%
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-fieldset {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding: 0;
+        border: none
+    }
+
+    select {
+        -webkit-appearance: none;
+        border-bottom-left-radius: initial;
+        border-bottom-right-radius: initial
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-label select {
+        width: 100%;
+        padding-bottom: 1.77778vh;
+        background-color: transparent;
+        font-family: Lato;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 1;
+        letter-spacing: .194444px;
+        color: #c7c7bf;
+        font-weight: 400;
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, .5)
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-label select option {
+        color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form-label select {
+            height: 34px;
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+    }
+
+    .other_scope {
+        display: none
+    }
+
+    .contact .form-wrap .contact__front-side .form {
+        position: relative
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form {
+            width: 100%
+        }
+    }
+
+    .form_error_message {
+        padding: 12px 20px;
+        background-color: #fff;
+        -webkit-box-shadow: 0 12px 12px 0 rgba(109, 102, 134, .3);
+        box-shadow: 0 12px 12px 0 rgba(109, 102, 134, .3);
+        border-radius: 7px;
+        text-align: center;
+        width: 60%;
+        text-transform: initial;
+        border: 1px solid rgba(0, 0, 0, .3);
+        position: absolute;
+        left: 30%;
+        max-height: 60px;
+        visibility: hidden;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: distribute;
+        justify-content: space-around;
+        white-space: nowrap;
+        z-index: 100000
+    }
+
+    @media screen and (max-width:1024px) {
+        .form_error_message {
+            font-size: 16px
+        }
+    }
+
+    @media screen and (max-width:768px) {
+        .form_error_message {
+            width: 40%
+        }
+    }
+
+    @media screen and (max-width:500px) {
+        .form_error_message {
+            width: 60%
+        }
+    }
+
+    @media screen and (max-width:400px) {
+        .form_error_message {
+            width: 70%
+        }
+    }
+
+    .form_error_message img {
+        width: 10%;
+        min-width: 20px
+    }
+
+    .form_error_message::before {
+        content: "";
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        background-color: #fff;
+        border-top: 1px solid rgba(0, 0, 0, .3);
+        border-left: 1px solid rgba(0, 0, 0, .3);
+        top: -6px;
+        left: 12px;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg)
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-input {
+            height: 34px;
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input:active,
+    .contact .form-wrap .contact__front-side .form .form-input:focus,
+    .contact .form-wrap .contact__front-side .form .form-input:hover {
+        outline: 0;
+        border-bottom: 1px solid #000
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input::-webkit-input-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input::-moz-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input:-ms-input-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input::-ms-input-placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-input::placeholder {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-textarea {
+            font-size: 14px;
+            letter-spacing: .166667px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-textarea:active,
+    .contact .form-wrap .contact__front-side .form .form-textarea:focus,
+    .contact .form-wrap .contact__front-side .form .form-textarea:hover {
+        outline: 0;
+        border-bottom: 1px solid #000
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: end;
+        -ms-flex-pack: end;
+        justify-content: flex-end;
+        width: 100%;
+        margin-top: 1.66667vh
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email {
+            font-size: 24px;
+            letter-spacing: .983571px
+        }
+    }
+
+    @media(max-width:768px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email {
+            font-size: 18px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 28px;
+        height: 2px;
+        background-color: #000
+    }
+
+    @media(max-width:1024px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:after {
+            width: 20px
+        }
+    }
+
+    @media(max-width:768px) {
+        .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:after {
+            width: 17px
+        }
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:active,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:focus,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:hover {
+        outline: 0;
+        color: #9595ef
+    }
+
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:active:after,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:focus:after,
+    .contact .form-wrap .contact__front-side .form .form-btn-wrap .form-btn-email:hover:after {
+        background-color: #9595ef
+    }
+
+    .contact .form-wrap .contact__front-side .form #form-alert {
+        display: none;
+        width: 100%;
+        margin-top: 20px;
+        font-size: 18px;
+        text-align: center;
+        color: #9595ef
+    }
+
+    :focus {
+        outline: initial
+    }
+
+    .top-page-head {
+        overflow-x: initial !important
+    }
+
+    .text-left {
+        text-align: left
+    }
+
+    details.select_container[open] {
+        border-radius: 3px 3px 0 0
+    }
+
+    details.select_container summary::after {
+        position: absolute;
+        content: "";
+        top: 14px;
+        right: 10px;
+        width: 0;
+        height: 0;
+        border: 4px solid transparent;
+        border-color: #c7c7bf transparent transparent transparent
+    }
+
+    details.select_container:focus {
+        -webkit-box-shadow: 10px 10px 10px rgba(109, 102, 134, .13);
+        box-shadow: 10px 10px 10px rgba(109, 102, 134, .13)
+    }
+
+    details.select_container[open] summary::after {
+        border-color: transparent transparent #c7c7bf transparent;
+        top: 10px
+    }
+
+    details.select_container summary {
+        cursor: pointer;
+        list-style: none;
+    }
+
+    details.select_container summary:focus {
+        -webkit-box-shadow: 10px 10px 10px rgba(109, 102, 134, .13);
+        box-shadow: 10px 10px 10px rgba(109, 102, 134, .13)
+    }
+
+    details.select_container summary::-webkit-details-marker {
+        display: none
+    }
+
+    details.select_container .select {
+        position: absolute;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        border: 1px solid #c5c5c5;
+        width: 100%;
+        left: -1px;
+        border-radius: 0 0 3px 3px;
+        background: #fff;
+        max-height: 200px;
+        overflow-y: scroll;
+        z-index: 10
+    }
+
+    details.select_container .select__option {
+        cursor: pointer;
+        padding: 10px 15px;
+        color: #000
+    }
+
+    details.select_container .select:hover .select__option.active {
+        background: #fff;
+        color: #000
+    }
+
+    details.select_container .select:hover .select__option.active:hover,
+    details.select_container .select__option.active,
+    details.select_container .select__option:hover {
+        background: #9595ef;
+        color: #fff
+    }
+
+    details.select_container .select__option input {
+        display: none
+    }
+
+    body .text-left {
+        text-align: left
+    }
+
+    body .cookies_field_wrapper {
+        position: fixed;
+        bottom: -12px;
+        left: 0;
+        width: 100%;
+        padding: 12px 9.15vw 24px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: none;
+        background-color: rgba(255, 255, 255, .9);
+        z-index: 212340988;
+        opacity: 1;
+        -ms-flex-pack: distribute;
+        justify-content: space-around
+    }
+
+    .cookies_bg {
+        position: absolute;
+        bottom: 0;
+        right: 0
+    }
+
+    body .cookies_field_wrapper .info {
+        margin: .5em;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 2.43055555vw;
+        line-height: 42px;
+        color: rgba(0, 0, 0, .75)
+    }
+
+    body .cookies_field_wrapper .info a {
+        color: #9595ef;
+        margin-left: 12px;
+        font-weight: 700
+    }
+
+    body .cookies_field_wrapper .got_it {
+        background-color: #9595ef;
+        color: #fff;
+        -webkit-box-shadow: 0 10px 40px rgba(109, 102, 134, .12);
+        box-shadow: 0 10px 40px rgba(109, 102, 134, .12);
+        padding: 16px 20px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1.25vw;
+        z-index: 1;
+        text-transform: uppercase
+    }
+
+    @media screen and (min-width:1440px) {
+        body .cookies_field_wrapper .info {
+            font-size: 24px
+        }
+        body .cookies_field_wrapper .got_it {
+            font-size: 24px
+        }
+        .back-side-right h3 {
+            margin: 0;
+        }
+    }
+
+    @media screen and (max-width:800px) {
+        body .cookies_field_wrapper .info a {
+            margin-left: 5px
+        }
+    }
+
+    @media screen and (max-width:768px) {
+        .cookies_bg {
+            right: -100px
+        }
+        body .cookies_field_wrapper .info {
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            font-size: 4.5572916666vw;
+            margin: initial
+        }
+        body .cookies_field_wrapper .got_it {
+            white-space: nowrap;
+            padding: 18px 7px;
+            margin: initial;
+            min-width: 70px;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            justify-content: center;
+            height: 25%;
+            margin-right: 100px;
+            font-size: 16px
+        }
+        body .cookies_field_wrapper .info a {
+            margin: initial
+        }
+        body .cookies_field_wrapper {
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            padding: 20px
+        }
+    }
+
+    @media screen and (max-width:500px) {
+        body .cookies_field_wrapper .info {
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            font-size: 12px;
+            line-height: 14px
+        }
+        body .cookies_field_wrapper .info a {
+            margin: initial;
+            width: 100%
+        }
+        .cookies_bg {
+            top: 0
+        }
+        body .cookies_field_wrapper .got_it {
+            min-width: 50px;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            justify-content: center;
+            height: 25%;
+            font-size: 12px;
+            line-height: 14px;
+            padding: 5px 7px
+        }
+        body .cookies_field_wrapper {
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            justify-content: flex-start;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            padding: 20px 20px 32px
+        }
+    }
+
+    body .cookie_policy-warpper {
+        position: fixed;
+        width: 100vw;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #fff;
+        z-index: 1000000000;
+        overflow-y: scroll;
+        display: none
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content {
+        padding: 50px 0;
+        margin: 0 25%;
+        position: relative
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content .cross {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        top: calc(50px + 12px);
+        right: -25%;
+        z-index: 999999999999999999
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content .cross::after,
+    body .cookie_policy-warpper .cookie_policy-content .cross::before {
+        content: "";
+        width: 2px;
+        height: 50px;
+        background-color: #9595ef;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-left: 50%
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content .cross::before {
+        -webkit-transform: rotate(135deg);
+        -ms-transform: rotate(135deg);
+        transform: rotate(135deg)
+    }
+
+    @media screen and (max-width:500px) {
+        body .cookie_policy-warpper .cookie_policy-content {
+            margin: 0 12px
+        }
+        body .cookie_policy-warpper .cookie_policy-content .cross {
+            width: 25px;
+            height: 25px;
+            right: 12px;
+            top: calc(50px + 24px)
+        }
+        body .cookie_policy-warpper .cookie_policy-content .cross::after,
+        body .cookie_policy-warpper .cookie_policy-content .cross::before {
+            height: 25px
+        }
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content h2,
+    body .cookie_policy-warpper .cookie_policy-content h3 {
+        text-align: center;
+        color: #9595ef;
+        margin: 25px 0
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content ul {
+        list-style-type: disc;
+        padding-left: 2em
+    }
+
+    body .cookie_policy-warpper .cookie_policy-content a {
+        color: #9595ef
+    }
+
+    .checkbox {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    [type=checkbox]:checked,
+    [type=checkbox]:not(:checked) {
+        position: absolute;
+        left: -9999px
+    }
+
+    [type=checkbox]:checked+label,
+    [type=checkbox]:not(:checked)+label {
+        position: relative;
+        padding-left: 1.95em;
+        cursor: pointer
+    }
+
+    [type=checkbox]:checked+label:before,
+    [type=checkbox]:not(:checked)+label:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 50%;
+        margin-top: calc(-.972222vw/2);
+        width: .972222vw;
+        height: .972222vw;
+        border: 1px solid #9191eb;
+        background: #fff;
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, .1);
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, .1)
+    }
+
+    [type=checkbox]:checked+label:after,
+    [type=checkbox]:not(:checked)+label:after {
+        content: '\2713\0020';
+        position: absolute;
+        top: 50%;
+        margin-top: calc(-.972222vw/2);
+        left: .22em;
+        font-size: .972222vw;
+        line-height: .972222vw;
+        color: #9191eb;
+        -webkit-transition: all .2s;
+        -o-transition: all .2s;
+        transition: all .2s;
+        font-family: lucida sans unicode, arial unicode ms, Arial
+    }
+
+    @media screen and (max-width:768px) {
+        [type=checkbox]:checked+label:before,
+        [type=checkbox]:not(:checked)+label:before {
+            margin-top: calc(-1.822916666vw/2);
+            width: 1.822916666vw;
+            height: 1.822916666vw
+        }
+        [type=checkbox]:checked+label:after,
+        [type=checkbox]:not(:checked)+label:after {
+            margin-top: calc(-1.822916666vw/2);
+            font-size: 1.822916666vw;
+            line-height: 1.822916666vw
+        }
+    }
+
+    @media screen and (max-width:500px) {
+        [type=checkbox]:checked+label:before,
+        [type=checkbox]:not(:checked)+label:before {
+            margin-top: calc(-14px/2);
+            width: 14px;
+            height: 14px
+        }
+        [type=checkbox]:checked+label:after,
+        [type=checkbox]:not(:checked)+label:after {
+            margin-top: calc(-14px/2);
+            font-size: 14px;
+            line-height: 14px
+        }
+    }
+
+    [type=checkbox]:not(:checked)+label:after {
+        opacity: 0;
+        -webkit-transform: scale(0);
+        -ms-transform: scale(0);
+        transform: scale(0)
+    }
+
+    [type=checkbox]:checked+label:after {
+        opacity: 1;
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1)
+    }
+
+    .hidden {
+        display: none
+    }
+
+    .code-input {
+        display: block
+    }
+
+    body .cursor_dot {
+        width: .8vw;
+        height: .8vw;
+        border-radius: 50%;
+        background: #9595ef;
+        position: fixed;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        z-index: 9999999999999999999999999999
+    }
+
+    body .cursor_dot-1 {
+        -webkit-transition: .02s;
+        transition: .02s;
+        width: .7vw;
+        height: .7vw
+    }
+
+    body .cursor_dot-2 {
+        -webkit-transition: 25ms;
+        transition: .03s;
+        width: .5vw;
+        height: .5vw
+    }
+
+    body .cursor_dot-3 {
+        -webkit-transition: .03s;
+        transition: .04s;
+        width: .3vw;
+        height: .3vw
+    }
+
+    body .cursor_dot-3 {
+        -webkit-transition: 35ms;
+        transition: .05s;
+        width: .1vw;
+        height: .1vw
+    }
+
+    @media screen and (max-width:768px) {
+        body .cursor_dot {
+            display: none
+        }
+    }
+
+    .full_word {
+        display: block;
+        white-space: nowrap
+    }
+
+    .span_wrapper {
+        overflow: hidden;
+        display: inline-block;
+        vertical-align: baseline
+    }
+
+    .span_wrapper .span_inner {
+        position: relative;
+        display: inline-block;
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        -webkit-transition: -webkit-transform 1s cubic-bezier(1, .15, .25, 1);
+        transition: -webkit-transform 1s cubic-bezier(1, .15, .25, 1);
+        transition: transform 1s cubic-bezier(1, .15, .25, 1);
+        transition: transform 1s cubic-bezier(1, .15, .25, 1), -webkit-transform 1s cubic-bezier(1, .15, .25, 1);
+        -webkit-transition-delay: 0s;
+        transition-delay: 0s;
+        will-change: transform;
+        color: #000;
+        white-space: pre-line;
+        vertical-align: baseline
+    }
+
+    .span_wrapper .animate {
+        -webkit-animation-name: span_animation;
+        animation-name: span_animation;
+        -webkit-animation-duration: 2s;
+        animation-duration: 2s
+    }
+
+    .span_wrapper .right::before {
+        content: attr(data-char);
+        position: absolute;
+        height: 100%;
+        right: 0;
+        -webkit-transform: translate(150%);
+        transform: translate(150%)
+    }
+
+    @-webkit-keyframes span_animation {
+        0% {
+            -webkit-transform: translate(0);
+            transform: translate(0)
+        }
+        50% {
+            -webkit-transform: translate(-150%);
+            transform: translate(-150%)
+        }
+        100% {
+            -webkit-transform: translate(0);
+            transform: translate(0)
+        }
+    }
+
+    @keyframes span_animation {
+        0% {
+            -webkit-transform: translate(0);
+            transform: translate(0)
+        }
+        50% {
+            -webkit-transform: translate(-150%);
+            transform: translate(-150%)
+        }
+        100% {
+            -webkit-transform: translate(0);
+            transform: translate(0)
+        }
+    }
+
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: 0px;
+        height: 380px;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+        padding-bottom: 0;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 768px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            /*top: 20px;*/
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 20px!important;
+            color: black!important;
+            margin: 0;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+    @media screen and (max-width: 650px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .form-container {
+            height: auto;
+        }
+        /*.form-success .back-side-img-mob {
+            display: none;
+        }*/
+        .back-side-right {
+            width: 100%!important;
+        }
+        .form-success .back-side-img {
+            left: 40px;
+            bottom: 40px;
+            height: 100%!important;
+            max-width: 90%;
+        }
+    }
+    @media (max-width: 500px) {
+        .form-success .contact__back-side {
+            padding-top: 10px;
+        }
+        .form-success .back-side-img-mob {
+            height: 480px;
+        }
+    }
+
+    @media (max-width: 1300px) {
+        .back-side-right {
+            padding-right: 30px;
+        }
+        .back-side-right h3 {
+            font-size: 50px;
+        }
+        .back-side-right p {
+            font-size: 24px;
+        }
+    }
+    @media (max-width: 1150px) {
+        .back-side-img {
+            height: 300px;
+            left: -30px;
+        }
+        .back-side-right {
+            width: 240px;
+            margin-right: 0;
+        }
+    }
+    @media (max-width: 1000px) {
+        .back-side-img {
+            display: none;
+        }
+    }
+
+</style>
+<section id="contact" class="contact">
+<div class="container grey-wrap">
+
+<div class="row">
+<div class="col-half">
+<div class="form-container">
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<h5>Tell us how we can help you</h5>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<div class="row">
+<div class="col-half">
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+</div>
+<div class="col-half">
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+</div>
+</div>
+<div class="row">
+<div class="col-half">
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+</div>
+<div class="col-half">
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+ </label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+</div>
+</div>
+<div class="row">
+<div class="col-half">
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</div>
+<div class="col-half">
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+</div>
+</div>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class="btn-purple">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="300" height="340"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+ </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-half contact-col">
+<div class="contact-photo">
+<img data-src="/storage/app/media/new-homepage/taras.png" class="lazyload" alt="Taras" width="359" height="402">
+<img class="contact-photo-mob lazyload" data-src="/storage/app/media/new-homepage/TarasMob.png" alt="Taras" width="240" height="268">
+</div>
+<div class="contact-text">
+<h5>Taras Tymoshchuk</h5>
+<p class="small-text grey-text">CEO</p>
+</div>
+<div class="contact-box">
+<div class="contact-box-item"><img src="/storage/app/media/new-homepage/mail.svg" alt="Mail"><a href="mailto:info@geniusee.com" rel="nofollow">info@geniusee.com</a></div>
+<div class="contact-box-item"><img src="/storage/app/media/new-homepage/phone.svg" alt="Phone"><a href="tel:+1 512 394 8852" rel="nofollow">+1 512 394 8852</a></div>
+<div class="contact-box-item"><img src="/storage/app/media/new-homepage/skype.svg" alt="Skype"><a href="skype:taras.tymoshchuk?chat" rel="nofollow">taras.tymoshchuk</a></div>
+<div class="contact-box-item">
+<img src="/storage/app/media/new-homepage/map-us.svg" alt="Location">
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-76.277745,9z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?ucbcb=1" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</div>
+<div class="contact-box-item">
+<img src="/storage/app/media/new-homepage/map-ua.svg" alt="Location">
+<a href="https://www.google.com/maps/place/%D0%9E%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D0%B9+%D0%A6%D0%B5%D0%BD%D1%82%D1%80+Y4/@50.4666084,30.5063171,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4cf6a63c041c1:0x42c7765fd758a24c!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row js-start social-wrap">
+<a class="social-icon-wrap" href="https://www.facebook.com/geniuseesoftware/" target="_blank">
+<img src="/storage/app/media/new-homepage/social-icons/facebook.svg" alt="Social Icon" width="40" height="40">
+</a>
+<a class="social-icon-wrap" href="https://www.linkedin.com/company/geniusee" target="_blank">
+<img src="/storage/app/media/new-homepage/social-icons/linkedin.svg" alt="Social Icon" width="40" height="40">
+</a>
+<a class="social-icon-wrap" href="https://www.behance.net/geniusee_software" target="_blank">
+<img src="/storage/app/media/new-homepage/social-icons/behance.svg" alt="Social Icon" width="40" height="40">
+</a>
+<a class="social-icon-wrap" href="https://www.instagram.com/geniusee_software/" target="_blank">
+<img src="/storage/app/media/new-homepage/social-icons/instagram.svg" alt="Social Icon" width="40" height="40">
+</a>
+<a class="social-icon-wrap" href="https://twitter.com/GeniuseeSW" target="_blank">
+<img src="/storage/app/media/new-homepage/social-icons/twitter.svg" alt="Social Icon" width="40" height="40">
+</a>
+</div>
+</div>
+</section>
+<footer class="footer">
+<div class="footer-logo-wrap"><img src="/storage/app/media/new-homepage/logo-footer.svg" alt="Geniusee logo" title="Geniusee logo"></div>
+<div class="footer-links">
+<ul class="menu-items">
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/about" target="_blank">About Us</a></li>
+<li class="menu-item"><a class="menu-link" href="#contact">Contacts</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/expertise" target="_blank">Expertise</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/ui-ux-design" target="_blank">UI/UX Design</a></li>
+<li class="menu-item"><a class="menu-link" href="https://estimate.geniusee.com/" target="_blank">Estimator</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/portfolio" target="_blank">Portfolio</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/web-development" target="_blank">Web Development</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/blockchain" target="_blank">Blockchain</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/career" target="_blank">Careers</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/services" target="_blank">Services</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/mobile-development" target="_blank">Mobile Development</a></li>
+<li class="menu-item"><a class="menu-link" href="https://geniusee.com/business-analysis" target="_blank">Business Analysis</a></li>
+</ul>
+</div>
+</footer>
+<div class="footer-copyright">
+<p>
+©Copyright 2021 Geniusee - Software product development services. All rights reserved.
+</p>
+</div>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+
+
+
+ 
+ 
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-homepage.css" rel="stylesheet">
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/799b025da61da7e75d393c79599c8ffd-1638441204"></script>
+
+<script src="themes/geniusee/assets/compiled/js/brazzers-carousel.js"></script>
+<script src="themes/geniusee/assets/compiled/js/slick-slider.js"></script>
+<script src="themes/geniusee/assets/compiled/js/lazy.js"></script>
+<script src="themes/geniusee/assets/compiled/js/main.js"></script>
+<script src="themes/geniusee/assets/compiled/js/new-homepage.js"></script>
+
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function(){ // Аналог $(document).ready(function(){
+        document.querySelector('body').classList.add('loaded');
+    });
+</script>
+<script>
+    /*var burger = $("#burger"); // Burger strips on 768px 
+    var nav = $("nav"); // Navigation tag inside header
+    var header = $(".header"); // Header
+    var lastScrollTop = 0; // mouse_move == 0 if pages is scrolled up. Make it by default
+
+    var topStrip = $("#burger .top-strip");
+    var bottomStrip = $("#burger .bottom-strip");
+    
+    function changeNavigationStatus(removedClassTop, removedClassBottom, addedClassTop, addedClassBottom){
+        topStrip.removeClass(removedClassTop);
+        bottomStrip.removeClass(removedClassBottom);
+        topStrip.addClass(addedClassTop);
+        bottomStrip.addClass(addedClassBottom);
+    }
+    
+    burger.click(function(){
+       if(nav.css("display") == "none"){ // if navigation is hidden
+           nav.show(); // Show havigation menu
+           changeNavigationStatus("toBurgerTop", "toBurgerBottom", "toCrossTop", "toCrossBottom");
+       }else{
+           nav.hide(); // If menu is visible hide it
+           changeNavigationStatus("toCrossTop", "toCrossBottom", "toBurgerTop", "toBurgerBottom");
+       }
+    });
+
+
+    function hideShowHeaderWhenScroling() {
+        var scrollTop = $(this).scrollTop();
+        if (scrollTop > lastScrollTop && $(this).scrollTop() > 100){ // mouse_move == 1 if pages is scrolled up
+            header.css("top", "-150px");
+            if($(window).width() < 768){
+                nav.hide();
+                changeNavigationStatus("toCrossTop", "toCrossBottom", "toBurgerTop", "toBurgerBottom");
+            }
+        } else {
+            header.css("top", "0");
+            if($(window).width() < 768){
+                nav.hide();
+                changeNavigationStatus("toCrossTop", "toCrossBottom", "toBurgerTop", "toBurgerBottom");
+            }
+        }
+        lastScrollTop = scrollTop;
+    }
+
+    $(window).scroll(hideShowHeaderWhenScroling);
+    
+    $('a[href^="#"]').click(function (e) {
+        var target = $($(this).attr('href'));
+        if(target.length){
+            var scrollTo = target.offset().top;
+            $('body, html').animate({scrollTop: scrollTo+'px'}, 800);
+        }
+    });
+    
+    $('a[href^="#contact"]').click(function () {
+        hideShowHeaderWhenScroling();
+        //nav.hide();
+    });*/
+</script>
+<script src="themes/geniusee/assets/compiled/js/homepage.js"></script>
+</body>
+</html>

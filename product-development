@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<title>Product Development | Geniusee</title>
+<meta name="description" content="Geniusee provides affordable quality services in 
+custom software development, blockchain, UI/UX design, business analyzes, DevOps &amp; data science.">
+<meta name="keywords" content="product development, software development, outsourcing, programming, IT development, software services, IT outsourcing">
+<link rel="canonical" href="https://geniusee.com/product-development" />
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media" />
+<meta property="og:url" content="https://geniusee.com/" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="wrapper">
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li class="header-active-li"><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+
+<main class="main-product">
+
+<section class="page">
+<div class="hero-top">
+<div class="hero-text-wraper">
+<div class="hero-text-content">
+<h1 class="font-h1">PRODUCT DEVELOPMENT<span class="purple_square">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/services">Services</a><span>></span>Product development
+</div>
+<p class="font-body-2 font-body-2-top">Each new product begins with an idea, and then turns into a set of physical characteristics and services offered to a potential client.</p>
+</div>
+</div>
+<div class="hero-img-wraper prod-dev">
+<svg width="934" height="760" viewBox="0 0 934 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.36" fill-rule="evenodd" clip-rule="evenodd" d="M792.519 521.338C849.765 436.419 936.28 398.349 825.783 281.621C723.187 173.244 554.667 154.488 342.893 313.36C156.049 453.535 199.719 577.129 337.615 630.677C406.56 657.45 553.033 676.941 642.185 654.497C731.334 632.051 764.139 563.438 792.519 521.338Z" stroke="#979797" />
+<path opacity="0.16808" fill-rule="evenodd" clip-rule="evenodd" d="M851 521.601C922.31 415.818 1030.08 368.395 892.437 222.988C764.634 87.9837 554.711 64.6202 290.907 262.525C58.1572 437.14 112.556 591.1 284.331 657.803C370.216 691.154 552.675 715.433 663.73 687.475C774.783 659.515 815.647 574.044 851 521.601Z" stroke="#979797" />
+<path opacity="0.16808" fill-rule="evenodd" clip-rule="evenodd" d="M987.717 138.047C821.141 -37.9167 547.529 -68.3684 203.69 189.579C-99.6728 417.169 -28.7699 617.838 195.12 704.779C307.06 748.249 544.876 779.893 689.624 743.453C834.368 707.01 887.63 595.608 933.708 527.255C1026.65 389.378 1167.12 327.567 987.717 138.047Z" stroke="#979797" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M754.505 505.724C800.481 437.521 869.966 406.945 781.22 313.194C698.819 226.15 563.471 211.086 393.385 338.684C243.321 451.266 278.395 550.532 389.147 593.539C444.521 615.043 562.162 630.697 633.764 612.671C705.365 594.644 731.711 539.536 754.505 505.724Z" fill="#8686E6" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.457 557.534L620.327 420.238C625.858 417.112 632.633 417.158 638.12 420.362L812.286 522.063C824.155 528.994 824.074 546.174 812.139 552.992L573.695 689.2C568.239 692.316 561.546 692.337 556.072 689.252L377.48 588.638C365.367 581.814 365.355 564.375 377.457 557.534Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 8" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.457 530.899L620.327 393.603C625.858 390.477 632.633 390.524 638.12 393.728L812.286 495.429C824.155 502.36 824.074 519.539 812.139 526.357L573.695 662.566C568.239 665.682 561.546 665.703 556.072 662.618L377.48 562.003C365.367 555.18 365.355 537.741 377.457 530.899Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.457 530.899L620.327 393.603C625.858 390.477 632.633 390.524 638.12 393.728L812.286 495.429C824.155 502.36 824.074 519.539 812.139 526.357L573.695 662.566C568.239 665.682 561.546 665.703 556.072 662.618L377.48 562.003C365.367 555.18 365.355 537.741 377.457 530.899Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M368.388 516.776C368.388 516.776 366.522 546.969 368.388 552.245C370.253 557.521 371.188 558.46 432.753 593.144C494.319 627.829 550.051 660.841 564.261 664.918C574.945 667.983 699.245 590.847 699.245 590.847L812.139 526.357C812.139 526.357 821.139 521.453 820.941 508.235C820.749 495.34 819.748 477.68 819.748 477.68L368.388 516.776Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M368.388 516.776C368.388 516.776 366.522 546.969 368.388 552.245C370.253 557.521 371.188 558.46 432.753 593.144C494.319 627.829 550.051 660.841 564.261 664.918C574.945 667.983 699.245 590.847 699.245 590.847L812.139 526.357C812.139 526.357 821.139 521.453 820.941 508.235C820.749 495.34 819.748 477.68 819.748 477.68L368.388 516.776Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.457 504.67L620.327 367.375C625.858 364.248 632.633 364.295 638.12 367.498L812.286 469.2C824.155 476.131 824.074 493.311 812.139 500.128L573.695 636.337C568.239 639.453 561.546 639.474 556.072 636.389L377.48 535.774C365.367 528.951 365.355 511.512 377.457 504.67Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.457 504.67L620.327 367.375C625.858 364.248 632.633 364.295 638.12 367.498L812.286 469.2C824.155 476.131 824.074 493.311 812.139 500.128L573.695 636.337C568.239 639.453 561.546 639.474 556.072 636.389L377.48 535.774C365.367 528.951 365.355 511.512 377.457 504.67Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M468.642 480.229L660.889 586.528C660.889 586.528 590.609 626.771 583.843 630.587C577.078 634.404 569.358 639.207 565.123 638.679C560.889 638.153 544.193 629.697 538.006 626.211C531.82 622.726 383.141 538.964 383.141 538.964L376.478 532.894L468.642 480.229Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M652.043 561.59L666.029 569.323C666.194 569.388 666.376 569.392 666.543 569.335L681.345 560.945C682 560.725 682.035 559.811 681.398 559.542L667.58 557.091C667.406 557.017 667.21 557.011 667.033 557.075L652.063 560.183C651.41 560.418 651.396 561.338 652.043 561.59Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M652.043 561.59L666.029 569.323C666.194 569.388 666.376 569.392 666.543 569.335L681.345 560.945C682 560.725 682.035 559.811 681.398 559.542L667.58 557.091C667.406 557.017 667.21 557.011 667.033 557.075L652.063 560.183C651.41 560.418 651.396 561.338 652.043 561.59Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M652.331 554.453C651.798 554.639 651.445 555.147 651.457 555.713L651.572 560.937C651.572 560.937 651.293 561.296 652.043 561.589C652.793 561.883 665.072 569.084 666.029 569.322C666.985 569.561 680.924 561.077 680.924 561.077C680.924 561.077 682.138 560.473 681.991 560.311C681.844 560.15 681.82 554.793 681.82 554.793L667.58 545.762L652.331 554.453Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M652.331 554.453C651.798 554.639 651.445 555.147 651.457 555.713L651.572 560.937C651.572 560.937 651.293 561.296 652.043 561.589C652.793 561.883 665.072 569.084 666.029 569.322C666.985 569.561 680.924 561.077 680.924 561.077C680.924 561.077 682.138 560.473 681.991 560.311C681.844 560.15 681.82 554.793 681.82 554.793L667.58 545.762L652.331 554.453Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M652.043 555.925L666.029 563.658C666.194 563.722 666.376 563.726 666.543 563.67L681.345 555.281C682 555.059 682.035 554.146 681.398 553.876L667.58 545.761C667.406 545.687 667.21 545.682 667.033 545.746L652.063 554.518C651.41 554.752 651.396 555.672 652.043 555.925Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M652.043 555.925L666.029 563.658C666.194 563.722 666.376 563.726 666.543 563.67L681.345 555.281C682 555.059 682.035 554.146 681.398 553.876L667.58 545.761C667.406 545.687 667.21 545.682 667.033 545.746L652.063 554.518C651.41 554.752 651.396 555.672 652.043 555.925Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M687.888 545.965L734.703 519.273L737.634 520.642C737.775 520.708 737.765 520.909 737.62 520.962L690.788 547.741L687.887 546.67C687.559 546.55 687.56 546.085 687.888 545.965Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M687.888 545.965L734.703 519.273L737.634 520.642C737.775 520.708 737.765 520.909 737.62 520.962L690.788 547.741L687.887 546.67C687.559 546.55 687.56 546.085 687.888 545.965Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M687.888 551.97L734.703 525.279L737.634 526.648C737.775 526.713 737.765 526.915 737.62 526.968L690.788 553.746L687.887 552.676C687.559 552.555 687.56 552.09 687.888 551.97Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M687.888 551.97L734.703 525.279L737.634 526.648C737.775 526.713 737.765 526.915 737.62 526.968L690.788 553.746L687.887 552.676C687.559 552.555 687.56 552.09 687.888 551.97Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M690.788 547.742V552.781C690.788 553.25 691.255 553.576 691.695 553.414L737.263 527.1C737.478 527.022 737.834 526.872 737.834 526.644L737.735 521.297C737.735 521.093 737.417 521.039 737.224 521.11L690.788 547.742Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M690.788 547.742V552.781C690.788 553.25 691.255 553.576 691.695 553.414L737.263 527.1C737.478 527.022 737.834 526.872 737.834 526.644L737.735 521.297C737.735 521.093 737.417 521.039 737.224 521.11L690.788 547.742Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M687.537 546.593V551.764C687.537 552.186 687.795 552.563 688.186 552.718L689.846 553.374C690.297 553.553 690.789 553.219 690.789 552.733V547.742L687.803 546.409C687.674 546.352 687.529 546.452 687.537 546.593Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M687.537 546.593V551.764C687.537 552.186 687.795 552.563 688.186 552.718L689.846 553.374C690.297 553.553 690.789 553.219 690.789 552.733V547.742L687.803 546.409C687.674 546.352 687.529 546.452 687.537 546.593Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675.734 539.641L722.548 512.949L725.48 514.318C725.62 514.383 725.611 514.585 725.466 514.638L678.634 541.417L675.733 540.346C675.405 540.226 675.406 539.761 675.734 539.641Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675.734 539.641L722.548 512.949L725.48 514.318C725.62 514.383 725.611 514.585 725.466 514.638L678.634 541.417L675.733 540.346C675.405 540.226 675.406 539.761 675.734 539.641Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675.734 545.647L722.548 518.955L725.48 520.324C725.62 520.388 725.611 520.59 725.466 520.644L678.634 547.422L675.733 546.352C675.405 546.231 675.406 545.767 675.734 545.647Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675.734 545.647L722.548 518.955L725.48 520.324C725.62 520.388 725.611 520.59 725.466 520.644L678.634 547.422L675.733 546.352C675.405 546.231 675.406 545.767 675.734 545.647Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M678.634 541.416V546.454C678.634 546.924 679.101 547.25 679.541 547.088L725.109 520.774C725.324 520.696 725.68 520.546 725.68 520.318L725.58 514.971C725.58 514.766 725.262 514.713 725.07 514.783L678.634 541.416Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M678.634 541.416V546.454C678.634 546.924 679.101 547.25 679.541 547.088L725.109 520.774C725.324 520.696 725.68 520.546 725.68 520.318L725.58 514.971C725.58 514.766 725.262 514.713 725.07 514.783L678.634 541.416Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675.383 540.269V545.44C675.383 545.861 675.641 546.239 676.032 546.394L677.691 547.05C678.143 547.229 678.634 546.895 678.634 546.409V541.417L675.649 540.085C675.52 540.028 675.375 540.127 675.383 540.269Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675.383 540.269V545.44C675.383 545.861 675.641 546.239 676.032 546.394L677.691 547.05C678.143 547.229 678.634 546.895 678.634 546.409V541.417L675.649 540.085C675.52 540.028 675.375 540.127 675.383 540.269Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.988 543.144L632.973 550.876C633.138 550.941 633.32 550.944 633.487 550.889L648.289 542.499C648.945 542.277 648.979 541.364 648.342 541.095L634.524 538.643C634.35 538.57 634.154 538.564 633.977 538.628L619.007 541.737C618.354 541.97 618.34 542.89 618.988 543.144Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.988 543.144L632.973 550.876C633.138 550.941 633.32 550.944 633.487 550.889L648.289 542.499C648.945 542.277 648.979 541.364 648.342 541.095L634.524 538.643C634.35 538.57 634.154 538.564 633.977 538.628L619.007 541.737C618.354 541.97 618.34 542.89 618.988 543.144Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M619.277 536.008C618.743 536.194 618.39 536.702 618.403 537.268L618.518 542.492C618.518 542.492 618.238 542.85 618.988 543.145C619.739 543.438 632.017 550.639 632.974 550.877C633.931 551.116 647.87 542.632 647.87 542.632C647.87 542.632 649.084 542.028 648.936 541.866C648.79 541.705 648.766 536.347 648.766 536.347L634.525 527.316L619.277 536.008Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M619.277 536.008C618.743 536.194 618.39 536.702 618.403 537.268L618.518 542.492C618.518 542.492 618.238 542.85 618.988 543.145C619.739 543.438 632.017 550.639 632.974 550.877C633.931 551.116 647.87 542.632 647.87 542.632C647.87 542.632 649.084 542.028 648.936 541.866C648.79 541.705 648.766 536.347 648.766 536.347L634.525 527.316L619.277 536.008Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.988 537.48L632.973 545.212C633.138 545.277 633.32 545.281 633.487 545.225L648.289 536.835C648.945 536.614 648.979 535.7 648.342 535.431L634.524 527.315C634.35 527.241 634.154 527.236 633.977 527.301L619.007 536.073C618.354 536.307 618.34 537.226 618.988 537.48Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.988 537.48L632.973 545.212C633.138 545.277 633.32 545.281 633.487 545.225L648.289 536.835C648.945 536.614 648.979 535.7 648.342 535.431L634.524 527.315C634.35 527.241 634.154 527.236 633.977 527.301L619.007 536.073C618.354 536.307 618.34 537.226 618.988 537.48Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M654.833 527.519L701.648 500.828L704.579 502.197C704.719 502.261 704.71 502.463 704.565 502.517L657.733 529.295L654.832 528.225C654.503 528.104 654.504 527.639 654.833 527.519Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M654.833 527.519L701.648 500.828L704.579 502.197C704.719 502.261 704.71 502.463 704.565 502.517L657.733 529.295L654.832 528.225C654.503 528.104 654.504 527.639 654.833 527.519Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M654.833 533.526L701.648 506.834L704.579 508.202C704.719 508.268 704.71 508.469 704.565 508.523L657.733 535.301L654.832 534.231C654.503 534.11 654.504 533.646 654.833 533.526Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M654.833 533.526L701.648 506.834L704.579 508.202C704.719 508.268 704.71 508.469 704.565 508.523L657.733 535.301L654.832 534.231C654.503 534.11 654.504 533.646 654.833 533.526Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M657.732 529.295V534.333C657.732 534.803 658.2 535.13 658.64 534.968L704.208 508.653C704.422 508.575 704.779 508.425 704.779 508.197L704.679 502.85C704.679 502.645 704.361 502.592 704.168 502.662L657.732 529.295Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M657.732 529.295V534.333C657.732 534.803 658.2 535.13 658.64 534.968L704.208 508.653C704.422 508.575 704.779 508.425 704.779 508.197L704.679 502.85C704.679 502.645 704.361 502.592 704.168 502.662L657.732 529.295Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M654.482 528.148V533.319C654.482 533.741 654.738 534.118 655.131 534.274L656.79 534.928C657.242 535.107 657.733 534.774 657.733 534.288V529.296L654.748 527.964C654.618 527.906 654.473 528.006 654.482 528.148Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M654.482 528.148V533.319C654.482 533.741 654.738 534.118 655.131 534.274L656.79 534.928C657.242 535.107 657.733 534.774 657.733 534.288V529.296L654.748 527.964C654.618 527.906 654.473 528.006 654.482 528.148Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M642.679 521.195L689.493 494.504L692.425 495.872C692.565 495.937 692.556 496.139 692.411 496.193L645.579 522.971L642.678 521.901C642.349 521.78 642.35 521.315 642.679 521.195Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M642.679 521.195L689.493 494.504L692.425 495.872C692.565 495.937 692.556 496.139 692.411 496.193L645.579 522.971L642.678 521.901C642.349 521.78 642.35 521.315 642.679 521.195Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M642.679 527.199L689.493 500.508L692.425 501.876C692.565 501.942 692.556 502.143 692.411 502.197L645.579 528.975L642.678 527.905C642.349 527.784 642.35 527.32 642.679 527.199Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M642.679 527.199L689.493 500.508L692.425 501.876C692.565 501.942 692.556 502.143 692.411 502.197L645.579 528.975L642.678 527.905C642.349 527.784 642.35 527.32 642.679 527.199Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M645.578 522.971V528.009C645.578 528.479 646.045 528.805 646.485 528.643L692.053 502.329C692.267 502.25 692.625 502.101 692.625 501.873L692.524 496.526C692.524 496.321 692.207 496.267 692.014 496.338L645.578 522.971Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M645.578 522.971V528.009C645.578 528.479 646.045 528.805 646.485 528.643L692.053 502.329C692.267 502.25 692.625 502.101 692.625 501.873L692.524 496.526C692.524 496.321 692.207 496.267 692.014 496.338L645.578 522.971Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M642.328 521.822L642.327 526.992C642.327 527.414 642.585 527.792 642.977 527.947L644.636 528.602C645.088 528.781 645.579 528.448 645.579 527.962V522.97L642.594 521.638C642.464 521.58 642.319 521.68 642.328 521.822Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M642.328 521.822L642.327 526.992C642.327 527.414 642.585 527.792 642.977 527.947L644.636 528.602C645.088 528.781 645.579 528.448 645.579 527.962V522.97L642.594 521.638C642.464 521.58 642.319 521.68 642.328 521.822Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M584.529 524.741L598.515 532.473C598.679 532.538 598.862 532.542 599.029 532.486L613.831 524.096C614.486 523.875 614.52 522.961 613.883 522.693L600.065 520.242C599.891 520.167 599.696 520.162 599.518 520.225L584.548 523.334C583.895 523.568 583.882 524.488 584.529 524.741Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M584.529 524.741L598.515 532.473C598.679 532.538 598.862 532.542 599.029 532.486L613.831 524.096C614.486 523.875 614.52 522.961 613.883 522.693L600.065 520.242C599.891 520.167 599.696 520.162 599.518 520.225L584.548 523.334C583.895 523.568 583.882 524.488 584.529 524.741Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M584.818 517.605C584.284 517.79 583.93 518.298 583.943 518.864L584.059 524.088C584.059 524.088 583.778 524.447 584.529 524.74C585.28 525.034 597.558 532.235 598.515 532.473C599.472 532.712 613.41 524.228 613.41 524.228C613.41 524.228 614.624 523.624 614.477 523.462C614.33 523.301 614.307 517.944 614.307 517.944L600.065 508.912L584.818 517.605Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M584.818 517.605C584.284 517.79 583.93 518.298 583.943 518.864L584.059 524.088C584.059 524.088 583.778 524.447 584.529 524.74C585.28 525.034 597.558 532.235 598.515 532.473C599.472 532.712 613.41 524.228 613.41 524.228C613.41 524.228 614.624 523.624 614.477 523.462C614.33 523.301 614.307 517.944 614.307 517.944L600.065 508.912L584.818 517.605Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M584.529 519.075L598.515 526.808C598.679 526.873 598.862 526.877 599.029 526.82L613.831 518.43C614.486 518.21 614.52 517.297 613.883 517.027L600.065 508.911C599.891 508.838 599.696 508.832 599.518 508.896L584.548 517.668C583.895 517.903 583.882 518.823 584.529 519.075Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M584.529 519.075L598.515 526.808C598.679 526.873 598.862 526.877 599.029 526.82L613.831 518.43C614.486 518.21 614.52 517.297 613.883 517.027L600.065 508.911C599.891 508.838 599.696 508.832 599.518 508.896L584.548 517.668C583.895 517.903 583.882 518.823 584.529 519.075Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620.374 509.117L667.188 482.426L670.12 483.794C670.26 483.859 670.251 484.061 670.106 484.115L623.273 510.893L620.373 509.822C620.044 509.702 620.045 509.238 620.374 509.117Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620.374 509.117L667.188 482.426L670.12 483.794C670.26 483.859 670.251 484.061 670.106 484.115L623.273 510.893L620.373 509.822C620.044 509.702 620.045 509.238 620.374 509.117Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620.374 515.121L667.188 488.43L670.12 489.798C670.26 489.864 670.251 490.065 670.106 490.119L623.273 516.897L620.373 515.827C620.044 515.706 620.045 515.241 620.374 515.121Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620.374 515.121L667.188 488.43L670.12 489.798C670.26 489.864 670.251 490.065 670.106 490.119L623.273 516.897L620.373 515.827C620.044 515.706 620.045 515.241 620.374 515.121Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M623.273 510.892V515.931C623.273 516.4 623.741 516.727 624.181 516.565L669.749 490.251C669.963 490.172 670.321 490.023 670.321 489.795L670.22 484.447C670.22 484.243 669.902 484.19 669.71 484.26L623.273 510.892Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M623.273 510.892V515.931C623.273 516.4 623.741 516.727 624.181 516.565L669.749 490.251C669.963 490.172 670.321 490.023 670.321 489.795L670.22 484.447C670.22 484.243 669.902 484.19 669.71 484.26L623.273 510.892Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620.023 509.745L620.022 514.916C620.022 515.338 620.28 515.716 620.671 515.871L622.331 516.526C622.783 516.705 623.274 516.371 623.274 515.885V510.893L620.289 509.561C620.16 509.504 620.015 509.604 620.023 509.745Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M620.023 509.745L620.022 514.916C620.022 515.338 620.28 515.716 620.671 515.871L622.331 516.526C622.783 516.705 623.274 516.371 623.274 515.885V510.893L620.289 509.561C620.16 509.504 620.015 509.604 620.023 509.745Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M608.22 502.791L655.034 476.1L657.966 477.468C658.106 477.533 658.097 477.735 657.951 477.789L611.119 504.566L608.218 503.496C607.89 503.376 607.891 502.911 608.22 502.791Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M608.22 502.791L655.034 476.1L657.966 477.468C658.106 477.533 658.097 477.735 657.951 477.789L611.119 504.566L608.218 503.496C607.89 503.376 607.891 502.911 608.22 502.791Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M608.22 508.797L655.034 482.105L657.966 483.474C658.106 483.54 658.097 483.742 657.951 483.795L611.119 510.573L608.218 509.503C607.89 509.382 607.891 508.917 608.22 508.797Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M608.22 508.797L655.034 482.105L657.966 483.474C658.106 483.54 658.097 483.742 657.951 483.795L611.119 510.573L608.218 509.503C607.89 509.382 607.891 508.917 608.22 508.797Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M611.119 504.568V509.607C611.119 510.076 611.586 510.403 612.026 510.241L657.595 483.927C657.809 483.848 658.166 483.698 658.166 483.471L658.066 478.123C658.066 477.918 657.748 477.866 657.556 477.935L611.119 504.568Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M611.119 504.568V509.607C611.119 510.076 611.586 510.403 612.026 510.241L657.595 483.927C657.809 483.848 658.166 483.698 658.166 483.471L658.066 478.123C658.066 477.918 657.748 477.866 657.556 477.935L611.119 504.568Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M607.869 503.419L607.868 508.59C607.868 509.012 608.126 509.389 608.517 509.545L610.177 510.2C610.629 510.378 611.119 510.045 611.119 509.559V504.567L608.135 503.235C608.005 503.178 607.86 503.278 607.869 503.419Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M607.869 503.419L607.868 508.59C607.868 509.012 608.126 509.389 608.517 509.545L610.177 510.2C610.629 510.378 611.119 510.045 611.119 509.559V504.567L608.135 503.235C608.005 503.178 607.86 503.278 607.869 503.419Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M411.707 532.4L456.822 506.836L411.707 532.4Z" fill="white" />
+<path d="M411.707 532.4L456.822 506.836" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M423.525 540.351L468.641 514.787L423.525 540.351Z" fill="white" />
+<path d="M423.525 540.351L468.641 514.787" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M436.938 548.773L482.055 523.209L436.938 548.773Z" fill="white" />
+<path d="M436.938 548.773L482.055 523.209" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M452.537 556.205L497.652 530.641L452.537 556.205Z" fill="white" />
+<path d="M452.537 556.205L497.652 530.641" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M468.642 565.916L513.757 540.352L468.642 565.916Z" fill="white" />
+<path d="M468.642 565.916L513.757 540.352" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M460.629 560.424L505.744 534.859L460.629 560.424Z" fill="white" />
+<path d="M460.629 560.424L505.744 534.859" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M444.562 553.134L489.678 527.568L444.562 553.134Z" fill="white" />
+<path d="M444.562 553.134L489.678 527.568" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M429.979 544.555L475.096 518.99L429.979 544.555Z" fill="white" />
+<path d="M429.979 544.555L475.096 518.99" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M417.518 536.327L462.633 510.762L417.518 536.327Z" fill="white" />
+<path d="M417.518 536.327L462.633 510.762" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M376.478 532.892L651.869 375.527C651.869 375.527 638.017 366.012 630.863 365.061C623.708 364.109 617.539 368.949 615.223 370.258C612.907 371.568 373.866 507.331 373.866 507.331C373.866 507.331 367.559 512.869 368.226 519.618C369.313 530.587 376.478 532.892 376.478 532.892Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M376.478 532.892L651.869 375.527C651.869 375.527 638.017 366.012 630.863 365.061C623.708 364.109 617.539 368.949 615.223 370.258C612.907 371.568 373.866 507.331 373.866 507.331C373.866 507.331 367.559 512.869 368.226 519.618C369.313 530.587 376.478 532.892 376.478 532.892Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.457 504.67L620.327 367.375C625.858 364.248 632.633 364.295 638.12 367.498L812.286 469.2C824.155 476.131 824.074 493.311 812.139 500.128L573.695 636.337C568.239 639.453 561.546 639.474 556.072 636.389L377.48 535.774C365.367 528.951 365.355 511.512 377.457 504.67Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M693.645 451.952V375.383C693.645 372.884 696.109 371.982 698.47 372.799L705.627 375.276C707.091 375.783 708.074 377.162 708.074 378.712V456.041C708.074 458.832 705.058 460.584 702.633 459.198L695.477 455.109C694.344 454.461 693.645 453.256 693.645 451.952Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M693.645 451.952V375.383C693.645 372.884 696.109 371.982 698.47 372.799L705.627 375.276C707.091 375.783 708.074 377.162 708.074 378.712V456.041C708.074 458.832 705.058 460.584 702.633 459.198L695.477 455.109C694.344 454.461 693.645 453.256 693.645 451.952Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M680.947 381.202L695.494 371.936C696.088 371.592 696.806 371.538 697.445 371.788L705.627 375.276C706.527 375.601 707.012 376.145 707.012 376.145L693.1 384.874C692.479 385.28 691.881 386.149 691.194 385.868L683.133 382.579C682.219 382.206 680.08 381.677 680.947 381.202Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M680.947 381.202L695.494 371.936C696.088 371.592 696.806 371.538 697.445 371.788L705.627 375.276C706.527 375.601 707.012 376.145 707.012 376.145L693.1 384.874C692.479 385.28 691.881 386.149 691.194 385.868L683.133 382.579C682.219 382.206 680.08 381.677 680.947 381.202Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M691.56 467.38L706.846 458.704C707.605 458.273 708.073 457.469 708.073 456.596V378.713L707.012 376.146L693.099 384.874L691.56 467.38Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M691.56 467.38L706.846 458.704C707.605 458.273 708.073 457.469 708.073 456.596V378.713L707.012 376.146L693.099 384.874L691.56 467.38Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M679.216 460.008V384.291C679.216 381.792 681.679 380.038 684.041 380.855L691.198 383.332C692.663 383.839 693.645 385.218 693.645 386.769V464.098C693.645 466.889 690.628 468.639 688.204 467.255L681.047 463.166C679.914 462.518 679.216 461.313 679.216 460.008Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M679.216 460.008V384.291C679.216 381.792 681.679 380.038 684.041 380.855L691.198 383.332C692.663 383.839 693.645 385.218 693.645 386.769V464.098C693.645 466.889 690.628 468.639 688.204 467.255L681.047 463.166C679.914 462.518 679.216 461.313 679.216 460.008Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M693.645 418.483L707.012 411.752L707.82 457.372L693.877 465.048L693.645 418.483Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M716.791 465.388V342.778C716.791 340.279 719.254 338.524 721.616 339.342L728.773 341.819C730.238 342.325 731.22 343.705 731.22 345.255V469.478C731.22 472.27 728.203 474.02 725.779 472.636L718.622 468.546C717.489 467.899 716.791 466.694 716.791 465.388Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M716.791 465.388V342.778C716.791 340.279 719.254 338.524 721.616 339.342L728.773 341.819C730.238 342.325 731.22 343.705 731.22 345.255V469.478C731.22 472.27 728.203 474.02 725.779 472.636L718.622 468.546C717.489 467.899 716.791 466.694 716.791 465.388Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M704.091 347.745L718.638 339.333C719.233 338.989 719.951 338.934 720.589 339.184L728.772 341.82C729.672 342.145 730.156 342.688 730.156 342.688L716.245 351.418C715.623 351.824 715.025 352.692 714.339 352.412L706.278 349.122C705.364 348.749 703.225 348.221 704.091 347.745Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M704.091 347.745L718.638 339.333C719.233 338.989 719.951 338.934 720.589 339.184L728.772 341.82C729.672 342.145 730.156 342.688 730.156 342.688L716.245 351.418C715.623 351.824 715.025 352.692 714.339 352.412L706.278 349.122C705.364 348.749 703.225 348.221 704.091 347.745Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M714.706 480.816L729.993 472.141C730.751 471.709 731.22 470.905 731.22 470.033V345.255L730.157 342.688L716.246 351.416L714.706 480.816Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M714.706 480.816L729.993 472.141C730.751 471.709 731.22 470.905 731.22 470.033V345.255L730.157 342.688L716.246 351.416L714.706 480.816Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M702.361 473.445V350.834C702.361 348.335 704.825 346.581 707.187 347.398L714.343 349.874C715.808 350.382 716.791 351.761 716.791 353.312V477.534C716.791 480.327 713.775 482.077 711.35 480.692L704.194 476.602C703.06 475.955 702.361 474.75 702.361 473.445Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M702.361 473.445V350.834C702.361 348.335 704.825 346.581 707.187 347.398L714.343 349.874C715.808 350.382 716.791 351.761 716.791 353.312V477.534C716.791 480.327 713.775 482.077 711.35 480.692L704.194 476.602C703.06 475.955 702.361 474.75 702.361 473.445Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M717.597 398.116L732.707 392.244L734.449 469.11L717.857 477.691L717.597 398.116Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M741.865 479.458V373.047C741.865 370.548 744.328 368.794 746.69 369.611L753.847 372.087C755.312 372.595 756.294 373.974 756.294 375.524V483.547C756.294 486.34 753.278 488.09 750.854 486.704L743.697 482.615C742.564 481.968 741.865 480.763 741.865 479.458Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M741.865 479.458V373.047C741.865 370.548 744.328 368.794 746.69 369.611L753.847 372.087C755.312 372.595 756.294 373.974 756.294 375.524V483.547C756.294 486.34 753.278 488.09 750.854 486.704L743.697 482.615C742.564 481.968 741.865 480.763 741.865 479.458Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M729.166 378.015L743.714 369.602C744.308 369.259 745.026 369.204 745.664 369.453L753.847 372.088C754.747 372.415 755.232 372.958 755.232 372.958L741.32 381.687C740.699 382.092 740.1 382.962 739.414 382.682L731.353 379.391C730.439 379.019 728.301 378.491 729.166 378.015Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M729.166 378.015L743.714 369.602C744.308 369.259 745.026 369.204 745.664 369.453L753.847 372.088C754.747 372.415 755.232 372.958 755.232 372.958L741.32 381.687C740.699 382.092 740.1 382.962 739.414 382.682L731.353 379.391C730.439 379.019 728.301 378.491 729.166 378.015Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M739.78 494.888L755.067 486.211C755.825 485.781 756.294 484.976 756.294 484.104V375.525L755.232 372.959L741.32 381.686L739.78 494.888Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M739.78 494.888L755.067 486.211C755.825 485.781 756.294 484.976 756.294 484.104V375.525L755.232 372.959L741.32 381.686L739.78 494.888Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M727.436 487.515V381.104C727.436 378.605 729.9 376.85 732.261 377.668L739.418 380.144C740.882 380.651 741.865 382.031 741.865 383.581V491.604C741.865 494.396 738.849 496.147 736.424 494.761L729.268 490.672C728.135 490.024 727.436 488.819 727.436 487.515Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M727.436 487.515V381.104C727.436 378.605 729.9 376.85 732.261 377.668L739.418 380.144C740.882 380.651 741.865 382.031 741.865 383.581V491.604C741.865 494.396 738.849 496.147 736.424 494.761L729.268 490.672C728.135 490.024 727.436 488.819 727.436 487.515Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M742.822 432.155L755.255 426.197L756.294 484.23L742.098 493.571L742.822 432.155Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M766.476 492.678V406.731C766.476 404.232 768.94 402.477 771.301 403.295L778.458 405.771C779.922 406.278 780.905 407.658 780.905 409.208V496.768C780.905 499.56 777.888 501.31 775.464 499.925L768.307 495.836C767.175 495.188 766.476 493.983 766.476 492.678Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M766.476 492.678V406.731C766.476 404.232 768.94 402.477 771.301 403.295L778.458 405.771C779.922 406.278 780.905 407.658 780.905 409.208V496.768C780.905 499.56 777.888 501.31 775.464 499.925L768.307 495.836C767.175 495.188 766.476 493.983 766.476 492.678Z" stroke="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M753.777 411.696L768.324 403.284C768.918 402.94 769.636 402.886 770.275 403.135L778.457 405.77C779.357 406.097 779.842 406.64 779.842 406.64L765.93 415.368C765.309 415.774 764.71 416.643 764.024 416.363L755.963 413.073C755.049 412.701 752.91 412.172 753.777 411.696Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M753.777 411.696L768.324 403.284C768.918 402.94 769.636 402.886 770.275 403.135L778.457 405.77C779.357 406.097 779.842 406.64 779.842 406.64L765.93 415.368C765.309 415.774 764.71 416.643 764.024 416.363L755.963 413.073C755.049 412.701 752.91 412.172 753.777 411.696Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M764.391 508.106L779.677 499.43C780.435 498.999 780.904 498.194 780.904 497.323V409.207L779.843 406.641L765.93 415.368L764.391 508.106Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M764.391 508.106L779.677 499.43C780.435 498.999 780.904 498.194 780.904 497.323V409.207L779.843 406.641L765.93 415.368L764.391 508.106Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M752.046 500.734V414.786C752.046 412.287 754.51 410.532 756.872 411.349L764.029 413.826C765.493 414.333 766.476 415.712 766.476 417.263V504.823C766.476 507.614 763.459 509.366 761.034 507.98L753.878 503.891C752.745 503.243 752.046 502.038 752.046 500.734Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M752.046 500.734V414.786C752.046 412.287 754.51 410.532 756.872 411.349L764.029 413.826C765.493 414.333 766.476 415.712 766.476 417.263V504.823C766.476 507.614 763.459 509.366 761.034 507.98L753.878 503.891C752.745 503.243 752.046 502.038 752.046 500.734Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M767.302 456.464L780.049 450.021L780.138 497.267C780.139 497.666 779.745 498.391 779.408 498.608L767.353 505.361L767.302 456.464Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M681.048 463.167L688.205 467.257C690.628 468.641 693.645 466.891 693.645 464.099V418.484L679.217 411.148V460.009C679.217 461.315 679.915 462.519 681.048 463.167Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M704.194 476.602L711.35 480.691C713.774 482.077 716.79 480.326 716.79 477.534V398.045L702.361 390.709V473.445C702.361 474.75 703.06 475.955 704.194 476.602Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M729.268 490.673L736.424 494.762C738.848 496.148 741.865 494.397 741.865 491.605V432.25L727.436 424.914V487.516C727.436 488.82 728.135 490.025 729.268 490.673Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M752.046 500.735C752.046 502.04 752.745 503.245 753.878 503.893L761.034 507.982C763.459 509.367 766.476 507.616 766.476 504.825V456.648L752.046 448.459V500.735Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M679.014 460.152V384.436C679.014 381.937 681.478 380.182 683.84 381L690.997 383.476C692.46 383.983 693.444 385.363 693.444 386.913V464.241C693.444 467.034 690.427 468.784 688.003 467.398L680.846 463.309C679.713 462.661 679.014 461.457 679.014 460.152Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M702.159 473.59V350.979C702.159 348.48 704.623 346.726 706.985 347.542L714.141 350.019C715.606 350.527 716.588 351.906 716.588 353.456V477.679C716.588 480.471 713.572 482.222 711.148 480.837L703.991 476.747C702.858 476.099 702.159 474.895 702.159 473.59Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M727.233 487.659V381.248C727.233 378.749 729.697 376.995 732.059 377.812L739.215 380.289C740.68 380.796 741.662 382.175 741.662 383.726V491.749C741.662 494.541 738.647 496.291 736.222 494.907L729.066 490.816C727.933 490.169 727.233 488.965 727.233 487.659Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M751.844 500.878V414.93C751.844 412.431 754.308 410.676 756.67 411.494L763.826 413.97C765.291 414.477 766.273 415.857 766.273 417.408V504.967C766.273 507.759 763.257 509.51 760.832 508.124L753.676 504.035C752.543 503.388 751.844 502.182 751.844 500.878Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M619.039 362.651L578.848 318.963L583.113 316.381L633.638 371.63L619.039 362.651Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M619.039 362.651L578.848 318.963L583.113 316.381L633.638 371.63L619.039 362.651Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M509.326 470.306L590.802 423.749C593.96 421.944 597.842 421.971 600.975 423.82L646.649 450.648C653.327 454.587 653.285 464.263 646.573 468.144L566.495 514.447C563.373 516.252 559.527 516.261 556.397 514.472L509.326 487.898C502.52 484.009 502.52 474.196 509.326 470.306Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 8" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M509.326 411.244L590.802 364.687C593.96 362.882 597.842 362.909 600.975 364.757L646.649 391.584C653.327 395.524 653.285 405.199 646.573 409.081L566.495 455.384C563.373 457.188 559.527 457.198 556.397 455.41L509.326 428.836C502.52 424.946 502.52 415.133 509.326 411.244Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M509.326 411.244L590.802 364.687C593.96 362.882 597.842 362.909 600.975 364.757L646.649 391.584C653.327 395.524 653.285 405.199 646.573 409.081L566.495 455.384C563.373 457.188 559.527 457.198 556.397 455.41L509.326 428.836C502.52 424.946 502.52 415.133 509.326 411.244Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M504.222 405.54V424.09C504.222 425.457 504.905 426.732 506.044 427.489C515.491 433.762 558.665 458.08 562.328 456.744C576.578 451.547 646.572 409.08 646.572 409.08C646.572 409.08 652.237 405.912 651.585 401.248C650.933 396.584 651.633 387.295 651.633 387.295L504.222 405.54Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M504.222 405.54V424.09C504.222 425.457 504.905 426.732 506.044 427.489C515.491 433.762 558.665 458.08 562.328 456.744C576.578 451.547 646.572 409.08 646.572 409.08C646.572 409.08 652.237 405.912 651.585 401.248C650.933 396.584 651.633 387.295 651.633 387.295L504.222 405.54Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M509.326 398.783L590.802 352.226C593.96 350.421 597.842 350.448 600.975 352.296L646.649 379.124C653.327 383.063 653.285 392.738 646.573 396.62L566.495 442.923C563.373 444.727 559.527 444.737 556.397 442.948L509.326 416.375C502.52 412.485 502.52 402.672 509.326 398.783Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M509.326 398.783L590.802 352.226C593.96 350.421 597.842 350.448 600.975 352.296L646.649 379.124C653.327 383.063 653.285 392.738 646.573 396.62L566.495 442.923C563.373 444.727 559.527 444.737 556.397 442.948L509.326 416.375C502.52 412.485 502.52 402.672 509.326 398.783Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M535.558 430.174C533.921 429.188 533.112 427.261 533.551 425.4L538.778 403.18C539.036 400.859 541.123 399.185 543.444 399.435L588.601 406.723C590.823 407.081 592.958 405.706 593.55 403.533L598.546 385.16C599.713 380.871 603.412 377.753 607.836 377.328L637.223 374.503C638.105 374.418 638.989 374.6 639.765 375.026C642.359 376.453 648.309 379.819 649.059 381.093C651.637 385.469 650.687 390.866 649.815 393.656C648.97 396.358 600.589 422.387 597.567 424.011C597.468 424.064 597.376 424.117 597.283 424.178C595.06 425.599 566.36 443.923 563.462 444.074C560.445 444.23 551.261 440.903 547.395 437.866C544.775 435.806 539.003 432.251 535.558 430.174Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M509.326 398.783L590.802 352.226C593.96 350.421 597.842 350.448 600.975 352.296L646.649 379.124C653.327 383.063 653.285 392.738 646.573 396.62L566.495 442.923C563.373 444.727 559.527 444.737 556.397 442.948L509.326 416.375C502.52 412.485 502.52 402.672 509.326 398.783Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M590.591 382.54C590.591 386.665 584.922 390.008 577.927 390.008C570.933 390.008 565.264 386.665 565.264 382.54C565.264 378.415 570.933 375.072 577.927 375.072C584.922 375.072 590.591 378.415 590.591 382.54Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M577.64 284.297C577.602 288.12 580.591 305.27 583.392 308.352C584.838 309.944 585.747 312.079 585.726 313.931C585.698 316.492 583.668 317.699 581.461 316.511C579.18 315.282 577.398 312.116 577.422 309.455C577.439 307.677 576.241 305.564 574.761 304.736C573.283 303.907 572.085 304.684 572.076 306.467C572.046 312.698 576.073 320.081 581.391 322.931C586.62 325.733 591.552 322.969 591.597 316.879C591.629 312.552 589.373 307.602 585.938 303.901C584.95 302.837 584.358 291.012 584.468 289.561L583.936 288.545C583.834 288.352 583.672 288.206 583.469 288.127C582.397 287.717 577.644 283.88 577.64 284.297Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M577.64 284.297C577.602 288.12 580.591 305.27 583.392 308.352C584.838 309.944 585.747 312.079 585.726 313.931C585.698 316.492 583.668 317.699 581.461 316.511C579.18 315.282 577.398 312.116 577.422 309.455C577.439 307.677 576.241 305.564 574.761 304.736C573.283 303.907 572.085 304.684 572.076 306.467C572.046 312.698 576.073 320.081 581.391 322.931C586.62 325.733 591.552 322.969 591.597 316.879C591.629 312.552 589.373 307.602 585.938 303.901C584.95 302.837 584.358 291.012 584.468 289.561L583.936 288.545C583.834 288.352 583.672 288.206 583.469 288.127C582.397 287.717 577.644 283.88 577.64 284.297Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M569.578 288.356L577.639 284.297L583.935 288.546C583.952 288.559 584.465 289.536 584.467 289.56C584.524 290.23 585.058 301.398 585.491 302.631C585.937 303.901 591.736 310.641 592.046 314.993C592.354 319.346 591.884 320.934 589.008 322.852C586.934 324.234 582.685 326.664 580.471 327.914C579.776 328.306 578.908 327.895 578.761 327.111L575.157 308.01L569.679 290.653C569.369 289.679 568.681 288.85 569.578 288.356Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M569.578 288.356L577.639 284.297L583.935 288.546C583.952 288.559 584.465 289.536 584.467 289.56C584.524 290.23 585.058 301.398 585.491 302.631C585.937 303.901 591.736 310.641 592.046 314.993C592.354 319.346 591.884 320.934 589.008 322.852C586.934 324.234 582.685 326.664 580.471 327.914C579.776 328.306 578.908 327.895 578.761 327.111L575.157 308.01L569.679 290.653C569.369 289.679 568.681 288.85 569.578 288.356Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M565.405 308.702L571.046 305.416L579.603 318.356L577.586 325.667L569.772 321.718L564.86 310.36C564.596 309.75 564.83 309.038 565.405 308.702Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M565.405 308.702L571.046 305.416L579.603 318.356L577.586 325.667L569.772 321.718L564.86 310.36C564.596 309.75 564.83 309.038 565.405 308.702Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M567.879 285.172C567.84 288.995 572.096 309.947 574.897 313.029C576.345 314.62 577.252 316.755 577.233 318.607C577.205 321.169 575.174 322.376 572.968 321.188C570.685 319.959 568.903 316.793 568.927 314.132C568.944 312.355 567.746 310.241 566.267 309.413C564.789 308.584 563.591 309.361 563.582 311.144C563.552 317.375 567.578 324.757 572.897 327.609C578.126 330.41 583.058 327.646 583.102 321.556C583.136 317.229 580.879 312.279 577.443 308.578C576.456 307.514 574.597 291.887 574.706 290.436L574.174 289.42C574.073 289.227 573.91 289.081 573.708 289.002C572.635 288.592 567.882 284.755 567.879 285.172Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M567.879 285.172C567.84 288.995 572.096 309.947 574.897 313.029C576.345 314.62 577.252 316.755 577.233 318.607C577.205 321.169 575.174 322.376 572.968 321.188C570.685 319.959 568.903 316.793 568.927 314.132C568.944 312.355 567.746 310.241 566.267 309.413C564.789 308.584 563.591 309.361 563.582 311.144C563.552 317.375 567.578 324.757 572.897 327.609C578.126 330.41 583.058 327.646 583.102 321.556C583.136 317.229 580.879 312.279 577.443 308.578C576.456 307.514 574.597 291.887 574.706 290.436L574.174 289.42C574.073 289.227 573.91 289.081 573.708 289.002C572.635 288.592 567.882 284.755 567.879 285.172Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M578.127 292.195L581.399 290.525L578.127 292.195Z" fill="white" />
+<path d="M578.127 292.195L581.399 290.525" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M413.387 453.721V438.6C413.387 437.829 412.977 437.117 413 437.424L368.269 411.582C366.141 410.061 364.343 411.099 364.343 412.758V427.878C364.343 428.649 364.755 429.361 365.421 429.747L410.152 455.587C411.59 456.418 413.387 455.381 413.387 453.721Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M413.387 453.721V438.6C413.387 437.829 412.977 437.117 413 437.424L368.269 411.582C366.141 410.061 364.343 411.099 364.343 412.758V427.878C364.343 428.649 364.755 429.361 365.421 429.747L410.152 455.587C411.59 456.418 413.387 455.381 413.387 453.721Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M381.105 456.401L410.173 439.714C411.655 438.863 411.666 436.728 410.191 435.864L367.909 411.047L334.675 430.268L381.105 456.401Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M381.105 456.401L410.173 439.714C411.655 438.863 411.666 436.728 410.191 435.864L367.909 411.047L334.675 430.268L381.105 456.401Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M382.183 473.389V458.269C382.183 457.498 381.772 456.786 381.104 456.401L336.374 430.56C334.937 429.729 333.139 430.767 333.139 432.427V447.547C333.139 448.318 333.55 449.029 334.216 449.415L378.948 475.256C380.385 476.087 382.183 475.049 382.183 473.389Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M382.183 473.389V458.269C382.183 457.498 381.772 456.786 381.104 456.401L336.374 430.56C334.937 429.729 333.139 430.767 333.139 432.427V447.547C333.139 448.318 333.55 449.029 334.216 449.415L378.948 475.256C380.385 476.087 382.183 475.049 382.183 473.389Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M381.104 475.549L413.498 458.216V441.067C413.498 439.615 411.929 438.707 410.67 439.43L381.104 456.402V475.549Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M381.104 475.549L413.498 458.216V441.067C413.498 439.615 411.929 438.707 410.67 439.43L381.104 456.402V475.549Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M372.2 437.621L387.246 439.591V116.458C387.246 115.14 385.877 114.267 384.682 114.822L372.2 120.618V437.621Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M372.2 437.621L387.246 439.591V116.458C387.246 115.14 385.877 114.267 384.682 114.822L372.2 120.618V437.621Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M361.838 437.733L376.595 445.844C376.725 445.914 376.883 445.821 376.883 445.673V444.364V118.262L364.084 124.134C362.715 124.762 361.838 126.13 361.838 127.636V437.733Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M361.838 437.733L376.595 445.844C376.725 445.914 376.883 445.821 376.883 445.673V444.364V118.262L364.084 124.134C362.715 124.762 361.838 126.13 361.838 127.636V437.733Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.586 446.054L387.246 439.849V118.262C387.246 118.262 387.63 115.711 386.74 115.206C385.85 114.703 384.852 114.744 383.855 115.206C382.858 115.67 376.885 118.262 376.885 118.262V445.671C376.885 446.032 377.284 446.249 377.586 446.054Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M377.586 446.054L387.246 439.849V118.262C387.246 118.262 387.63 115.711 386.74 115.206C385.85 114.703 384.852 114.744 383.855 115.206C382.858 115.67 376.885 118.262 376.885 118.262V445.671C376.885 446.032 377.284 446.249 377.586 446.054Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M389.742 177.743L582.264 283.64C584.861 285.123 585.981 287.647 583.278 288.926L575.443 293.301C574.35 293.818 573.075 293.768 572.026 293.169L379.593 187.323C377.014 185.85 377.137 182.091 379.808 180.789L386.287 177.63C387.386 177.094 388.68 177.136 389.742 177.743Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M389.742 177.743L582.264 283.64C584.861 285.123 585.981 287.647 583.278 288.926L575.443 293.301C574.35 293.818 573.075 293.768 572.026 293.169L379.593 187.323C377.014 185.85 377.137 182.091 379.808 180.789L386.287 177.63C387.386 177.094 388.68 177.136 389.742 177.743Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.532 279.889V291.658C574.532 293.191 572.877 294.151 571.547 293.39L376.884 185.776V167.328L574.532 279.889Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M574.532 279.889V291.658C574.532 293.191 572.877 294.151 571.547 293.39L376.884 185.776V167.328L574.532 279.889Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M389.742 162.536L583.531 270.36C586.128 271.843 585.981 275.634 583.278 276.913L576.709 280.021C575.617 280.538 574.342 280.489 573.292 279.89L379.593 172.116C377.014 170.643 377.137 166.884 379.808 165.581L386.287 162.423C387.386 161.887 388.68 161.929 389.742 162.536Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M389.742 162.536L583.531 270.36C586.128 271.843 585.981 275.634 583.278 276.913L576.709 280.021C575.617 280.538 574.342 280.489 573.292 279.89L379.593 172.116C377.014 170.643 377.137 166.884 379.808 165.581L386.287 162.423C387.386 161.887 388.68 161.929 389.742 162.536Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M585.396 273.789L585.385 286.371C585.391 286.902 585.113 287.397 584.654 287.665L576.759 292.288C575.773 292.866 574.532 292.155 574.532 291.012V280.664C574.532 280.178 574.769 279.725 575.168 279.449L582.931 274.056C583.907 273.38 585.381 272.603 585.396 273.789Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M585.396 273.789L585.385 286.371C585.391 286.902 585.113 287.397 584.654 287.665L576.759 292.288C575.773 292.866 574.532 292.155 574.532 291.012V280.664C574.532 280.178 574.769 279.725 575.168 279.449L582.931 274.056C583.907 273.38 585.381 272.603 585.396 273.789Z" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M528.372 427.127L572.968 321.19L577.233 318.609L536.582 431.763L528.372 427.127Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M528.372 427.127L572.968 321.19L577.233 318.609L536.582 431.763L528.372 427.127Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</div>
+</div>
+</section>
+<section class="cards">
+<ul class="cards-items">
+<li class="cards-item">
+<p class="cards-dscr"><span>Geniusee uses a holistic method</span>, as in rugby, when the ball is passed inside the team, while the team moves across the field as a unit.</p>
+<span class="cards-number">01</span>
+</li>
+<li class="cards-item">
+<p class="cards-dscr">We noted that it’s not enough to provide basic rules - <span>high quality, low cost, and differentiation </span>- to succeed in a competitive market. We also use speed and flexibility.</p>
+<span class="cards-number">02</span>
+</li>
+<li class="cards-item">
+<p class="cards-dscr">The transition from one phase to another occurs after all the requirements of the previous phase are fulfilled. <span>These checkpoints control risks.</span></p>
+<span class="cards-number">03</span>
+</li>
+<li class="cards-item">
+<p class="cards-dscr">We cultivate active interaction not only between project participants but also with suppliers. This exchange and openness, within the team and with suppliers, <span>increase speed and flexibility. </span></p>
+<span class="cards-number">04</span>
+</li>
+<li class="cards-item">
+<p class="cards-dscr">Our specialists are close to external sources of information, so they quickly respond to changing market conditions. Key features of our teams in development are <span>autonomy, self-improvement ability and mutual development of team members.</span></p>
+<span class="cards-number">05</span>
+</li>
+<li class="cards-item">
+<p class="cards-dscr">We regularly <span>provide transfer of knowledge </span>to other projects that develop new products, or to other departments in the organization.</p>
+<span class="cards-number">06</span>
+</li>
+</ul>
+</section>
+<section class="process">
+<div class="process-main">
+<div class="left-content">
+<h2 class="process-title"><span>Instead of moving through certain stages,</span>the process is born from the interaction of team members.</h2>
+</div>
+<div class="right-content">
+<img src="/storage/app/media/process-main-bg_ok.svg" alt="process image" />
+</div>
+</div>
+<div class="text-wrap">
+<p class="process-text">According to our approach, the product development process arises from the constant interaction of a multidisciplinary team, whose members work together from beginning to end. It stimulates new types of thinking and actions within the team at different levels and in different spheres. Energy and motivation efforts spread through the company and begin to build a new order.</p>
+<p class="process-text">The project team assumes the character of self-organizing when it is in the state of “zero information”. The process begins to create its own dynamic order. Our team starts working as a start-up company. We take risks, take the initiative, creates an independent plan. At some point, a dedicated team begins to create the unique concept of the project, that gives a unique dynamic and rhythm. This rhythm serves as a driving force and moves the team forward.</p>
+</div>
+</section>
+</main>
+<section>
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3 class="font-h4">Related projects <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/realmfive"><img data-src="/storage/app/media/realm_preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/revenu"><img data-src="/storage/app/media/revenu/login_dt.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Revenu<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/zedosh"><img data-src="/storage/app/media/portfolio/zedosh/zedosh.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ajuma"><img data-src="/storage/app/media/portfolio/ajuma/Ajuma.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/pause"><img data-src="/storage/app/media/portfolio/pause/pause-preview.jpg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Pause<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crave-retail"><img data-src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/einkaufs-check"><img data-src="/storage/app/media/portfolio/einkaufs-check/preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/printbi"><img data-src="/storage/app/media/printBi.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crypto-analytics"><img data-src="/storage/app/media/bitspread.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/wyzoo"><img data-src="/storage/app/media/wyzoo-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ncourage"><img data-src="/storage/app/media/ncourageProj/ncourage-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/validify"><img data-src="/storage/app/media/validifyProj/validify-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Validify<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/factmata"><img data-src="/storage/app/media/factMata/factmata-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">FactMata<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/zaza"><img data-src="/storage/app/media/zaza.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/buzzshow"><img data-src="/storage/app/media/BuzShow 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/pool-party"><img data-src="/storage/app/media/pool_party.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Pool party<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/digital-bits"><img data-src="/storage/app/media/digital_bits_preview.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tamam"><img data-src="/storage/app/media/tamam-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+ AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/swoon"><img data-src="/storage/app/media/swoonProj/swoon-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Swoon<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/circular-review-system-vehicles"><img data-src="/storage/app/media/Circular-Review-System-for-vehicles.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/totalizator-platform"><img data-src="/storage/app/media/totalizator.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tradesmarter"><img data-src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/my-uber"><img data-src="/storage/app/media/myuber.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">My Uber<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ua-light"><img data-src="/storage/app/media/ua_light 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/gearhousepro"><img data-src="/storage/app/media/gearHousePro/preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/funderslink"><img data-src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+ UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+<div class="see__all__link">
+<a class="font-button" href="https://geniusee.com/portfolio">See All</a>
+</div>
+</div>
+</section>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+ <a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/hero-top.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/services-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+</div>
+<script src="https://geniusee.com/combine/2fa33f34706b908b9f6f864199558563-1638441204"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<title>Blockchain Technology | Blockchain Software Development | Geniusee</title>
+<meta name="description" content="Get all the advantages of blockchain services and get a competitive edge over rivals through the power of technology">
+<meta name="keywords" content="blockchain service, blockchain network, build blockchain, blockchain infrastructure, blockchain technology company, blockchain solution">
+<link rel="canonical" href="https://geniusee.com/blockchain" />
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="Geniusee" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/mail_subsription_logo/G_IMG.png" />
+<meta property="og:url" content="https://geniusee.com/" />
+<meta property="og:description" content="<p>The success of an idea depends on the team. We have teamed up with geniuses that are passionate about what they do and will provide your project with a full cycle web/mobile development services.</p>" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="wrapper blockchain-page page">
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li class="header-active-li"><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+
+<section class="page">
+<div class="hero-top">
+<div class="hero-text-wraper">
+<div class="hero-text-content">
+<h1 class="font-h1">Blockchain development<span class="purple_square">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/expertise">Expertise</a><span>></span>Blockchain development
+</div>
+<p class="font-body-2 font-body-2-top">Nowadays, Blockchain technology empowers businesses and disrupts even the largest industries. We help companies and startups to get the best out of distributed ledger technologies. Geniusee provides guidance and support to disrupt financial and healthcare markets with full blockchain digital transformation. We use innovative dominant platforms such as Ethereum, Stellar and HyperLedger Fabric.</p>
+</div>
+</div>
+<div class="hero-img-wraper">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 800 650">
+<g fill="none" fill-rule="evenodd">
+<path stroke="#979797" d="M510.4 154C553 186.8 669.6 194.5 630 301.9c-39.8 107.5-142.7 124.7-267 109.4C247 397 104 337.4 87.3 234.7 71.8 139.4 198 55.7 274.9 42.9c76.9-12.7 108-7.3 157 40.3l78.5 70.9z" opacity=".5" />
+<path stroke="#979797" d="M534.5 155.3c49.2 37.8 184 46.6 138.1 170.7-46 124.2-164.9 144-308.6 126.5-133.9-16.5-295.2-85.7-318.5-204-18-91.3 128-207 216.8-221.7 88.9-14.7 124.8-8.4 181.5 46.6l90.7 81.9z" opacity=".3" />
+<path stroke="#979797" d="M556.9 154.5c55.7 42.9 208.5 52.9 156.4 193.8-52 140.9-186.8 163.4-349.6 143.4C211.9 473.1 29 394.5 2.7 260.2-17.6 156.6 147.7 25.5 248.4 8.8 349-8 389.8-.8 454 61.6l102.8 92.9z" opacity=".1" />
+<path fill="#D9D9F9" d="M599 285.6c-21 86.8-114.5 97-314.7 60.5C84.1 309.5 112 198.4 167.7 143.9 195.6 116.7 262.4 69.5 324 69c61.5-.5 115 56.3 143.4 86 58.4 60.9 152.7 43.9 131.6 130.6z" />
+<path fill="#FFF" d="M322 64v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5.1 5.1 0 0 0 2.6-4.4V64h-85z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M322 64v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5.1 5.1 0 0 0 2.6-4.4V64h-85z" />
+<path fill="#FFF" d="M368.1 40l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M368.1 40l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#FFF" d="M363.8 98.3v22" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M363.8 98.3v22" />
+<path fill="#FFF" d="M322 191v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V191h-85z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M322 191v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V191h-85z" />
+<path fill="#FFF" d="M368.1 168l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M368.1 168l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#FFF" d="M363.8 226.5v22" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M363.8 226.5v22" />
+<path fill="#9595EF" d="M211 128v46.5a5 5 0 0 0 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V128h-85z" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M211 128v46.5a5 5 0 0 0 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V128h-85z" />
+<path fill="#9595EF" d="M257.1 104l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M257.1 104l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#9595EF" d="M253.1 162.5v22" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M253.1 162.5v22" />
+<path fill="#FFF" d="M434 128v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V128h-85z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M434 128v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V128h-85z" />
+<path fill="#FFF" d="M480.1 104l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M480.1 104l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#FFF" d="M476.9 162.5v22" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M476.9 162.5v22" />
+<path fill="#FFF" d="M322 321v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5.1 5.1 0 0 0 2.6-4.4V321h-85z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M322 321v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5.1 5.1 0 0 0 2.6-4.4V321h-85z" />
+<path fill="#FFF" d="M368.1 297l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M368.1 297l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#FFF" d="M363.8 355.8v22" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M363.8 355.8v22" />
+<path fill="#FFF" d="M211 257v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V257h-85z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M211 257v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V257h-85z" />
+<path fill="#FFF" d="M257.1 233l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M257.1 233l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#FFF" d="M253.1 291.8v22" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M253.1 291.8v22" />
+<path fill="#FFF" d="M434 257v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V257h-85z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M434 257v46.5c0 1.8 1 3.4 2.5 4.3l36.3 21.2c2 1.3 4.5 1.3 6.6.2l37-21.4a5 5 0 0 0 2.6-4.4V257h-85z" />
+<path fill="#FFF" d="M480.1 233l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M480.1 233l37 20.3c2.5 1.4 2.5 5 0 6.4l-37 20.4a7.5 7.5 0 0 1-7.2 0l-37-20.4a3.6 3.6 0 0 1 0-6.4l37-20.4c2.2-1.2 5-1.2 7.2 0z" />
+<path fill="#FFF" d="M476.9 291.8v22" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M476.9 291.8v22" />
+<path fill="#9595EF" d="M568 107.5a11.5 11.5 0 1 1-23 0 11.5 11.5 0 0 1 23 0" />
+<path stroke="#000" stroke-width="2" d="M568 107.5a11.5 11.5 0 1 1-23 0 11.5 11.5 0 0 1 23 0z" />
+<path fill="#FFF" d="M175.2 198l54.8-31.5" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M175.2 198l54.8-31.5" />
+<path fill="#FFF" d="M519.1 129.5l36.2-21" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M519.1 129.5l36.2-21" />
+<g>
+<path fill="#FFF" d="M295.4 128.5l45.3-26.9" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M295.4 128.5l45.3-26.9" />
+</g>
+<g>
+<path fill="#FFF" d="M406 321.2l45-26.8" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M406 321.2l45-26.8" />
+</g>
+<g>
+<path fill="#FFF" d="M295.4 256.7l45.3-26.8" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M295.4 256.7l45.3-26.8" />
+</g>
+<g>
+<path fill="#FFF" d="M363.8 136.4v55" />
+<path stroke="#000" stroke-width="2" d="M363.8 136.4v55" />
+</g>
+<g>
+<path fill="#FFF" d="M476.9 200.1v55.5" />
+<path stroke="#000" stroke-width="2" d="M476.9 200.1v55.5" />
+</g>
+<g>
+<path fill="#FFF" d="M280 291.8l43.6 25.4" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M280 291.8l43.6 25.4" />
+</g>
+<path fill="#9595EF" d="M187 197.5a11.5 11.5 0 1 1-23 0 11.5 11.5 0 0 1 23 0" />
+<path stroke="#000" stroke-width="2" d="M187 197.5a11.5 11.5 0 1 1-23 0 11.5 11.5 0 0 1 23 0z" />
+<g class="chain">
+<path fill="#FFF" d="M534.8 408.7c1.5 7-2.7 14.2-8.7 17.8-10.8 6-21.6 12.2-32.3 18.4-6.3 3.5-12.4.7-13.8-6.1-1.3-7.4 2.6-15 9-18.9l31.5-17c6.2-3.4 12.7-.5 14.3 5.8m-13-22.2l-37 20.9c-12.6 7.5-23.6 24.6-20.2 39.7 2.5 12.5 22.9 24.8 34.1 18 13.3-7.7 19.6-20.3 32.8-27.9 11.7-6.9 22.2-22.8 18.9-37-3-11.3-17.6-20.9-28.6-13.7" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.5" d="M534.8 408.7c1.5 7-2.7 14.2-8.7 17.8-10.8 6-21.6 12.2-32.3 18.4-6.3 3.5-12.4.7-13.8-6.1-1.3-7.4 2.6-15 9-18.9l31.5-17c6.2-3.4 12.7-.5 14.3 5.8zm-13-22.2l-37 20.9c-12.6 7.5-23.6 24.6-20.2 39.7 2.5 12.5 22.9 24.8 34.1 18 13.3-7.7 19.6-20.3 32.8-27.9 11.7-6.9 22.2-22.8 18.9-37-3-11.3-17.6-20.9-28.6-13.7z" />
+<path fill="#FFF" d="M542.8 413.4c1.5 7-2.7 14-8.7 17.6l-32.3 18.3c-6.3 3.5-12.4.7-13.8-6-1.3-7.4 2.6-15 9-18.7l31.5-17c6.2-3.3 12.7-.3 14.3 5.8m-13-22l-37 20.8c-12.6 7.4-23.6 24.3-20.2 39.3 2.5 12.3 16 19.7 27.2 12.9l39.7-22.7c11.7-6.8 22.2-22.6 18.9-36.6-3-11.2-17.6-20.8-28.6-13.7" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.5" d="M542.8 413.4c1.5 7-2.7 14-8.7 17.6l-32.3 18.3c-6.3 3.5-12.4.7-13.8-6-1.3-7.4 2.6-15 9-18.7l31.5-17c6.2-3.3 12.7-.3 14.3 5.8zm-13-22l-37 20.8c-12.6 7.4-23.6 24.3-20.2 39.3 2.5 12.3 16 19.7 27.2 12.9l39.7-22.7c11.7-6.8 22.2-22.6 18.9-36.6-3-11.2-17.6-20.8-28.6-13.7z" />
+<path fill="#9595EF" d="M516 415c1.5-.8 4.4-2.5 6.3-3.3.2 0 .3-.3.5-.4 6.1-3.2 7.2-4.2 9.2-4.3" />
+<path fill="#9595EF" d="M533 406.3v.6l-6.3 3.6c-6.1 3.4-6.2 9.1.4 13.1 6.9 4 15.8 4.8 23 1.1l32.8-18.7c6.3-3.6 5.8-9.4-1-13.2-7-3.7-15.9-4.1-23-.5l-5.5 3.1-1-.4c-.3 0-4.8-3.7-6.2-4.1-.4-.4-3-1.6-3-1.7l8.3-4.9a46.1 46.1 0 0 1 44.4.8c4.4 2.4 7.8 2.2 9.3 6.2 2.2 5.7 0 15.1-7.5 19.3l-39.4 22.7c-13.7 7.8-31.4 5.2-44.7-2.3-4.3-2-7.2-6.3-8.6-10.7l.4-.3" />
+<path fill="#000" d="M606.2 390.6c-1.2-3-3.3-3.8-6-4.8l-3.6-1.6c-14-8-32-8.3-45-.9l-8 4.8c-.2 0-.4.2-.5.3l1 .7h.1l8.1-4.7a45.5 45.5 0 0 1 43.7.9c1.4.7 2.6 1.2 3.8 1.6 2.5 1 4.2 1.7 5.2 4.2a16 16 0 0 1-7.2 18.5l-39.4 22.6c-12 6.8-29.3 6-44-2.4-4-1.8-6.9-6.1-8.3-10.5v.2l-1.1.5c1.5 4.6 4.5 9 9 11 8.2 4.6 17.2 7 25.8 7a39 39 0 0 0 19.2-4.7l39.4-22.6c7.5-4.2 10.1-14 7.8-20" />
+<path fill="#000" d="M582.3 392.1c-7.4-4-16.4-4.2-23.5-.5l-5.9 3.4c.5.2 1 .7 1.2 1.1l5.3-3.3c3.2-1.7 6.8-2.5 10.5-2.5 4 0 8.1 1 11.8 3 3.2 1.8 5 4.2 5 6.5 0 2.2-1.4 4.2-4 5.7l-21.5 12.4-11.1 6.5c-6.6 3.4-15.1 3-22.2-1-3-2-4.7-4.3-4.6-6.6 0-2.1 1.5-4.7 4.2-6.2 2-1.2 3.8-2.3 6-3.1.2-.6-.1-.7 0-1.1h-.2l-6.7 3.6c-3.1 1.8-4.6 4.2-4.6 6.8 0 2.8 1.8 5.5 5.2 7.6a26 26 0 0 0 13 3.6c3.7 0 7.3-.8 10.5-2.5l11.1-6.4 21.5-12.5c3-1.8 4.7-4.2 4.7-6.8 0-2.8-2-5.6-5.7-7.7" />
+<path fill="#9595EF" d="M513 423c13.2 7.5 31 10 44.7 2.3l39.6-22.7c11.8-6.8 9-19.7-1.8-25.5a46.4 46.4 0 0 0-44.5-.8l-15 8.7c.6.3 1.2.2 1.6.6l.4.2 2.7 1.4.3.3 2.4 1.7c.5.4 2.4 1.4 3.1 1.7h.2l11.7-6.6c7.1-3.6 16-3.2 23.1.5 6.7 3.8 7.3 9.6 1 13.2l-33 18.7a24.8 24.8 0 0 1-23-1c-2-1.3-3.5-2.7-4.2-4.2l-2.5 1.3" />
+<path fill="#000" d="M507 419a52.8 52.8 0 0 0 31.7 11c7 0 13.6-1.6 19.2-4.7a10719 10719 0 0 1 39.2-22.6c5.2-3 8-7.5 7.9-12.5-.1-5.5-3.8-10.9-9.8-14a46.4 46.4 0 0 0-44.7-.9l-8 4.8-7.7 4.4c.5.2 1.5.2 1.9.5l6.4-3.8 8-4.8c12.6-7.1 30-6.8 43.5.9 5.5 3 9 8 9.1 13 .1 4.5-2.5 8.5-7.3 11.3l-39.2 22.6c-12 6.8-29.1 6-43.7-2.4-2.2-1-4.1-2.3-5.5-3.7" />
+<path fill="#000" d="M582.3 384.1a26 26 0 0 0-23.8-.5l-6.2 3.6-5.8 3.4.5.3.8.3 5.1-2.9 6.2-3.5a23 23 0 0 1 10.6-2.5c4 0 8.2 1 12 3 3.2 1.8 5 4.2 5 6.5 0 2.2-1.4 4.2-4 5.7L561 409.9l-11.2 6.5c-6.7 3.4-15.3 3-22.5-1-1.9-1.3-3.2-2.6-4-4-.3.2-1 0-1.3.3.8 1.6 2.6 3.4 4.7 4.7 4.1 2.4 8.7 3.6 13.2 3.6 3.6 0 7.3-.8 10.5-2.5l11.3-6.5 21.6-12.4c3-1.8 4.7-4.2 4.7-6.8 0-2.8-2-5.6-5.7-7.7" />
+<path fill="#FFF" d="M646.4 345.8c-3-11-17.2-20.4-28-13.4l-36.1 20.4c-12.3 7.3-23 24-19.7 38.6 1 4.5 4.1 9 8.5 12.6a203 203 0 0 0 12.8-7.4l1.7-1.4-.3-1.9a11 11 0 0 1-.9-2.7c-3.3-.6-6-3.1-6.8-7.3a18.4 18.4 0 0 1 8.8-18.3l30.8-16.7c6-3.2 12.4-.4 14 5.7 1.4 7-2.7 13.8-8.5 17.3l-19.8 11.3c.5.7.9 1.6 1 2.5l.7 1.2a11 11 0 0 1 1 3.8l.2.5c2.1 3.5 1.1 8.8.6 10.2 7-6.5 12.6-13.9 21.6-19 11.4-6.7 21.6-22.2 18.4-36" />
+<path fill="#000" d="M631.7 353.6a10 10 0 0 0-5.6-6.8c-2.9-1.3-6.1-1-9.2.6L592 361l-5.8 3.2a19.1 19.1 0 0 0-9 19c.6 3.5 2.5 6 5.2 7.2.8.4 1.5.6 2.3.7l-.2-1.4-1.5-.5a8.4 8.4 0 0 1-4.5-6.2c-1.2-6.7 2.3-14 8.4-17.7l5.7-3 24.8-13.6a10 10 0 0 1 4.8-1.2c1.1 0 2.2.2 3.3.6 2.3 1 4 3.2 4.8 5.9 1.3 6-2 12.9-8.1 16.5l-19.7 11.3.7 1.1 19.6-11.2c6.6-4 10.2-11.4 8.8-18" />
+<path fill="#000" d="M646.4 345.3a23.5 23.5 0 0 0-13.8-15c-5.3-2-10.7-1.6-15 1.2l-36 20.4c-6.4 3.7-12.2 9.9-16 16.8a32.5 32.5 0 0 0-4 22.6c.9 4.4 4.1 9 8.6 12.7.5-.1.8-.4 1.2-.7A23 23 0 0 1 563 391c-3.3-14.4 7.4-31 19.2-38l36-20.3c2.4-1.6 5-2.3 7.8-2.3 2 0 4 .4 6.1 1.2 6.2 2.3 11.4 8 13 14 3 13.4-7 28.8-18 35.3-6.6 3.8-11.5 8.8-16.2 13.7l-4.6 4.6c-.2.8-.5 1.6-.9 2.3l-.1.5c2.3-2.1 4.5-4.3 6.6-6.5 4.6-4.8 9.4-9.7 15.8-13.4a42.4 42.4 0 0 0 15-15.6c3.9-7.2 5.2-14.7 3.7-21.2" />
+<path fill="#FFF" d="M585.7 394.7l-.2-1.8c-1.4-3-1.5-6.6 0-9.6.3-6 3.8-11.5 9-14.5l30.7-16.6c6-3.2 12.4-.4 14 5.7 1.4 6.9-2.7 13.7-8.5 17.2l-25 14c0 .2 1.8 4.7 1.6 6.7a23 23 0 0 1-1.5 6.9l-.1.3 30.3-17.5c11.4-6.7 21.6-22 18.4-35.8-3-11-17.2-20.3-28-13.3l-36.1 20.2c-12.3 7.3-23 23.9-19.7 38.5.5 2.6 1.6 5 3 7" />
+<path fill="#000" d="M639.7 357.5a10 10 0 0 0-5.7-6.7c-2.9-1.3-6.2-1-9.3.6L599.2 365l-5.5 3c-6 3.6-10.5 15.4-9.6 22 .3-1.1.4-.4 1-1v-.3c.4-5.7 2.2-12.7 9.2-19.5l5.6-3 25.4-13.6c1.6-.8 3.2-1.2 4.8-1.2 1.2 0 2.3.2 3.4.6 2.4 1 4.1 3.2 4.9 5.8 1.3 6.1-2.1 13-8.3 16.5l-20.4 11.5-4.4 2.5.2 1.2v.2l4.8-2.7 20.5-11.5c6.7-4 10.3-11.3 8.9-18" />
+<path fill="#000" d="M654.4 349.3a23.5 23.5 0 0 0-13.8-15c-5.3-2-10.7-1.6-15 1.2l-36 20.4c-6.4 3.8-12.2 9.9-16 16.8a32.6 32.6 0 0 0-4 22.6 21 21 0 0 0 3 7.3c.5-.1.8-.4 1.3-.6a19 19 0 0 1-3-7c-3.2-14.3 7.5-30.9 19.3-38l36-20.3a14 14 0 0 1 7.8-2.3c2 0 4 .4 6.1 1.2 6.2 2.4 11.4 8 13 14 3 13.4-7 28.8-18 35.4l-23.6 13.5-6 3.6-.4.8c0 .4-.1.8-.3 1.1l7.4-4.3 23.5-13.6a42.4 42.4 0 0 0 15-15.6c3.9-7.1 5.2-14.6 3.7-21.2" />
+<path fill="#000" d="M586 392.6l-.9-3.6-1.1.6s.7 5.7 1.3 5.4c.4-.3.7-2.4.7-2.4" />
+</g>
+<g class="bitcoin">
+<path fill="#9595EF" fill-opacity=".1" stroke="#000" stroke-dasharray="4 8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M59 417c0-10.5 17.2-19 38.5-19s38.5 8.5 38.5 19-17.2 19-38.5 19S59 427.5 59 417z" />
+<path fill="#FFF" d="M134 383.3c.5 23.4-18.5 35.2-37 24.5a80 80 0 0 1-36.5-65.2c.1-22.4 18-34.3 38.4-22a75.2 75.2 0 0 1 35 62.7" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.3" d="M134 383.3c.5 23.4-18.5 35.2-37 24.5a80 80 0 0 1-36.5-65.2c.1-22.4 18-34.3 38.4-22a75.2 75.2 0 0 1 35 62.7z" />
+<path fill="#FFF" d="M82.1 324.6H61.4s10.7-8.4 16.9-8.6" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M82.1 324.6H61.4s10.7-8.4 16.9-8.6" />
+<path fill="#FFF" d="M125.8 393l-9.3 21.3s13.6-9 16.5-21.4" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M125.8 393l-9.3 21.3s13.6-9 16.5-21.4" />
+<path fill="#9595EF" d="M125.8 393c.6 23.2-21.2 32-39.6 21.3A80 80 0 0 1 49.6 349c.1-22.4 16.8-34.3 37.3-22a84.6 84.6 0 0 1 39 65.8" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M125.8 393c.6 23.2-21.2 32-39.6 21.3A80 80 0 0 1 49.6 349c.1-22.4 16.8-34.3 37.3-22a84.6 84.6 0 0 1 39 65.8z" />
+<path fill="#FFF" d="M92.8 387.5a2 2 0 0 1-1.1.5l-1.4.1-1.6-.3a19.7 19.7 0 0 1-5-2l-1.4-.7-.7-.3-.5-.8-1-11.5c0-.3.1-.5.4-.4a290.8 290.8 0 0 0 4.7 2.4 25.3 25.3 0 0 1 4.3 3 13.3 13.3 0 0 1 3.2 4.3c.4.9.7 1.8.8 2.7l-.1 1.8c-.1.5-.3.9-.6 1.2zm-13.3-32.3l1.5.7a19 19 0 0 1 6.6 5c.4.6.8 1.3 1 2 .4.8.6 1.6.7 2.5v1.8c-.2.5-.4.8-.7 1-.3.3-.7.4-1 .6h-1.4a22 22 0 0 1-3-.9 94.7 94.7 0 0 1-2.8-1.2l-.5-.3c-.2-.1-.5-.5-.5-.8l-1-10.9 1.1.5zm-9-10.2c-2.2-1.1-3.4-1.7-6-2.8-.2-.1-.4 0-.4.4l.5 4.9c0 .3.3.7.6.8l3 1.3a5 5 0 0 1 2.8 3.7l1 10.7h.1l1.3 14.9c0 1.2-.5 1.6-1.4 1.2l-2.7-1.3c-.3 0-.4 0-.4.4l-.1 5.3c0 .3.2.8.5.9a112.5 112.5 0 0 1 6.5 3l1 .5c.3.1.5.5.5.8l.8 5.4-7.5-50.1zm11.7 55.5c.2.2.4 0 .4-.3l-.8-8.2c0-.3.2-.5.4-.3L85 393c.3.2.5.6.5.9.2 1.7-2 6.4-.8 8.7.2.2.2.5.4.6l-2.8-2.7zm8.3 4.3c.3.2.5 0 .5-.3L90 396c0-.4.1-.5.4-.4l4 1.4c1.4.4 2.6.6 3.8.5 1.2 0 2.2-.3 3-.8a5 5 0 0 0 1.7-2.4 17.2 17.2 0 0 0-1.9-13c-1.2-2.2-3-4-5-5.7-.4-.4-.6-1-.2-1.2 2.2-.8 3-3.4 2.2-7.6a17 17 0 0 0-4.7-9.1 30 30 0 0 0-7.5-5.8c-.3-.1-.5-.5-.5-.8l-.9-8.3c0-.4-.3-.7-.5-.8l-3.4-1.6c-.2 0-.4.1-.4.4l10.3 64zm-12.4-56.6c-.2-.1-.4-.5-.5-.8l-.7-8c0-.3-.3-.7-.5-.8l-3.4-1.5c-.3-.1-.5 0-.4.4l5.5 10.7z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M93.4 386.3c-.1.5-.3.9-.6 1.2a2 2 0 0 1-1.1.5l-1.4.1-1.6-.3a19.7 19.7 0 0 1-5-2l-1.4-.7-.7-.3-.5-.8-1-11.5c0-.3.1-.5.4-.4a290.8 290.8 0 0 0 4.7 2.4 25.3 25.3 0 0 1 4.3 3 13.3 13.3 0 0 1 3.2 4.3c.4.9.7 1.8.8 2.7l-.1 1.8zm-13.9-31l1.5.6a19 19 0 0 1 6.6 5c.4.6.8 1.3 1 2 .4.8.6 1.6.7 2.5v1.8c-.2.5-.4.8-.7 1-.3.3-.7.4-1 .6h-1.4a22 22 0 0 1-3-.9 94.7 94.7 0 0 1-2.8-1.2l-.5-.3c-.2-.1-.5-.5-.5-.8l-1-10.9 1.1.5zm-9-10.3c-2.2-1.1-3.4-1.7-6-2.8-.2-.1-.4 0-.4.4l.5 4.9c0 .3.3.7.6.8l3 1.3a5 5 0 0 1 2.8 3.7l1 10.7h.1l1.3 14.9c0 1.2-.5 1.6-1.4 1.2l-2.7-1.3c-.3 0-.4 0-.4.4l-.1 5.3c0 .3.2.8.5.9a112.5 112.5 0 0 1 6.5 3l1 .5c.3.1.5.5.5.8l.8 5.4a35 35 0 0 1-4.6-10.6c-1.3-8.8-2.3-22-3-39.5zm11.7 55.5c.2.2.4 0 .4-.3l-.8-8.2c0-.3.2-.5.4-.3L85 393c.3.2.5.6.5.9.2 1.7-2 6.4-.8 8.7.2.2.2.5.4.6l-2.8-2.7zm8.8 4L90 396c0-.4.1-.5.4-.4l4 1.4c1.4.4 2.6.6 3.8.5 1.2 0 2.2-.3 3-.8a5 5 0 0 0 1.7-2.4 17.2 17.2 0 0 0-1.9-13c-1.2-2.2-3-4-5-5.7-.4-.4-.6-1-.2-1.2 2.2-.8 3-3.4 2.2-7.6a17 17 0 0 0-4.7-9.1 30 30 0 0 0-7.5-5.8c-.3-.1-.5-.5-.5-.8l-.9-8.3c0-.4-.3-.7-.5-.8l-3.4-1.6c-.2 0-.4.1-.4.4-2 5.2-3 8.9-2.6 11 1.4 8.3 16.1 18.3 12.7 32.1-.7 2.9-.5 9.7.7 20.5zM78 348.2c-.2-.1-.4-.5-.5-.8l-.7-8c0-.3-.3-.7-.5-.8l-3.4-1.5c-.3-.1-.5 0-.4.4 2.5.7 4 1.4 4.2 2 1.1 1.8 1.6 4.7 1.3 8.7z" />
+<path fill="#FFF" d="M67.3 340.2l5.3-3 3.8 1.4-5.5 3.3z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M67.3 340.2l5.3-3 3.8 1.4-5.5 3.3z" />
+<path fill="#FFF" d="M75 343.8l5.4-3.3 3.9 1.8-5.5 3.3z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M75 343.8l5.4-3.3 3.9 1.8-5.5 3.3z" />
+<path fill="#FFF" d="M58.6 345.2L64 342l4.3 1-.3 6.5z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M58.6 345.2L64 342l4.3 1-.3 6.5z" />
+<path fill="#FFF" d="M85 402.8l-4.3 2.5 5 3 5.2-3.5" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M85 402.8l-4.3 2.5 5 3 5.2-3.5" />
+<path fill="#FFF" d="M72.6 401.2l4.7 3 4.6-3.8" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M72.6 401.2l4.7 3 4.6-3.8" />
+<g>
+<path fill="#FFF" d="M98.1 393.3l-3.5 7.3s5.8-1.7 7.9-5.1c2-3.4.8-8.6.8-8.6" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M98.1 393.3l-3.5 7.3s5.8-1.7 7.9-5.1c2-3.4.8-8.6.8-8.6" />
+</g>
+<path fill="#FFF" d="M88 389.5c-.2.5-.4 1-.7 1.2a2 2 0 0 1-1.1.5c-.5.1-1 .2-1.4.1-.4 0-1 0-1.6-.3a19.4 19.4 0 0 1-3.4-1.2 44 44 0 0 1-3-1.5c-.3 0-.5-.2-.6-.3-.3-.1-.5-.5-.6-.8l-1-11.4c0-.4.1-.5.4-.4a203.2 203.2 0 0 0 4.8 2.4 25.5 25.5 0 0 1 4.2 3 13.2 13.2 0 0 1 3.3 4.3c.3.8.6 1.7.7 2.6v1.8M72.8 358a120.3 120.3 0 0 0 4.3 2 21.5 21.5 0 0 1 3.4 2.5 10 10 0 0 1 3.2 6.1v1.8c-.2.5-.4.9-.7 1-.3.3-.6.5-1 .6h-1.4a21.3 21.3 0 0 1-3-.8 120 120 0 0 1-2.7-1.3c-.3 0-.4-.2-.6-.3-.2 0-.5-.4-.5-.8L73 358m22.8 26.5c-1.3-2-3-4-5-5.6-.5-.3-.7-1-.3-1.1 2.2-.9 3-3.5 2.2-7.7a17 17 0 0 0-4.7-9 29.8 29.8 0 0 0-7.5-5.9c-.3-.1-.5-.5-.5-.8l-.9-8.3c0-.3-.2-.7-.5-.8-1.4-.6-2-1-3.4-1.5-.2-.1-.4 0-.4.4l.8 8c0 .3-.1.4-.4.3l-2.5-1c-.2-.2-.4-.5-.5-.9l-.7-8c0-.3-.3-.6-.5-.7l-3.4-1.6c-.3 0-.5 0-.4.4l.7 8.2c0 .3-.1.5-.4.3a154 154 0 0 1-8.3-3.8c-.3-.1-.5 0-.5.4l.5 5c0 .3.3.6.6.7l3 1.4a5 5 0 0 1 2.8 3.7l1 10.6.1.1 1.3 14.8v.1c0 1.2-.5 1.5-1.4 1l-2.7-1.1c-.3-.1-.4 0-.4.3l-.1 5.3c0 .4.2.8.5.9a111.4 111.4 0 0 1 6.5 3l1 .5c.3.1.5.5.6.8l.7 8.3c0 .3.3.7.5.8l3.6 1.8c.2.1.4 0 .4-.4l-.8-8.1c0-.4.2-.5.4-.4l2.7 1.4c.3.1.5.5.5.8l.8 8.2c0 .3.3.7.6.8l3.8 2c.2 0 .4 0 .4-.4l-.9-8.4c0-.3.2-.5.4-.4a32 32 0 0 0 4 1.5c1.4.3 2.6.5 3.8.5 1.2 0 2.2-.3 3-.8a5 5 0 0 0 1.7-2.5 17.1 17.1 0 0 0-1.9-13" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.1" d="M88 389.5c-.2.5-.4 1-.7 1.2a2 2 0 0 1-1.1.5c-.5.1-1 .2-1.4.1-.4 0-1 0-1.6-.3a19.4 19.4 0 0 1-3.4-1.2 44 44 0 0 1-3-1.5c-.3 0-.5-.2-.6-.3-.3-.1-.5-.5-.6-.8l-1-11.4c0-.4.1-.5.4-.4a203.2 203.2 0 0 0 4.8 2.4 25.5 25.5 0 0 1 4.2 3 13.2 13.2 0 0 1 3.3 4.3c.3.8.6 1.7.7 2.6v1.8zM72.8 358a120.3 120.3 0 0 0 4.3 2 21.5 21.5 0 0 1 3.4 2.5 10 10 0 0 1 3.2 6.1v1.8c-.2.5-.4.9-.7 1-.3.3-.6.5-1 .6h-1.4a21.3 21.3 0 0 1-3-.8 120 120 0 0 1-2.7-1.3c-.3 0-.4-.2-.6-.3-.2 0-.5-.4-.5-.8L73 358zm22.8 26.5c-1.3-2-3-4-5-5.6-.5-.3-.7-1-.3-1.1 2.2-.9 3-3.5 2.2-7.7a17 17 0 0 0-4.7-9 29.8 29.8 0 0 0-7.5-5.9c-.3-.1-.5-.5-.5-.8l-.9-8.3c0-.3-.2-.7-.5-.8-1.4-.6-2-1-3.4-1.5-.2-.1-.4 0-.4.4l.8 8c0 .3-.1.4-.4.3l-2.5-1c-.2-.2-.4-.5-.5-.9l-.7-8c0-.3-.3-.6-.5-.7l-3.4-1.6c-.3 0-.5 0-.4.4l.7 8.2c0 .3-.1.5-.4.3a154 154 0 0 1-8.3-3.8c-.3-.1-.5 0-.5.4l.5 5c0 .3.3.6.6.7l3 1.4a5 5 0 0 1 2.8 3.7l1 10.6.1.1 1.3 14.8v.1c0 1.2-.5 1.5-1.4 1l-2.7-1.1c-.3-.1-.4 0-.4.3l-.1 5.3c0 .4.2.8.5.9a111.4 111.4 0 0 1 6.5 3l1 .5c.3.1.5.5.6.8l.7 8.3c0 .3.3.7.5.8l3.6 1.8c.2.1.4 0 .4-.4l-.8-8.1c0-.4.2-.5.4-.4l2.7 1.4c.3.1.5.5.5.8l.8 8.2c0 .3.3.7.6.8l3.8 2c.2 0 .4 0 .4-.4l-.9-8.4c0-.3.2-.5.4-.4a32 32 0 0 0 4 1.5c1.4.3 2.6.5 3.8.5 1.2 0 2.2-.3 3-.8a5 5 0 0 0 1.7-2.5 17.1 17.1 0 0 0-1.9-13z" />
+</g>
+<g class="litecoin">
+<path fill="#FFF" d="M38 142.3c-.5 23.4 18.5 35.2 37 24.5a80 80 0 0 0 36.5-65.2c-.1-22.4-18-34.3-38.4-22a75.2 75.2 0 0 0-35 62.7" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="1.3" d="M38 142.3c-.5 23.4 18.5 35.2 37 24.5a80 80 0 0 0 36.5-65.2c-.1-22.4-18-34.3-38.4-22a75.2 75.2 0 0 0-35 62.7z" />
+<path fill="#FFF" d="M89.9 83.6h20.7s-10.2-6.6-17-8.5" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M89.9 83.6h20.7s-10.2-6.6-17-8.5" />
+<path fill="#9595EF" fill-opacity=".1" stroke="#000" stroke-dasharray="4 8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.6 187.7c4.1 9.7 23.3 10.8 43 2.5 19.5-8.3 32-22.9 28-32.5-4.2-9.7-23.4-10.8-43-2.5-19.5 8.3-32 22.9-28 32.5z" />
+<path fill="#FFF" d="M46.2 152l9.3 21.3s-13.6-9-16.5-21.4" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M46.2 152l9.3 21.3s-13.6-9-16.5-21.4" />
+<path fill="#9595EF" d="M46.2 152c-.6 23.2 21.2 32 39.6 21.3a80 80 0 0 0 36.6-65.2c-.1-22.4-16.8-34.3-37.3-22a84.6 84.6 0 0 0-39 65.8" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" d="M46.2 152c-.6 23.2 21.2 32 39.6 21.3a80 80 0 0 0 36.6-65.2c-.1-22.4-16.8-34.3-37.3-22a84.6 84.6 0 0 0-39 65.8z" />
+<path fill="#FFF" d="M84 92l-15.4 44.6v.2c6.8.7 10 1.4 16.3 2.8h.1a2210.3 2210.3 0 0 1 16.1-20.5c-5.8-9-11.4-18-17-27.2l-.2.1" />
+<path stroke="#000" stroke-width="1.2" d="M84 92l-15.4 44.6v.2c6.8.7 10 1.4 16.3 2.8h.1a2210.3 2210.3 0 0 1 16.1-20.5c-5.8-9-11.4-18-17-27.2l-.2.1z" />
+<path fill="#FFF" d="M99.8 125.3c-6.1 7.6-8.9 7.3-14.7 14.6 0 .2-.1 2.4-.2.8-5.9.1-9.6.7-14.9.6-.4 0-.7.7-.5 1 6.4 7.4 9.6 11.3 15.6 19.4.1.2.4 0 .6-.3 4.7-12 9.5-23.9 14.5-35.7.3-.5 0-.8-.4-.4" />
+<path stroke="#000" stroke-width="1.2" d="M99.8 125.3c-6.1 7.6-8.9 7.3-14.7 14.6 0 .2-.1 2.4-.2.8-5.9.1-9.6.7-14.9.6-.4 0-.7.7-.5 1 6.4 7.4 9.6 11.3 15.6 19.4.1.2.4 0 .6-.3 4.7-12 9.5-23.9 14.5-35.7.3-.5 0-.8-.4-.4z" />
+<path fill="#FFF" d="M85.3 161.3l7 4.3s.2-.1.1-.2l-15.8-19.5-6.7-4.4" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M85.1 161.7l7.1 4.3c.1 0 .3-.1.2-.2L77 146.2l-7.1-4.3" />
+<path fill="#FFF" d="M91.4 96.3l-7.2-4.5H84l-15.4 44.8c0 .2.2.3.4.4l7 4.2 15.3-43.9c.1-.5.5-.7 0-1" />
+<path stroke="#000" stroke-width="1.2" d="M91.4 96.3l-7.2-4.5H84l-15.4 44.8c0 .2.2.3.4.4l7 4.2 15.3-43.9c.1-.5.5-.7 0-1z" />
+<path fill="#FFF" d="M91.6 151l16.1-21.4" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M91.6 151l16.1-21.4" />
+<path fill="#FFF" d="M107.7 129.6l-6.6-4.5-22.7 14.5" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M107.7 129.6l-6.6-4.5-22.7 14.5" />
+<path fill="#FFF" d="M77.8 139.6l22.7-14.5 6.6 4.5-15 18.8z" />
+<path fill="#FFF" d="M91.3 96.6c-5 14.8-10 29.7-15.3 44.6v.2c6.8.6 10 1.4 16.3 2.8h.2a2196.8 2196.8 0 0 1 16-20.5c-5.8-9-11.4-18-17-27.3l-.2.2" />
+<path stroke="#000" stroke-width="1.2" d="M91.3 96.6c-5 14.8-10 29.7-15.3 44.6v.2c6.8.6 10 1.4 16.3 2.8h.2a2196.8 2196.8 0 0 1 16-20.5c-5.8-9-11.4-18-17-27.3l-.2.2z" />
+<path fill="#FFF" d="M107.2 129.8a2925.6 2925.6 0 0 0-15 18.6c-5.7-1.3-8.7-2-14.8-2.6-.3 0-.7.7-.5 1 6.4 7.5 9.6 11.4 15.6 19.5.2.2.5 0 .6-.3 4.7-12 9.5-24 14.6-35.8.2-.5-.2-.8-.5-.4" />
+<path stroke="#000" stroke-width="1.2" d="M107.2 129.8a2925.6 2925.6 0 0 0-15 18.6c-5.7-1.3-8.7-2-14.8-2.6-.3 0-.7.7-.5 1 6.4 7.5 9.6 11.4 15.6 19.5.2.2.5 0 .6-.3 4.7-12 9.5-24 14.6-35.8.2-.5-.2-.8-.5-.4z" />
+</g>
+</g>
+</svg>
+</div>
+</div>
+</section>
+
+<section>
+<div class="blockchain__services">
+<div class="blockchain__services-heading">
+<h3 class="font-h3">blockchain services<span style="color: #9595ef">:</span></h3>
+</div>
+<div class="new-cards-list">
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Private Blockchain</h4>
+<p class="font-body-3">Development of permission based on distributed ledger platform that brings security, efficiency and quick processing of business operations with Stellar and Hyperledger Fabric.</p>
+<div class="picture">
+<img data-src="/storage/app/media/privat-blockchain.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Cryptocurrency Wallet Development</h4>
+<p class="font-body-3">A blockchain wallet is a secured digital way to facilitate operations with digital cryptocurrencies like bitcoins, ether, litecoin, ERC20 etc. We develop endorsed wallets that will satisfy all requirements.</p>
+<div class="picture">
+<img data-src="/storage/app/media/crypto-cur.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">ICO Development</h4>
+<p class="font-body-3">Development of crowdsale solutions using custom token creation of Ethereum mainnet, following the standards such as ERC20 and ERC223. Also, development and maintenance of investors cabinet and distribution token system.</p>
+<div class="picture">
+<img data-src="/storage/app/media/ico-dev.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">DApp Development</h4>
+<p class="font-body-3">DApp is fully decentralized blockchain based applications on peer-to-peer network allowing to use any kind of up-to-date technologies on a client side that can be hosted on decentralized storages such as IPFS or Swarm.</p>
+<div class="picture">
+<img data-src="/storage/app/media/DApp-dev.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Smart Contract Development</h4>
+<p class="font-body-3">A smart contract is a blockchain protocol that digitally enforces, verifies and facilitates operations around contracts without a possibility to break digitally defined agreements with Truffle, Solidity and Ethereum. Smart contracts help to avoid using third parties while performing credible transactions..</p>
+<div class="picture">
+<img data-src="/storage/app/media/smart-contract-dev.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="blockchain__tech__tools">
+<h2 class="font-h4">Technologies and tools<span style="color: #9595ef">:</span></h2>
+<div class="new-cards-wrapper">
+<a href="tools/web3js" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Web3js logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Web3.js</h4></a>
+
+
+<a href="tools/web3j" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Web3j .svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">web3j</h4></a>
+
+
+<a href="tools/solidity" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Solidity logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Solidity</h4></a>
+
+<a href="tools/truffle" class="card">
+<div class="img-box"><img data-src="/storage/app/media/truffle-logomark.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Truffle</h4></a>
+
+
+
+
+<a href="tools/metamask" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Metamask.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Metamask</h4></a>
+
+
+
+<a href="tools/mist" class="card">
+<div class="img-box"><img data-src="/storage/app/media/mist logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Mist</h4></a>
+
+
+
+<a href="tools/ethereum" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Ethereum logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Ethereum</h4></a>
+
+
+<a href="tools/hyperledger-fabric" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Hyperledger  fabric.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Hyperledger Fabric</h4></a>
+
+
+
+<a href="tools/stellar" class="card">
+<div class="img-box"><img data-src="/storage/app/media/stellar logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Stellar</h4></a>
+</div>
+</div>
+</section>
+<section>
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3 class="font-h4">Related projects <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/totalizator-platform"><img data-src="/storage/app/media/totalizator.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/buzzshow"><img data-src="/storage/app/media/BuzShow 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crypto-analytics"><img data-src="/storage/app/media/bitspread.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+<div class="see__all__link">
+<a class="font-button" href="https://geniusee.com/portfolio">See All</a>
+</div>
+</div>
+</section>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+ </a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+ </p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/hero-top.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/blockchain.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-techs.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-cards.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/fe596132d47a2bf05be642a3d9d9707e-1638441204"></script>
+
+
+</div>
+</body>
+</html>

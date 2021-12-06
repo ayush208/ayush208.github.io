@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<title>Data Science Proof Of Concept (POC) | Geniusee</title>
+<meta name="description" content="Geniusee data science experts help to understand and structure data, build machine learning models, predict risks, form trends and much more.">
+<meta name="keywords" content="data science, data experts, data analysis, data science specialists, outsourcing service, data science consulting">
+<link rel="canonical" href="https://geniusee.com/data-science-poc" />
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media" />
+<meta property="og:url" content="https://geniusee.com/" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body class="data-science-poc wrapper">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li class="header-active-li"><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+
+<div class="l-wrapper">
+
+<section class="page">
+<div class="hero-top">
+<div class="hero-text-wraper">
+<div class="hero-text-content">
+<h1 class="font-h1">Data science POC<span class="purple_square">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/services">Services</a><span>></span>Data science POC
+</div>
+<p class="font-body-2 font-body-2-top"><span style="font-weight: bold;">Data is the most valuable product on the market. </span> The future really moves with big data. But it’s not enough to get the data, you also need to understand how to use it. Our data experts are involved in many tasks.</p>
+</div>
+</div>
+<div class="hero-img-wraper data-poc">
+ <svg width="736" height="911" viewBox="0 0 736 911" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.36" fill-rule="evenodd" clip-rule="evenodd" d="M316.674 197.084C238.346 258.344 164.191 252.093 177.898 441.114C190.626 616.615 289.553 730.517 503.249 673.902C691.791 623.947 724.322 464.433 662.086 329.406C630.969 261.894 546.546 159.403 478.355 134.584C410.165 109.767 355.506 166.715 316.674 197.084Z" stroke="#979797" />
+<path opacity="0.16808" fill-rule="evenodd" clip-rule="evenodd" d="M279.284 164.396C181.712 240.706 89.3386 232.92 106.412 468.381C122.268 687.001 245.501 828.886 511.698 758.362C746.563 696.134 787.086 497.429 709.56 329.227C670.799 245.129 565.634 117.457 480.689 86.5393C395.745 55.6252 327.656 126.565 279.284 164.396Z" stroke="#979797" />
+<path opacity="0.16808" fill-rule="evenodd" clip-rule="evenodd" d="M3.67206 508.592C24.3375 793.538 184.958 978.47 531.917 886.55C838.037 805.442 890.854 546.452 789.807 327.221C739.286 217.607 602.216 51.202 491.5 10.9043C380.784 -29.3888 292.039 63.0728 228.991 112.381C101.817 211.844 -18.5817 201.695 3.67206 508.592Z" stroke="#979797" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M333.414 235.239C270.505 284.44 210.947 279.42 221.956 431.234C232.178 572.189 311.632 663.67 483.262 618.2C634.69 578.078 660.817 449.963 610.832 341.515C585.841 287.292 518.036 204.975 463.268 185.041C408.501 165.109 364.601 210.847 333.414 235.239Z" fill="#8686E6" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M657.921 503.692L656.107 510.765L439.982 611.229L441.794 604.158L657.921 503.692Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M657.921 503.692L656.108 510.765L439.982 611.229L441.794 604.158L657.921 503.692Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M441.794 604.157L439.981 611.228L106.293 298.881L108.105 291.809L441.794 604.157Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M441.794 604.157L439.981 611.228L106.293 298.881L108.105 291.809L441.794 604.157Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M324.232 191.345L657.921 503.692L441.794 604.157L108.105 291.809L324.232 191.345Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M324.232 191.345L657.921 503.692L441.794 604.157L108.105 291.809L324.232 191.345Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M236.214 267.302C237.897 266.519 239.608 265.783 241.345 265.081C261.519 256.937 285.201 254.255 309.166 256.417C346.618 259.799 384.749 275.025 411.235 299.817C435.66 322.679 445.14 348.96 440.375 372.052C436.384 391.399 422.391 408.505 398.787 419.477C373.048 431.442 340.733 433.854 309.228 428.093C277.369 422.271 246.339 408.09 223.766 386.962C191.785 357.026 185.424 321.23 203.124 294.416C210.267 283.59 221.323 274.223 236.214 267.302Z" fill="#AC95FB" fill-opacity="0.08" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M236.214 267.302C237.897 266.519 239.608 265.783 241.345 265.081C261.519 256.937 285.201 254.255 309.166 256.417C346.618 259.799 384.749 275.025 411.235 299.817C435.66 322.679 445.14 348.96 440.375 372.052C436.384 391.399 422.391 408.505 398.787 419.477C373.048 431.442 340.733 433.854 309.228 428.093C277.369 422.271 246.339 408.09 223.766 386.962C191.785 357.026 185.424 321.23 203.124 294.416C210.267 283.59 221.323 274.223 236.214 267.302Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M524.814 400.026L611.458 481.25L421.078 569.881L334.433 488.656L524.814 400.026Z" fill="#8989E0" fill-opacity="0.08" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M524.814 400.026L611.458 481.25L421.078 569.881L334.433 488.656L524.814 400.026Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.39 458.194L616.578 465.271L426.227 553.841L428.039 546.766L618.39 458.194Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.39 458.194L616.578 465.271L426.227 553.841L428.039 546.766L618.39 458.194Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M428.836 546.73L427.018 553.841L340.145 472.263L341.963 465.151L428.836 546.73Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M428.836 546.73L427.018 553.841L340.145 472.263L341.963 465.151L428.836 546.73Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M531.908 376.46L618.39 457.541L428.366 546.015L341.884 464.933L531.908 376.46Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M531.908 376.46L618.39 457.541L428.366 546.015L341.884 464.933L531.908 376.46Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M385.578 468.059L384.76 471.255C384.436 472.524 383.479 473.641 381.915 474.369C378.322 476.043 372.882 475.03 369.765 472.108C368.005 470.457 367.362 468.55 367.784 466.901L368.602 463.705C368.18 465.354 368.822 467.262 370.583 468.912C373.699 471.835 379.139 472.847 382.733 471.174C384.297 470.445 385.254 469.329 385.578 468.059Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M385.578 468.059L384.76 471.255C384.436 472.524 383.479 473.641 381.915 474.369C378.322 476.043 372.882 475.03 369.765 472.108C368.005 470.457 367.362 468.55 367.784 466.901L368.602 463.705C368.18 465.354 368.822 467.262 370.583 468.912C373.699 471.835 379.139 472.847 382.733 471.174C384.297 470.445 385.254 469.329 385.578 468.059Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M371.447 460.591C375.041 458.918 380.481 459.93 383.598 462.852C386.713 465.775 386.327 469.5 382.733 471.174C379.139 472.847 373.699 471.835 370.583 468.913C367.466 465.991 367.853 462.264 371.447 460.591Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M371.447 460.591C375.041 458.918 380.481 459.93 383.598 462.852C386.713 465.775 386.327 469.5 382.733 471.174C379.139 472.847 373.699 471.835 370.583 468.913C367.466 465.991 367.853 462.264 371.447 460.591Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M412.023 492.611L411.205 495.807C410.881 497.077 409.924 498.193 408.36 498.923C404.766 500.596 399.326 499.583 396.21 496.661C394.449 495.009 393.806 493.103 394.229 491.454L395.046 488.259C394.624 489.907 395.267 491.814 397.027 493.466C400.144 496.388 405.584 497.4 409.177 495.727C410.741 494.998 411.698 493.882 412.023 492.611Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M412.023 492.611L411.205 495.807C410.881 497.077 409.924 498.193 408.36 498.923C404.766 500.596 399.326 499.583 396.21 496.661C394.449 495.009 393.806 493.103 394.229 491.454L395.046 488.259C394.624 489.907 395.267 491.814 397.027 493.466C400.144 496.388 405.584 497.4 409.177 495.727C410.741 494.998 411.698 493.882 412.023 492.611Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M397.891 485.144C401.485 483.47 406.925 484.483 410.042 487.406C413.159 490.328 412.771 494.053 409.177 495.727C405.584 497.401 400.144 496.388 397.027 493.466C393.911 490.543 394.297 486.817 397.891 485.144Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M397.891 485.144C401.485 483.47 406.925 484.483 410.042 487.406C413.159 490.328 412.771 494.053 409.177 495.727C405.584 497.401 400.144 496.388 397.027 493.466C393.911 490.543 394.297 486.817 397.891 485.144Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M441.7 520.982L440.883 524.179C440.558 525.448 439.602 526.564 438.039 527.292C434.445 528.966 429.002 527.95 425.886 525.028C424.125 523.377 423.483 521.47 423.905 519.821L424.722 516.626C424.301 518.275 424.943 520.182 426.704 521.833C429.82 524.755 435.263 525.77 438.857 524.097C440.419 523.368 441.376 522.253 441.7 520.982Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M441.7 520.982L440.883 524.179C440.558 525.448 439.602 526.564 438.039 527.292C434.445 528.966 429.002 527.95 425.886 525.028C424.125 523.377 423.483 521.47 423.905 519.821L424.722 516.626C424.301 518.275 424.943 520.182 426.704 521.833C429.82 524.755 435.263 525.77 438.857 524.097C440.419 523.368 441.376 522.253 441.7 520.982Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M427.568 513.511C431.163 511.838 436.601 512.851 439.719 515.773C442.835 518.695 442.451 522.423 438.857 524.096C435.263 525.77 429.82 524.755 426.704 521.833C423.587 518.91 423.974 515.185 427.568 513.511Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M427.568 513.511C431.163 511.838 436.601 512.851 439.719 515.773C442.835 518.695 442.451 522.423 438.857 524.096C435.263 525.77 429.82 524.755 426.704 521.833C423.587 518.91 423.974 515.185 427.568 513.511Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M393.48 450.15L396.47 458.379C396.47 458.379 398.519 462.443 402.297 461.071C404.401 460.306 489.563 422.846 489.563 422.846C489.563 422.846 492.48 421.289 491.64 418.98C490.239 415.124 488.605 410.802 488.605 410.802L393.48 450.15Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M393.48 450.15L396.47 458.379C396.47 458.379 398.519 462.443 402.297 461.071C404.401 460.306 489.563 422.846 489.563 422.846C489.563 422.846 492.48 421.289 491.64 418.98C490.239 415.124 488.605 410.802 488.605 410.802L393.48 450.15Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M481.841 408.738C483.681 407.929 486.433 408.501 487.981 410.017C489.532 411.534 489.293 413.42 487.454 414.229L400.412 452.53C398.569 453.341 395.822 452.769 394.271 451.252C392.723 449.738 392.957 447.849 394.8 447.039L481.841 408.738Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M481.841 408.738C483.681 407.929 486.433 408.501 487.981 410.017C489.532 411.534 489.293 413.42 487.454 414.229L400.412 452.53C398.569 453.341 395.822 452.769 394.271 451.252C392.723 449.738 392.957 447.849 394.8 447.039L481.841 408.738Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M417.875 474.595L420.864 482.823C420.864 482.823 422.913 486.887 426.691 485.515C428.795 484.75 513.958 447.291 513.958 447.291C513.958 447.291 516.874 445.735 516.034 443.426C514.633 439.569 512.999 435.246 512.999 435.246L417.875 474.595Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M417.875 474.595L420.864 482.823C420.864 482.823 422.913 486.887 426.691 485.515C428.795 484.75 513.958 447.291 513.958 447.291C513.958 447.291 516.874 445.735 516.034 443.426C514.633 439.569 512.999 435.246 512.999 435.246L417.875 474.595Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M506.235 433.183C508.075 432.374 510.827 432.946 512.376 434.462C513.926 435.978 513.687 437.865 511.848 438.675L424.806 476.976C422.963 477.786 420.216 477.215 418.665 475.697C417.117 474.182 417.351 472.295 419.194 471.484L506.235 433.183Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M506.235 433.183C508.075 432.374 510.827 432.946 512.376 434.462C513.926 435.978 513.687 437.865 511.848 438.675L424.806 476.976C422.963 477.786 420.216 477.215 418.665 475.697C417.117 474.182 417.351 472.295 419.194 471.484L506.235 433.183Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M444.894 502.519L447.883 510.748C447.883 510.748 449.932 514.811 453.71 513.439C455.814 512.674 540.977 475.215 540.977 475.215C540.977 475.215 543.894 473.658 543.053 471.349C541.652 467.493 540.018 463.171 540.018 463.171L444.894 502.519Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M444.894 502.519L447.883 510.748C447.883 510.748 449.932 514.811 453.71 513.439C455.814 512.674 540.977 475.215 540.977 475.215C540.977 475.215 543.894 473.658 543.053 471.349C541.652 467.493 540.018 463.171 540.018 463.171L444.894 502.519Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M533.254 461.106C535.093 460.297 537.846 460.87 539.395 462.385C540.946 463.903 540.706 465.789 538.866 466.598L451.825 504.899C449.982 505.71 447.235 505.138 445.684 503.621C444.135 502.106 444.369 500.218 446.212 499.408L533.254 461.106Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M533.254 461.106C535.093 460.297 537.846 460.87 539.395 462.385C540.946 463.903 540.706 465.789 538.866 466.598L451.825 504.899C449.982 505.71 447.235 505.138 445.684 503.621C444.135 502.106 444.369 500.218 446.212 499.408L533.254 461.106Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<g opacity="0.414342">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="459" y="426" width="154" height="112">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M477.824 426.892L612.84 464.171L594.285 537.425L459.269 500.146L477.824 426.892Z" fill="white" />
+</mask>
+<g mask="url(#mask0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M468.546 463.52C473.671 443.289 508.048 435.237 545.334 445.532C582.618 455.826 608.687 480.568 603.563 500.798C598.439 521.027 564.062 529.08 526.778 518.786C489.493 508.491 463.423 483.748 468.546 463.52Z" fill="#9595EF" />
+</g>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M615.671 467.87C611.102 449.747 587.315 430.876 555.684 422.142C524.574 413.552 495.413 417.401 482.518 430.273L479.732 427.242L476.25 440.989C470.918 462.038 497.836 487.728 536.375 498.369C574.914 509.01 610.478 500.573 615.81 479.524L619.292 465.777L615.671 467.87Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M615.671 467.87C611.102 449.747 587.315 430.876 555.684 422.142C524.574 413.552 495.413 417.401 482.518 430.273L479.732 427.242L476.25 440.989C470.918 462.038 497.836 487.728 536.375 498.369C574.914 509.01 610.478 500.573 615.81 479.524L619.292 465.777L615.671 467.87Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M480.066 426.747C485.397 405.697 520.961 397.259 559.5 407.901C598.038 418.542 624.958 444.232 619.626 465.282C614.294 486.331 578.73 494.769 540.192 484.128C501.653 473.487 474.734 447.796 480.066 426.747Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M480.066 426.747C485.397 405.697 520.961 397.259 559.5 407.901C598.038 418.542 624.958 444.232 619.626 465.282C614.294 486.331 578.73 494.769 540.192 484.128C501.653 473.487 474.734 447.796 480.066 426.747Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M609.49 458.275C609.349 458.83 609.185 459.378 608.989 459.906C611.166 444.569 588.666 425.743 557.429 417.17C526.203 408.601 497.69 413.427 492.308 427.884C492.388 427.325 492.505 426.764 492.646 426.209C497.04 408.891 526.764 402.035 559.023 410.888C591.293 419.744 613.884 440.957 609.49 458.275Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M491.205 429.835C495.18 414.146 524.656 408.671 557.044 417.606C589.429 426.541 612.462 446.503 608.487 462.192C604.512 477.882 575.036 483.357 542.65 474.423C510.263 465.487 487.23 445.525 491.205 429.835Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M491.205 429.835C495.18 414.146 524.656 408.671 557.044 417.606C589.429 426.541 612.462 446.503 608.487 462.192C604.512 477.882 575.036 483.357 542.65 474.423C510.263 465.487 487.23 445.525 491.205 429.835Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M541.58 474.75C509.751 465.547 487.305 445.841 491.238 430.315C491.366 429.811 491.517 429.314 491.701 428.837C489.124 445.755 510.805 465.802 541.58 474.75Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M607.965 462.058C604.032 477.584 575.202 483.136 543.162 474.709C574.165 482.813 602.491 476.57 608.263 460.534C608.196 461.043 608.093 461.554 607.965 462.058Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M643.044 551.83L654.809 549.723L657.294 540.229L656.542 539.437" fill="white" />
+<path d="M643.044 551.83L654.809 549.723L657.294 540.229L656.542 539.437" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M580.97 498.371L583.284 488.775L583.913 488.329L594.136 485.814L656.954 539.86L646.273 542.147L643.432 552.349L580.97 498.371Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M593.556 484.668L582.837 487.226L581.913 487.873L579.517 498.074L643.838 553.445L644.25 551.932L646.783 542.641L658.397 540.241L593.556 484.668ZM593.275 486.141L655.504 539.469L646.457 541.339L645.69 541.498L645.487 542.239L643.085 551.051L581.056 497.66L583.158 488.709L583.493 488.475L593.275 486.141Z" fill="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M583.378 488.895L646.968 542.29L583.378 488.895Z" fill="white" />
+<path d="M583.378 488.895L646.968 542.29" stroke="black" stroke-width="2" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M417.532 268.641L414.464 280.675L319.276 325.159L322.345 313.125L417.532 268.641Z" fill="#8989E0" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M417.532 268.641L414.464 280.675L319.276 325.159L322.345 313.125L417.532 268.641Z" stroke="black" stroke-width="2.027" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M321.885 313.122L318.877 325.16L310.582 236.334L313.589 224.296L321.885 313.122Z" fill="#8989E0" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M321.885 313.122L318.877 325.16L310.582 236.334L313.589 224.296L321.885 313.122Z" stroke="black" stroke-width="2.027" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M321.885 312.314L318.819 324.29L202.761 274.53L205.827 262.554L321.885 312.314Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M321.885 312.314L318.819 324.29L202.761 274.53L205.827 262.554L321.885 312.314Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M314.057 224.028C352.164 227.473 390.968 242.973 417.92 268.212L322.539 312.566L314.057 224.028Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M314.057 224.028C352.164 227.473 390.968 242.973 417.92 268.212L322.539 312.566L314.057 224.028Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M314.116 398.797L311.042 410.796L319.463 324.565L322.538 312.567L314.116 398.797Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M314.116 398.797L311.042 410.796L319.463 324.565L322.538 312.567L314.116 398.797Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M405.259 390.025C379.06 402.207 346.176 404.662 314.115 398.797C281.7 392.868 250.122 378.433 227.152 356.923C201.347 332.759 191.933 304.846 198.118 280.714L195.041 292.713C188.858 316.845 198.272 344.76 224.076 368.921C247.047 390.431 278.624 404.868 311.04 410.796C343.101 416.662 375.985 414.206 402.183 402.023C425.099 391.367 439.119 375.02 443.883 356.433L446.957 344.434C442.194 363.021 428.174 379.367 405.259 390.025Z" fill="#8989E0" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M405.259 390.025C379.06 402.207 346.176 404.663 314.115 398.797C281.7 392.868 250.122 378.433 227.152 356.923C201.347 332.759 191.933 304.846 198.118 280.714L195.041 292.713C188.858 316.845 198.272 344.76 224.076 368.921C247.047 390.431 278.624 404.868 311.04 410.796C343.101 416.662 375.985 414.206 402.183 402.023C425.099 391.367 439.119 375.02 443.883 356.433L446.957 344.434C442.194 363.021 428.174 379.367 405.259 390.025Z" stroke="black" stroke-width="2.027" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M328.841 282.668L325.756 294.726L247.976 214.615L251.062 202.557L328.841 282.668Z" fill="#8989E0" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M328.841 282.668L325.756 294.726L247.976 214.615L251.062 202.557L328.841 282.668Z" stroke="black" stroke-width="2.027" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M251.357 202.191C271.887 193.905 295.994 191.175 320.387 193.375L328.87 281.872L251.357 202.191Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M251.357 202.191C271.887 193.905 295.994 191.175 320.387 193.375L328.87 281.872L251.357 202.191Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M429.467 280.496L322.421 312.335L244.909 232.653C243.14 233.366 241.395 234.118 239.686 234.913C224.53 241.956 213.277 251.487 206.002 262.504C187.991 289.786 194.465 326.21 227.016 356.67C249.99 378.17 281.575 392.6 313.997 398.525C346.062 404.389 378.953 401.934 405.156 389.757C429.175 378.594 443.423 361.186 447.484 341.499C451.457 322.232 445.683 300.781 429.765 280.855" fill="white" />
+<path d="M429.467 280.496L322.421 312.335L244.909 232.653C243.14 233.366 241.395 234.118 239.686 234.913C224.53 241.956 213.277 251.487 206.002 262.504C187.991 289.786 194.465 326.21 227.016 356.67C249.99 378.17 281.575 392.6 313.997 398.525C346.062 404.389 378.953 401.934 405.156 389.757C429.175 378.594 443.423 361.186 447.484 341.499C451.457 322.232 445.683 300.781 429.765 280.855" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M316.668 387.765L208.848 435.588" stroke="#8989E0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M497.499 165.98L446.975 119.05L389.708 145.957L441.689 193.483L497.499 165.98Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M497.499 165.98L446.975 119.05L389.708 145.957L441.689 193.483L497.499 165.98Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M497.499 148.455L447.676 100.824L389.708 128.431L441.689 175.957L497.499 148.455Z" fill="#9595EF" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M497.499 148.455L447.676 100.824L389.708 128.431L441.689 175.957L497.499 148.455Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M497.499 148.454V165.98L441.689 193.482V175.957L497.499 148.454Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M497.499 148.454V165.98L441.689 193.482V175.957L497.499 148.454Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M389.708 128.431V145.956L441.689 193.482V175.957L389.708 128.431Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M389.708 128.431V145.956L441.689 193.482V175.957L389.708 128.431Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path d="M438.463 161.076L477.086 141.913" stroke="white" stroke-width="6" stroke-linecap="round" />
+<path d="M428.633 151.797L467.256 132.635" stroke="white" stroke-width="6" stroke-linecap="round" />
+<path d="M419.935 143.28L458.558 124.118" stroke="white" stroke-width="6" stroke-linecap="round" />
+<path d="M410.12 134.867L448.743 115.705" stroke="white" stroke-width="6" stroke-linecap="round" />
+<path d="M413.184 160.82L303.625 210.383" stroke="#8989E0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M107.115 455.918L171.59 514.867L240.813 480.753L178.146 422.545L107.115 455.918Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240.814 480.754L178.146 422.545L107.114 455.919L171.591 514.867L240.814 480.754Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M107.115 434.18L171.59 493.129L240.813 459.015L179.015 399.938L107.115 434.18Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240.814 459.016L179.015 399.938L107.114 434.181L171.591 493.129L240.814 459.016Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240.814 459.016V480.754L171.591 514.867V493.129L240.814 459.016Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M240.814 459.016V480.754L171.591 514.867V493.129L240.814 459.016Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M107.115 455.918L171.59 514.867V493.129L107.115 434.18V455.918Z" fill="white" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M107.114 434.18V455.918L171.59 514.867V493.129L107.114 434.18Z" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path d="M168.071 473.158L212.74 449.389" stroke="#9595EF" stroke-width="6" stroke-linecap="round" />
+<path d="M155.877 462.727L200.547 438.959" stroke="#9595EF" stroke-width="6" stroke-linecap="round" />
+<path d="M142.931 453.242L187.602 429.474" stroke="#9595EF" stroke-width="6" stroke-linecap="round" />
+<path d="M130.758 442.808L175.428 419.04" stroke="#9595EF" stroke-width="6" stroke-linecap="round" />
+</svg>
+</div>
+</div>
+</section>
+<div class="two-section">
+<div class="row">
+<div class="card"><img src="/storage/app/media/ds-ico1.svg" alt="dedicated team cards1">
+<p class="descr">This is not something completely new that has appeared in the industry out of the bloom. This is the development of tools that were previously used to solve applied business problems. This development was facilitated by the growth of computing power, which in turn made it possible to work with vast amounts of information.</p>
+</div>
+<div class="card"><img src="/storage/app/media/ds-ico2.svg" alt="dedicated team cards2">
+<p class="descr">Previously, almost&nbsp;<span>every company had a statistics department.&nbsp;</span>Then this function was transformed into business analysis, and today it is being transformed into data analytics, which works with more detailed, more in-depth information.</p>
+</div>
+</div>
+</div>
+<div class="three-section">
+<div class="col">
+<h2 class="grey">Working with Big Data isn’t something that a human can do</h2>
+<h2 class="black">because our brains are simply not able to process so much information</h2>
+</div>
+<div class="col"><img src="/storage/app/media/ds-img3.svg" alt="data science 3 section picture"></div>
+</div>
+<div class="four-section">
+<div class="col">
+<div class="icon">
+<p>Data science hides a <span style="font-weight: bold;">lot of skills inside</span> such as <span style="font-weight: bold;">mathematical analysis, linear algebra, mathematical statistics, numerical methods</span>.</p>
+</div>
+</div>
+<div class="col">
+<div class="icon">
+<p><span style="font-weight: bold;">As well as derivatives of these sciences:</span> algorithms, programming, econometrics, which combine the knowledge of statistics, programming and economic theory. It considers the properties and patterns of data, methods of processing, analysis, and modeling, which are the object of study in data science.</p>
+</div>
+</div>
+</div>
+<div class="five-section">
+<h2>In our company, data science specialists are divided into several groups.</h2>
+<div class="row">
+<div class="col">
+<div class="top"><img src="/storage/app/media/ds-spot1.svg" alt="spot1">
+<h2 class="number">01</h2>
+<p>System<br>administrators</p>
+</div>
+<p>The first one is those who work with data preparation, data aggregation, setting up data streams at the hardware level. They have more knowledge of system administrating and databases. Accordingly, their IT skills are their priority.</p>
+</div>
+<div class="col">
+<div class="top"><img src="/storage/app/media/ds-spot2.svg" alt="spot2">
+<h2 class="number">02</h2>
+<p>Data<br>scientists</p>
+</div>
+<p>The second group of data scientists is those who analyze and search for correlations on the basis of the collected Big Data. Their sphere of expertise is mathematics and statistics, while programming programming helps in solving problems.</p>
+</div>
+</div>
+<div class="box-container">
+<div class="box">
+<svg width="135" height="140" viewBox="0 0 135 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M88.0171 107.899C107.72 87.9673 128.453 91.6463 126.366 62.413C124.515 36.4926 99.0373 19.1075 63.008 19.1235C8.74248 19.1471 4.87665 69.2834 15.2312 92.1974C20.4086 103.655 34.181 124.384 50.1064 127.464C66.0318 130.544 78.417 117.61 88.0171 107.899Z" fill="#9595EF" />
+<path d="M59.6206 76.6174L71.5619 85.1201L67.5024 98.0825L55.7033 99.2869L47.7588 77.3578L59.6206 76.6174Z" fill="#9595EF" stroke="black" stroke-width="2" stroke-linejoin="round" />
+<path d="M59.2721 86.2288L71.7204 85.0935" stroke="black" stroke-width="2" />
+<path d="M68.704 4.01236L92.9879 17.9243L72.9998 79L63.0674 79.8377L57.3446 7.39804L68.704 4.01236Z" fill="#9595EF" stroke="black" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" />
+<path d="M81.6285 21.31L92.988 17.9243" stroke="black" stroke-width="2" />
+<path d="M57.3445 7.39807L81.6284 21.31L63.0673 79.8377L49.5911 70.5834L57.3445 7.39807Z" fill="white" stroke="black" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" />
+<path d="M47.8215 77.8217L59.7628 86.3244L55.7034 99.2868L46.6106 91.8497L47.8215 77.8217Z" fill="white" stroke="black" stroke-width="2" stroke-linejoin="round" />
+</svg>
+<p>Successful businesses seek to automate their decision-making process to the maximum through various programs that use machine learning. We help to understand and structure data, predict risks, form trends etc.</p>
+</div>
+</div>
+</div>
+</div>
+<section>
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3 class="font-h4">Related projects <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/realmfive"><img data-src="/storage/app/media/realm_preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/revenu"><img data-src="/storage/app/media/revenu/login_dt.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Revenu<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/zedosh"><img data-src="/storage/app/media/portfolio/zedosh/zedosh.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ajuma"><img data-src="/storage/app/media/portfolio/ajuma/Ajuma.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/pause"><img data-src="/storage/app/media/portfolio/pause/pause-preview.jpg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Pause<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crave-retail"><img data-src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/einkaufs-check"><img data-src="/storage/app/media/portfolio/einkaufs-check/preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/printbi"><img data-src="/storage/app/media/printBi.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crypto-analytics"><img data-src="/storage/app/media/bitspread.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/wyzoo"><img data-src="/storage/app/media/wyzoo-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+ Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ncourage"><img data-src="/storage/app/media/ncourageProj/ncourage-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/validify"><img data-src="/storage/app/media/validifyProj/validify-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Validify<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/factmata"><img data-src="/storage/app/media/factMata/factmata-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">FactMata<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/zaza"><img data-src="/storage/app/media/zaza.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/buzzshow"><img data-src="/storage/app/media/BuzShow 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/pool-party"><img data-src="/storage/app/media/pool_party.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Pool party<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/digital-bits"><img data-src="/storage/app/media/digital_bits_preview.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+ </a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tamam"><img data-src="/storage/app/media/tamam-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/swoon"><img data-src="/storage/app/media/swoonProj/swoon-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Swoon<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/circular-review-system-vehicles"><img data-src="/storage/app/media/Circular-Review-System-for-vehicles.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/totalizator-platform"><img data-src="/storage/app/media/totalizator.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tradesmarter"><img data-src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/my-uber"><img data-src="/storage/app/media/myuber.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">My Uber<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ua-light"><img data-src="/storage/app/media/ua_light 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+ </a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/gearhousepro"><img data-src="/storage/app/media/gearHousePro/preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/funderslink"><img data-src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+<div class="see__all__link">
+<a class="font-button" href="https://geniusee.com/portfolio">See All</a>
+</div>
+</div>
+</section>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+ <input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div> 
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/hero-top.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/services-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/2fa33f34706b908b9f6f864199558563-1638441204"></script>
+
+
+</body>
+</html>

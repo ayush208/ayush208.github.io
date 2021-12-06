@@ -1,0 +1,1166 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<title>DevOps Service | DevOps Consulting &  Implementation | Geniusee</title>
+<meta name="description" content="Geniusee provides DevOps services, including consulting, cloud migration, infrastructure management, highload optimization, continuous delivery.">
+<meta name="keywords" content="Devops service, devops consulting, quality devops, devops for buisness, devops experts, devops engineers, devops engineer">
+<link rel="canonical" href="https://geniusee.com/devops" />
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="Geniusee" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/mail_subsription_logo/G_IMG.png" />
+<meta property="og:url" content="https://geniusee.com/" />
+<meta property="og:description" content="<p>The success of an idea depends on the team. We have teamed up with geniuses that are passionate about what they do and will provide your project with a full cycle web/mobile development services.</p>" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body class="">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="wrapper devops page">
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li class="header-active-li"><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+
+<section class="page">
+<div class="hero-top">
+<div class="hero-text-wraper">
+<div class="hero-text-content">
+<h1 class="font-h1">Devops<span class="purple_square">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/expertise">Expertise</a><span>></span>Devops
+</div>
+<p class="font-body-2 font-body-2-top">Infrastructure is very important to maintain reliable operation. At Geniusee, we use our expertise in cloud and server solutions to derive and build high-performing environments that will satisfy any complexity requirements for customer's product. The increased productivity and performance that come with this approach bring companies more income and fewer headaches.</p>
+</div>
+</div>
+<div class="hero-img-wraper">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 785 500" fill="none">
+<style type="text/css">
+    	.st0{opacity:0.458;fill:#9595EF;enable-background:new    ;}
+    	.st1{opacity:0.28;fill:none;stroke:#979797;enable-background:new    ;}
+    	.st2{opacity:0.17;fill:none;stroke:#979797;enable-background:new    ;}
+    	.st3{opacity:8.000000e-02;fill:none;stroke:#979797;enable-background:new    ;}
+    	
+    		.st4{fill:#5E4CC5;fill-opacity:8.000000e-02;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,8;}
+    	.st5{fill:#FFFFFF;}
+    	.st6{fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;}
+    	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+    	.st8{fill:none;stroke:#9595EF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+    	.st9{fill:#9595EF;}
+    	.st10{fill:#A7A7F5;}
+    	
+    		.st11{fill:#6D52D6;fill-opacity:8.000000e-02;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,8;}
+    	.st12{fill:none;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;}
+    	.st13{fill:none;stroke:#9595EF;stroke-width:2.169;stroke-linecap:round;stroke-linejoin:round;}
+    	.st14{fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}
+    	.st15{fill:none;stroke:#000000;stroke-width:1.5;}
+    </style>
+<g>
+<path class="st0" d="M279.9,180.6c-101.7,22.7-184.6,8.4-208.6,115.9c-22.3,99.9,66.2,178,320.6,177.7
+    		c224.5-0.3,294.8-84.6,252.4-169.1c-21.2-42.3-95.6-111.9-167.8-135.7C404.3,145.5,330.4,169.3,279.9,180.6" />
+<path class="st1" d="M282.6,178c-112.1,25-203.4,9.2-229.9,127.4c-24.6,109.7,72.9,195.5,353.3,195.2
+    		c247.4-0.3,324.9-92.9,278.2-185.8c-23.3-46.4-105.3-122.9-184.9-149.1C419.7,139.5,338.1,165.6,282.6,178" />
+<path class="st2" d="M285,171C161.6,198.5,61.1,181.1,32,311.5C5,432.6,112.2,527.3,420.7,527c272.2-0.3,357.5-102.5,306.1-205
+    		C701.1,270.7,611,186.3,523.4,157.4C435.8,128.5,346.1,157.3,285,171" />
+<path class="st3" d="M279.3,173.2c-134.1,29.9-243.3,11-275,152.7C-25,457.5,91.6,560.4,426.9,560
+    		c295.9-0.3,388.6-111.4,332.7-222.7c-27.9-55.7-125.9-147.4-221.1-178.8C443.3,127,345.8,158.4,279.3,173.2" />
+</g>
+<g>
+<path class="st4" d="M303.5,420.2l138.3,76.3c1.2,0.7,2.7,0.7,3.9,0l132.9-77.2c2.6-1.5,2.6-5.1,0.1-6.7l-131.5-84
+    		c-2.5-1.6-5.8-1.6-8.3,0l-135.7,85C300.7,415,300.8,418.8,303.5,420.2L303.5,420.2z" />
+<path class="st5" d="M575,345.6l-130.8-76.2c-1.7-1-3.6-0.8-4.9,0.2l-138.6,82l141,118.3l136.6-80.6c1.8-0.6,3.2-2.2,3.2-4.3v-28.1
+    		C581.5,352.2,579,347.9,575,345.6" />
+<path class="st6" d="M575,345.6l-130.8-76.2c-1.7-1-3.6-0.8-4.9,0.2l-138.6,82l141,118.3l136.6-80.6c1.8-0.6,3.2-2.2,3.2-4.3v-28.1
+    		C581.5,352.2,579,347.9,575,345.6L575,345.6z" />
+<path class="st5" d="M443.7,466.1V438c0-4.6-2.5-8.9-6.4-11.2l-130.8-76.2c-3.1-1.8-6.9,0.4-6.9,4v27.9c0,4.6,2.4,8.8,6.4,11.1
+    		L437,470C440,471.8,443.7,469.6,443.7,466.1" />
+<path class="st6" d="M443.7,466.1V438c0-4.6-2.5-8.9-6.4-11.2l-130.8-76.2c-3.1-1.8-6.9,0.4-6.9,4v27.9c0,4.6,2.4,8.8,6.4,11.1
+    		L437,470C440,471.8,443.7,469.6,443.7,466.1L443.7,466.1z" />
+<path class="st5" d="M482.7,408.5l63.3-36.5" />
+<path class="st7" d="M482.7,408.5l63.3-36.5" />
+<path class="st8" d="M309.6,367l103.5,61.4 M309.6,381.4l37.3,22.2 M356.5,408.9l56.5,33.6" />
+<path class="st9" d="M432.8,437.3c0.1,2.3-1.6,4.3-3.9,4.4c-2.3,0.1-5.3-1.5-5.5-3.8c-0.1-2.3,1.6-4.3,3.9-4.4
+    		C429.6,433.3,432.6,435,432.8,437.3 M433,452.7c-0.4,2.2-2.5,3.6-4.6,3.1c-2.1-0.4-4.5-2.7-4.1-4.9c0.4-2.2,2.5-3.6,4.6-3.1
+    		C431.1,448.3,433.5,450.6,433,452.7" />
+<path class="st5" d="M575,280.9l-130.8-76.2c-1.7-1-3.6-0.8-4.9,0.2l-138.6,82l141,118.3l136.6-80.6c1.8-0.6,3.2-2.2,3.2-4.3v-28.1
+    		C581.5,287.5,579,283.2,575,280.9" />
+<path class="st6" d="M575,280.9l-130.8-76.2c-1.7-1-3.6-0.8-4.9,0.2l-138.6,82l141,118.3l136.6-80.6c1.8-0.6,3.2-2.2,3.2-4.3v-28.1
+    		C581.5,287.5,579,283.2,575,280.9L575,280.9z" />
+<path class="st5" d="M443.7,401.4v-28.1c0-4.6-2.5-8.9-6.4-11.2l-130.8-76.2c-3.1-1.8-6.9,0.5-6.9,4v27.9c0,4.6,2.4,8.8,6.4,11.1
+    		L437,405.3C440,407.1,443.7,404.9,443.7,401.4" />
+<path class="st6" d="M443.7,401.4v-28.1c0-4.6-2.5-8.9-6.4-11.2l-130.8-76.2c-3.1-1.8-6.9,0.5-6.9,4v27.9c0,4.6,2.4,8.8,6.4,11.1
+    		L437,405.3C440,407.1,443.7,404.9,443.7,401.4L443.7,401.4z" />
+<path class="st5" d="M482.7,343.7l63.3-36.5" />
+<path class="st7" d="M482.7,343.7l63.3-36.5" />
+<path class="st8" d="M309.6,302.2l103.5,61.4 M309.6,316.7l37.3,22.2 M356.5,344.2l56.5,33.6" />
+<path class="st9" d="M432.8,372.6c0.1,2.3-1.6,4.3-3.9,4.4c-2.3,0.1-5.3-1.5-5.5-3.8c-0.1-2.3,1.6-4.3,3.9-4.4
+    		C429.6,368.6,432.6,370.3,432.8,372.6 M433,388c-0.4,2.2-2.5,3.6-4.6,3.1c-2.1-0.4-4.5-2.7-4.1-4.9c0.4-2.2,2.5-3.6,4.6-3.1
+    		C431.1,383.6,433.5,385.9,433,388" />
+<g class="cloud">
+<path class="st5" d="M364.5,212.6l8.7,26.9l33.1-18.9L364.5,212.6z" />
+<path class="st6" d="M364.5,212.6l8.7,26.9l33.1-18.9L364.5,212.6z" />
+<path class="st5" d="M427.8,242.8v-11.2l-10.6,5.9v12.1" />
+<path class="st6" d="M427.8,242.8v-11.2l-10.6,5.9v12.1" />
+<path class="st5" d="M417.2,249.5l10.6-5.9v-57.7l-11.1,4.5L417.2,249.5z" />
+<path class="st6" d="M417.2,249.5l10.6-5.9v-57.7l-11.1,4.5L417.2,249.5z" />
+<g>
+<path class="st5" d="M437.5,263.9l15.9,35.5c0.4,0.9,1.4,1.2,2.1,0.7l20.1-14.6c1-0.7,0.9-2.7-0.3-3.3l-36-20.9
+    				C437.9,260.6,436.7,262.4,437.5,263.9" />
+<path class="st6" d="M437.5,263.9l15.9,35.5c0.4,0.9,1.4,1.2,2.1,0.7l20.1-14.6c1-0.7,0.9-2.7-0.3-3.3l-36-20.9
+    				C437.9,260.6,436.7,262.4,437.5,263.9L437.5,263.9z" />
+<path class="st5" d="M451.8,295l10.4-5.9v-74.6L439,205l12.8,8.5L451.8,295z" />
+<path class="st6" d="M451.8,295l10.4-5.9v-74.6L439,205l12.8,8.5L451.8,295z" />
+<path class="st6" d="M439.2,262.5l-1.2-1.3c1.7,0.2,0,0,0,0l-12.1,7.9l41.2,22.5l8.4-6.1c1.1-0.8,0-3.4-0.5-3.6l-6.4-3.4" />
+<path class="st5" d="M428.4,268.8l9.6-6.4l0,0.7v10.3L428.4,268.8z M453.8,280.8l4.9-5.4c0.3-0.4,0.7-1.3,1.1-1l13.4,8
+    				c2.5,0.8,1.8,2.4,1.1,2.7l-6.6,4.5c-0.4,0.3-1.7,0.2-2.2-0.1l-11.5-7c-0.5-0.3-0.7-1-0.4-1.5
+    				C453.7,280.9,453.7,280.9,453.8,280.8" />
+<path class="st5" d="M467.1,291.6l-15.3-9.2v-68.9l-12.8-10v72l-11.7-6.4c-1.3-0.7-2.6,1-1.8,2.6l18,35.5
+    				c0.4,0.9,1.4,1.2,2.1,0.7l19.8-14.8C466.4,292.3,467.1,291.6,467.1,291.6" />
+<path class="st6" d="M467.1,291.6l-15.3-9.2v-68.9l-12.8-10v72l-11.7-6.4c-1.3-0.7-2.6,1-1.8,2.6l18,35.5
+    				c0.4,0.9,1.4,1.2,2.1,0.7l19.8-14.8C466.4,292.3,467.1,291.6,467.1,291.6L467.1,291.6z" />
+<path class="st5" d="M364.8,199.3l-0.3,12.9l21.9,6.6" />
+<path class="st6" d="M364.8,199.3l-0.3,12.9l21.9,6.6" />
+<path class="st5" d="M386.4,231.9l30.9,17.6v-12.1l-0.5-39.8v-7.2l-11.8-5.4v45.7l-32.6-18.2v11.3" />
+<path class="st7" d="M386.4,231.9l30.9,17.6v-12.1l-0.5-39.8v-7.2l-11.8-5.4v45.7l-32.6-18.2v11.3" />
+<path class="st5" d="M404.6,218.6l-9.1-5.1l8.6-4.9l-0.4-1.9l-39.1-7.4l8.7,26.9l11.3-6.4l20.1,10.9" />
+<path class="st6" d="M404.6,218.6l-9.1-5.1l8.6-4.9l-0.4-1.9l-39.1-7.4l8.7,26.9l11.3-6.4l20.1,10.9" />
+<path class="st5" d="M365.7,205.8l6.7,20.8l-0.2,6.3l-6.6-20.2L365.7,205.8z M373.5,226.2l-0.3,13.3" />
+<path class="st6" d="M373.5,226.2l-0.3,13.3" />
+<path class="st5" d="M404.9,230.7v-12.9" />
+<path class="st7" d="M404.9,230.7v-12.9" />
+<path class="st5" d="M416.8,202.1l0.5,36.8" />
+<path class="st7" d="M416.8,202.1l0.5,36.8" />
+<path class="st5" d="M493,284.9v-43.6l-10.8-1.1v51.5l42.5,23.4v-12L493,284.9z" />
+<path class="st6" d="M493,284.9v-43.6l-10.8-1.1v51.5l42.5,23.4v-12L493,284.9z" />
+<path class="st5" d="M493,284.9l27.3,15.7l-13.5,7.4l46.1,7.8l-6.5-29.5l-15.2,8.3l-26-14.7l-2.5-1.4l-0.6-38.3l-9.1,1.1v43.9" />
+<path class="st6" d="M493,284.9l27.3,15.7l-13.5,7.4l46.1,7.8l-6.5-29.5l-15.2,8.3l-26-14.7l-2.5-1.4l-0.6-38.3l-9.1,1.1v43.9" />
+<path class="st5" d="M506.9,307.9l-0.3,7.8l46.1,7.8l0.3-7.8L506.9,307.9z" />
+<path class="st6" d="M506.9,307.9l-0.3,7.8l46.1,7.8l0.3-7.8L506.9,307.9z" />
+<path class="st10" d="M510.2,140.6c-3.3-2.1-6.8-3.8-10.6-4.9c-5.7-20.9-19.9-40.9-37.7-52.5c-10-6.5-20.7-6.5-29.3-1.9v0l-0.1,0
+    				c-0.1,0-0.1,0.1-0.2,0.1L410,93.9l9,2.6c-0.9,2-1.5,4.2-2,6.3c-1-0.7-2.1-1.3-3.1-2c-8.3-5-17-4.7-23.5-0.8l-22.7,12.7l12,6.4
+    				c0,0.7,0,1.3,0,2c0.5,21.8,15.3,47.4,34.1,59c29.8,17.2,59.7,34.1,89.7,50.8c0.7,0.4,1.4,0.7,2.1,1l-6.1,4.4l2.2,7.6l23.8-11.2
+    				c8.3-3.4,14.5-11.5,16.1-22.2C545.1,185.5,531.7,154.3,510.2,140.6" />
+<path class="st6" d="M510.2,140.6c-3.3-2.1-6.8-3.8-10.6-4.9c-5.7-20.9-19.9-40.9-37.7-52.5c-10-6.5-20.7-6.5-29.3-1.9v0l-0.1,0
+    				c-0.1,0-0.1,0.1-0.2,0.1L410,93.9l9,2.6c-0.9,2-1.5,4.2-2,6.3c-1-0.7-2.1-1.3-3.1-2c-8.3-5-17-4.7-23.5-0.8l-22.7,12.7l12,6.4
+    				c0,0.7,0,1.3,0,2c0.5,21.8,15.3,47.4,34.1,59c29.8,17.2,59.7,34.1,89.7,50.8c0.7,0.4,1.4,0.7,2.1,1l-6.1,4.4l2.2,7.6l23.8-11.2
+    				c8.3-3.4,14.5-11.5,16.1-22.2C545.1,185.5,531.7,154.3,510.2,140.6L510.2,140.6z" />
+<path class="st5" d="M491.7,150.4c-3.3-2.1-6.8-3.8-10.6-4.9c-5.7-20.9-19.9-40.9-37.7-52.5c-18.9-12.3-40.4-1.2-44.9,19.7
+    				c-1-0.7-2.1-1.3-3.1-2c-16.5-10-34.7,1.1-34.2,20.2c0.5,21.8,15.3,47.4,34.1,59c29.8,17.2,59.7,34.1,89.7,50.8
+    				c17.4,9.7,35.2-1.3,38-20.4C526.6,195.3,513.3,164,491.7,150.4" />
+<path class="st6" d="M491.7,150.4c-3.3-2.1-6.8-3.8-10.6-4.9c-5.7-20.9-19.9-40.9-37.7-52.5c-18.9-12.3-40.4-1.2-44.9,19.7
+    				c-1-0.7-2.1-1.3-3.1-2c-16.5-10-34.7,1.1-34.2,20.2c0.5,21.8,15.3,47.4,34.1,59c29.8,17.2,59.7,34.1,89.7,50.8
+    				c17.4,9.7,35.2-1.3,38-20.4C526.6,195.3,513.3,164,491.7,150.4z" />
+</g>
+</g>
+<g>
+<path class="st11" d="M143.3,318.4l92.5,53c2.4,1.4,4.3,0.2,7.4-1c3.1-1.2,18.3-8.2,18.3-8.2c3-2.9,3-5.8-0.7-7.8l-96.1-54.3
+    			c-2.2-1.2-5-0.9-7,0.7l-15.4,7.4C139,311.1,139.5,316.3,143.3,318.4L143.3,318.4z" />
+<g class="key">
+<path class="st9" d="M54.9,388l80.2-47.1l7,3.9l-85.5,51.8L54.9,388z" />
+<path class="st12" d="M54.9,388l80.2-47.1l7,3.9l-85.5,51.8L54.9,388z" />
+<path class="st5" d="M85.7,369.9v-13.1l11.5-6.1l0.2,12.4L85.7,369.9z" />
+<path class="st12" d="M85.7,369.9v-13.1l11.5-6.1l0.2,12.4L85.7,369.9z" />
+<path class="st5" d="M120.1,350v-22.3l-11.8,6.1v22.8L120.1,350z" />
+<path class="st12" d="M120.1,350v-22.3l-11.8,6.1v22.8L120.1,350z" />
+<path class="st9" d="M115.3,337.8l-7-4l11.8-6.1l7.3,3.9L115.3,337.8z" />
+<path class="st12" d="M115.3,337.8l-7-4l11.8-6.1l7.3,3.9L115.3,337.8z" />
+<path class="st9" d="M93.4,360.7l-7.7-4.1l11.8-6.1l7.4,4L93.4,360.7z" />
+<path class="st12" d="M93.4,360.7l-7.7-4.1l11.8-6.1l7.4,4L93.4,360.7z" />
+<path class="st5" d="M127.4,353.5v-21.9l-11.8,6.1l-0.2,22.8l-6.3,3.7l-4,2.3l-0.1-12l-11.5,6.1v13.1l-36.7,22.8V409l85.5-50.3
+    				v-13.7L127.4,353.5z" />
+<path class="st12" d="M127.4,353.5v-21.9l-11.8,6.1l-0.2,22.8l-6.3,3.7l-4,2.3l-0.1-12l-11.5,6.1v13.1l-36.7,22.8V409l85.5-50.3
+    				v-13.7L127.4,353.5z" />
+<path class="st9" d="M108.8,334.7l6.2,3.6l-0.1,22l-2.3,1.2l-3.9-3.6L108.8,334.7z M31.7,417.4c-6.7,1-11.8-5.1-9.5-12.7
+    				c2.2-7.4,8.9-13.8,16.6-14.9c6.6-0.9,11.8,5.1,9.5,12.7C46.1,409.9,39.5,416.3,31.7,417.4 M43,376.5c-16,3.8-28.3,15.7-33.7,30.7
+    				c-3,8.4-1.7,20.1,6.7,24.6c3.8,2,4.8,1.3,10.6,0.5c17.9-2.4,32.4-17.8,36.7-33.4c2.6-9.7,6-13.3,0-17.7
+    				C55.9,375.7,49.3,375,43,376.5" />
+<path class="st12" d="M31.7,417.4c-6.7,1-11.8-5.1-9.5-12.7c2.2-7.4,8.9-13.8,16.6-14.9c6.6-0.9,11.8,5.1,9.5,12.7
+    			C46.1,409.9,39.5,416.3,31.7,417.4z M43,376.5c-16,3.8-28.3,15.7-33.7,30.7c-3,8.4-1.7,20.1,6.7,24.6c3.8,2,4.8,1.3,10.6,0.5
+    			c17.9-2.4,32.4-17.8,36.7-33.4c2.6-9.7,6-13.3,0-17.7C55.9,375.7,49.3,375,43,376.5L43,376.5z" />
+<path class="st5" d="M36.1,420.6c-6.7,1-11.8-5.1-9.5-12.7c2.2-7.4,8.9-13.8,16.6-14.9c6.6-0.9,12,4.4,9.7,12
+    				C50.6,412.4,43.8,419.4,36.1,420.6 M47.3,379.6c-16,3.8-29.8,17-35.3,31.9c-4.9,13.4,3.3,25.9,18.8,23.8
+    				c17.9-2.4,32.4-17.8,36.7-33.4C71.5,387.3,65.8,375.3,47.3,379.6" />
+<path class="st12" d="M36.1,420.6c-6.7,1-11.8-5.1-9.5-12.7c2.2-7.4,8.9-13.8,16.6-14.9c6.6-0.9,12,4.4,9.7,12
+    				C50.6,412.4,43.8,419.4,36.1,420.6L36.1,420.6z M47.3,379.6c-16,3.8-29.8,17-35.3,31.9c-4.9,13.4,3.3,25.9,18.8,23.8
+    				c17.9-2.4,32.4-17.8,36.7-33.4C71.5,387.3,65.8,375.3,47.3,379.6L47.3,379.6z" />
+<path class="st9" d="M86.3,357.7l6.6,3.4v12c0,0-0.6,0.1-0.8,0l-5.7-2C86.3,371.1,86.3,357.7,86.3,357.7z" />
+</g>
+<path class="st5" d="M239.4,343.8v8.1l11.5-3.1l9.9-9.9l0.3-3.9l-10.5-1l-9.6,7.2L239.4,343.8z" />
+<path class="st5" d="M250.7,334.6l-84.3-48.2c-2.6,7.6-4.3,4.8-4.3,1.8l-0.4-82.8c0-6.5,7-10.7,12.7-7.4l84.7,48.2
+    			c2.7,1.5,4.3,4.3,4.3,7.4v81.7" />
+<path class="st12" d="M250.7,334.6l-84.3-48.2c-2.6,7.6-4.3,4.8-4.3,1.8l-0.4-82.8c0-6.5,7-10.7,12.7-7.4l84.7,48.2
+    			c2.7,1.5,4.3,4.3,4.3,7.4v81.7" />
+<path class="st5" d="M242.3,342.7L161.9,289c-2.6,7.6-4.3,4.8-4.3,1.8l-0.4-82.8c0-6.5,7-10.7,12.7-7.4l84.7,48.2
+    			c2.7,1.5,4.3,4.3,4.3,7.4v72.2" />
+<path class="st12" d="M242.3,342.7L161.9,289c-2.6,7.6-4.3,4.8-4.3,1.8l-0.4-82.8c0-6.5,7-10.7,12.7-7.4l84.7,48.2
+    			c2.7,1.5,4.3,4.3,4.3,7.4v72.2" />
+<path class="st5" d="M254.2,346.5c0,0,4-1.3,5.9-3.5" />
+<path class="st12" d="M254.2,346.5c0,0,4-1.3,5.9-3.5 M160.1,201.6c0,0,5.1-4.1,8.9-4.6" />
+<path class="st5" d="M194.4,165.2l52.3,28.5c2.2,1.2,3.6,3.6,3.6,6.2l0,112.7c0,2-2.1,3.2-3.8,2.2l-72.3-41.3
+    			c-2.2-1.3-3.6-3.6-3.6-6.1v-88.1L194.4,165.2L194.4,165.2z" />
+<path class="st12" d="M194.4,165.2l52.3,28.5c2.2,1.2,3.6,3.6,3.6,6.2l0,112.7c0,2-2.1,3.2-3.8,2.2l-72.3-41.3
+    			c-2.2-1.3-3.6-3.6-3.6-6.1v-88.1L194.4,165.2L194.4,165.2z" />
+<path class="st5" d="M170.6,179.3l23.7-14.1v21.8c0,2-2.1,3.3-3.8,2.4L170.6,179.3z" />
+<path class="st12" d="M170.6,179.3l23.7-14.1v21.8c0,2-2.1,3.3-3.8,2.4L170.6,179.3z" />
+<path class="st5" d="M183.9,169.1l52.3,28.5c2.2,1.2,3.6,3.6,3.6,6.2l0,112.7c0,2-2.1,3.2-3.8,2.2l-72.3-41.3
+    			c-2.2-1.3-3.6-3.6-3.6-6.1v-88.1L183.9,169.1L183.9,169.1z" />
+<path class="st12" d="M183.9,169.1l52.3,28.5c2.2,1.2,3.6,3.6,3.6,6.2l0,112.7c0,2-2.1,3.2-3.8,2.2l-72.3-41.3
+    			c-2.2-1.3-3.6-3.6-3.6-6.1v-88.1L183.9,169.1L183.9,169.1z" />
+<path class="st5" d="M160.1,183.2l23.7-14.1v21.8c0,2-2.1,3.3-3.8,2.4C180,193.2,160.1,183.2,160.1,183.2z" />
+<path class="st12" d="M160.1,183.2l23.7-14.1v21.8c0,2-2.1,3.3-3.8,2.4C180,193.2,160.1,183.2,160.1,183.2z" />
+<path class="st13" d="M171.7,203.4l56.6,32.4 M171.7,213.7l56.6,32.4 M171.7,224.6l56.6,32.4 M171.7,234.9l56.6,32.4 M171.7,245.6
+    			l56.6,32.4 M211.9,278.5l16,9.6" />
+<path class="st5" d="M231,346.4l-84.3-48.2c-2.6-1.5-4.3-4.3-4.3-7.3l-0.4-73.7c0-6.5,7-10.7,12.7-7.4l84.7,48.2
+    			c2.7,1.5,4.3,4.3,4.3,7.4l0,77.4" />
+<path class="st14" d="M231,346.4l-84.3-48.2c-2.6-1.5-4.3-4.3-4.3-7.3l-0.4-73.7c0-6.5,7-10.7,12.7-7.4l84.7,48.2
+    			c2.7,1.5,4.3,4.3,4.3,7.4l0,77.4" />
+<path class="st5" d="M239.8,351.6c-0.3-1.3-0.5-83.7-0.5-83.7c0-3.1-1.6-5.9-4.3-7.4l-84.7-48.2c-5.7-3.2-12.7,0.9-12.7,7.4
+    			l0.4,73.7c0,3,1.6,5.8,4.3,7.3l84.3,48.2c8.5,5,7.1,4.5,22,0.7c1.9-0.5,6.5-2.4,8.1-3.2" />
+<path class="st12" d="M239.8,351.6c-0.3-1.3-0.5-83.7-0.5-83.7c0-3.1-1.6-5.9-4.3-7.4l-84.7-48.2c-5.7-3.2-12.7,0.9-12.7,7.4
+    			l0.4,73.7c0,3,1.6,5.8,4.3,7.3l84.3,48.2c8.5,5,7.1,4.5,22,0.7c1.9-0.5,6.5-2.4,8.1-3.2 M140.5,213.3c0,0,5.1-4.1,8.9-4.6" />
+<path class="st5" d="M248.6,349.6c5.2-1.5,8.6-3.2,10.8-5.1c2.7-2.2,4.1-6.2,4-10.9" />
+<path class="st12" d="M248.6,349.6c5.2-1.5,8.6-3.2,10.8-5.1c2.7-2.2,4.1-6.2,4-10.9" />
+<path class="st12" d="M259,327.7c0,7.6,1.2,15.3-8.9,18c-6.6,1.7-6.3-3.7-6.3-3.7l0-5.1" />
+<path class="st5" d="M180.5,261.3l16.4,9.4c1.5,0.9,2.4,2.4,2.4,4.1v22.1c0,4.1-4.5,6.7-8,4.6l-11.9-7.1c-1.6-1-2.6-2.7-2.6-4.5
+    			l-0.1-26.3C176.7,261.6,178.8,260.3,180.5,261.3" />
+<path class="st12" d="M180.5,261.3l16.4,9.4c1.5,0.9,2.4,2.4,2.4,4.1v22.1c0,4.1-4.5,6.7-8,4.6l-11.9-7.1c-1.6-1-2.6-2.7-2.6-4.5
+    			l-0.1-26.3C176.7,261.6,178.8,260.3,180.5,261.3L180.5,261.3z" />
+<path class="st9" d="M177.2,263.4l16.4,9.4c1.5,0.9,2.4,2.4,2.4,4.1V299c0,4.1-4.5,6.7-8,4.6l-11.9-7.1c-1.6-1-2.6-2.7-2.6-4.5
+    			l-0.1-26.3C173.4,263.7,175.5,262.5,177.2,263.4" />
+<path class="st12" d="M177.2,263.4l16.4,9.4c1.5,0.9,2.4,2.4,2.4,4.1V299c0,4.1-4.5,6.7-8,4.6l-11.9-7.1c-1.6-1-2.6-2.7-2.6-4.5
+    			l-0.1-26.3C173.4,263.7,175.5,262.5,177.2,263.4L177.2,263.4z" />
+<g>
+<path class="st5" d="M193.6,303.4c0,0,3.4-1.1,4.5-3.1" />
+<path class="st12" d="M193.6,303.4c0,0,3.4-1.1,4.5-3.1" />
+</g>
+<path class="st12" d="M173.9,264.1c0,0,4.7-4.4,6.6-2.8" />
+<path class="st5" d="M189.2,282c0-2.6-2.2-6.1-4.5-6.9c-2.3-0.8-4.8,0.9-4.8,3.5c0,1.8,1,3.9,2.4,5.4v8l4.5,2.6v-9.2
+    			C188.3,284.9,189.2,283.5,189.2,282" />
+<path class="st12" d="M189.2,282c0-2.6-2.2-6.1-4.5-6.9c-2.3-0.8-4.8,0.9-4.8,3.5c0,1.8,1,3.9,2.4,5.4v8l4.5,2.6v-9.2
+    			C188.3,284.9,189.2,283.5,189.2,282L189.2,282z" />
+</g>
+</g>
+<g class="circle">
+<path class="st9" d="M636.1,147.9c-2-6.7-0.2-14.8,4.5-20c4.2-4.7,9.7-3.3,11.6,3c2,6.7,0.4,15-4.3,20.2
+    		C643.7,155.8,638,154.2,636.1,147.9 M658.4,172.1c0.6-0.8,0.7-2.6,0.4-3.6c-1.1-3.4-0.8-7.7,0.7-11.1c1.6-3.4,4.2-5.2,6.5-4.2
+    		c0.7,0.3,1.5-0.4,1.8-1.7c0.9-3.2,1.5-6.5,1.9-9.9c0.2-1.3-0.3-2.4-1-2.6c-2.2-0.5-4-3.7-4.1-7.5c-0.1-4,1.4-8.1,3.7-10.3
+    		c0.7-0.7,1.1-2.1,0.9-3.2c-0.6-2.8-1.4-5.4-2.4-7.8c-0.4-0.9-1.2-1-1.9-0.2c-2.2,2.5-4.8,2.8-6.6,0.8c-0.7-0.8-1.2-2.1-1.5-3.6l0,0
+    		c-0.3-1.9-0.3-4.1,0.3-6.1c0.3-1.2,0-2.3-0.6-2.6c-0.2-0.1-0.3-0.1-0.5-0.2c-1-0.6-2.2-0.7-2.2-0.7l0,0c-0.5-0.1-1.1-0.2-1.6-0.2
+    		l-6.4-1l-3.4,7.1l2.4,3.5c-0.3,0.2-0.6,0.4-0.9,0.5c-2.3,0.9-4.4-0.5-5.3-3.6c-0.3-1-1-1.2-1.7-0.6c-1.8,1.6-3.6,3.5-5.4,5.7
+    		c-0.6,0.8-0.8,2.4-0.6,3.3c0.8,2.7,0.3,6.8-1.4,10.1c-1.7,3.3-4.3,5.1-6.4,4.4c-0.7-0.2-1.5,0.5-1.8,1.7c-1,3-1.8,6.1-2.4,9.3
+    		c-0.2,1.2,0.1,2.3,0.9,2.4c2.2,0.3,3.8,3.3,3.8,7c0,3.9-1.5,8-3.8,10.2c-0.7,0.7-1.1,2.1-0.9,3.2c0.3,1.4,0.7,2.8,1.1,4.2
+    		c0.4,1.3,0.9,2.5,1.4,3.7c0.4,0.9,1.3,1.1,1.9,0.3c2.2-2.5,4.9-2.7,6.7-0.6c0.8,0.9,1.3,2.2,1.7,3.8l-4.2,9l9.2,1.9l0.1,0l0,0v0
+    		c0.5,0.1,0.9,0.2,1.4,0.2c0.8,0.1,1.5-0.9,1.7-2.1c0.6-4.1,2.7-7.5,5.2-8.4c2.3-0.8,4.6,0.8,5.7,4c0.1,0.2,0.1,0.3,0.1,0.5
+    		c0.3,1.1,1.1,1.5,1.9,0.9C654.9,176.3,656.7,174.4,658.4,172.1" />
+<path class="st12" d="M636.1,147.9c-2-6.7-0.2-14.8,4.5-20c4.2-4.7,9.7-3.3,11.6,3c2,6.7,0.4,15-4.3,20.2
+    		C643.7,155.8,638,154.2,636.1,147.9L636.1,147.9z M658.4,172.1c0.6-0.8,0.7-2.6,0.4-3.6c-1.1-3.4-0.8-7.7,0.7-11.1
+    		c1.6-3.4,4.2-5.2,6.5-4.2c0.7,0.3,1.5-0.4,1.8-1.7c0.9-3.2,1.5-6.5,1.9-9.9c0.2-1.3-0.3-2.4-1-2.6c-2.2-0.5-4-3.7-4.1-7.5
+    		c-0.1-4,1.4-8.1,3.7-10.3c0.7-0.7,1.1-2.1,0.9-3.2c-0.6-2.8-1.4-5.4-2.4-7.8c-0.4-0.9-1.2-1-1.9-0.2c-2.2,2.5-4.8,2.8-6.6,0.8
+    		c-0.7-0.8-1.2-2.1-1.5-3.6c-0.3-1.9-0.3-4.1,0.3-6.1c0.3-1.2,0-2.3-0.6-2.6c-0.2-0.1-0.3-0.1-0.5-0.2c-1-0.6-2.2-0.7-2.2-0.7
+    		c-0.5-0.1-1.1-0.2-1.6-0.3l-6.4-1l-3.4,7.1l2.4,3.5c-0.3,0.2-0.6,0.4-0.9,0.5c-2.3,0.9-4.4-0.5-5.3-3.6c-0.3-1-1-1.2-1.7-0.6
+    		c-1.8,1.6-3.6,3.5-5.4,5.7c-0.6,0.8-0.8,2.4-0.6,3.3c0.8,2.7,0.3,6.8-1.4,10.1c-1.7,3.3-4.3,5.1-6.4,4.4c-0.7-0.2-1.5,0.5-1.8,1.7
+    		c-1,3-1.8,6.1-2.4,9.3c-0.2,1.2,0.1,2.3,0.9,2.4c2.2,0.3,3.8,3.3,3.8,7c0,3.9-1.5,8-3.8,10.2c-0.7,0.7-1.1,2.1-0.9,3.2
+    		c0.3,1.4,0.7,2.8,1.1,4.2c0.4,1.3,0.9,2.5,1.4,3.7c0.4,0.9,1.3,1.1,1.9,0.3c2.2-2.5,4.9-2.7,6.7-0.6c0.8,0.9,1.3,2.2,1.7,3.8
+    		l-4.2,9l9.2,1.9c0.6,0.1,1,0.2,1.5,0.2c0.8,0.1,1.5-0.9,1.7-2.1c0.6-4.1,2.7-7.5,5.2-8.4c2.3-0.8,4.6,0.8,5.7,4
+    		c0.1,0.2,0.1,0.3,0.1,0.5c0.3,1.1,1.1,1.5,1.9,0.9C654.9,176.3,656.7,174.4,658.4,172.1z" />
+<path class="st14" d="M669.6,139.8l-11.3-2.6l-2.7,13.8l11,1.6" />
+<path class="st5" d="M669,120.2l-10.6-2.4l-3.2-10.4l11.2,2.2" />
+<path class="st14" d="M669,120.2l-10.6-2.4l-3.2-10.4l11.2,2.2" />
+<path class="st5" d="M657.3,137.6c7.7,1.4,11.7,2.2,12,2.5c0.5,0.5-2.1,12.5-2.1,12.5l-10.5-2.1L657.3,137.6L657.3,137.6z" />
+<path class="st5" d="M625.4,145.8c-2-6.7-0.2-14.8,4.5-20c4.2-4.7,9.7-3.3,11.6,3c2,6.7,0.4,15-4.3,20.2
+    		C633,153.7,627.3,152.1,625.4,145.8 M647.7,170c0.6-0.8,0.7-2.6,0.4-3.6c-1.1-3.4-0.8-7.7,0.7-11.1c1.6-3.4,4.2-5.2,6.5-4.2
+    		c0.7,0.3,1.5-0.4,1.9-1.7c0.9-3.2,1.5-6.5,1.9-9.9c0.2-1.3-0.3-2.4-1-2.6c-2.2-0.5-4-3.7-4.1-7.5c-0.1-4,1.4-8.1,3.7-10.3
+    		c0.7-0.7,1.1-2.1,0.9-3.2c-0.6-2.8-1.4-5.4-2.4-7.8c-0.4-0.9-1.2-1-1.9-0.2c-2.2,2.5-4.8,2.8-6.6,0.8c-1.7-1.9-2.2-6.1-1.2-9.7
+    		c0.3-1.2,0-2.3-0.6-2.6c-1.7-0.8-3.6-1.2-5.5-1.2c-0.7,0-1.5,0.9-1.8,2.1c-0.8,3.8-3,7.1-5.4,8.1c-2.3,0.9-4.4-0.5-5.3-3.6
+    		c-0.3-1-1-1.2-1.7-0.6c-1.8,1.6-3.6,3.5-5.4,5.7c-0.6,0.8-0.8,2.4-0.6,3.3c0.8,2.7,0.3,6.8-1.4,10.1c-1.7,3.3-4.3,5.1-6.4,4.4
+    		c-0.7-0.2-1.5,0.5-1.8,1.7c-1,3-1.8,6.1-2.4,9.3c-0.2,1.2,0.1,2.3,0.9,2.4c2.2,0.3,3.8,3.3,3.8,7c0,3.9-1.5,8-3.8,10.2
+    		c-0.7,0.7-1.1,2.1-0.9,3.2c0.3,1.4,0.7,2.8,1.1,4.2c0.4,1.3,0.9,2.5,1.4,3.7c0.4,0.9,1.3,1.1,1.9,0.3c2.2-2.5,4.9-2.7,6.7-0.6
+    		c1.8,2.1,2.5,6.5,1.6,10.3c-0.3,1.3,0.1,2.5,0.8,2.9c1.9,0.9,3.8,1.5,5.8,1.7c0.8,0.1,1.5-0.9,1.7-2.1c0.6-4.1,2.7-7.5,5.2-8.4
+    		c2.3-0.8,4.6,0.8,5.7,4l0.1,0.5c0.3,1.1,1.1,1.5,1.9,0.9C644.2,174.1,646,172.2,647.7,170" />
+<path class="st15" d="M625.4,145.8c-2-6.7-0.2-14.8,4.5-20c4.2-4.7,9.7-3.3,11.6,3c2,6.7,0.4,15-4.3,20.2
+    		C633,153.7,627.3,152.1,625.4,145.8z M647.7,170c0.6-0.8,0.7-2.6,0.4-3.6c-1.1-3.4-0.8-7.7,0.7-11.1c1.6-3.4,4.2-5.2,6.5-4.2
+    		c0.7,0.3,1.5-0.4,1.9-1.7c0.9-3.2,1.5-6.5,1.9-9.9c0.2-1.3-0.3-2.4-1-2.6c-2.2-0.5-4-3.7-4.1-7.5c-0.1-4,1.4-8.1,3.7-10.3
+    		c0.7-0.7,1.1-2.1,0.9-3.2c-0.6-2.8-1.4-5.4-2.4-7.8c-0.4-0.9-1.2-1-1.9-0.2c-2.2,2.5-4.8,2.8-6.6,0.8c-1.7-1.9-2.2-6.1-1.2-9.7
+    		c0.3-1.2,0-2.3-0.6-2.6c-1.7-0.8-3.6-1.2-5.5-1.2c-0.7,0-1.5,0.9-1.8,2.1c-0.8,3.8-3,7.1-5.4,8.1c-2.3,0.9-4.4-0.5-5.3-3.6
+    		c-0.3-1-1-1.2-1.7-0.6c-1.8,1.6-3.6,3.5-5.4,5.7c-0.6,0.8-0.8,2.4-0.6,3.3c0.8,2.7,0.3,6.8-1.4,10.1c-1.7,3.3-4.3,5.1-6.4,4.4
+    		c-0.7-0.2-1.5,0.5-1.8,1.7c-1,3-1.8,6.1-2.4,9.3c-0.2,1.2,0.1,2.3,0.9,2.4c2.2,0.3,3.8,3.3,3.8,7c0,3.9-1.5,8-3.8,10.2
+    		c-0.7,0.7-1.1,2.1-0.9,3.2c0.3,1.4,0.7,2.8,1.1,4.2c0.4,1.3,0.9,2.5,1.4,3.7c0.4,0.9,1.3,1.1,1.9,0.3c2.2-2.5,4.9-2.7,6.7-0.6
+    		c1.8,2.1,2.5,6.5,1.6,10.3c-0.3,1.3,0.1,2.5,0.8,2.9c1.9,0.9,3.8,1.5,5.8,1.7c0.8,0.1,1.5-0.9,1.7-2.1c0.6-4.1,2.7-7.5,5.2-8.4
+    		c2.3-0.8,4.6,0.8,5.7,4l0.1,0.5c0.3,1.1,1.1,1.5,1.9,0.9C644.2,174.1,646,172.2,647.7,170L647.7,170z" />
+<g>
+<path class="st5" d="M652,178.1l-9.7-2.4l5.8-6.8l10,2.7" />
+<path class="st14" d="M652,178.1l-9.7-2.4l5.8-6.8l10,2.7" />
+</g>
+</g>
+</svg>
+</div>
+</div>
+</section>
+<div class="services-lines"></div>
+<div class="services">
+
+<h2 class="font-h3">SERVICES<span>:</span></h2>
+<div class="new-cards-list">
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Cloud migration</h4>
+<p class="font-body-3">Changing your business` data center capabilities has never been so easy. Geniusee team will help you choose, move and run your business on the appropriate cloud-based infrastructure provided by cloud service providers, e.g., AWS, Google Cloud, or Azure. You can transit everything from apps, websites, and storage to entire data centers, and we will help you choose the right strategy and implement it.</p>
+<div class="picture">
+<img data-src="/storage/app/media/cloud-services.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Infrastructure management</h4>
+<p class="font-body-3">Involve the best tech professionals and reduce your spendings on IT. Implement the latest cutting-edge technologies and expertise. Keep your IT systems secured and scaled, load-balanced, configured, backed up, and monitored for compliance without interruption of the enterprise. All these considered being infrastructure management tasks we may help you with.</p>
+<div class="picture">
+<img data-src="/storage/app/media/cloud-icon.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Highload optimization</h4>
+<p class="font-body-3">Performance matters whether you are managing a marketing website or a web app. Geniusee DevOps team will help you with highload solutions for your company to complete your business tasks and efficiently tackle multiple performance challenges.</p>
+<div class="picture">
+<img data-src="/storage/app/media/optimization.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Continuous delivery</h4>
+<p class="font-body-3">The release of software changes is a new normal for digital businesses. However, the standardization and quality of this process is a complex task with numerous risks. Geniusee experts will help you implement updates, fixes, and new features quickly and safely for your business.</p>
+<div class="picture">
+<img data-src="/storage/app/media/infinity-icon.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div> </div>
+
+</div>
+<div class="cloud tools-list">
+<h2 class="font-h4">CLOUD PROVIDES<span>:</span></h2>
+<div class="new-cards-wrapper">
+
+
+
+
+<a href="tools/aws" class="card">
+<div class="img-box"><img data-src="/storage/app/media/aws-logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">AWS</h4></a>
+
+
+
+
+
+<a href="tools/google-cloud" class="card">
+<div class="img-box"><img data-src="/storage/app/media/google-cloud-icon.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Google Cloud</h4></a>
+
+
+<a href="tools/azure" class="card">
+<div class="img-box"><img data-src="/storage/app/media/axure.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Azure</h4></a>
+</div>
+</div>
+<div class="integration tools-list">
+<h2 class="font-h4">Continuous integration<span>:</span></h2>
+<div class="new-cards-wrapper">
+
+
+
+<a href="tools/gitlab" class="card">
+<div class="img-box"><img data-src="/storage/app/media/GitLab.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">GitLab</h4></a>
+
+
+<a href="tools/jenkins" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Jenkins.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Jenkins</h4></a>
+
+
+
+<a href="tools/travis" class="card">
+<div class="img-box"><img data-src="/storage/app/media/travis.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Travis</h4></a>
+
+<a href="tools/bitbucket-pipelines" class="card">
+<div class="img-box"><img data-src="/storage/app/media/backet.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Bitbucket Pipelines</h4></a>
+<a href="tools/codedeploy" class="card">
+<div class="img-box"><img data-src="/storage/app/media/code-deploy.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CodeDeploy</h4></a>
+</div>
+</div>
+<div class="orchestration tools-list">
+<h2 class="font-h4">Containers orchestration and deployment<span>:</span></h2>
+<div class="new-cards-wrapper">
+
+
+
+<a href="tools/docker" class="card">
+<div class="img-box"><img data-src="/storage/app/media/docker.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Docker</h4></a>
+
+<a href="tools/kubernetes" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Kubernetes.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Kubernetes</h4></a>
+
+
+<a href="tools/ecs" class="card">
+<div class="img-box"><img data-src="/storage/app/media/ECS.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">ECS</h4></a>
+
+
+
+<a href="tools/swarm" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Swarm.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Swarm</h4></a>
+
+
+<a href="tools/mesos" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Mesos.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Mesos</h4></a>
+</div>
+</div>
+<div class="orchestration tools-list">
+<h2 class="font-h4">monitoring<span>:</span></h2>
+<div class="new-cards-wrapper">
+
+
+<a href="tools/sentry" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Sentry.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Sentry</h4></a>
+
+<a href="tools/elk" class="card">
+<div class="img-box"><img data-src="/storage/app/media/ELK.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">ELK</h4></a>
+
+
+<a href="tools/datadog" class="card">
+<div class="img-box"><img data-src="/storage/app/media/datadog.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">DataDog</h4></a>
+
+<a href="tools/cloudwatch" class="card">
+<div class="img-box"><img data-src="/storage/app/media/CloudWatch.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CloudWatch</h4></a>
+<a href="tools/newrelic" class="card">
+<div class="img-box"><img data-src="/storage/app/media/NewRelic.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">NewRelic</h4></a>
+
+<a href="tools/prometheus" class="card">
+<div class="img-box"><img data-src="/storage/app/media/prometeus-logo.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Prometheus</h4></a>
+
+<a href="tools/grafana" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Grafana.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Grafana</h4></a>
+
+<a href="tools/zabbix" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Zabbix.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Zabbix</h4></a>
+</div>
+</div>
+<div class="orchestration tools-list">
+<h2 class="font-h4">Infrastructure as code<span>:</span></h2>
+<div class="new-cards-wrapper">
+
+
+
+<div class="card">
+<div class="img-box"><img data-src="/storage/app/media/devops/terraform.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Terraform</h4></div>
+<div class="card">
+<div class="img-box"><img data-src="/storage/app/media/devops/serverless.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Serverless  Framework</h4></div>
+<div class="card">
+<div class="img-box"><img data-src="/storage/app/media/devops/pulumi.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Pulumi</h4></div>
+<a href="tools/cloudformation" class="card">
+<div class="img-box"><img data-src="/storage/app/media/devops/cloudformation.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CloudFormation</h4></a>
+</div>
+</div>
+<section>
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3 class="font-h4">Related projects <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/printbi"><img data-src="/storage/app/media/printBi.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crypto-analytics"><img data-src="/storage/app/media/bitspread.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/wyzoo"><img data-src="/storage/app/media/wyzoo-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ncourage"><img data-src="/storage/app/media/ncourageProj/ncourage-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/validify"><img data-src="/storage/app/media/validifyProj/validify-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Validify<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/factmata"><img data-src="/storage/app/media/factMata/factmata-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">FactMata<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/buzzshow"><img data-src="/storage/app/media/BuzShow 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/pool-party"><img data-src="/storage/app/media/pool_party.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Pool party<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/digital-bits"><img data-src="/storage/app/media/digital_bits_preview.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tamam"><img data-src="/storage/app/media/tamam-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/swoon"><img data-src="/storage/app/media/swoonProj/swoon-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Swoon<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/circular-review-system-vehicles"><img data-src="/storage/app/media/Circular-Review-System-for-vehicles.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tradesmarter"><img data-src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/my-uber"><img data-src="/storage/app/media/myuber.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">My Uber<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+ </a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ua-light"><img data-src="/storage/app/media/ua_light 2.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/gearhousepro"><img data-src="/storage/app/media/gearHousePro/preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+<div class="see__all__link">
+<a class="font-button" href="https://geniusee.com/portfolio">See All</a>
+</div>
+</div>
+</section>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+ <details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/hero-top.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/devops.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-techs.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-cards.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/fe596132d47a2bf05be642a3d9d9707e-1638441204"></script>
+
+
+</div>
+</body>
+</html>

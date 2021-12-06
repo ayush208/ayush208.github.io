@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<link rel="canonical" href="https://geniusee.com/aws">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta name="title" content="Amazon Web Services Expertise">
+<meta name="description" content="Geniusee provides full range of Amazon Web Services expertise. AWS is one of the main development direction of our company. Read more👆🏻">
+<meta property="og:title" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media" />
+<meta property="og:url" content="https://geniusee.com/" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="your_app_id" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<title>Amazon Web Services | Geniusee</title>
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body class="web-development">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="wrapper projects-web-development">
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li class="header-active-li"><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+ <li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+<section class="page">
+<div class="hero-top">
+<div class="hero-text-wraper">
+<div class="hero-text-content">
+<h1 class="font-h1">Amazon web services<span class="purple_square">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/expertise">Expertise</a><span>></span>AWS
+</div>
+<p class="font-body-2 font-body-2-top">AWS is a wide range of infrastructure services, such as providing computing power, various storage options, network solutions and databases offered as services. This enables corporations, startups, small and medium-sized enterprises and public sector customers to access the components needed to quickly respond to changing business requirements.</p>
+</div>
+</div>
+<div class="hero-img-wraper">
+<svg width="602" height="511" viewBox="0 0 602 511" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.57" d="M440.822 254.577C513.568 325.408 612.157 326.543 576.296 412.472C544.533 488.638 411.678 525.643 245.921 504.529C-3.62449 472.86 23.698 321.208 91.8905 259.004C126.044 227.902 208.011 174.097 283.945 174.211C359.993 174.325 405.416 220.07 440.822 254.577Z" fill="#9595EF" />
+<path d="M28.1418 411.055L148.371 476.843C155.462 480.66 164.016 480.676 171.031 476.742L444.292 319.767C459.64 311.313 460.56 289.581 445.884 279.854L305.211 227.738C296.856 222.179 285.979 222.551 278.018 228.723L25.1999 372.027C11.7846 382.317 13.392 402.881 28.1418 411.055Z" fill="#EAE7FF" fill-opacity="0.3" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 8" />
+<path d="M456.77 280.694L456.992 247.696L414.236 249.247L315.841 192.331C302.403 184.58 285.856 184.58 272.419 192.22L71.8531 306.937L1.22211 324.433L1 356.102C1 361.196 3.55427 366.289 8.6628 369.279L138.375 443.469C151.591 450.998 167.805 451.109 181.02 443.801L449.107 295.975C454.993 292.764 457.547 286.563 456.77 280.694Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M456.77 281.691L456.992 248.693L414.236 250.243L315.841 193.328C302.403 185.576 285.856 185.576 272.419 193.217L71.8531 307.934L1.22211 325.429L1 357.099C1 362.192 3.55427 367.286 8.6628 370.275L138.375 444.465C151.591 451.995 167.805 452.106 181.02 444.797L449.107 296.972C454.993 293.76 457.547 287.56 456.77 281.691Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M272.641 159.333L8.88497 310.038C-1.3321 315.796 -1.3321 330.413 8.88497 336.281L138.597 410.471C151.813 418.001 168.027 418.111 181.242 410.803L449.329 262.977C459.658 257.33 459.769 242.603 449.552 236.623L316.063 159.555C302.626 151.693 286.078 151.693 272.641 159.333Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M278.638 177.936L62.3023 299.297C54.6395 303.726 54.6395 314.799 62.3023 319.229L160.586 375.48C170.581 381.238 182.797 381.349 192.903 375.701L411.237 254.008C419.011 249.69 419.122 238.506 411.459 234.076L311.51 178.047C301.404 172.067 288.855 172.067 278.638 177.936Z" fill="#9595EF" />
+<path d="M104.503 364.185C97.729 368.172 87.0677 368.282 79.738 364.185C72.4084 360.088 71.4089 354.773 78.4054 350.787C85.4019 346.8 95.6189 346.247 102.837 350.233C110.056 354.219 111.278 360.088 104.503 364.185Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M227.996 247.254C225.997 248.361 224.554 249.357 223.554 250.133C222.666 251.018 221.666 251.904 220.667 253.012C220.445 253.344 220 253.676 219.667 253.897C219.112 254.23 218.446 254.34 217.446 254.451C215.78 254.451 214.892 254.451 213.226 254.451C212.671 254.451 212.227 254.34 211.893 254.23C211.56 254.008 211.56 253.676 211.671 253.233C212.004 252.458 212.56 251.794 213.115 251.018C213.67 250.243 214.448 249.468 215.336 248.582C209.672 249.136 203.453 249.911 198.345 246.7C195.568 244.928 194.569 242.714 195.568 240.167C196.568 237.62 199.233 234.962 203.675 232.526C208.34 229.869 213.115 228.54 217.89 228.429C222.666 228.319 226.775 229.426 229.995 231.641C231.106 232.416 231.994 233.191 232.883 234.077C233.771 234.962 234.549 235.959 235.215 237.066C236.77 236.181 237.547 235.848 238.991 234.962C242.878 232.859 245.099 231.087 245.654 229.647C246.209 228.208 245.21 226.768 242.767 225.218C241.656 224.443 240.323 223.889 238.658 223.225C236.992 222.671 235.215 222.118 233.438 221.675C232.55 221.453 231.994 221.343 231.661 221.232C231.328 221.121 231.106 221.01 230.995 220.9C230.551 220.567 230.773 220.125 231.772 219.682C232.661 219.239 233.105 218.907 234.104 218.464C234.882 218.131 235.437 217.799 235.992 217.799C236.437 217.799 237.103 217.799 237.88 217.91C239.879 218.242 242.1 218.906 244.21 219.682C246.432 220.457 248.431 221.343 250.207 222.45C254.094 224.775 255.538 226.99 254.65 229.426C253.761 231.862 250.541 234.52 244.877 237.62C239.324 240.831 233.66 244.042 227.996 247.254ZM207.118 243.489C208.229 244.153 209.561 244.707 211.449 245.15C213.226 245.482 215.447 245.482 217.89 245.15C219.445 244.928 220.889 244.485 222.444 243.932C223.887 243.378 225.664 242.492 227.441 241.496C228.33 240.942 228.774 240.72 229.662 240.278C229.107 239.502 228.552 238.617 227.774 237.841C226.997 237.066 226.108 236.402 225.22 235.738C223.11 234.298 220.778 233.634 218.335 233.744C215.891 233.855 213.226 234.63 210.45 236.181C207.895 237.62 206.341 238.949 205.785 240.278C205.119 241.385 205.674 242.603 207.118 243.489ZM226.22 263.088C225.664 262.756 225.442 262.424 225.553 262.092C225.664 261.759 226.108 261.206 226.997 260.541C237.88 251.351 248.875 242.16 260.091 233.191C260.869 232.526 261.424 232.194 261.757 231.973C262.535 231.53 263.201 231.53 263.645 231.751C264.756 232.416 265.422 232.748 266.532 233.523C267.088 233.855 267.31 234.187 267.199 234.52C267.199 234.852 266.644 235.295 265.866 235.959C256.093 243.378 246.32 251.018 236.77 258.77C249.652 253.012 262.423 247.254 275.306 241.606C276.416 241.163 277.305 240.831 277.86 240.831C278.415 240.831 278.971 240.942 279.526 241.274C280.525 241.828 280.97 242.049 281.969 242.714C282.524 243.046 282.747 243.378 282.635 243.71C282.524 244.042 282.08 244.596 281.192 245.15C271.197 253.012 261.424 260.984 251.762 269.068C265.089 263.088 278.415 257.109 291.742 251.24C292.964 250.686 293.852 250.465 294.407 250.354C294.963 250.354 295.629 250.465 296.295 250.797C297.517 251.461 298.183 251.904 299.516 252.569C300.071 252.901 299.96 253.344 299.072 253.897C298.85 254.008 298.516 254.23 298.183 254.34C297.85 254.562 297.295 254.783 296.628 255.005C280.748 261.538 264.867 268.182 248.986 274.826C247.764 275.269 246.987 275.601 246.432 275.601C245.876 275.601 245.321 275.49 244.766 275.158C243.655 274.493 243.1 274.161 241.989 273.386C241.434 273.054 241.101 272.611 241.212 272.279C241.323 271.947 241.767 271.393 242.656 270.618C251.984 262.756 261.424 255.116 270.975 247.586C258.425 253.233 245.876 258.88 233.327 264.528C232.105 265.081 231.328 265.303 230.662 265.413C230.106 265.524 229.44 265.303 228.885 264.971C227.774 264.085 227.219 263.753 226.22 263.088ZM266.866 290.106C264.978 288.999 263.312 287.67 262.09 286.231C260.869 284.791 260.091 283.573 259.98 282.577C259.869 281.912 259.98 281.469 260.313 281.027C260.647 280.694 260.98 280.362 261.424 280.03C262.423 279.366 262.868 279.033 263.978 278.48C264.978 277.815 265.755 277.705 266.31 278.037C266.533 278.148 266.644 278.369 266.755 278.48C266.866 278.701 266.977 279.033 267.088 279.366C267.532 280.584 268.198 281.691 269.309 282.798C270.308 283.906 271.53 284.902 273.085 285.788C275.417 287.227 277.86 288.003 280.303 288.113C282.747 288.224 285.079 287.67 287.189 286.452C288.632 285.567 289.41 284.681 289.743 283.684C289.965 282.688 289.521 281.359 288.41 279.698C287.078 277.815 286.411 276.819 285.301 274.936C283.746 272.611 283.635 270.286 284.857 268.071C285.967 265.967 287.966 263.974 290.743 262.313C292.964 260.984 295.296 259.877 297.628 259.213C299.96 258.548 302.403 258.105 304.735 257.995C307.179 257.884 309.4 257.995 311.621 258.437C313.842 258.88 315.952 259.655 317.729 260.652C318.617 261.206 319.617 261.759 320.394 262.313C321.172 262.977 321.949 263.642 322.615 264.195C323.171 264.86 323.837 265.524 324.281 266.189C324.725 266.853 325.059 267.407 325.17 267.85C325.392 268.514 325.281 268.957 325.059 269.511C324.836 269.953 324.392 270.396 323.504 270.839C322.393 271.504 321.838 271.836 320.727 272.39C319.506 273.054 318.506 273.275 317.84 272.832C317.507 272.611 317.174 272.168 316.84 271.504C315.841 269.178 313.731 267.185 310.843 265.524C308.511 264.195 306.179 263.531 303.958 263.42C301.737 263.31 299.516 263.974 297.295 265.303C295.74 266.189 294.852 267.185 294.629 268.292C294.407 269.4 294.74 270.839 295.851 272.611C297.073 274.493 297.739 275.49 299.072 277.483C300.737 279.919 301.293 282.355 300.404 284.348C299.516 286.452 297.628 288.224 294.963 289.885C292.741 291.214 290.298 292.1 287.855 292.764C285.412 293.318 282.858 293.65 280.525 293.65C278.082 293.65 275.75 293.318 273.418 292.764C270.864 291.989 268.754 291.214 266.866 290.106Z" fill="white" />
+<path d="M252.206 307.713C231.772 306.605 211.005 302.508 193.791 292.1C177.689 282.355 163.585 268.182 168.804 247.364C169.137 245.814 172.358 245.26 172.469 246.811C174.579 265.746 188.683 278.59 203.786 287.781C218.668 296.861 236.326 301.401 253.65 304.834C256.76 305.277 255.982 307.823 252.206 307.713Z" fill="white" />
+<path d="M264.312 306.605C262.313 301.844 254.539 299.74 250.208 297.858C248.875 297.304 249.874 296.418 251.873 296.418C258.87 296.418 271.752 299.74 274.862 306.938C268.31 313.471 254.761 315.575 245.876 315.575C243.988 315.575 243.433 314.8 245.099 314.246C251.429 312.474 259.203 311.035 264.312 306.605Z" fill="white" />
+<g class="db"> <path d="M525.522 491.292C567.207 491.292 601 478.497 601 462.714C601 446.93 567.207 434.135 525.522 434.135C483.837 434.135 450.044 446.93 450.044 462.714C450.044 478.497 483.837 491.292 525.522 491.292Z" fill="#EAE7FF" fill-opacity="0.3" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 8" />
+<path d="M600.545 374.786C600.317 374.673 600.431 374.673 600.089 374.559C599.406 375.013 598.723 375.467 598.04 375.921C597.926 376.035 597.812 376.035 597.698 376.148C597.015 376.602 596.219 376.943 595.422 377.397L594.739 377.737C593.828 378.191 592.917 378.645 591.892 379.1L591.323 379.327C590.412 379.667 589.502 380.008 588.591 380.348L587.794 380.575C586.656 380.916 585.517 381.37 584.379 381.71L583.582 381.937C582.557 382.278 581.533 382.505 580.508 382.845C580.28 382.959 579.939 382.959 579.711 383.072C578.459 383.413 577.207 383.753 575.84 383.981C575.499 384.094 575.271 384.094 574.93 384.208C573.791 384.435 572.653 384.662 571.401 384.889L570.604 385.002C569.238 385.229 567.871 385.57 566.391 385.797C566.05 385.91 565.708 385.91 565.367 385.91C564.115 386.137 562.862 386.251 561.61 386.478L560.813 386.591C559.333 386.818 557.853 386.932 556.373 387.159L555.235 387.272C553.869 387.386 552.502 387.613 551.136 387.726H550.567C548.973 387.84 547.493 387.953 545.9 388.067L544.761 388.18C543.281 388.294 541.801 388.407 540.321 388.407H539.98C538.386 388.521 536.792 388.521 535.198 388.521H534.06C532.466 388.521 530.872 388.521 529.278 388.521C527.685 388.521 526.091 388.521 524.497 388.521H523.358C521.765 388.521 520.171 388.407 518.577 388.407H518.236C516.756 388.294 515.276 388.294 513.796 388.18L512.657 388.067C511.063 387.953 509.583 387.84 507.99 387.726H507.42C506.054 387.613 504.688 387.499 503.208 387.272L502.07 387.159C500.59 386.932 499.11 386.818 497.63 386.591L496.833 386.478C495.581 386.251 494.328 386.137 493.076 385.91C492.735 385.91 492.393 385.797 492.051 385.797C490.685 385.57 489.205 385.343 487.839 385.002L487.042 384.889C485.904 384.662 484.652 384.435 483.513 384.208C483.172 384.094 482.944 384.094 482.602 383.981C481.236 383.64 479.984 383.413 478.732 383.072C478.504 382.959 478.163 382.959 477.935 382.845C476.91 382.505 475.886 382.278 474.861 381.937L474.064 381.71C472.926 381.37 471.787 380.916 470.649 380.575L469.852 380.348C468.941 380.008 468.03 379.667 467.12 379.327L466.55 379.1C465.526 378.645 464.615 378.191 463.704 377.737L463.021 377.397C462.224 376.943 461.427 376.602 460.744 376.148C460.631 376.035 460.517 376.035 460.403 375.921C459.834 375.581 459.378 375.24 458.809 374.9C458.24 375.24 458.468 375.127 457.898 375.354V407.364C457.898 415.083 485.107 425.98 529.392 425.98C573.677 425.98 600.886 415.196 600.886 407.364L600.545 374.786Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M600.545 418.034C600.431 417.92 600.431 418.034 600.317 417.92C599.634 418.488 598.837 418.942 598.04 419.396C597.926 419.51 597.812 419.51 597.698 419.623C597.015 420.077 596.219 420.418 595.422 420.872L594.739 421.212C593.828 421.666 592.917 422.12 591.892 422.574L591.323 422.801C590.412 423.142 589.502 423.482 588.591 423.823L587.794 424.05C586.656 424.391 585.517 424.845 584.379 425.185L583.582 425.412C582.557 425.753 581.533 425.98 580.508 426.32C580.28 426.434 579.939 426.434 579.711 426.547C578.459 426.888 577.207 427.228 575.84 427.455C575.499 427.569 575.271 427.569 574.93 427.682C573.791 427.909 572.653 428.136 571.401 428.363L570.604 428.477C569.238 428.704 567.871 429.045 566.391 429.272C566.05 429.385 565.708 429.385 565.367 429.385C564.115 429.612 562.862 429.726 561.61 429.953L560.813 430.066C559.333 430.293 557.853 430.407 556.373 430.634L555.235 430.747C553.869 430.861 552.502 431.088 551.136 431.201H550.567C548.973 431.315 547.493 431.428 545.9 431.542L544.761 431.655C543.281 431.769 541.801 431.882 540.321 431.882H539.98C538.386 431.996 536.792 431.996 535.198 431.996H534.06C532.466 431.996 530.872 431.996 529.278 431.996C527.685 431.996 526.091 431.996 524.497 431.996H523.358C521.765 431.996 520.171 431.882 518.577 431.882H518.236C516.756 431.769 515.276 431.769 513.796 431.655L512.657 431.542C511.063 431.428 509.583 431.315 507.99 431.201H507.42C506.054 431.088 504.688 430.974 503.208 430.747L502.07 430.634C500.59 430.407 499.11 430.293 497.63 430.066L496.833 429.953C495.581 429.726 494.328 429.612 493.076 429.385C492.735 429.385 492.393 429.272 492.051 429.272C490.685 429.045 489.205 428.818 487.839 428.477L487.042 428.363C485.904 428.136 484.652 427.909 483.513 427.682C483.172 427.569 482.944 427.569 482.602 427.455C481.236 427.115 479.984 426.888 478.732 426.547C478.504 426.434 478.163 426.434 477.935 426.32C476.91 425.98 475.886 425.753 474.861 425.412L474.064 425.185C472.926 424.845 471.787 424.504 470.649 424.05L469.852 423.823C468.941 423.482 468.03 423.142 467.12 422.801L466.55 422.574C465.526 422.12 464.615 421.666 463.704 421.212L463.021 420.872C462.224 420.418 461.427 420.077 460.744 419.623C460.631 419.51 460.517 419.51 460.403 419.396C459.72 418.942 459.037 418.488 458.468 418.147C458.126 418.261 458.24 418.261 457.898 418.374V450.839C457.898 458.558 485.107 469.455 529.392 469.455C573.677 469.455 600.886 458.671 600.886 450.839L600.545 418.034Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M600.545 331.765C600.203 331.538 600.317 331.652 599.862 331.425C599.292 331.879 598.723 332.219 598.04 332.673C597.926 332.787 597.812 332.787 597.699 332.9C597.015 333.354 596.219 333.695 595.422 334.149L594.739 334.489C593.828 334.944 592.917 335.398 591.892 335.852L591.323 336.079C590.413 336.419 589.502 336.76 588.591 337.1L587.794 337.327C586.656 337.668 585.517 338.122 584.379 338.462L583.582 338.689C582.557 339.03 581.533 339.257 580.508 339.597C580.28 339.711 579.939 339.711 579.711 339.825C578.459 340.165 577.207 340.506 575.84 340.733C575.499 340.846 575.271 340.846 574.93 340.96C573.791 341.187 572.653 341.414 571.401 341.641L570.604 341.754C569.238 341.981 567.871 342.322 566.391 342.549C566.05 342.662 565.708 342.662 565.367 342.662C564.115 342.889 562.862 343.003 561.61 343.23L560.813 343.343C559.333 343.57 557.853 343.684 556.373 343.911L555.235 344.024C553.869 344.138 552.503 344.365 551.136 344.479H550.567C548.973 344.592 547.493 344.706 545.9 344.819L544.761 344.933C543.281 345.046 541.801 345.16 540.321 345.16H539.98C538.386 345.273 536.792 345.273 535.198 345.273H534.06C532.466 345.273 530.872 345.273 529.278 345.273C527.685 345.273 526.091 345.273 524.497 345.273H523.359C521.765 345.273 520.171 345.16 518.577 345.16H518.236C516.756 345.046 515.276 345.046 513.796 344.933L512.657 344.819C511.063 344.706 509.583 344.592 507.99 344.479H507.42C506.054 344.365 504.688 344.251 503.208 344.024L502.07 343.911C500.59 343.684 499.11 343.57 497.63 343.343L496.833 343.23C495.581 343.003 494.328 342.889 493.076 342.662C492.735 342.662 492.393 342.549 492.051 342.549C490.685 342.322 489.205 342.095 487.839 341.754L487.042 341.641C485.904 341.414 484.652 341.187 483.513 340.96C483.172 340.846 482.944 340.846 482.602 340.733C481.236 340.392 479.984 340.165 478.732 339.825C478.504 339.711 478.163 339.711 477.935 339.597C476.91 339.257 475.886 339.03 474.861 338.689L474.064 338.462C472.926 338.122 471.787 337.668 470.649 337.327L469.852 337.1C468.941 336.76 468.03 336.419 467.12 336.079L466.55 335.852C465.526 335.398 464.615 334.944 463.704 334.489L463.021 334.149C462.224 333.695 461.428 333.354 460.744 332.9C460.631 332.787 460.517 332.787 460.403 332.673C459.948 332.333 459.492 332.106 459.037 331.765C458.354 332.106 458.581 331.992 458.012 332.333V364.116C458.012 371.835 485.221 382.732 529.506 382.732C573.791 382.732 601 371.835 601 364.116L600.545 331.765Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M600.545 320.754C600.545 310.538 568.555 302.139 529.051 302.139C489.547 302.139 457.557 310.425 457.557 320.754C457.557 330.97 489.547 339.37 529.051 339.37C568.555 339.37 600.545 330.97 600.545 320.754Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" /> </g>
+<g class="cloud"> <path d="M525.128 80.2071C521.713 78.0504 518.184 76.3478 514.313 75.0991C508.507 53.759 493.821 33.0999 475.606 21.2947C465.36 14.5975 454.317 14.5975 445.551 19.365H445.438C445.324 19.365 445.324 19.4785 445.21 19.4785L422.213 32.3053L431.435 34.9161C430.524 36.9593 429.841 39.116 429.386 41.3862C428.361 40.7052 427.223 40.0241 426.198 39.343C417.66 34.235 408.78 34.462 402.063 38.5484L378.725 51.6023L391.134 58.0724C391.134 58.7535 391.134 59.4346 391.134 60.1156C391.703 82.4774 406.845 108.699 426.198 120.617C456.822 138.212 487.56 155.579 518.411 172.605C519.094 172.946 519.778 173.4 520.574 173.627L514.313 178.168L516.59 186L540.952 174.535C549.491 171.016 555.866 162.73 557.46 151.833C560.989 126.293 547.214 94.2826 525.128 80.2071Z" fill="#9595EF" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" />
+<path d="M506.116 90.3097C502.701 88.153 499.172 86.4503 495.301 85.2017C489.495 63.8615 474.809 43.2024 456.594 31.3972C437.127 18.7975 415.041 30.1486 410.374 51.6023C409.349 50.9212 408.21 50.2401 407.186 49.5591C390.223 39.2295 371.553 50.6942 372.008 70.3317C372.577 92.6934 387.719 118.915 407.072 130.833C437.696 148.428 468.434 165.795 499.286 182.822C517.159 192.697 535.488 181.459 538.334 161.935C541.977 136.282 528.202 104.272 506.116 90.3097Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round" /></g>
+<g class="top_blocks"><path d="M101.741 129.693L84.1444 137.219C82.2396 138.035 82.2396 140.664 84.1444 141.48L100.108 148.28C100.652 148.552 101.287 148.552 101.831 148.28L120.697 141.299C122.693 140.574 122.693 137.854 120.788 137.038L103.555 129.603C103.01 129.421 102.375 129.421 101.741 129.693ZM67.3645 145.198L66.6389 185.636C66.6389 186.542 67.1831 187.449 67.9995 187.812L97.6589 200.868C99.2009 201.502 100.924 200.414 100.924 198.782V156.803C100.924 155.896 100.38 154.99 99.473 154.627L70.5391 143.112C68.9972 142.478 67.3645 143.566 67.3645 145.198ZM134.847 143.022L108.452 153.086C107.545 153.448 107.001 154.264 107.001 155.262V194.612C107.001 196.244 108.634 197.332 110.176 196.788L136.57 186.089C137.477 185.726 138.021 184.91 138.021 183.913V145.198C137.93 143.566 136.298 142.478 134.847 143.022ZM174.03 1.21705L156.343 8.74248C154.438 9.55849 154.438 12.1879 156.343 13.0039L172.397 19.804C172.941 20.076 173.576 20.076 174.12 19.804L192.986 12.8225C194.982 12.0972 194.982 9.37716 193.077 8.56115L175.844 1.12638C175.3 0.945044 174.665 0.945044 174.03 1.21705ZM142.193 17.7186V57.8845C142.193 58.8818 142.828 59.7885 143.826 60.0605L168.588 67.2233C170.039 67.6766 171.49 66.5886 171.581 65.0472L172.397 28.4174C172.397 27.5107 171.853 26.6041 170.946 26.2414L145.368 15.5426C143.917 14.9079 142.193 15.9959 142.193 17.7186ZM207.68 16.7213L181.377 27.9641C180.56 28.3267 180.016 29.1428 180.016 30.0494V69.49C180.016 71.2127 181.739 72.3007 183.281 71.5753L206.41 61.0579C207.227 60.6952 207.771 59.8792 207.771 58.9725L207.68 16.7213ZM63.1016 65.0472L45.5054 72.5727C43.6007 73.3887 43.6007 76.0181 45.5054 76.8341L61.4689 83.6342C62.0131 83.9062 62.6481 83.9062 63.1923 83.6342L82.0582 76.6527C84.0537 75.9274 84.0537 73.2074 82.1489 72.3913L64.9156 64.9566C64.3714 64.7752 63.7365 64.7752 63.1016 65.0472ZM28.7256 80.5515L28 120.989C28 121.896 28.5442 122.803 29.3605 123.165L59.02 136.222C60.5619 136.856 62.2852 135.768 62.2852 134.136V92.157C62.2852 91.2503 61.741 90.3436 60.834 89.9809L31.9002 78.4661C30.3582 77.8314 28.7256 78.9194 28.7256 80.5515ZM96.2077 78.3754L69.8135 88.4396C68.9065 88.8022 68.3623 89.6182 68.3623 90.6156V129.965C68.3623 131.597 69.9949 132.686 71.5368 132.141L97.8403 121.443C98.7473 121.08 99.2915 120.264 99.2915 119.267V80.5515C99.2915 78.9194 97.6589 77.8314 96.2077 78.3754ZM138.656 63.3246L121.06 70.85C119.155 71.666 119.155 74.2954 121.06 75.1114L137.023 81.9115C137.568 82.1835 138.203 82.1835 138.747 81.9115L157.613 74.93C159.608 74.2047 159.608 71.4847 157.703 70.6687L140.47 63.2339C139.926 63.1432 139.291 63.1432 138.656 63.3246ZM104.28 78.9194L103.555 119.357C103.555 120.264 104.099 121.171 104.915 121.533L134.575 134.59C136.116 135.224 137.84 134.136 137.84 132.504V90.5249C137.84 89.6182 137.296 88.7116 136.389 88.3489L107.455 76.8341C105.913 76.1994 104.28 77.2874 104.28 78.9194ZM171.762 76.7434L145.368 86.8075C144.461 87.1702 143.917 87.9862 143.917 88.9836V128.333C143.917 129.965 145.549 131.053 147.091 130.509L173.486 119.811C174.393 119.448 174.937 118.632 174.937 117.635V78.9194C174.846 77.2874 173.213 76.1994 171.762 76.7434ZM247.861 1.21705L230.265 8.74248C228.36 9.55849 228.36 12.1879 230.265 13.0039L246.228 19.804C246.773 20.076 247.407 20.076 247.952 19.804L266.818 12.8225C268.813 12.0972 268.813 9.37716 266.908 8.56115L249.675 1.12638C249.131 0.945044 248.405 0.945044 247.861 1.21705ZM213.485 16.8119L212.759 57.2498C212.759 58.1565 213.304 59.0632 214.12 59.4258L243.779 72.482C245.321 73.1167 247.045 72.0287 247.045 70.3967V28.3267C247.045 27.4201 246.5 26.5134 245.593 26.1507L216.569 14.6359C215.118 14.0919 213.485 15.1799 213.485 16.8119ZM280.876 14.6359L254.482 24.7C253.575 25.0627 253.031 25.8787 253.031 26.8761V66.2259C253.031 67.858 254.664 68.946 256.206 68.402L282.6 57.7031C283.507 57.3405 284.051 56.5245 284.051 55.5271V16.8119C284.051 15.1799 282.418 14.0012 280.876 14.6359Z" fill="white" stroke="black" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" /></g>
+</svg> </div>
+</div>
+</section>
+<section>
+<div class="websites__types">
+<div class="websites__types-heading">
+<h3 class="font-h3">Services <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="websites__types-slider">
+<div class="new-cards-list">
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Serverless Application Development</h4>
+<p class="font-body-3">We create and run applications and services without the need for infrastructure management. It takes full control of these servers. This eliminates the need to allocate resources, scale and maintain servers to run applications, databases and storage systems.</p>
+<div class="picture">
+<img data-src="/storage/app/media/testcloud2.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Cloud Migration</h4>
+<p class="font-body-3">Moving an enterprise IT infrastructure, including data, services, applications and their settings, to the capacity of a virtual data center. Our team provides a service of both full and partial migration. </p>
+<div class="picture">
+<img data-src="/storage/app/media/cloud.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Automation via CI/CD</h4>
+<p class="font-body-3">The concept of continuous integration and delivery (CI / CD) is the basis of our testing. CI / CDs are required for software development using the Agile methodology, which reccomends using automated testing to quickly set up working software.</p>
+<div class="picture">
+<img data-src="/storage/app/media/testgear.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+<div class="box">
+<div class="icon">
+<h4 class="font-subtitle font-subtitle-left">Custom Services Integration</h4>
+<p class="font-body-3">Through external integration, authorization through social networks, online payment, tracking software, delivery services and others are set up on an ongoing basis.</p>
+<div class="picture">
+<img data-src="/storage/app/media/testhands2.svg" class="lazyload " alt="expertise img" width="161" height="130"> </div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="front__end">
+<h2 class="font-h4">Technology and services:</h2>
+<div class="new-cards-wrapper">
+    
+<a href="tools/rds" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/RDS_full.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">RDS</h4></a>
+   
+<a href="tools/s3" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/S3.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">S3</h4></a>
+   
+<a href="tools/cloudfront" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/CloudFront.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CloudFront</h4></a>
+   
+<a href="tools/dynamodb" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/DynamoDb.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">DynamoDB</h4></a>
+   
+<a href="tools/aurora" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Avrora.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Aurora</h4></a>
+     
+<a href="tools/neptune" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Neptun.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Neptune</h4></a>
+   
+<a href="tools/cognito" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Cognito.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Cognito</h4></a>
+     
+<a href="tools/appsync" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/AppSync.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">AppSync</h4></a>
+  
+<a href="tools/amplify" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Amplify.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Amplify</h4></a>
+   
+<a href="tools/sqs" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/SQS.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">SQS</h4></a>
+   
+<a href="tools/sns" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/SNS.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">SNS</h4></a>
+     
+<a href="tools/lambda" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Lambda.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Lambda</h4></a>
+ 
+<a href="tools/ec2" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/EC 2.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">EC 2</h4></a>
+   
+<a href="tools/route-53" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Route 53.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Route 53</h4></a>
+
+ 
+<a href="tools/elb" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/elb.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">ELB</h4></a>
+
+<a href="tools/elasticache" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Elasticache.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">ElastiCache</h4></a>
+   
+<a href="tools/cloudformation" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Cloudformation.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CloudFormation</h4></a>
+  
+<a href="tools/codedeploy" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Codedeploy.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CodeDeploy</h4></a>
+ 
+<a href="tools/cloudwatch" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/Cloudwatch.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">CloudWatch</h4></a>
+<a href="tools/ecs" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/ECS.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">ECS</h4></a>
+  
+<a href="tools/api-gateway" class="card">
+<div class="img-box"><img data-src="/storage/app/media/AWS/API Gateway.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">API Gateway</h4></a>
+</div>
+</div>
+</section>
+<section>
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3 class="font-h4">Related projects <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/printbi"><img data-src="/storage/app/media/printBi.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/wyzoo"><img data-src="/storage/app/media/wyzoo-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/validify"><img data-src="/storage/app/media/validifyProj/validify-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Validify<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/factmata"><img data-src="/storage/app/media/factMata/factmata-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">FactMata<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tamam"><img data-src="/storage/app/media/tamam-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/swoon"><img data-src="/storage/app/media/swoonProj/swoon-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Swoon<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tradesmarter"><img data-src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/gearhousepro"><img data-src="/storage/app/media/gearHousePro/preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+<div class="see__all__link">
+<a class="font-button" href="https://geniusee.com/portfolio">See All</a>
+</div>
+</div>
+</section>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+ <img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/web-dev.new.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-techs.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-cards.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/hero-top.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/2fa33f34706b908b9f6f864199558563-1638441204"></script>
+
+
+</div>
+</body>
+</html>

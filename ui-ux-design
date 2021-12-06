@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<title>UI/UX Design Service | Custom Design | Geniusee</title>
+<meta name="description" content="Our UI/UX designers work with web and mobile user interfaces. We make apps simple, beautiful, and useful.">
+<meta name="keywords" content="ux services, ux design services, ui services, ui design services, ui ux design services, web design agency, custom design">
+<link rel="canonical" href="https://geniusee.com/ui-ux-design" />
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media" />
+<meta property="og:url" content="https://geniusee.com/" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="wrapper ui-ux-page">
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li class="header-active-li"><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+ </li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<div class="subscribe">
+<div class="card">
+<div class="popup-left">
+<img data-src="/storage/app/media/bow.png" class="lazyload" alt="Gift bow">
+</div>
+<div class="popup-right">
+<button type="button" class="close-btn" id="close-subscribe"></button>
+<div class="card-title">
+<h2 class="font-h3" style="text-align: left ;">
+GET <span style="color:#9595EF">1000$</span>
+TO DIGITIZE YOUR IDEA
+</h2>
+<p class="font-body-3">The discount can be applied in case of cooperation for one month or more</p>
+</div>
+<div class="card-content author">
+<form name="form-subscribe-andradedev" class="form-subscribe" id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'">
+<input type="text" class="form-control font-body-3" name="name" placeholder="* Name" required>
+<input type="email" class="form-control font-body-3" name="email" placeholder="* E-mail" required>
+</form>
+</div>
+<div class="bottom-side">
+<div id="skip-btn" class="skip font-body-3">Skip</div>
+<div class="card-action">
+<button class="btn btn-primary btn-block font-h4" form="form-subscribe-andradedev">GET THE GIFT</button>
+</div>
+</div>
+<div id="result" class="result"></div>
+</div>
+</div> </div>
+
+<section class="page">
+<div class="hero-top">
+<div class="hero-text-wraper">
+<div class="hero-text-content">
+<h1 class="font-h1">UI/UX DESIGN<span class="purple_square">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/expertise">Expertise</a><span>></span>UI/UX Design
+</div>
+<p class="font-body-2 font-body-2-top">We create user-friendly, unique and ready for development designs of software systems such as web portals, and mobile applications that delight users. A great design is a cost-effective investment and it substantially reduces risks of mistakes and overpays.</p>
+</div>
+</div>
+<div class="hero-img-wraper">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 785 500">
+<g fill="none" fill-rule="evenodd">
+<path fill="#D9D9F9" d="M498.6 110.4c75.2 54.1 175.3 19 168.5 115-6.9 96.2-107.2 124-333.3 121.4C107.7 344.2 117.4 221 168.3 153c25.4-34 89.8-96.3 157.1-108 67.4-11.7 136.5 39 173.2 65.5" />
+<path stroke="#979797" d="M508.5 111c86 61.8 200.4 21.6 192.5 131.4-7.8 109.9-122.4 141.6-380.7 138.7C62 378 73 237.3 131.3 159.5c29-38.8 102.5-110 179.4-123.4 77-13.3 156 44.7 197.8 74.8" opacity=".4" />
+<path stroke="#979797" d="M731.5 259.8c-8.8 132.3-137.8 170.5-428.4 167C12.4 423.2 24.9 253.6 90.3 160c32.7-46.8 118-121.4 204.5-137.5 86.6-16 173 16.7 220 53 96.8 74.5 225.5 52 216.7 184.3z" opacity=".2" />
+<path stroke="#979797" d="M779.4 284.2c-10 155.3-157.8 200.2-490.7 196C-44 476-29.8 276.8 45.1 167c37.5-55 135-142.5 234.2-161.3 99.1-19 198 19.6 252 62.2 110.9 87.5 258.2 61 248.1 216.4z" opacity=".1" />
+<path fill="#FFF" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M373.6 31.1a7 7 0 0 1-3.5 5.6L193.8 137.9a15 15 0 0 1-15 0l-13.2-7.5c-3-1.7-4.1-5-3.4-8v-7.1l18-5.8v.1l162-93a15 15 0 0 1 15.3.1l7.8 4.8 8.6 1.2v8.4h-.3z" />
+<path fill="#FFF" stroke="#000" stroke-linejoin="round" stroke-width="2" d="M193.8 129.4L370 28a7.1 7.1 0 0 0 .1-12.3l-12.7-7.6a15 15 0 0 0-15.3-.2L165.6 109.4a7.1 7.1 0 0 0 0 12.4l13.2 7.6a15 15 0 0 0 15 0z" />
+<path fill="#FFF" d="M223 112l-19.7-11.3" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M223 112l-19.7-11.3" />
+<path fill="#FFF" d="M204.8 121.3l-12.2-7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M204.8 121.3l-12.2-7" />
+<path fill="#FFF" d="M236.6 104.4l-12.2-7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M236.6 104.4l-12.2-7" />
+<path fill="#FFF" d="M252.9 94.8l-19.6-11.3" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M252.9 94.8l-19.6-11.3" />
+<path fill="#FFF" d="M268.3 84.7l-12.2-7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M268.3 84.7l-12.2-7" />
+<path fill="#FFF" d="M284.5 76.5L265 65.2" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M284.5 76.5L265 65.2" />
+<path fill="#FFF" d="M298.8 67.5l-12.1-7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M298.8 67.5l-12.1-7" />
+<path fill="#FFF" d="M315.6 58.5L296 47.3" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M315.6 58.5L296 47.3" />
+<path fill="#FFF" d="M329.8 49.1l-12.2-7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M329.8 49.1l-12.2-7" />
+<path fill="#FFF" d="M346.3 41.6l-19.6-11.3" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M346.3 41.6l-19.6-11.3" />
+<path fill="#FFF" d="M360.6 33l-12.2-7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M360.6 33l-12.2-7" />
+<path fill="#9595EF" fill-opacity=".1" stroke="#000" stroke-dasharray="5 8" stroke-linecap="round" stroke-width="2" d="M356.3 107.4l-159.2 92.9a16.3 16.3 0 0 0 0 28.2l251.2 141.3a32 32 0 0 0 31.6.2l161.8-91.2c11-6.2 11-22 .2-28.3L388.5 107.3a32 32 0 0 0-32.2 0z" />
+<path fill="#FFF" d="M650.6 208.2h-31.8L398.3 80.3a32 32 0 0 0-32.3 0L234.9 157H198v31c0 5.5 2.7 11 8.2 14.1L448 341.7a32 32 0 0 0 31.8.2l162.4-91.6c4.5-2.5 7.2-6.7 8-11.1h.4v-31z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M650.6 208.2h-31.8L398.3 80.3a32 32 0 0 0-32.3 0L234.9 157H198v31c0 5.5 2.7 11 8.2 14.1L448 341.7a32 32 0 0 0 31.8.2l162.4-91.6c4.5-2.5 7.2-6.7 8-11.1h.4v-31z" />
+<path fill="#FFF" d="M366 49.4l-159.9 93.3a16.4 16.4 0 0 0 0 28.3l242 139.7a32 32 0 0 0 31.7.2l162.4-91.6c11-6.2 11.2-22 .2-28.4L398.3 49.3a32 32 0 0 0-32.3 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M366 49.4l-159.9 93.3a16.4 16.4 0 0 0 0 28.3l242 139.7a32 32 0 0 0 31.7.2l162.4-91.6c11-6.2 11.2-22 .2-28.4L398.3 49.3a32 32 0 0 0-32.3 0z" />
+<path stroke="#9595EF" stroke-linecap="round" stroke-width="6" d="M294 150c22.3-8.7 73-37.5 101.7-13.9 28.8 23.6-5.2 91.6 34 115 39.3 23.5 72.3-26.5 41-67.7" />
+<path fill="#FFF" d="M322.3 243.6c-8.4-4.9-17-6-20.2-2.8L253 267.9l28 23 50.1-27.7a5.3 5.3 0 0 0 3.3-2.3c2.4-4.3-3-12-12-17.3" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M322.3 243.6c-8.4-4.9-17-6-20.2-2.8L253 267.9l28 23 50.1-27.7a5.3 5.3 0 0 0 3.3-2.3c2.4-4.3-3-12-12-17.3z" />
+<path fill="#FFF" d="M308 278h-27v6l-21.8-12.2c-1.3-.8-2.7-1.2-4.2-1.4V261h-27v24.8c.3 1.6 1.1 3 2.7 4l45 26.7c3.7 2 8 2.2 11.7.2l17.7-9.6c1.7-1 2.6-2.6 2.8-4.3V278z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M308 278h-27v6l-21.8-12.2c-1.3-.8-2.7-1.2-4.2-1.4V261h-27v24.8c.3 1.6 1.1 3 2.7 4l45 26.7c3.7 2 8 2.2 11.7.2l17.7-9.6c1.7-1 2.6-2.6 2.8-4.3V278z" />
+<path fill="#FFF" d="M248.2 247.3l-17.2 8.6c-3.8 2-4 7.4-.3 9.6l45 26.7c3.7 2.1 8 2.2 11.7.2l17.7-9.6c3.7-2 3.8-7.4 0-9.5l-45.9-25.8c-3.4-2-7.5-2-11-.2" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M248.2 247.3l-17.2 8.6c-3.8 2-4 7.4-.3 9.6l45 26.7c3.7 2.1 8 2.2 11.7.2l17.7-9.6c3.7-2 3.8-7.4 0-9.5l-45.9-25.8c-3.4-2-7.5-2-11-.2z" />
+<path fill="#FFF" d="M470 183l25-50.3 27.6-6.7 19.5 31-13.8 23-58.3 3 36-23.4-.5-.3z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M470 183l25-50.3 27.6-6.7 19.5 31-13.8 23-58.3 3 36-23.4-.5-.3z" />
+<path fill="#FFF" d="M512.4 158.7a4.7 4.7 0 1 1-9.4 0 4.7 4.7 0 1 1 9.4 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M512.4 158.7a4.7 4.7 0 1 1-9.4 0 4.7 4.7 0 1 1 9.4 0z" />
+<path fill="#FFF" d="M523 126.6l19.5 31 17.9-10.6-20.6-32z" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M523 126.6l19.5 31 17.9-10.6-20.6-32z" />
+<g>
+<path fill="#FFF" d="M363.3 113.7l58 37" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M363.3 113.7l58 37" />
+</g>
+<path fill="#FFF" d="M366 113.5c0 1.3-1.2 2.4-2.5 2.4a2.5 2.5 0 0 1-2.5-2.4 2.5 2.5 0 1 1 5 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M366 113.5c0 1.3-1.2 2.4-2.5 2.4a2.5 2.5 0 0 1-2.5-2.4 2.5 2.5 0 1 1 5 0z" />
+<path fill="#FFF" d="M425 151.5c0 1.3-1.2 2.4-2.5 2.4a2.5 2.5 0 0 1 0-4.9c1.3 0 2.4 1.1 2.4 2.5" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M425 151.5c0 1.3-1.2 2.4-2.5 2.4a2.5 2.5 0 0 1 0-4.9c1.3 0 2.4 1.1 2.4 2.5z" />
+<g>
+<path fill="#FFF" d="M263.7 166.9l59.6-34.4" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M263.7 166.9l59.6-34.4" />
+</g>
+<path fill="#FFF" d="M263.6 164.3c1.2.6 1.7 2.1 1 3.3a2.5 2.5 0 0 1-3.3 1 2.5 2.5 0 0 1-1-3.3 2.5 2.5 0 0 1 3.3-1" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M263.6 164.3c1.2.6 1.7 2.1 1 3.3a2.5 2.5 0 0 1-3.3 1 2.5 2.5 0 0 1-1-3.3 2.5 2.5 0 0 1 3.3-1z" />
+<path fill="#FFF" d="M325.6 129.3c1.2.6 1.7 2.1 1 3.3a2.5 2.5 0 0 1-3.3 1 2.5 2.5 0 0 1-1-3.3 2.5 2.5 0 0 1 3.3-1" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M325.6 129.3c1.2.6 1.7 2.1 1 3.3a2.5 2.5 0 0 1-3.3 1 2.5 2.5 0 0 1-1-3.3 2.5 2.5 0 0 1 3.3-1z" />
+<g>
+<path fill="#FFF" d="M395.5 229.8l58 37" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M395.5 229.8l58 37" />
+</g>
+<path fill="#FFF" d="M398 228.5c0 1.3-1.2 2.4-2.5 2.4a2.5 2.5 0 0 1-2.5-2.4c0-1.4 1.1-2.5 2.5-2.5 1.3 0 2.4 1.1 2.4 2.5" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M398 228.5c0 1.3-1.2 2.4-2.5 2.4a2.5 2.5 0 0 1-2.5-2.4c0-1.4 1.1-2.5 2.5-2.5 1.3 0 2.4 1.1 2.4 2.5z" />
+<path fill="#FFF" d="M457 267.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0" />
+<path stroke="#000" stroke-linejoin="round" stroke-width="2" d="M457 267.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0z" />
+<g class="talk">
+<path fill="#FFF" d="M443.3 393.4l-63.4-36a3.9 3.9 0 0 1-2-4l2.6-9.8-.5-4V325l-10.5 11 7.7 3-22 12.6-40.5 23.3-8.7-6V383c0 2 1 4 3 5.1l82.3 46.9c4.5 2.5 10 2.5 14.5 0l46.3-26.7c1.8-1 2.7-2.7 2.9-4.5v-16.2l-11.7 5.7z" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M443.3 393.4l-63.4-36a3.9 3.9 0 0 1-2-4l2.6-9.8c0-.1 1-.9.9-1l-1.5-18.6-10.4 12 7.7 3-22 12.5-40.5 23.4-8.7-6V383c0 2 1 4 3 5l82.3 47c4.5 2.5 10 2.5 14.5 0l46.3-26.7c1.8-1 2.7-2.8 2.9-4.5v-16.2l-11.7 5.7z" />
+<path fill="#FFF" d="M452 383.3L380 342a3.9 3.9 0 0 1-2-4l2.1-13.3c.2-1.2-1-2.1-2.1-1.5l-22.7 13L309 363a5.8 5.8 0 0 0 0 10l82.4 47c4.5 2.6 10 2.6 14.5 0l46.3-26.7a5.8 5.8 0 0 0 0-10" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M452 383.3L380 342a3.9 3.9 0 0 1-2-4l2.1-13.3c.2-1.2-1-2.1-2.1-1.5l-22.7 13L309 363a5.8 5.8 0 0 0 0 10l82.4 47c4.5 2.6 10 2.6 14.5 0l46.3-26.7a5.8 5.8 0 0 0 0-10z" />
+<path stroke="#9595EF" stroke-linecap="round" stroke-width="6" d="M363 349l64 37m-80-27l64 37m-80-28l42 25" />
+</g>
+<g class="cube">
+<path fill="#9595EF" fill-opacity=".1" stroke="#000" stroke-dasharray="5 8" stroke-linecap="round" stroke-width="2" d="M36.4 180.9l23-13c2-1.2 4.5-1.2 6.5 0L89.7 182c1.8 1 1.7 3.7 0 4.7l-23 12.5c-1.9 1-4.3 1-6.3 0l-24-13.7a2.7 2.7 0 0 1 0-4.6z" />
+<path fill="#FFF" d="M95 162.1v-26.4l-21.5 12.1-6.7-4a7.3 7.3 0 0 0-7.3 0l-6.8 3.8L32 135V161.4a3 3 0 0 0 1.5 2.3l27.1 15.4a7.3 7.3 0 0 0 7.1 0L93.4 165A3 3 0 0 0 95 162" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M95 162.1v-26.4l-21.5 12.1-6.7-4a7.3 7.3 0 0 0-7.3 0l-6.8 3.8L32 135V161.4a3 3 0 0 0 1.5 2.3l27.1 15.4a7.3 7.3 0 0 0 7.1 0L93.4 165A3 3 0 0 0 95 162z" />
+<path fill="#FFF" d="M33.5 132.6l26-14.7c2.2-1.2 5-1.2 7.3.1L93.5 134c2 1.1 2 4 0 5.1l-25.8 14.1a7.3 7.3 0 0 1-7 0l-27.2-15.3a3 3 0 0 1 0-5.2" />
+<path fill="#FFF" d="M33.5 132.6l26-14.7c2.2-1.2 5-1.2 7.3.1L93.5 134c2 1.1 2 4 0 5.1l-25.8 14.1a7.3 7.3 0 0 1-7 0l-27.2-15.3a3 3 0 0 1 0-5.2" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33.5 132.6l26-14.7c2.2-1.2 5-1.2 7.3.1L93.5 134c2 1.1 2 4 0 5.1l-25.8 14.1a7.3 7.3 0 0 1-7 0l-27.2-15.3a3 3 0 0 1 0-5.2z" />
+<path fill="#FFF" d="M63.3 161.8v9.7" />
+<path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M63.3 161.8v9.7" />
+</g>
+<g stroke="#000" stroke-linecap="round" stroke-width="2" transform="translate(618 336)" class="sphere">
+<path fill="#9595EF" fill-opacity=".1" stroke-dasharray="5 8" d="M24.5 66C34.7 66 43 61.5 43 56s-8.3-10-18.5-10S6 50.5 6 56s8.3 10 18.5 10z" />
+<circle cx="25" cy="25" r="25" fill="#FFF" />
+</g>
+</g>
+</svg>
+</div>
+</div>
+</section>
+<section>
+<div class="our_workflow">
+<div class="our_workflow-heading">
+<h3>Our workflow</h3>
+<p>Established but flexible design process is a recipe for creating a successful product.</p>
+</div>
+<div class="our_workflow-img">
+<img src="/storage/app/media/ui-workflow.png" alt="workflow">
+</div>
+<div class="our_workflow-items">
+<ul>
+<li>
+<img src="/storage/app/media/wireframing.svg" alt="wireframing" class="our_workflow-items-img">
+<h4>Wireframing</h4>
+<p>Creation of the product's visual architecture and screens' skeleton. During this phase a designer has a possibility to clarify the requirements and feature prioritization as well as to focus on user experience and usability.</p>
+</li>
+<li>
+<img src="/storage/app/media/styling.svg" alt="styling" class="our_workflow-items-img">
+<h4>Styling</h4>
+<p>Designer will work on creating a UI style guide which includes typography scheme, color palette, iconography or other UI components that may be needed.</p>
+</li>
+<li>
+<img src="/storage/app/media/ui-design.svg" alt="ui-design" class="our_workflow-items-img">
+<h4>UI Design</h4>
+<p>Creating the final design for the platform using prepared wireframes and the style guide.</p>
+</li>
+<li>
+<img src="/storage/app/media/prototyping.svg" alt="prototyping" class="our_workflow-items-img">
+<h4>Prototyping</h4>
+<p>Prototype allows to evaluate and test usability of a product, to sit down with a real version of the product and determine which aspects are worthwhile and which parts need to be revised or discarded.</p>
+</li>
+<li>
+<img src="/storage/app/media/development.svg" alt="development" class="our_workflow-items-img">
+<h4>Preparation for Development</h4>
+<p>Designer's work can be finished only after successful implementation.</p>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<div class="behance-bg"></div>
+<div class="behance_section">
+<div class="behance_section-left">
+<div class="behance_section-left-heading">
+<h3>We are on</h3>
+<img src="/storage/app/media/behance.png" alt="behance">
+<p>We are happy to share our experience with Behance design community.</p>
+<a href="https://www.behance.net/geniusee_software">Go to behance portfolio</a>
+</div>
+</div>
+<div class="behance_section-right">
+<div class="behance-items">
+<ul>
+<li class="item">
+<div class="icon">
+<img src="/storage/app/media/zedosh.jpg" alt="bitmap">
+<a href="https://www.behance.net/gallery/118287323/Zedosh" rel="nofollow">Zedosh <span></span></a>
+</div>
+</li>
+<li class="item">
+<div class="icon">
+<img src="/storage/app/media/ajuma.jpg" alt="bitmap">
+<a href="https://www.behance.net/gallery/123867347/Ajuma" rel="nofollow">Ajuma <span></span></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="tools_we_use">
+<div class="tools_we_use-heading">
+<h3 class="font-h4">Tools we use<span style="color: #9595ef">:</span></h3>
+</div>
+<div class="tools_we_use-items">
+<div class="new-cards-wrapper">
+
+
+
+
+
+
+
+<a href="tools/sketch" class="card">
+<div class="img-box"><img data-src="/storage/app/media/sketch.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Sketch</h4></a>
+
+
+
+
+
+
+<a href="tools/invision" class="card">
+<div class="img-box"><img data-src="/storage/app/media/invision.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">InVision</h4></a>
+
+
+
+
+
+
+<a href="tools/zeplin" class="card">
+<div class="img-box"><img data-src="/storage/app/media/zeplin.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Zeplin</h4></a>
+
+
+
+
+<a href="tools/principle-design" class="card">
+<div class="img-box"><img data-src="/storage/app/media/principle.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Principle</h4></a>
+
+
+
+
+
+<a href="tools/adobe-illustrator" class="card">
+<div class="img-box"><img data-src="/storage/app/media/Adobe_Illustrator.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Adobe Illustrator</h4></a>
+
+
+
+
+
+<a href="tools/adobe-photoshop" class="card">
+<div class="img-box"><img data-src="/storage/app/media/photoshop.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Adobe Photoshop</h4></a>
+
+
+
+
+<a href="tools/adobe-after-effects" class="card">
+<div class="img-box"><img data-src="/storage/app/media/after-effects-cc.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Adobe After Effects</h4></a>
+
+
+
+
+
+
+<a href="tools/figma" class="card">
+<div class="img-box"><img data-src="/storage/app/media/figma.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Figma</h4></a>
+
+
+
+
+<div class="card">
+<div class="img-box"><img data-src="/storage/app/media/others.svg" class="lazyload " alt="technology" width="" height=""></div>
+<h4 class="font-body-1  min-line-height-font-body-1">Others</h4></div>
+
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3 class="font-h4">Related projects <span style="color: #9595ef">:</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/printbi"><img data-src="/storage/app/media/printBi.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/crypto-analytics"><img data-src="/storage/app/media/bitspread.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/wyzoo"><img data-src="/storage/app/media/wyzoo-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+ UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/ncourage"><img data-src="/storage/app/media/ncourageProj/ncourage-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/validify"><img data-src="/storage/app/media/validifyProj/validify-card@1x.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Validify<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/zaza"><img data-src="/storage/app/media/zaza.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+ Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/pool-party"><img data-src="/storage/app/media/pool_party.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Pool party<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+ </a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/digital-bits"><img data-src="/storage/app/media/digital_bits_preview.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/business-analysis">
+Business Analysis
+</a></li><li><a class="font-body-3" href="/data-science">
+Data Science
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/tamam"><img data-src="/storage/app/media/tamam-preview.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/aws">
+AWS
+</a></li><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/mobile-development">
+Mobile Development
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/totalizator-platform"><img data-src="/storage/app/media/totalizator.svg" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/blockchain">
+Blockchain
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+ UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="../portfolio/geniusee/my-uber"><img data-src="/storage/app/media/myuber.png" class="lazyload " alt="record" width="" height=""></a></div><h3 class="font-h4 text-left">My Uber<span style="color: #9595ef">.</span></h3><ul><li><a class="font-body-3" href="/devops">
+Devops
+</a></li><li><a class="font-body-3" href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a class="font-body-3" href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a class="font-body-3" href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+<div class="see__all__link">
+<a class="font-button" href="https://geniusee.com/portfolio">See All</a>
+</div>
+</div>
+</section>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="single-blog/data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="single-blog/virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+ <p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+ <input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/hero-top.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/design.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-techs.css" rel="stylesheet">
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/fe596132d47a2bf05be642a3d9d9707e-1638441204"></script>
+
+
+</div>
+</body>
+</html>
