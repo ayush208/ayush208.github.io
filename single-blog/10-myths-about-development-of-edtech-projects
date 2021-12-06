@@ -1,0 +1,1910 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>EdTech Development: 10 Myths About It | Geniusee.com</title>
+<link rel="canonical" href="https://geniusee.com/single-blog/10-myths-about-development-of-edtech-projects">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Join us as we debunk the ten most common EdTech development myths!">
+<meta name="keywords" content="">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="10 Myths About Development of EdTech Projects" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/blog/blog136/card.png" />
+<meta property="og:url" content="https://geniusee.com/single-blog/10-myths-about-development-of-edtech-projects" />
+<meta property="og:description" content="EdTech is the practice of using advanced tools and applications to create a more engaging and inclusive learning experience.&nbsp;
+
+A few years ago, education technology mostly meant using clunky desktops for the sake of learning. Now, this term refers to tablets, interactive online courses, and even cloud-based learning services.
+
+When it comes to EdTech and EdTech development, there are many rumors and myths around its perks and drawbacks.
+
+In this article, we explore the most common EdTech myths from the technological aspect.
+
+Let’s take a closer look!" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://geniusee.com/single-blog/10-myths-about-development-of-edtech-projects"
+          },
+          "headline": "10 Myths About Development of EdTech Projects",
+          "description": "Join us as we debunk the ten most common EdTech development myths!",
+          "image": "https://geniusee.com/storage/app/media/blog/blog136/card.png",  
+          "author": {
+            "@type": "Person",
+            "name": "Taras T."
+          },  
+          "publisher": {
+            "@type": "Organization",
+            "name": "geniusee",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://geniusee.com/storage/app/media/logo.svg",
+              "width": 123,
+              "height": 31
+            }
+          },
+          "datePublished": "2020-10-06",
+          "dateModified": "2020-10-06"
+        }
+        </script>
+<style>    
+    /* Subscribe POPUP Style */
+    .subscribe{position:fixed;width:100vw;height:100vh;background:rgba(0,0,0,.8);top:0;left:0;right:0;bottom:0;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;z-index:9999}.subscribe .card{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:54%;max-width:1020px;background-color:#fffcfc;background-image-size:100% 100%;background-image-position:bottom right;-webkit-box-sizing:border-box;box-sizing:border-box}.subscribe .card .popup-left{width:62%;height:auto}.subscribe .card .popup-left img{width:100%;height:100%}.subscribe .card .popup-right{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:38%;margin-right:42px}.subscribe .card .popup-right .close-btn{position:absolute;top:0;right:0;padding:6px 12px;font-size:24px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:none}.subscribe .card .popup-right .close-btn:active,.subscribe .card .popup-right .close-btn:focus,.subscribe .card .popup-right .close-btn:hover{outline:0;border:none;background-color:rgba(149,149,239,.5)}.subscribe .card .popup-right .card-title{text-align:center}.subscribe .card .popup-right .card-title h2{margin:0;padding:0;font-family:BebasNeue;font-size:3.2vw;font-weight:700;line-height:1.25;letter-spacing:2px;text-transform:uppercase;color:#000}.subscribe .card .popup-right .card-title h2 span{color:#9595ef}.subscribe .card .popup-right .card-title h2 .title-dot{margin-left:-5px}.subscribe .card .popup-right .card-content{width:100%}.subscribe .card .popup-right .card-content .form-subscribe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:100%;margin:0;padding:0;margin-top:12px}.subscribe .card .popup-right .card-content .form-subscribe input{display:inline-block;height:40px;width:100%;margin-bottom:40px;font-family:Lato;font-size:18px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1;letter-spacing:.2px;color:#000;border:none;border-bottom:1px solid #000;-webkit-border-image:initial;-o-border-image:initial;border-image:initial;outline:0;background:0 0}.subscribe .card .popup-right .card-content .form-subscribe input::-webkit-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::-moz-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input:-ms-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::-ms-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::placeholder{color:#000}.subscribe .card .popup-right .card-action{margin-left:auto}.subscribe .card .popup-right .card-action button{padding:12px 36px;padding-top:18px;font-family:BebasNeue;font-size:28px;font-weight:700;font-style:normal;font-stretch:normal;line-height:1;letter-spacing:1.5px;color:#000;background-color:#9595ef;border:none;cursor:pointer}.subscribe .card .popup-right .card-action button:active,.subscribe .card .popup-right .card-action button:focus,.subscribe .card .popup-right .card-action button:hover{outline:0;color:#fffcfc}.subscribe .card .popup-right .result{width:100%;margin-top:40px;font-family:Lato;font-size:1.0416666667vw;text-align:center;color:rgba(149,149,239,.75)}@media (min-width:2048px){.subscribe .card{max-width:1148px;max-height:653px}}@media (max-width:1600px){.subscribe .card .popup-right .card-title h2{font-size:3.2vw}}@media (max-width:1440px){.subscribe .card{width:56%;height:56%;max-width:835px;max-height:486px}.subscribe .card .popup-right .card-title h2{font-size:3vw}.subscribe .card .popup-right .card-content .form-subscribe input{font-size:16px}}@media (max-width:1366px){.subscribe .card{max-width:725px;max-height:412px}.subscribe .card .popup-right .card-action button{padding:12px 36px;font-size:24px}}@media (max-width:1280px){.subscribe .card .popup-right .card-title h2{font-size:2.8vw}}@media (max-width:1136px){.subscribe .card .popup-right .card-title{margin-bottom:20px}.subscribe .card .popup-right .card-content .form-subscribe input{height:auto;font-size:14px}.subscribe .card .popup-right .card-action button{padding:10px 30px;font-size:22px}}@media (max-width:1024px){.subscribe .card{width:64%}.subscribe .card .popup-right .card-action button{padding:8px 24px;font-size:20px}}@media (max-width:992px){.subscribe .card{width:50%;height:auto;min-height:70%}.subscribe .card .popup-left{display:none}.subscribe .card .popup-right{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:100%;margin-left:42px;padding:20px 8px}.subscribe .card .popup-right .card-title h2{font-size:36px}.subscribe .card .popup-right .card-action{margin:0 auto}.subscribe .card .popup-right .result{font-size:14px}}@media (max-width:600px){.subscribe .card{width:80%;height:auto;min-height:50%}.subscribe .card .popup-right{margin:0;padding:42px 12px}}        
+</style>
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body class="wrapper" id="template">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<main class="main-posts">
+<div class="first-screen">
+<div class="left-content">
+<ul class="post-tags">
+<li><a href="../../blog/startups/1">startups</a></li>
+<li><a href="../../blog/management/1">management</a></li>
+<li><a href="../../blog/research/1">research</a></li>
+<li><a href="../../blog/edtech/1">edtech</a></li>
+</ul>
+<h1 class="post-title">10 Myths About Development of EdTech Projects<span style="color: #9595ef;">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/blog">Blog</a><span>></span>10 Myths About Development of EdTech Projects
+</div>
+<div class="author-box"><img src="/storage/app/media/blog/Authors/TarasT.jpg" alt="Author's photo"> <div class="author-info">
+<p class="name">Taras T.</p>
+<p class="date font-body-3">2021-09-21</p>
+</div>
+</div>
+</div>
+<div class="right-content">
+<div class="post-img" style="background-image: url(/storage/app/media/blog/blog136/post.png);"></div>
+</div>
+</div>
+<div class="main-content">
+<div class="post-link">
+<a href="/single-blog/aws-lambda-backend-development" aria-label="Previous" class="prev-post ">&#8592;</a>
+<a href="/single-blog/ios-app-security" aria-label="Next" class="prev-post ">&#8594;</a>
+</div>
+<div class="main-text"><p dir="ltr">EdTech is the practice of using advanced tools and applications to create a more engaging and inclusive learning experience.&nbsp;</p>
+<p dir="ltr">A few years ago, education technology mostly meant using clunky desktops for the sake of learning. Now, this term refers to tablets, interactive online courses, and even cloud-based learning services.</p>
+<p dir="ltr">When it comes to EdTech and EdTech development, there are many rumors and myths around its perks and drawbacks.</p>
+<p dir="ltr"><span>In this article, we explore the most common EdTech myths from the technological aspect.</span></p>
+<p dir="ltr">Let’s take a closer look!</p></div>
+</div>
+<div class="navigation">
+<h2 class="font-h4" style="text-align: left; padding: initial;">In this post: </h2>
+<ol class="navigation_list" style="list-style-type: decimal;">
+</ol>
+</div>
+
+<div class="posts-content">
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">01</span>
+<h2 class="item-title posts-title">EdTech Is Only for Schools and Universities</h2>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog136/1.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="10 Myths About Development of EdTech Projects" />
+</div>
+<p>
+About 36 million adults in the U.S. cannot find well-paying jobs because they lack basic math, language, and digital literacy skills.
+</p>
+<p class="item-text">
+Educated employees are known to work harder and smarter, they are capable of acquiring new skills quickly, and they can easily work their way into more specialized roles.
+</p>
+<p class="item-text">
+Adult learners are not a homogeneous group, and this group of learners faces numerous challenges, including limited time for studying.
+</p>
+<p class="item-text">
+EdTech has proven useful for adults who want to continue their education outside of schools and universities, for example, enrolling in online courses to improve their skills and excel at work.
+</p>
+<p>
+In his article for <i>Inside Higher Ed</i>, <a href="https://www.insidehighered.com/blogs/technology-and-learning/why-future-adult-learning-mobile-learning" rel="nofollow">Joshua Kim</a> explains how EdTech helped his wife pass a high-stakes professional exam by studying on her iPhone for six months. According to Joshua, the mobile app allowed his wife to study wherever she went and in short bursts (e.g., between meetings).
+</p>
+<p class="item-text">
+EdTech has the potential to enable lifelong learning, which is not only about self-improvement but also about maintaining long-term mental health.
+</p>
+<p class="item-text">
+EdTech can be applied:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+to support instructors by providing adaptive remote learning features that allow each student to study at their own pace;
+</li>
+<li class="posts-dot">
+to make course attendance easier through the use of mobile tools anglod video calls;
+</li>
+<li class="posts-dot">
+to motivate and engage learners by incorporating gamification into lessons;
+</li>
+<li class="posts-dot">
+to build a learning community by allowing adult learners to establish online study groups, incorporate Q&A message boards, and use chat tools for more accessible communication.
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">02</span>
+<h2 class="item-title posts-title">Gamification in EdTech Is Only for Kids</h2>
+<p class="item-text">
+Gamification in education refers to a unique approach that incorporates game design elements in an educational environment to increase learners’ motivation and engagement.
+</p>
+<p class="item-text">
+Education technology tools tailor game mechanics and motivational methods to add competition to the educational environment and foster the behavior needed to accomplish educational goals. For example, gamified tasks give learners the feeling of being in power, tapping into their intrinsic motivations. Also, learners are prompted to set goals and compete with themselves or other learners.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5"><strong>Benefits of Gamification</strong></h3>
+<ul class="posts-dots">
+<li class="posts-dot">
+The use of objectives, achievements, and reward systems boosts motivation, satisfaction, and performance in the long run.
+</li>
+<li class="posts-dot">
+Thanks to gamification, the learning environment becomes more relaxed and fosters collaboration, which results in improved productivity.
+</li>
+<li class="posts-dot">
+Gamification increases the sense of belonging to the team and helps learners identify with educational goals.
+</li>
+<li class="posts-dot">
+EdTech gamification introduces innovative dynamics and game-based learning that helps learners develop various skills and boosts learning effectiveness and student engagement.
+</li>
+</ul>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog136/2.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="10 Myths About Development of EdTech Projects" />
+</div>
+<div class="posts-text">
+<p>
+There were good reasons why training has recently been adjusted with the gamification, and here are some of them:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+Over 50% of adults owning mobile devices admit they play games, and the number is rising as well as the interest in games.
+</li>
+<li class="posts-dot">
+Game if Acacian increases loyalty and improves retention in organizations.
+</li>
+<li class="posts-dot">
+Alongside children, adults show an increased success in learning through games.
+</li>
+</ul>
+<p>
+However, we should distinguish between games and gamification. Games are used only to engage audiences (reportedly, 30% of businesses in 2014 practiced games in their marketing), while gamification has the game's features, but the educational goals.
+</p>
+<p>
+So gamification is a modern and highly effective approach for reaching multiple HR and team-building goals, marketing, sales, or education.
+</p>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">03</span>
+<h2 class="item-title posts-title">EdTech Requires Huge Server Power and Cloud-Based Storage</h2>
+<p class="item-text">
+Many people believe that massive server power and immense cloud-based storage are necessary for educational technology to be fully functional. However, one recent EdTech development called serverless architecture proves this myth false.
+</p>
+<p class="item-text">
+The serverless architecture provides flexibility to meet ever-changing EdTech requirements without diving into the intricacies of OS, servers, storage capacity, and other technical aspects.
+</p>
+<p>
+Find out more about <a href="https://geniusee.com/single-blog/serverless-architecture" rel="nofollow">the key benefits of serverless architecture</a>.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">04</span>
+<h2 class="item-title posts-title">It’s Impossible to Earn From EdTech Apps</h2>
+<p class="item-text">
+With so many free educational apps, why would people pay for yours? The great news is that you can make your app free for download but still earn from your venture
+</p>
+<p class="item-text">
+How? Well, don’t give away everything for free!
+</p>
+<p class="item-text">
+<strong>1. In-app purchases.</strong> One of the easiest ways to earn from your app is to offer users premium study materials, courses, worksheets, or merchandise. These products can be physical or virtual but meant only for use in-app.
+</p>
+<p class="item-text">
+<strong>2. Advertising.</strong> Ads remain one of the most common strategies used for monetizing an app. All apps, including educational, can automatically display popups with ads that earn money every time a user clicks on them. What is essential to keep in mind is to use only ads appropriate for the education domain and the age group of learners.
+</p>
+<p class="item-text">
+<strong>3. Subscription-based learning.</strong> The problem with advertising is that it tends to interrupt the users during their remote learning sessions. What you can do here is offer your users subscription-based learning that removes all interruptions. In essence, the user pays a monthly or annual membership fee to access the program. As a result, they get free access to important content, courses, lectures, or videos.
+</p>
+<p class="item-text">
+<strong>4. Partnering with educational institutions.</strong> This is yet another option for you to profit from your educational app development. You can contact educational institutions if you have a unique EdTech app proposal that is promising. Pitch your educational app development idea to them, take over the stage, and start making money from your app.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog136/3.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="10 Myths About Development of EdTech Projects" />
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">05</span>
+<h2 class="item-title posts-title">You Can Clone an Existing EdTech Project and Thrive</h2>
+<p class="item-text">
+To clone a business or a project means duplicating the model and functionality of that business/project. We can learn the perspective of cloning approaches from two different example cases:
+</p>
+<p class="item-text">
+For example, Housetrip represents an unsuccessful attempt at cloning Airbnb. The company tried to put its stake in the slogan <i>“Book yourself a whole home for less than the price of a hotel room,”</i> which is something that all its competitors offer. As a result, the value of Housetrip is too low, and consumers do not see any reason to choose it over Airbnb. There are no chances for this approach to bring you business success.
+</p>
+<p class="item-text">
+On the other hand, when Uber appeared, it boasted its unique feature — a professional on-demand ride experience. After seeing how well Uber's business model performed, Lyft cloned it and made sure to include something innovative — making the ride-sharing experience friendlier than Uber. As a consequence, Lyft got its share of customers and has become a prosperous business.
+</p>
+<p class="item-text">
+So you can borrow the idea, concept or even business model of an educational technology project, but the only way for your version of a project to thrive is to solve an issue that the existing model doesn’t, giving much more value. Thus, this is not precisely cloning. It requires way more effort, analysis, marketing research, and creativity.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">06</span>
+<h2 class="item-title posts-title">The Snail-Speed Pace of the EdTech Industry Affects Revenue</h2>
+<p class="item-text">
+One of the most common EdTech development misconceptions is that the changes are happening quite slowly. Those considering starting an EdTech project may be discouraged by this myth, as slow development can affect revenue.
+</p>
+<p>
+However, seasoned experts report that the <a href="https://www.marketstudyreport.com/reports/global-education-technology-market-size-research" rel="nofollow">global education technology market</a> was valued at $74.64 billion in 2019. It is predicted to have a compound annual growth rate of 19.9% over the next seven years to $318.8 billion by 2027, following the FinTech, which is expected to have an Annual Growth Rate (CAGR) of 23.84%.
+</p>
+<p class="item-text">
+Widespread acceptance of various innovations like Augmented Reality (AR), Internet of Things (IoT), Virtual Reality, and Artificial Intelligence (AI) in education, along with the availability of online courses offered by global universities, are propelling the growth of the education technology market around the world.
+</p>
+<p class="item-text">
+Over 37% share of the global revenue in the EdTech market in 2020 was held by North America. And because of the great interest of venture capitalists and private-equity investors in investing in this field, the regional market is expected to keep its dominance.
+</p>
+<p class="item-text">
+You may want to get familiar with the key educational technology players of the market. Some products are your daily routine tools: Google Inc.; Coursera Inc.; Blackboard Inc.; Microsoft; Chegg; Edutech; edX Inc.; Instructure, Inc., etc.
+</p>
+<p class="item-text">
+What is going to keep this market up? The constant and inevitable digitalization in the educational sector globally. The old approaches will never work again, and there's a high demand for innovative and individualized remote learning options.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">07</span>
+<h2 class="item-title posts-title">EdTech Is Not Engaging Enough for Learners</h2>
+<p class="item-text">
+Another common misconception regarding education technology is that it is not engaging enough for the learners. Here are two unbeatable proofs that EdTech is nothing but engaging.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5"><strong>Immersive learning with VR and AR</strong></h3>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog/blog136/4.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="10 Myths About Development of EdTech Projects" />
+</div>
+<p>
+Virtual Reality (VR) and Augmented Reality (AR) learning are devoted to making education more engaging by changing the role of the student. Thanks to VR and AR, a student can actively interact with the learning environment. In addition, learners get to visualize what they're studying and feel as if they're experiencing it as they use VR and AR in an educational setting.
+</p>
+<p>
+In 2015 the AR/VR industry had a total value of <strong>$3.33 billion</strong>. Now it's expected to grow at 46.6% between 2019-2024. The reason for such intensive growth of the industry is the democratization of smartphones: AR/VR applications multiplied in numbers.
+</p>
+<p>
+The industry is estimated to be well worth $72.7 billion by 2024. Education management and healthcare are the two most potent drivers of AR/VR industry development. The rapidly developing EdTech industry can take AR/VR to the next level at its exciting path.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5"><strong>AI-enabled approach to education</strong></h3>
+<p>
+Talking numbers, this AI in the market of education around the world <a href="https://www.psmarketresearch.com/market-analysis/ai-in-education-market">is reaching $5.80 billion</a> by 2025. The annual growth rate is 45%.
+</p>
+<p>
+To improve a learning experience and overall performance, education and training software is being applied with artificial intelligence technologies such as machine learning, NLP, or deep learning. A strong key trend in AI in education is conversational learning, also known as chatbots. This technology offers two-way conversations aimed at learning while being interactive and customized for students.
+</p>
+<p>
+As innovation in education technology, AI offers a wide range of solutions and benefits in the classroom:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+Interactive interfaces help involve learners in the learning process and receive feedback from the system quickly.
+</li>
+<li class="posts-dot">
+Instead of traditional hard-copy materials or webpages, voice assistants such as Amazon Alexa, Google Home, Apple Siri, and Microsoft Cortana can be used in the classroom. For example, Alexa is used by <a href="https://www.cognilytica.com/2018/08/29/ai-today-podcast-052-ai-on-the-campus-interview-with-john-rome-arizona-state-university/">Arizona State University</a> to answer queries from first-year students.
+</li>
+<li class="posts-dot">
+AI comes with the power of personalization by developing a learning profile for each student and then adapting learning materials based on the student’s abilities.
+</li>
+<li class="posts-dot">
+Assessment tools automatically help evaluate the learner’s work and give feedback, reducing the burden on teachers.
+</li>
+<li class="posts-dot">
+Chatbots can be used for various educational purposes, such as admitting learners, assessing learning results, and even being a teaching assistant.
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">08</span>
+<h2 class="item-title posts-title">It’s Difficult to Figure Out How to Develop EdTech Projects</h2>
+<p class="item-text">
+To keep your EdTech project scalable and sustainable, you need to be aware of changes and trends across all sectors of local ecosystems to which your project relates: government stakeholders, education innovators, investors, clients, final users.
+</p>
+<p class="item-text">
+<strong>Develop a good data culture:</strong> build the basis for data interoperability and standard criteria for innovations. One of the most significant challenges of EdTech projects is ensuring that the project is adequately developed and fulfills each student’s needs. Even though big data is not used in the traditional educational setting, it has increased in popularity in EdTech.
+</p>
+<p class="item-text">
+Here are three ways data can be used in EdTech:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+<strong>Descriptive analytics.</strong> This approach focuses on using all of the available data to describe the current situation accurately. The results are usually visualized through graphs, charts, infographics, etc.
+</li>
+<li class="posts-dot">
+<strong>Predictive analytics.</strong> This approach is used to predict events based on the data comparison. For example, the <a href="http://upstatebusinessjournal.com/news/tech-colleges-use-big-data-to-help-students-choose-careers/" rel="nofollow">CareerChoice GPS</a> program helps students choose their careers by analyzing their character, learning performance, and previous work experience.
+</li>
+<li class="posts-dot">
+<strong>Prescriptive analytics.</strong> During their learning time, each student leaves a unique data trail. Analyzing this data is highly beneficial in identifying knowledge gaps and assisting learners in reaching their goals.
+</li>
+</ul>
+<p class="item-text">
+Data regarding student behavior, interests, and interactions with content are generated in vast amounts by digital learning systems. This data can be evaluated to obtain helpful information that will help to improve the entire educational process or specific aspects of it.
+</p>
+<p class="item-text">
+<strong>Support sustainable EdTech business models:</strong>
+</p>
+<p class="item-text">
+1. develop a project that fits the market,
+</p>
+<p class="item-text">
+2. stick to financial strategy, which doesn't put all your effort at risk;
+</p>
+<p class="item-text">
+3. make strong partnerships for long-term revenue.
+</p>
+<p class="item-text">
+<strong>Invest in brains:</strong> provide training in EdTech development, implementation, and support teams to upstream the capacity and become a prominent figure on the market.
+</p>
+<p class="item-text">
+<strong>Produce objective evidence</strong> of your high-quality product or service on the market with communication platforms that share the info about you among the relevant audience, be present, and be open to communication.
+</p>
+<p class="item-text">
+Eventually, the big trick is to find your niche and the team involved as much as you are. If you ask the correct questions and listen to the answers (trends, data, financial reports, etc.) carefully, you will catch insight when and how to get your project to the next level.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">09</span>
+<h2 class="item-title posts-title">LMS Is Dead</h2>
+<p class="item-text">
+A learning management system (LMS) in educational technology is used to administer, document, track, report, automate, and deliver educational courses and learning programs around the world. For reasons unknown, some people think LMS is dead.
+</p>
+<p class="item-text">
+Eventually, LMS is considered an approach compared with spoon-feeding the information and limiting the sources. As a centralised platform for learning LMS, it is accused of leading to the situation when people lack the courage to search for new information outside itself. So less proactive people might never move beyond it in self-development. LMS critics stress that they primarily focus on the learners but not the system itself. And they stick to the ecosystem approach, which means creating the learning environment far wider than it used to be in LMS.
+</p>
+<p class="item-text">
+So basically, the old style and internal-focused LMS characteristics are like this:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+similar workforce;
+</li>
+<li class="posts-dot">
+low tolerance for risk;
+</li>
+<li class="posts-dot">
+org-driven development;
+</li>
+<li class="posts-dot">
+heavy focus on compliance;
+</li>
+<li class="posts-dot">
+low budget flexibility.
+</li>
+</ul>
+<p class="item-text">
+And opposite to this is a multi optional ecosystem approach:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+varied workforce;
+</li>
+<li class="posts-dot">
+high tolerance of risk;
+</li>
+<li class="posts-dot">
+employee-driven development;
+</li>
+<li class="posts-dot">
+heavy focus on exploration;
+</li>
+<li class="posts-dot">
+high budget flexibility.
+</li>
+</ul>
+<p class="item-text">
+Nevertheless, it's yet too early to state that LMS is dead. You don’t have to use the old LMS if it's delivering any kind of dissatisfaction. There is an excellent proven reason to switch to new approaches and make LMS more comprehensive and fit the demand.
+</p>
+<p>
+According to a 2019 research report from Thought Industries and Claire Schooley, <a href="https://info.thoughtindustries.com/2019-customer-training-trends-report-0" rel="nofollow">Customer Training Trends: An Industry Growing Rapidly but Still Evolving</a>,
+</p>
+<p class="item-text">
+“Customer training is no longer an afterthought, tagged onto a company’s new service or product. Today with so many digital training options available that are self-paced like eLearning, microlearning, video and virtual classroom, the opportunities for training customers are exploding.”
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+“89% of respondents indicated that customer training was extremely important or very important to their company.”
+</li>
+<li class="posts-dot">
+“6% of respondents said customer training increased over the past 5 years.”
+</li>
+<li class="posts-dot">
+“86% of respondents believe customer training will increase in the next few years. This is a strong indication that companies must provide a stellar experience to their (external) customers through first-class technology learning resources.”
+</li>
+</ul>
+<p class="item-text">
+Both customers and partners state that they need the training to become the best customers and benefit from the relationship in the best way.
+</p>
+<p class="item-text">
+According to Thought Industries report:
+</p>
+<p class="item-text">
+“At 53%, customer onboarding is the largest challenge companies face while creating their customer training program. It’s important that they get this right since studies have shown that the faster a customer sees value in a product (time to value) the more likely they will be a long-time customer.”
+</p>
+<p class="item-text">
+“61% of respondents said that with training, customers use more of the company product and its features;
+</p>
+<p class="item-text">
+“At 53%, customer onboarding is the largest challenge companies face while creating their customer training program. It’s important that they get this right since studies have shown that the faster a customer sees value in a product (time to value) the more likely they will be a long-time customer.”
+</p>
+<p class="item-text">
+“61% of respondents said that with training, customers use more of the company product and its features; 50% of respondents said training enabled a stronger partnership with customers; and 45% said customer training reduced customer churn.”
+</p>
+<p class="item-text">
+“Even when acknowledging the importance of customer training, only 11% say that a large percentage of their customers (75%+) get enough training to use their products well.”
+</p>
+<p class="item-text">
+In conclusion, you might see that LMS is still alive and kicking, but its features are now far wider. It should be externally-focused, encouraging for exploration and limitless development and equipped with some specific features:
+</p>
+<p class="item-text">
+1. <strong>In-App Dashboard</strong> for internal communication, extra information and notifications,
+</p>
+<p class="item-text">
+2. <strong>Certification programs</strong> for rewarding and better understanding of the product or service;
+</p>
+<p class="item-text">
+3. <strong>Communication strategy</strong> for marketing purposes;
+</p>
+<p class="item-text">
+4. <strong>Learning paths</strong> for learners achievements and advancement;
+</p>
+<p class="item-text">
+5. And… Returning to one of our previous points - <strong>gamification</strong>, for keeping the learners’ interest and satisfaction.
+</p>
+<p>
+If you’d like to make the most out of your EdTech projects, make sure to <a href="https://geniusee.com/single-blog/how-to-build-a-learning-management-system-from-scratch" rel="nofollow">read our blog</a> and find out more about LMS and how you can use it to your advantage.
+</p>
+</li>
+</ul>
+</div>
+<div class="posts-text">
+<ul class="posts-items">
+<li class="posts-item"><span class="item-number">10</span>
+<h2 class="item-title posts-title">The Competition Is Too High</h2>
+<p class="item-text">
+Over the last few years, the number of EdTech start-ups has exploded. Crunchbase now lists over 8,000 EdTech firms, with a third of them based in the United States. There are two ways to stay ahead of the competition. One surefire way to ensure the success of an EdTech project is to analyze your competitors and offer something they don’t.
+</p>
+<p class="item-text">
+Let’s speak numbers.
+</p>
+<p>
+U.S Edtech was invested over $3.2 billion in only the first half of 2021, according to analysis of deal data from Pitchbook by Reach Capital’s. In 2020 the number was <a href="https://www.edsurge.com/news/2021-01-13-a-record-year-amid-a-pandemic-us-edtech-raises-2-2-billion-in-2020" rel="nofollow">$2.2 billion total</a> and in 2019 <a href="https://www.edsurge.com/news/2020-01-15-us-edtech-closes-decade-with-record-1-7-billion-raised-in-2019" rel="nofollow">$1.7 billion</a>. This is already inspiring, isn’t it?
+</p>
+<p class="item-text">
+These numbers are based on public deal information for U.S. companies that primarily serve PreK-12, postsecondary and workforce education. The angel investments are not included. Neither are funding rounds currently in progress nor all the startups that provide a broad range of “training” services (personal fitness, for example).
+</p>
+<p class="item-text">
+Now let’s get familiar with the leaders of this marathon.
+</p>
+<p>
+The largest investment in a U.S. edtech company so far this year has got a platform for business owners and entrepreneurs to create online courses Kajabi: <a href="https://www.prnewswire.com/news-releases/kajabi-raises-550-million-and-garners-valuation-over-2-billion-with-growth-financing-led-by-tiger-global-301282851.html" rel="nofollow">$550 million</a>.
+</p>
+<p class="item-text">
+The second position: Age of Learning’s has got $300 million.
+</p>
+<p>
+The third: MasterClass, (online learning with celebrity instructors) with an investment at <a href="https://www.cnbc.com/2021/05/13/masterclass-more-than-triples-valuation-in-one-year.html" rel="nofollow">$225 million</a>.
+</p>
+<p>
+The fourth - workforce upskilling platform by Degreed, which raised <a href="https://www.globenewswire.com/news-release/2021/04/13/2209413/0/en/Upskilling-platform-Degreed-raises-153-million-in-Series-D-Funding.html" rel="nofollow">$153 million</a>.
+</p>
+<p>
+The fifth - Guild Education, which helps companies provide higher education to their employees, has got <a href="https://techcrunch.com/2021/06/02/guild-education-valued-at-3-75-billion-with-newest-round/" rel="nofollow">$150 million</a>.
+</p>
+<p>
+And the coaching platform BetterUp, - <a href="https://www.businesswire.com/news/home/20210225005630/en/BetterUp-Raises-125-Million-Series-D-Achieves-1.73-Billion-Valuation-and-Expands-Coaching-Platform-With-BetterUp-Care" rel="nofollow">$125 million</a> (along with <a href="https://www.betterup.com/blog/prince-harry-chief-impact-officer" rel="nofollow">Prince Harry</a>, who will be its chief impact officer).
+</p>
+<p class="item-text">
+Well recovering from the pandemic, digital education has cemented its position as a new top priority. Two opposite situations are now on: a high level of unemployment and businesses are struggling to hire. That's why we see that reskilling opportunities are on the table to let people find jobs and for upskilling training for employees to stay competitive.
+</p>
+<p class="item-text">
+So apparently, the competition is high, but the game is worth the candle. Concentrate on opportunities in niches that are most susceptible to disruption. In the United States, for example, college textbooks can cost up to $1,200 each year. Finding a cost-effective solution to serve this market may net you up to 20 million paying consumers.
+ </p>
+</li>
+</ul>
+</div>
+<h2 class="posts-title">Wrap Up</h2>
+<div class="posts-text">
+<p>
+EdTech projects and tools have unmatched potential that can be used to transform today’s educational system. Advanced teaching tools can be used to facilitate the acquisition of powerful, durable understandings that extend beyond what learners can discover on their own.
+</p>
+<p>
+Developing a brand new EdTech project is undoubtedly challenging, especially with many myths and misconceptions regarding EdTech development. Hopefully, refuting these ten common myths will encourage you to roll up your sleeves and start developing your EdTech app.
+</p>
+<p>
+Need help executing your project?
+</p>
+<p>
+We at Geniusee can provide you with multiple products and services, such as:
+</p>
+<ul class="posts-dots">
+<li class="posts-dot">
+e-learning platforms;
+</li>
+<li class="posts-dot">
+customized education systems;
+</li>
+<li class="posts-dot">
+skills assessment solutions;
+</li>
+<li class="posts-dot">
+self-learning management systems;
+</li>
+<li class="posts-dot">
+machine learning and AI chatbots;
+</li>
+<li class="posts-dot">
+gamified services for education.
+</li>
+</ul>
+<p>
+<a href="https://geniusee.com/edtech" rel="nofollow">EdTech industry</a> is one of our key focuses. Our team has completed more than 100 projects on time and within budget. Among them are lots of successful EdTech cases in <a href="https://geniusee.com/portfolio/all" rel="nofollow">our portfolio</a> such as <a href="https://geniusee.com/portfolio/geniusee/pause" rel="nofollow">Pause - Mobile App for Meditation</a>, <a href="https://geniusee.com/portfolio/geniusee/ncourage" rel="nofollow">NCOURAGE</a>, <a href="https://geniusee.com/portfolio/geniusee/zaza" rel="nofollow">ZaZa</a> etc.
+</p>
+<p>
+Want to get consulted about your EdTech project or discover the niche for your idea? Let’s get in touch!
+</p>
+</div>
+</div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "10-myths-about-development-of-edtech-projects"
+  },
+  "headline": "EdTech Development: 10 Myths About It | Geniusee.com",
+  "description": "Join us as we debunk the ten most common EdTech development myths!",
+  "image": "https://geniusee.com/storage/app/media/blog/blog136/post.png",  
+  "author": {
+    "@type": "Person",
+    "name": "Taras T."
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "geniusee",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geniusee.com/storage/app/media/logo.svg",
+      "width": 123,
+      "height": 31
+    }
+  },
+  "datePublished": "2021-09-21",
+  "dateModified": "2021-09-21"
+}
+</script>
+
+<section class="social_box">
+<div class="left_box">
+<ul class="post-tags">
+<li><a href="../../blog/startups/1">startups</a></li>
+<li><a href="../../blog/management/1">management</a></li>
+<li><a href="../../blog/research/1">research</a></li>
+<li><a href="../../blog/edtech/1">edtech</a></li>
+</ul>
+<div class="author-box"><img src="/storage/app/media/blog/Authors/TarasT.jpg" alt="Author's photo"> <div class="author-info">
+<p class="name">Taras T.</p>
+<p class="date font-body-3">2021-09-21</p>
+</div>
+</div>
+
+</div>
+<div class="right_box">
+<p class="share-text" style="margin-top: 0px !important;">
+Enjoy this blog? Please, spread the word :)
+<br />
+Share with:
+</p>
+<ul class="share-buttons">
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F10-myths-about-development-of-edtech-projects&quote=" title="Share on Facebook" target="_blank">
+<img data-src="/storage/app/media/share-facebook.svg" class="lazyload share-facebook" alt="Share on Facebook" width="" height=""> </a>
+</li>
+<li>
+<a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F10-myths-about-development-of-edtech-projects&text=%20https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F10-myths-about-development-of-edtech-projects" target="_blank" title="Tweet">
+<img data-src="/storage/app/media/share-twitter.svg" class="lazyload share-twitter" alt="Tweet" width="" height=""> </a>
+</li>
+<li>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F10-myths-about-development-of-edtech-projects&title=&summary=&source=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F10-myths-about-development-of-edtech-projects" target="_blank" title="Share on LinkedIn">
+<img data-src="/storage/app/media/share-linkedIn.svg" class="lazyload share-linkedin" alt="Share on LinkedIn" width="" height=""> </a>
+</li>
+</ul>
+</div>
+</section>
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+   .card input {
+        width:100%;
+        height: 4.11111vh;
+        background-color: transparent;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000;
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+    }
+    
+    .card input::placeholder {
+        color: #333333;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 32px;
+    }
+    
+    .card input.error {
+        border: 1px solid red;    
+    }
+    input#main_form_email::placeholder { /* Chrome/Opera/Safari */
+        color: #000!important;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+        color: black!important;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+        color: black!important;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+        color: black!important;
+    }
+    .card {
+        display: flex;
+        justify-content: space-between;
+        max-width: 56%;
+        height: 127px;
+        box-shadow: 0px 10px 40px rgba(109, 102, 134, 0.12);
+        border-bottom: 4px solid #9494EC;
+        padding: 0 32px;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 50px auto;
+       
+        transition: 2s;
+    }
+    
+    .card.flip {
+        transform: rotateY(180deg);
+        transition: 2s;
+      
+    }
+    
+    .card.flip .front {
+         display: none;
+    }
+    
+    .back {
+        display: none;    
+    }
+         
+    .card.flip .back {
+        position: relative;
+        transform: rotateY(180deg);
+        width: 100%;
+        display: block;
+    }
+     
+    .front {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .card-content {
+        display: flex;
+        align-items: center;
+    }
+    
+    .card form {
+        padding: 20px 20px 1.77778vh;
+        width: calc(100vw / 4.5);
+       
+    }
+    
+    .card-titlet {
+        display:none;
+    }
+    
+    .card:last-child{
+        display:none;
+    }
+    
+    .card-action {
+        display: flex;
+        align-items: center;
+    }
+        
+    .card-action button {
+        width: 100%;
+        height: 48px;
+        background-color:#9494EC;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 17px;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 12px 20px;
+    }
+    
+    .back {
+        position: relative;
+    }
+    
+    .back h3 {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 32px;  
+        position: absolute;
+        top: 50%;
+        left: 38%;
+        transform: translateY(-50%);
+    }
+    
+    .conv1, .conv2, .circle1, .circle2 {
+        position: absolute;
+    }
+    
+    .conv1 {
+       left: -3%;
+       top: 3%;
+    }
+    
+    .conv2 {
+       left: 17%;
+       bottom: 6%;
+    }
+    
+    .circle1, .circle2 {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+    }
+        
+    .circle1 {
+        background-color: #FFACA0; 
+        right: 72%;
+        top: -11%;
+    }
+    
+    .circle2 {
+        display: flex;
+        background-color: #DADCFF;
+        top: -11%;
+        right: -6%;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .circle2 span {
+         padding: 7px;  
+    }
+    
+    @media(max-width:787px) {
+        .card {
+            justify-content: center;
+            flex-wrap: wrap;
+            max-width: 70%;
+        }
+        
+        .card-action button {
+             padding: 8px 10px;
+             font-size: 14px;
+        } 
+        .card-content {
+            width: 58%;
+        }
+        .card h3 {
+             font-size: 30px; 
+        }
+        .card form {
+            width: 100%;
+        }
+       .card .conv2 {
+            display: none;    
+        }
+    }
+    
+    @media(max-width: 640px) {
+         .back h3 {
+            left: 20%;
+        } 
+        .card-action {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+         .card-action button {
+             font-size: 18px;
+             line-height: 24px;
+             margin-top: 5px;
+             height: auto;
+        } 
+         .front {
+            flex-wrap: wrap;    
+        }
+        .card-content {
+            width: 100%;
+        }
+        .card-content img {
+            max-height: 34px;
+        }
+        .card {
+            height: auto;
+        }
+        .card form {
+            padding-top: 25px;
+            padding-right: 0;
+        }
+    }
+    
+    @media(max-width: 550px) {
+        .back h3 {
+             font-size: 22px; 
+        }
+    }
+    
+    @media(max-width: 500px) {
+        .card {
+            max-width: 80%;
+        }
+        .back .conv1 {
+            display: block;
+        }
+     }
+     
+      @media(max-width: 500px) {
+             .back h3 {
+             font-size: 20px; 
+        } 
+      }
+     
+     
+</style>
+<div id="card" class="card">
+<div id="front" class="front">
+<div class="card-content author ">
+<img src="/storage/app/media/mail1.svg" alt="icon mail">
+<form id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'" class="form">
+<input id="email" type="email" name="email" placeholder="E-mail" class="form-control" value="" required>
+</form>
+</div>
+<div class="card-action">
+<button onclick="flip()" class="btn btn-primary btn-block" form="form-subscribe-andradedev" href="#">Subscribe to our news</button>
+</div>
+</div>
+<div class="back">
+<img class="conv1" src="/storage/app/media/conv1.svg" alt="icon mail">
+<img class="conv2" src="/storage/app/media/conv2.svg" alt="icon mail">
+<div class="circle1"></div>
+<div class="circle2"><span onclick="unflip()">X</span></div>
+<h3><div id="result">Thank you for Subscription!</div></h3>
+</div>
+</div>
+<script>
+    var card = document.getElementById('card');
+    var input = document.getElementById('email');
+   
+     function flip() {
+         if(input.value.indexOf('@') > 0 ) {
+             input.classList.remove('error');
+              card.classList.add('flip');
+         } else {
+           input.classList.add('error');
+            }
+        
+    }
+    
+     function unflip() {
+         card.classList.remove('flip');
+        document.getElementById('email').value = "";
+    }
+    
+</script>
+
+<section class="popular_posts" style="width: 14vw;position: fixed;left: 4vw;top: 200px;display:none">
+<h4 class="font-body-3" style="font-weight: bold"> Popular posts: </h4>
+<a href="data-science-vs-data-engineering-job-roles-skills-and-salary" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+</a>
+<a href="what-are-key-skills-needed-in-fintech" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+</a>
+<a href="virtual-assistants-and-digital-custody-for-banking" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> Virtual Assistants and Digital Custody for Banking</p>
+</a>
+<a href="7-recent-trends-in-investment-banking-technology" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> 7 Recent Trends in Investment Banking Technology</p>
+</a>
+<a href="what-are-super-apps-the-most-successful-cases" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> What Are Super Apps? The Most Successful Cases</p>
+</a>
+</section>
+<style>
+            .popular_posts a p:hover{
+                transition: color .3s;
+                color: #9595ef;
+            }
+            @media screen and (max-width: 787px) {
+                .related_posts{
+                    width: 70% !important;
+                }
+                .popular_posts{
+                    display: none !important;
+                }
+                .navigation{
+                    width: 70% !important;
+                }
+            }
+            
+            @media screen and (max-width: 500px) {
+                .related_posts{
+                    width: 80% !important;
+                    grid-template-columns: 1fr !important;
+                }
+                .navigation{
+                    width: 80% !important;
+                }
+            }
+            
+             .navigation{
+                width: 55.55556vw;
+                margin: 50px auto;
+            }
+             .navigation .navigation_list li a:hover{
+                 color: #9595ef;
+             }
+        </style>
+</main>
+
+<div class="other-projects">
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3>Check out our other projects<span style="color: #9595ef">.</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/einkaufs-check"><img src="/storage/app/media/portfolio/einkaufs-check/preview.png" alt="record preview"></a></div><h3>EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/funderslink"><img src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" alt="record preview"></a></div><h3>Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/crave-retail"><img src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" alt="record preview"></a></div><h3>Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/pause"><img src="/storage/app/media/portfolio/pause/pause-preview.jpg" alt="record preview"></a></div><h3>Pause<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ajuma"><img src="/storage/app/media/portfolio/ajuma/Ajuma.png" alt="record preview"></a></div><h3>Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/zedosh"><img src="/storage/app/media/portfolio/zedosh/zedosh.png" alt="record preview"></a></div><h3>Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/revenu"><img src="/storage/app/media/revenu/login_dt.png" alt="record preview"></a></div><h3>Revenu<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/realmfive"><img src="/storage/app/media/realm_preview.png" alt="record preview"></a></div><h3>RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/factmata"><img src="/storage/app/media/factMata/factmata-preview.png" alt="record preview"></a></div><h3>FactMata<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/tradesmarter"><img src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" alt="record preview"></a></div><h3>TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/swoon"><img src="/storage/app/media/swoonProj/swoon-preview.png" alt="record preview"></a></div><h3>Swoon<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/gearhousepro"><img src="/storage/app/media/gearHousePro/preview.png" alt="record preview"></a></div><h3>GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/validify"><img src="/storage/app/media/validifyProj/validify-card@1x.png" alt="record preview"></a></div><h3>Validify<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ncourage"><img src="/storage/app/media/ncourageProj/ncourage-card@1x.png" alt="record preview"></a></div><h3>Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/wyzoo"><img src="/storage/app/media/wyzoo-preview.png" alt="record preview"></a></div><h3>Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/tamam"><img src="/storage/app/media/tamam-preview.png" alt="record preview"></a></div><h3>Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/digital-bits"><img src="/storage/app/media/digital_bits_preview.svg" alt="record preview"></a></div><h3>Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/totalizator-platform"><img src="/storage/app/media/totalizator.svg" alt="record preview"></a></div><h3>Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ua-light"><img src="/storage/app/media/ua_light 2.png" alt="record preview"></a></div><h3>Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/pool-party"><img src="/storage/app/media/pool_party.png" alt="record preview"></a></div><h3>Pool party<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/my-uber"><img src="/storage/app/media/myuber.png" alt="record preview"></a></div><h3>My Uber<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/crypto-analytics"><img src="/storage/app/media/bitspread.png" alt="record preview"></a></div><h3>Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/circular-review-system-vehicles"><img src="/storage/app/media/Circular-Review-System-for-vehicles.png" alt="record preview"></a></div><h3>Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/buzzshow"><img src="/storage/app/media/BuzShow 2.png" alt="record preview"></a></div><h3>BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/zaza"><img src="/storage/app/media/zaza.png" alt="record preview"></a></div><h3>ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/printbi"><img src="/storage/app/media/printBi.svg" alt="record preview"></a></div><h3>PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+ </label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section> 
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+<style>
+    .modal-content .contact .form-wrap .contact__front-side .form .form-label {
+        padding-bottom: 20px!important;
+        margin-bottom: 0;
+        height: 100%;
+    }
+    .modal-content .contact {
+        width: 100%;
+        padding: 0;
+        height: 100%;
+        margin-bottom: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side {
+        flex-direction: column;
+        padding: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .form {
+        width: 100%;
+    }
+    .modal-content .contact .form-wrap, .modal-content .contact .form-wrap .contact__front-side {
+        width: 100%;
+        height: 350px;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    .modal-content .font-button {
+        font-button: 28px;    
+    }
+    .modal-content .form-btn-wrap {
+        margin-top: 0!important;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .title-wrap {
+        width: 100%;
+        margin-right: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .title-wrap .form-title {
+        font-size: 48px;
+    }
+    
+    .show-modal {
+        opacity: 1!important;
+        visibility: visible!important;
+        transform: scale(1.0)!important;
+        transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+    }
+    .close-button {
+        float: right;
+        width: 1.5rem;
+        line-height: 1.5rem;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 0.25rem;
+        background-color: lightgray;
+    }
+    .close-button:hover {
+        background-color: darkgray;
+    }
+    .modal-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding: 1rem 1.5rem;
+        width: 24rem;
+        border-radius: 0.5rem;
+        height: 400px;
+    }
+    .modal {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        opacity: 0;
+        visibility: hidden;
+        transform: scale(1.1);
+    }
+    @media screen and (min-width: 1560px) {
+        .modal-content {
+            height: 470px;
+        }
+    }
+</style>
+<div class="modal">
+<div class="modal-content">
+<span class="close-button">&times;</span>
+<div class="contact">
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h4 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h4>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="formBlog" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" alt="warning icon">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name_blog" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email_blog" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<textarea name="message" placeholder="* Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submitBlog" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/blog-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/fe596132d47a2bf05be642a3d9d9707e-1638441204"></script>
+
+<script>
+            var headers = $('h2.posts-title');
+            headers.each(function(){
+                $(this).attr('id', $(this).text().replace(/[^a-z0-9\s]/gi, '').toLowerCase().trim().split(' ').join('_'));
+                $('.navigation_list').append('<li style="margin-top: 10px;"><a class="font-body-3" href="#' + $(this).attr('id') +  '">' + $(this).text().replace(':', ' ') + '</a></li>');
+            });
+            
+            function ready() {
+                var modal = document.getElementsByClassName("modal")[0];
+                var closeButton = document.getElementsByClassName("close-button")[0];
+            
+                function toggleModal() {
+                    modal.classList.toggle("show-modal");
+                }
+            
+                function windowOnClick(event) {
+                    if (event.target === modal) {
+                        toggleModal();
+                    }
+                }
+            
+                closeButton.addEventListener("click", toggleModal);
+                window.addEventListener("click", windowOnClick);
+            }
+        
+            document.addEventListener("DOMContentLoaded", ready);
+        </script>
+
+</body>
+</html>

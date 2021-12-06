@@ -1,0 +1,1867 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<title>We have collected 16 main principles (and at the end you will find a small overview of how to test the interface for usability).</title>
+<link rel="canonical" href="https://geniusee.com/single-blog/16-techniques-for-creating-a-user-friendly-interface">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Therefore, the most important (and most difficult) in this whole story is to maintain the perfect balance of all interface properties, and then it will be truly user-friendly.">
+<meta name="keywords" content="">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="16 Best Techniques for Creating a User-Friendly Interface" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/blog104/Preview.png" />
+<meta property="og:url" content="https://geniusee.com/single-blog/16-techniques-for-creating-a-user-friendly-interface" />
+<meta property="og:description" content="The interface is a kind of " bridge" between the user and the system. Using the interface, the user will be able to explain to the system what they want from it, and the system will do it. But what happens if this understanding between machine and man is not achieved? The user will simply leave the site.&nbsp;" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+<script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://geniusee.com/single-blog/16-techniques-for-creating-a-user-friendly-interface"
+          },
+          "headline": "16 Best Techniques for Creating a User-Friendly Interface",
+          "description": "Therefore, the most important (and most difficult) in this whole story is to maintain the perfect balance of all interface properties, and then it will be truly user-friendly.",
+          "image": "https://geniusee.com/storage/app/media/blog104/Preview.png",  
+          "author": {
+            "@type": "Person",
+            "name": "Sofiia V."
+          },  
+          "publisher": {
+            "@type": "Organization",
+            "name": "geniusee",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://geniusee.com/storage/app/media/logo.svg",
+              "width": 123,
+              "height": 31
+            }
+          },
+          "datePublished": "2020-10-06",
+          "dateModified": "2020-10-06"
+        }
+        </script>
+<style>    
+    /* Subscribe POPUP Style */
+    .subscribe{position:fixed;width:100vw;height:100vh;background:rgba(0,0,0,.8);top:0;left:0;right:0;bottom:0;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;z-index:9999}.subscribe .card{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:54%;max-width:1020px;background-color:#fffcfc;background-image-size:100% 100%;background-image-position:bottom right;-webkit-box-sizing:border-box;box-sizing:border-box}.subscribe .card .popup-left{width:62%;height:auto}.subscribe .card .popup-left img{width:100%;height:100%}.subscribe .card .popup-right{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:38%;margin-right:42px}.subscribe .card .popup-right .close-btn{position:absolute;top:0;right:0;padding:6px 12px;font-size:24px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:none}.subscribe .card .popup-right .close-btn:active,.subscribe .card .popup-right .close-btn:focus,.subscribe .card .popup-right .close-btn:hover{outline:0;border:none;background-color:rgba(149,149,239,.5)}.subscribe .card .popup-right .card-title{text-align:center}.subscribe .card .popup-right .card-title h2{margin:0;padding:0;font-family:BebasNeue;font-size:3.2vw;font-weight:700;line-height:1.25;letter-spacing:2px;text-transform:uppercase;color:#000}.subscribe .card .popup-right .card-title h2 span{color:#9595ef}.subscribe .card .popup-right .card-title h2 .title-dot{margin-left:-5px}.subscribe .card .popup-right .card-content{width:100%}.subscribe .card .popup-right .card-content .form-subscribe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:100%;margin:0;padding:0;margin-top:12px}.subscribe .card .popup-right .card-content .form-subscribe input{display:inline-block;height:40px;width:100%;margin-bottom:40px;font-family:Lato;font-size:18px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1;letter-spacing:.2px;color:#000;border:none;border-bottom:1px solid #000;-webkit-border-image:initial;-o-border-image:initial;border-image:initial;outline:0;background:0 0}.subscribe .card .popup-right .card-content .form-subscribe input::-webkit-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::-moz-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input:-ms-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::-ms-input-placeholder{color:#000}.subscribe .card .popup-right .card-content .form-subscribe input::placeholder{color:#000}.subscribe .card .popup-right .card-action{margin-left:auto}.subscribe .card .popup-right .card-action button{padding:12px 36px;padding-top:18px;font-family:BebasNeue;font-size:28px;font-weight:700;font-style:normal;font-stretch:normal;line-height:1;letter-spacing:1.5px;color:#000;background-color:#9595ef;border:none;cursor:pointer}.subscribe .card .popup-right .card-action button:active,.subscribe .card .popup-right .card-action button:focus,.subscribe .card .popup-right .card-action button:hover{outline:0;color:#fffcfc}.subscribe .card .popup-right .result{width:100%;margin-top:40px;font-family:Lato;font-size:1.0416666667vw;text-align:center;color:rgba(149,149,239,.75)}@media (min-width:2048px){.subscribe .card{max-width:1148px;max-height:653px}}@media (max-width:1600px){.subscribe .card .popup-right .card-title h2{font-size:3.2vw}}@media (max-width:1440px){.subscribe .card{width:56%;height:56%;max-width:835px;max-height:486px}.subscribe .card .popup-right .card-title h2{font-size:3vw}.subscribe .card .popup-right .card-content .form-subscribe input{font-size:16px}}@media (max-width:1366px){.subscribe .card{max-width:725px;max-height:412px}.subscribe .card .popup-right .card-action button{padding:12px 36px;font-size:24px}}@media (max-width:1280px){.subscribe .card .popup-right .card-title h2{font-size:2.8vw}}@media (max-width:1136px){.subscribe .card .popup-right .card-title{margin-bottom:20px}.subscribe .card .popup-right .card-content .form-subscribe input{height:auto;font-size:14px}.subscribe .card .popup-right .card-action button{padding:10px 30px;font-size:22px}}@media (max-width:1024px){.subscribe .card{width:64%}.subscribe .card .popup-right .card-action button{padding:8px 24px;font-size:20px}}@media (max-width:992px){.subscribe .card{width:50%;height:auto;min-height:70%}.subscribe .card .popup-left{display:none}.subscribe .card .popup-right{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:100%;margin-left:42px;padding:20px 8px}.subscribe .card .popup-right .card-title h2{font-size:36px}.subscribe .card .popup-right .card-action{margin:0 auto}.subscribe .card .popup-right .result{font-size:14px}}@media (max-width:600px){.subscribe .card{width:80%;height:auto;min-height:50%}.subscribe .card .popup-right{margin:0;padding:42px 12px}}        
+</style>
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+</head>
+<body class="wrapper" id="template">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+<main class="main-posts">
+<div class="first-screen">
+<div class="left-content">
+<ul class="post-tags">
+<li><a href="../../blog/tools/1">tools</a></li>
+<li><a href="../../blog/design/1">design</a></li>
+</ul>
+<h1 class="post-title">16 Best Techniques for Creating a User-Friendly Interface<span style="color: #9595ef;">.</span></h1>
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/blog">Blog</a><span>></span>16 Best Techniques for Creating a User-Friendly Interface
+</div>
+<div class="author-box"><img src="/storage/app/media/blog/Authors/SofiiaV.jpg" alt="Author's photo"> <div class="author-info">
+<p class="name">Sofiia V.</p>
+<p class="date font-body-3">2021-05-11</p>
+</div>
+</div>
+</div>
+<div class="right-content">
+<div class="post-img" style="background-image: url(/storage/app/media/blog104/hero1-1.png);"></div>
+</div>
+</div>
+<div class="main-content">
+<div class="post-link">
+<a href="/single-blog/digital-payment-trends-future-payment-technology-for-business" aria-label="Previous" class="prev-post ">&#8592;</a>
+<a href="/single-blog/checklist-requirements-for-evaluating-an-it-project" aria-label="Next" class="prev-post ">&#8594;</a>
+</div>
+<div class="main-text"><p dir="ltr">The interface is a kind of "bridge" between the user and the system. Using the interface, the user will be able to explain to the system what they want from it, and the system will do it. But what happens if this understanding between machine and man is not achieved? The user will simply leave the site.&nbsp;</p></div>
+</div>
+<div class="navigation">
+<h2 class="font-h4" style="text-align: left; padding: initial;">In this post: </h2>
+<ol class="navigation_list" style="list-style-type: decimal;">
+</ol>
+</div>
+
+<div class="posts-content">
+<div class="posts-text">
+<p>
+This is how Internet users behave according to the Online Marketing Institute:
+</p>
+<p>
+- 85% can leave the site if they don't like the interface design;
+</p>
+<p>
+- 83% will leave the site if they have to make a lot of clicks to find what they need;
+</p>
+<p>
+- 40% will never return to the site if it was difficult for them to use it the first time.
+</p>
+<p>
+The principles of a good interface are the same for websites, programs, and services. We have collected 16 main ones on how to create a user-friendly design (and at the end you will find a small overview of how to test the interface for usability).
+</p>
+</div>
+<h2 class="posts-title">What is a user-friendly interface?</h2>
+<div class="posts-text">
+<p>
+“User-friendly” is an interface that is created for a specific group of people or without a clear target audience, but is aimed at maximum user convenience.
+</p>
+<p>
+The main goal of a user-friendly interface is to provide a perfect user experience. So that after installing the application or using the site, only positive emotions remain. If you manage to achieve this effect, the conversion will be high.
+</p>
+<p>
+Data from numerous studies of web analysts show that almost half of the audience does not give the second chance to an interface that did not live up to their expectations or turned out to be too difficult to understand. Instead of wading through obstacles to solve a problem, most people will try to find an alternative.
+</p>
+<p>
+It is believed that a user-friendly interface should only be simple. In fact, this characteristic alone is not enough to fulfill the commercial goals of the company. The product must be useful to the audience, otherwise no one will use it. Especially if there are other solutions on the market.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/0.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+A friendly UI should establish a strong connection with users and show them what is useful for solving everyday tasks. Here you can order a product, send a letter or read a book.
+</p>
+<p>
+Designing an interface that is ideal for solving specific problems while serving the corporate goals of a company is not easy. It is necessary to design it so that it would be possible to understand the features and reach the final point without lengthy training.
+</p>
+<p>
+To keep a user on a website or application for as long as possible, you just need to create a comfortable atmosphere and, of course, convenience on various devices such as mobile and tablet. This should be done so that after the first acquaintance there is a desire to launch the application or visit the site constantly.
+</p>
+</div>
+<h2 class="posts-title">16 techniques to create a user friendly interface design</h2>
+<div class="posts-text">
+<p>
+A friendly interface helps users to solve their problems and does not impose other actions. If something goes wrong during the use, most of the audience will refuse from further interaction.
+</p>
+<p>
+Many designers know that user experience is influenced not only by typography, beautiful animation or customization, but also by how the customer journey is built. If there are constant distractions while completing a task, the company should not rely on the product's commercial success.
+</p>
+<p>
+To understand better how to create a user interface, analyze its main characteristics and think what is the best way of implementing each attribute within the interface.
+</p>
+<p>
+<strong>
+A good interface should:
+</strong>
+</p>
+</div>
+<div class="posts-img-wrap">
+<h3 class="posts-title font-h5">1. Be intuitive.</h3>
+<img src="/storage/app/media/blog104/blog104_1.gif" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+The user interface is something that should be as clear as possible to most people. If a person, having opened an application or visited a website, does not understand how to use it or doesn’t understand app / website navigation, then after pressing different buttons at random for a few seconds, they will be disappointed and leave the resource. Most likely forever.
+</p>
+<p>
+An intuitive interface is one in which:
+</p>
+<p class="bold italic">
+1) all elements are built according to the principles of elementary logic and are easy-to-use.
+</p>
+<p>
+Take, for example, a site with text content (articles). Its logical interface will be like this:
+</p>
+<p>
+- the name of the site is at the very top of the page, below it is a short description of the resource;
+</p>
+<p>
+- a menu with sections of the site is below;
+</p>
+<p>
+- a block with contacts and feedback is in the upper right part of the menu;
+</p>
+<p>
+- articles are arranged in the order they were added to the site;
+</p>
+<p>
+- at the end of each article there are "next" and "previous" buttons;
+</p>
+<p>
+- category button shortcuts should always be visible so that you can go to another section at any time;
+</p>
+<p>
+- site rules, detailed contact information, information about developers, etc. are located in the footer of the site, since this is where they are always searched for.
+</p>
+<p>
+Do not confuse the user with non-standard arrangement of familiar blocks, use proven principles. As an example you can take marketer Heidi Cohen's blog which is structured in a clear and logical way:
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/2n.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p class="bold italic">
+2) the buttons are labeled clearly.
+</p>
+<p>
+Avoid buttons that may be misleading. There is no need to reinvent the wheel. A large question mark immediately tells the user if there is any guidance or help behind it. A magnifying glass is always a search form on a site.
+</p>
+<p>
+But what would you think if you saw a button on a website or in a program, for example, with a crossed-out square? Most likely, many users will not even dare to click on it, since they will not understand what this action will lead to. Creating a user friendly website / app, you should think about the users’ better understanding of their actions. For example, you can use button captions that appear on hover.
+</p>
+<p>
+And for the users’ better understanding of their actions, you can use button captions. They appear on hover.
+</p>
+<p class="bold italic">
+3) there is help to the user if he is “lost”.
+</p>
+<p>
+If the user got to the 404 page, immediately give him a short instruction on what he can do next. For example, invite him to go back to the previous section and look for the information he needs there.
+</p>
+<p>
+Let’s consider another example - you have an online store. If the product parameters are entered incorrectly, the user sees an error message. Give them clear instructions right there about what they should do to describe the product correctly. If the desired product is not in stock, write about how the user can receive a notification about the appearance of this product.
+</p>
+</div>
+<div class="posts-img-wrap">
+<h3 class="posts-title font-h5">2. Be predictable.</h3>
+<img src="/storage/app/media/blog104/3.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+In some situations, predictability may well be boring, but not when we build a user-friendly interface. Looking at this or that interface element, the user should immediately understand how it will behave in the event of interaction. If the object looks like a menu, it should behave like a menu; if it looks like a slider, then it should move something accordingly. Creative thinking is, of course, good, but not in this case.
+</p>
+<p>
+Here is an example of the interface design of the player program. The upper buttons (“previous” - “play” - “next”) should perform exactly these functions, and the slider should change the volume level.
+</p>
+<p>
+A few more examples. If you make the buttons bulky, they will look more like buttons, so they will be more likely to be clicked:
+</p>
+<p>
+And the on / off switch looks understandable when done like this:
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/4n.jpg" style="display: block; max-width: 640px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+One of the designers’ biggest fears is that they will be considered unoriginal. That is why they often avoid using techniques that have long been proven effective and work in favor of making “something new and creative”. Of course, there is no need to openly plagiarize. But using the interface design models already familiar to users is a surefire way to make it predictable. What resources does your target audience most often use? Facebook, LiveJournal, Twitter, Amazon, Youtube? Use a similar style in your interface so they can feel like they are in a familiar environment. For example, if you are targeting Youtube users, make the main menu vertical and place it on the left of the page, and center the search bar at the top.
+</p>
+</div>
+<div class="posts-img-wrap">
+<h3 class="posts-title font-h5">3. Be minimalistic.</h3>
+<img src="/storage/app/media/blog104/5.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+Trying to place as many categories, menus, buttons, etc. in the interface as possible, you will only do great harm to it. An overly cluttered interface is a big obstacle to the user’s understanding. Anything that can be described in one phrase should not be described in three. Extra elements and subcategories on the main page are also useless. Testing will help you determine which ones are "superfluous" and which are not (see how it can be done at the end of the article). But you shouldn't sacrifice something really important - if you know that without some explanation or an additional button it will be difficult for the user to navigate the site, then leave the button in the interface, but accompany it with as few words as possible.
+</p>
+</div>
+<div class="posts-img-wrap">
+<h3 class="posts-title font-h5">4. Load quickly.</h3>
+
+</div>
+<div class="posts-text">
+<p>
+Slow loading of the interface will annoy and repel the user, causing them to increasingly dislike the resource. Make sure the download speed is optimal for your comfort. To a large extent, this is related to the previous point - after all, the fewer “heavy” elements on the site, the faster it will load.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">5. Show all important options.</h3>
+<p>
+Use drop-down lists and menus only where it cannot be avoided. In other cases, try to show the users all their capabilities immediately. If some of the possible actions are hidden, the users may not even guess where they need to click to perform a certain action. And if these actions are targeted (“buy a product”, “place an order”), then they cannot be hidden at all in drop-down menus, on the contrary, they should be emphasized.
+</p>
+<p>
+Have a look at an example of a drop-down menu that is aimed at being user friendly - hovering over the sub-sections opens the menu sections, which is quite convenient, The "Contacts" button, on the contrary, is visible immediately, without additional hovering.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/7.png" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">6. Be able to communicate with the user.</h3>
+<p>
+The point is that the users must understand that their actions are currently being processed by the system. The process of sending a message should be accompanied by the display of the phrase "message is being sent", and the end of this process - "Message sent". If there is a failure in the system, the users must also be notified of this, as well as of the reasons for the error and what they can do in this situation. If the resource involves loading large amounts of information, then you need to place progress bars so that the user can monitor the state of the system.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">7. Have different styles for buttons with different types of actions.</h3>
+<p>
+In any interface, each button has its own purpose: go somewhere, open a menu, open in a new window, download, and so on. In order not to confuse users, follow these rules:
+</p>
+<p>
+1) clickable and non-clickable elements must be different. You can highlight them with color, font, size. The users should immediately see which buttons they can press and go somewhere, and which are provided just for information.
+</p>
+<p>
+2) use color or style to highlight the section of the menu in which the user is currently located.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">8. Be attractive.</h3>
+<p>
+Functionality and convenience are good, but there is also an elementary “beautiful/not beautiful” notion. Any user will find it much more pleasant to deal with the interface, which, among other things, also pleases the eye.
+</p>
+<p>
+But don't forget that beautiful design is subjective. You won't be able to make it equally beautiful for everyone, no matter how hard you try. Anyone will agree that when developing a resource for high school students and a resource for accountants, you will need to make different design decisions. Therefore, first of all, focus on your target audience and their needs.
+</p>
+</div>
+ <div class="posts-text">
+<h3 class="posts-title font-h5">9. Provide the ability to personalize.</h3>
+<p>
+Personalization is the ability to customize something “for yourself”. Most often, this function can be found in programs, services and applications. The user can change, for example, the font color, icon style, background image, the size of the text blocks as he likes (choosing from the proposed options, of course).
+</p>
+<p>
+In the Trello service, you can change the layout to a different color or image.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/8.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">10. Be loyal to user errors.</h3>
+<p>
+And yet, there will always be users who will not be able to understand something immediately while working with the interface. They will make erroneous actions, and then the interface is faced with the task of making sure that these errors can be quickly corrected. If the user accidentally deleted the information they needed, they should be given the opportunity to restore it. A user who wandered into the wrong page should be able to quickly return to the previous page or section by pressing the "back" button. To prevent erroneous actions, the interface should ask the user again whether they really want to do this. For example,
+</p>
+<p>
+“When you close the current page, the download of the file will be interrupted. Are you sure you want to do this?" However, do not overdo it with such questions, otherwise it will become annoying.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">11. Speak the user's language.</h3>
+<p>
+All interface text, any designations should be created for the target audience of the resource. Everything is obvious here: if you are making an educational website for preschool children, then the text of the interface should be written in “children's” language. If you have a program for advanced webmasters, then you can safely use specific terms without explanation - the target audience already knows them. And if this is a service for beginners, then the language should be as simple as possible.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">12. Provide the optimal number of choices.</h3>
+<p>
+The more options you offer the user, the less likely they are to take any of them at all. If there are really a lot of options, and you cannot reduce them (for example, a product catalog), then use the recommendation function. For example, you offer ten product options on one page, but select one or two of them in the “We recommend” category. The client will pay attention to these products, which may make his choice easier.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">13. Giving soft prompts.</h3>
+<p>
+Tooltips are very good. They help the user to understand fully what they could not figure out themselves. The main question remains how to make these prompts effective and stress-free. Remember the paperclip from earlier versions of Microsoft Word? The company turned this feature off precisely because it caused a lot of negative emotions from users and was criticized.
+</p>
+<p>
+To keep users loyal to the tips, stick to these points:
+</p>
+<p>
+- do not write too much text in them;
+</p>
+<p>
+- do not connect hints to each button, but limit yourself only to those where the user may really have difficulties;
+</p>
+<p>
+- enable the user to close the hint or completely disable the hint function.
+</p>
+</div>
+
+<div class="posts-text">
+<h3 class="posts-title font-h5">14. Have short registration forms.</h3>
+<p>
+Getting the user to register is an important and one of the most difficult tasks of the interface. Usually people try to avoid registering on sites that they are not going to visit regularly, or that they are not yet sure about. And often they even refuse to buy in an online store, if this requires mandatory registration, and go on to look for their goods on other sites. So that users do not feel hostility towards the registration process, you need to make it as fast and easy as possible. Do not use long registration forms where you need to indicate your entire biography. Limit yourself to the most essential lines.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">15. Have simple principles for filling in the fields.</h3>
+<p>
+Almost every site offers users something to fill out on it. In addition to registering on the site, this can be ordering goods, entering your contact information or filling in a survey form. If you make the form too complicated or stressful, no one will fill it out. Several important tips follow from this:
+</p>
+<p>
+1. When filling in different fields (“city”, “street”, “date of birth”), it would be good to give hints to the user using a dropdown menu so that they do not need to enter all this manually, but simply select the desired option from the list.
+</p>
+<p>
+2. If the user still needs to enter their data manually, then use the line-by-line system to check that the form is filled out correctly. No one will like it if the system, after each filling error, will reset all the lines filled in earlier.
+</p>
+<p>
+3. Field names are best placed above the input lines. It has to do with human visual perception. It is easier for a person to perceive information from top to bottom or from bottom to top than from left to right or vice versa.
+</p>
+<p>
+4. Minimize the chances of filling out the form incorrectly.
+</p>
+<p>
+Imagine the situation. You start typing your phone number in the field. After the first filling, the system tells you: “The phone number must be entered in 10-digit format”. You enter again, and the system gives you: "The phone number should not contain hyphens." And then you will already start to get nervous and mentally curse this site (or maybe not mentally). The ideal input form is when the user can write anything into it, and the system will not tell him “wrong”. Of course, data processing will be somewhat difficult, since you will have to process some of the requests manually. But your main goal is to take the order, not weed out impatient customers.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">16. Provide convenient control options.</h3>
+<p>
+If on sites we mainly use a mouse (except for the standard functions "copy / paste", etc.), then in programs and applications it is often convenient to control from the keyboard. Let users choose the kind of control they like best and show which function corresponds to which key combination.
+</p>
+</div>
+<h2 class="posts-title">How to create a user interface for commercial products: Geniusee guidelines</h2>
+<div class="posts-text">
+<p>
+We have already partially talked about what the interface should be so that users do not say goodbye to the product immediately after they meet. Intuitiveness, predictable behavior, simplicity, responsiveness, and error protection affect the user experience, but there are other aspects that are also important. In this section, we want to share our own experience on how to design a user-friendly interface of commercial projects and some user interface techniques that you can use to create a great product.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">1. Make the UI communicate with users</h3>
+<p>
+There are apps and sites that tell a story through typography, animation, and other elements. The user should understand without further ado what he needs to do and which section to go to to see information about delivery or a catalog of goods.
+</p>
+<p>
+Visual storytelling is a powerful technique that can help engage your audience in using a product. We must try to make the interface as simple, logical and “speaking” as possible. This does not mean that you need to add as many tips and other interactive tools as possible.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/blog104_2.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+If the user arrives at the end point of the route without reading the knowledge library, then the designer and other team members have coped with their task. The less time it takes to learn, the better.
+</p>
+<p>
+Communication with the audience can manifest itself in different ways, but you should not put too much pressure on people. Give them free rein and analyze how they use the UI.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">2. Take care of attractiveness</h3>
+<p>
+The concept of beauty is very relative, but with attractiveness everything is simple. If the interface is user-friendly, the product will be pleasant to use and can have a good conversion rate.
+</p>
+<p>
+Problem solving combined with convenience and positive emotions is the foundation on which all successful projects are based. If you offer users two of the same tools that differ only in appearance, they will choose an option with a more attractive interface.
+</p>
+<p>
+It is important not to confuse attractiveness with beauty and aesthetics. These concepts are very different, they have different meanings. As we have already mentioned above, making the UI beautiful for everyone will not work, because people have different ideas about it.
+</p>
+<p>
+It is not necessary to spend too much time on the look. Analyze popular niche products and select the solutions that best fit the definition of “attractive”. Think about what exactly influences positive audience emotions and how to achieve the same effect.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/blog104_3.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">3. Consider personalization</h3>
+<p>
+Users love it when products are tailored to their needs. It's like new sneakers that fit perfectly and are great for running. After the first use, you get the feeling that they were always at hand and helped to solve everyday tasks.
+</p>
+<p>
+Personalization shows people that they can adapt the product for themselves and not play by someone else's rules. For example, in apps you can change the theme, rearrange items on the home screen, and disable unnecessary features.
+</p>
+<p>
+It's important to understand that personalization should be moderate. Freedom of choice is good, but problem solving always comes first. If users disable important features without which they cannot complete the intended action, personalization will not be beneficial.
+</p>
+<p>
+To solve this problem, it will also be useful to analyze the solutions of competitors. See if their products have the ability to change the default behavior of tools and think about what can be improved to provide the perfect user experience.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">4. Explain actions</h3>
+<p>
+If, at the moment of acquaintance with the product, people have a feeling that they do not understand what is happening, this is an alarming signal. We must try to avoid such situations. For commercial products, they can be fatal.
+</p>
+<p>
+System status messages are a standard mechanism that is used in both sites and applications. After submitting the form, you should see a notification about successful data submission or information describing the error.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/blog104_4.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+After performing any actions, users through visual means should understand that the operation was completed successfully or that the actions must be repeated again. You can't show toast notifications too often, so you can use subtle animation for some tasks.
+</p>
+<p>
+Soft prompts are ideal because they don't apply pressure, but still get the job done. Only add tooltips to items that might raise questions.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">5. Collect Feedback</h3>
+<p>
+When users encounter problems using a product, they can either say goodbye to it forever, or give it a second chance and tell developers exactly what they didn't like. It all depends on how well the work with feedback is organized.
+</p>
+<p>
+Gathering feedback is an important part of any product. The same rules apply here as when working with prompts. It is necessary to invite people as unobtrusively as possible to describe their emotions from the use and ask them to tell what, in their opinion, can be improved.
+</p>
+<p>
+In the process of developing an interface, team members often turn to the representatives of the target audience for help in order to jointly find the perfect solution, but this is not enough. When a product appears in the public domain, the number of testers increases several times. Some of them may find errors that were not noticed at the stage of creating the UI.
+</p>
+<p>
+The easiest way to organize feedback collection is a form with several fields and a button for submitting data. You can make it open by clicking on the icon at the top of the screen. Don't emphasize it too much - do just enough so that users could know they can always speak up.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/blog104_5.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">6. Think about users</h3>
+<p>
+Any site or application is always created for people and their needs should come first. It is very easy to distinguish a quality product from an unfinished one. A few minutes of checking will be enough to find critical errors and decide for yourself that it is inconvenient to use the interface.
+</p>
+<p>
+Newbie designers are often told what to think about the audience, but not what exactly to do. The secret to creating a successful commercial product lies in a user-friendly UI that helps you quickly solve problems.
+</p>
+</div>
+<div class="posts-img-wrap">
+<img src="/storage/app/media/blog104/blog104_6.jpg" style="display: block; max-width: 800px; margin: 0 auto;" alt="blog-img" />
+</div>
+<div class="posts-text">
+<p>
+Imagine that the designer was tasked with designing a standard online store with a catalog, shopping cart and order form. All efforts should be directed towards the development of pages that are directly related to the purchase, and other tasks should fade into the background.
+</p>
+<p>
+Many designers concentrate on typography, animation and other secondary things and forget that the user just needs a convenient catalog, and that it should take no more than a couple of minutes to place an order.
+</p>
+</div>
+<h2 class="posts-title">How to test the interface for usability?</h2>
+<div class="posts-text">
+<p>
+And, as we promised at the beginning of the article, now we are going to tell you a little about testing the interface. Why is this so important?
+</p>
+<p>
+- firstly, during the development of the interface, errors could creep into it and that will affect the operation of the entire program or resource;
+</p>
+<p>
+- secondly, you can never immediately nail the optimal interface design, the one which will be perfectly perceived by most users;
+</p>
+<p>
+- thirdly, the interface can be displayed normally on one device (or in a browser), and be completely incompatible with another.
+</p>
+<p>
+Testing can solve all these problems. How can it be done?
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">1. By hand. </h3>
+<p>
+Such testing will require a lot of time and physical resources, since the whole process will be carried out by a person. But this is also the plus of manual testing. To implement it, you will need a tester who will check step by step how the system reacts to a particular user action. The most convenient way to do this is to create a special table into which all the data will be entered.
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">2. In an automated way.</h3>
+<p>
+This method of testing is carried out with the help of special software, which, as it were, imitates the actions of a living person during manual testing. This testing does not require human intervention, so the speed of the test increases and the cost of money decreases. There is one big “but” here. Automated testing cannot give 100% results, since it is carried out only on formal grounds (those that are hammered into the program) and does not provide an opportunity to find usability defects that can only be perceived by a human (for example, the color scheme of the interface).
+</p>
+</div>
+<div class="posts-text">
+<h3 class="posts-title font-h5">3. Using focus groups.</h3>
+<p>
+In our opinion, this is the best testing method in terms of price-performance ratio. It is carried out as follows:
+</p>
+<p>
+- Several focus groups are recruited, consisting of your target users. You can divide groups according to different criteria: registered / unregistered, regular / rare users, as well as according to different demographic indicators (which fit into your target audience).
+</p>
+<p>
+- Each group is given tasks to perform certain actions on your website / service / program. You have to tell the subjects what they should do, but don't say how they should do that. This is the essence of testing - to see what actions users will take to achieve their goal.
+</p>
+<p>
+- After all this, you analyze exactly how the subjects performed their tasks - where they clicked, which links they followed, whether they quickly found what they wanted, etc.
+</p>
+</div>
+<h2 class="posts-title">In conclusion.</h2>
+<div class="posts-text">
+<p>
+When designing an interface, remember that too much attention to one characteristic can significantly harm another. By removing some elements in an effort to achieve minimalism, you can create problems with the understanding of the user interface. By embodying the characteristic of attractive design, you run the risk of overdoing it and making the interface too heavy to load quickly. Therefore, the most important (and most difficult) in this whole story is to maintain the perfect balance of all interface properties, and then it will be truly user-friendly. We hope our guide on how to create a user-friendly interface will help you create a successful product:)
+</p>
+</div>
+</div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geniusee.com/single-blog/16-techniques-for-creating-a-user-friendly-interface"
+  },
+  "headline": "16 techniques for creating a user-friendly interface",
+  "description": "Therefore, the most important (and most difficult) in this whole story is to maintain the perfect balance of all interface properties, and then it will be truly user-friendly",
+  "image": "https://geniusee.com/storage/app/media/blog104/1.jpg",  
+  "author": {
+    "@type": "Person",
+    "name": "Sofiia V."
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "geniusee",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geniusee.com/storage/app/media/logo.svg",
+      "width": 123,
+      "height": 31
+    }
+  },
+  "datePublished": "2021-05-11",
+  "dateModified": "2021-05-11"
+}
+</script>
+
+<section class="social_box">
+<div class="left_box">
+<ul class="post-tags">
+<li><a href="../../blog/tools/1">tools</a></li>
+<li><a href="../../blog/design/1">design</a></li>
+</ul>
+<div class="author-box"><img src="/storage/app/media/blog/Authors/SofiiaV.jpg" alt="Author's photo"> <div class="author-info">
+<p class="name">Sofiia V.</p>
+<p class="date font-body-3">2021-05-11</p>
+</div>
+</div>
+
+</div>
+<div class="right_box">
+<p class="share-text" style="margin-top: 0px !important;">
+Enjoy this blog? Please, spread the word :)
+<br />
+Share with:
+</p>
+<ul class="share-buttons">
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F16-techniques-for-creating-a-user-friendly-interface&quote=" title="Share on Facebook" target="_blank">
+<img data-src="/storage/app/media/share-facebook.svg" class="lazyload share-facebook" alt="Share on Facebook" width="" height=""> </a>
+</li>
+<li>
+<a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F16-techniques-for-creating-a-user-friendly-interface&text=%20https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F16-techniques-for-creating-a-user-friendly-interface" target="_blank" title="Tweet">
+ <img data-src="/storage/app/media/share-twitter.svg" class="lazyload share-twitter" alt="Tweet" width="" height=""> </a>
+</li>
+<li>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F16-techniques-for-creating-a-user-friendly-interface&title=&summary=&source=https%3A%2F%2Fgeniusee.com%2Fsingle-blog%2F16-techniques-for-creating-a-user-friendly-interface" target="_blank" title="Share on LinkedIn">
+<img data-src="/storage/app/media/share-linkedIn.svg" class="lazyload share-linkedin" alt="Share on LinkedIn" width="" height=""> </a>
+</li>
+</ul>
+</div>
+</section>
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+   .card input {
+        width:100%;
+        height: 4.11111vh;
+        background-color: transparent;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #000;
+        border: none;
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+    }
+    
+    .card input::placeholder {
+        color: #333333;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 32px;
+    }
+    
+    .card input.error {
+        border: 1px solid red;    
+    }
+    input#main_form_email::placeholder { /* Chrome/Opera/Safari */
+        color: #000!important;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+        color: black!important;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+        color: black!important;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+        color: black!important;
+    }
+    .card {
+        display: flex;
+        justify-content: space-between;
+        max-width: 56%;
+        height: 127px;
+        box-shadow: 0px 10px 40px rgba(109, 102, 134, 0.12);
+        border-bottom: 4px solid #9494EC;
+        padding: 0 32px;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 50px auto;
+       
+        transition: 2s;
+    }
+    
+    .card.flip {
+        transform: rotateY(180deg);
+        transition: 2s;
+      
+    }
+    
+    .card.flip .front {
+         display: none;
+    }
+    
+    .back {
+        display: none;    
+    }
+         
+    .card.flip .back {
+        position: relative;
+        transform: rotateY(180deg);
+        width: 100%;
+        display: block;
+    }
+     
+    .front {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .card-content {
+        display: flex;
+        align-items: center;
+    }
+    
+    .card form {
+        padding: 20px 20px 1.77778vh;
+        width: calc(100vw / 4.5);
+       
+    }
+    
+    .card-titlet {
+        display:none;
+    }
+    
+    .card:last-child{
+        display:none;
+    }
+    
+    .card-action {
+        display: flex;
+        align-items: center;
+    }
+        
+    .card-action button {
+        width: 100%;
+        height: 48px;
+        background-color:#9494EC;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 17px;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 12px 20px;
+    }
+    
+    .back {
+        position: relative;
+    }
+    
+    .back h3 {
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 32px;  
+        position: absolute;
+        top: 50%;
+        left: 38%;
+        transform: translateY(-50%);
+    }
+    
+    .conv1, .conv2, .circle1, .circle2 {
+        position: absolute;
+    }
+    
+    .conv1 {
+       left: -3%;
+       top: 3%;
+    }
+    
+    .conv2 {
+       left: 17%;
+       bottom: 6%;
+    }
+    
+    .circle1, .circle2 {
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+    }
+        
+    .circle1 {
+        background-color: #FFACA0; 
+        right: 72%;
+        top: -11%;
+    }
+    
+    .circle2 {
+        display: flex;
+        background-color: #DADCFF;
+        top: -11%;
+        right: -6%;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .circle2 span {
+         padding: 7px;  
+    }
+    
+    @media(max-width:787px) {
+        .card {
+            justify-content: center;
+            flex-wrap: wrap;
+            max-width: 70%;
+        }
+        
+        .card-action button {
+             padding: 8px 10px;
+             font-size: 14px;
+        } 
+        .card-content {
+            width: 58%;
+        }
+        .card h3 {
+             font-size: 30px; 
+        }
+        .card form {
+            width: 100%;
+        }
+       .card .conv2 {
+            display: none;    
+        }
+    }
+    
+    @media(max-width: 640px) {
+         .back h3 {
+            left: 20%;
+        } 
+        .card-action {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+         .card-action button {
+             font-size: 18px;
+             line-height: 24px;
+             margin-top: 5px;
+             height: auto;
+        } 
+         .front {
+            flex-wrap: wrap;    
+        }
+        .card-content {
+            width: 100%;
+        }
+        .card-content img {
+            max-height: 34px;
+        }
+        .card {
+            height: auto;
+        }
+        .card form {
+            padding-top: 25px;
+            padding-right: 0;
+        }
+    }
+    
+    @media(max-width: 550px) {
+        .back h3 {
+             font-size: 22px; 
+        }
+    }
+    
+    @media(max-width: 500px) {
+        .card {
+            max-width: 80%;
+        }
+        .back .conv1 {
+            display: block;
+        }
+     }
+     
+      @media(max-width: 500px) {
+             .back h3 {
+             font-size: 20px; 
+        } 
+      }
+     
+     
+</style>
+<div id="card" class="card">
+<div id="front" class="front">
+<div class="card-content author ">
+<img src="/storage/app/media/mail1.svg" alt="icon mail">
+<form id="form-subscribe-andradedev" data-request="formSubscribe::onAddSubscriber" data-request-update="'formSubscribe::alert': '#result'" class="form">
+<input id="email" type="email" name="email" placeholder="E-mail" class="form-control" value="" required>
+</form>
+</div>
+<div class="card-action">
+<button onclick="flip()" class="btn btn-primary btn-block" form="form-subscribe-andradedev" href="#">Subscribe to our news</button>
+</div>
+</div>
+<div class="back">
+<img class="conv1" src="/storage/app/media/conv1.svg" alt="icon mail">
+<img class="conv2" src="/storage/app/media/conv2.svg" alt="icon mail">
+<div class="circle1"></div>
+<div class="circle2"><span onclick="unflip()">X</span></div>
+<h3><div id="result">Thank you for Subscription!</div></h3>
+</div>
+</div>
+<script>
+    var card = document.getElementById('card');
+    var input = document.getElementById('email');
+   
+     function flip() {
+         if(input.value.indexOf('@') > 0 ) {
+             input.classList.remove('error');
+              card.classList.add('flip');
+         } else {
+           input.classList.add('error');
+            }
+        
+    }
+    
+     function unflip() {
+         card.classList.remove('flip');
+        document.getElementById('email').value = "";
+    }
+    
+</script>
+
+<section class="popular_posts" style="width: 14vw;position: fixed;left: 4vw;top: 200px;display:none">
+<h4 class="font-body-3" style="font-weight: bold"> Popular posts: </h4>
+<a href="data-science-vs-data-engineering-job-roles-skills-and-salary" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+</a>
+<a href="what-are-key-skills-needed-in-fintech" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+</a>
+<a href="virtual-assistants-and-digital-custody-for-banking" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> Virtual Assistants and Digital Custody for Banking</p>
+</a>
+<a href="7-recent-trends-in-investment-banking-technology" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> 7 Recent Trends in Investment Banking Technology</p>
+</a>
+<a href="what-are-super-apps-the-most-successful-cases" class="popular_posts_item">
+<p class="font-body-3" style="padding-top: 15px"> What Are Super Apps? The Most Successful Cases</p>
+</a>
+</section>
+<style>
+            .popular_posts a p:hover{
+                transition: color .3s;
+                color: #9595ef;
+            }
+            @media screen and (max-width: 787px) {
+                .related_posts{
+                    width: 70% !important;
+                }
+                .popular_posts{
+                    display: none !important;
+                }
+                .navigation{
+                    width: 70% !important;
+                }
+            }
+            
+            @media screen and (max-width: 500px) {
+                .related_posts{
+                    width: 80% !important;
+                    grid-template-columns: 1fr !important;
+                }
+                .navigation{
+                    width: 80% !important;
+                }
+            }
+            
+             .navigation{
+                width: 55.55556vw;
+                margin: 50px auto;
+            }
+             .navigation .navigation_list li a:hover{
+                 color: #9595ef;
+             }
+        </style>
+</main>
+
+<div class="other-projects">
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3>Check out our other projects<span style="color: #9595ef">.</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/einkaufs-check"><img src="/storage/app/media/portfolio/einkaufs-check/preview.png" alt="record preview"></a></div><h3>EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/funderslink"><img src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" alt="record preview"></a></div><h3>Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/crave-retail"><img src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" alt="record preview"></a></div><h3>Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/pause"><img src="/storage/app/media/portfolio/pause/pause-preview.jpg" alt="record preview"></a></div><h3>Pause<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ajuma"><img src="/storage/app/media/portfolio/ajuma/Ajuma.png" alt="record preview"></a></div><h3>Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/zedosh"><img src="/storage/app/media/portfolio/zedosh/zedosh.png" alt="record preview"></a></div><h3>Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/revenu"><img src="/storage/app/media/revenu/login_dt.png" alt="record preview"></a></div><h3>Revenu<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/realmfive"><img src="/storage/app/media/realm_preview.png" alt="record preview"></a></div><h3>RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/factmata"><img src="/storage/app/media/factMata/factmata-preview.png" alt="record preview"></a></div><h3>FactMata<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/tradesmarter"><img src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" alt="record preview"></a></div><h3>TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/swoon"><img src="/storage/app/media/swoonProj/swoon-preview.png" alt="record preview"></a></div><h3>Swoon<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/gearhousepro"><img src="/storage/app/media/gearHousePro/preview.png" alt="record preview"></a></div><h3>GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/validify"><img src="/storage/app/media/validifyProj/validify-card@1x.png" alt="record preview"></a></div><h3>Validify<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ncourage"><img src="/storage/app/media/ncourageProj/ncourage-card@1x.png" alt="record preview"></a></div><h3>Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/wyzoo"><img src="/storage/app/media/wyzoo-preview.png" alt="record preview"></a></div><h3>Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/tamam"><img src="/storage/app/media/tamam-preview.png" alt="record preview"></a></div><h3>Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/digital-bits"><img src="/storage/app/media/digital_bits_preview.svg" alt="record preview"></a></div><h3>Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/totalizator-platform"><img src="/storage/app/media/totalizator.svg" alt="record preview"></a></div><h3>Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/ua-light"><img src="/storage/app/media/ua_light 2.png" alt="record preview"></a></div><h3>Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/pool-party"><img src="/storage/app/media/pool_party.png" alt="record preview"></a></div><h3>Pool party<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/my-uber"><img src="/storage/app/media/myuber.png" alt="record preview"></a></div><h3>My Uber<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/crypto-analytics"><img src="/storage/app/media/bitspread.png" alt="record preview"></a></div><h3>Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/circular-review-system-vehicles"><img src="/storage/app/media/Circular-Review-System-for-vehicles.png" alt="record preview"></a></div><h3>Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/buzzshow"><img src="/storage/app/media/BuzShow 2.png" alt="record preview"></a></div><h3>BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/zaza"><img src="/storage/app/media/zaza.png" alt="record preview"></a></div><h3>ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="/portfolio/geniusee/printbi"><img src="/storage/app/media/printBi.svg" alt="record preview"></a></div><h3>PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+<section class="related_posts">
+<h2 class="font-h1">VISIT OUR GENIUSEE BLOG<span style="color: #9595ef;">.</span></h2>
+<div class="related_posts_wrap">
+<a href="data-science-vs-data-engineering-job-roles-skills-and-salary" class="related_posts_item">
+<img src="/storage/app/media/blog/blog148/01.jpg" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Data Science vs. Data Engineering: Job Roles, Skills, and Salary</p>
+<p class="font-body-3">Find out the difference between data engineers and data scientists and why they are an invaluable asset to every company.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Oles D.</span> </span>
+<span> 2021-11-12 </span>
+</div>
+</div>
+</a>
+<a href="what-are-key-skills-needed-in-fintech" class="related_posts_item">
+<img src="/storage/app/media/blog/blog147/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> The Most In-Demand Fintech Skills Developers Need Right Now</p>
+<p class="font-body-3">A new payment infrastructure has given rise to a new formation of specialists. Pay attention to their main skills and qualities.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-10 </span>
+</div>
+</div>
+</a>
+<a href="virtual-assistants-and-digital-custody-for-banking" class="related_posts_item">
+<img src="/storage/app/media/blog/blog146/preview.png" alt="post image">
+<div class="related_posts_item_info_wrap">
+<p class="font-body-2"> Virtual Assistants and Digital Custody for Banking</p>
+<p class="font-body-3">Traditional customer assistance or digitalised and virtual ones? Change service process with the introduction of artificial intelligence (AI) technologies.</p>
+<div class="related_posts_item_info">
+<span> Written by <span class="bold">Sophia V.</span> </span>
+<span> 2021-11-05 </span>
+</div>
+</div>
+</a>
+</div>
+</section>
+
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+ <label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section> 
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+<style>
+    .modal-content .contact .form-wrap .contact__front-side .form .form-label {
+        padding-bottom: 20px!important;
+        margin-bottom: 0;
+        height: 100%;
+    }
+    .modal-content .contact {
+        width: 100%;
+        padding: 0;
+        height: 100%;
+        margin-bottom: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side {
+        flex-direction: column;
+        padding: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .form {
+        width: 100%;
+    }
+    .modal-content .contact .form-wrap, .modal-content .contact .form-wrap .contact__front-side {
+        width: 100%;
+        height: 350px;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    .modal-content .font-button {
+        font-button: 28px;    
+    }
+    .modal-content .form-btn-wrap {
+        margin-top: 0!important;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .title-wrap {
+        width: 100%;
+        margin-right: 0;
+    }
+    .modal-content .contact .form-wrap .contact__front-side .title-wrap .form-title {
+        font-size: 48px;
+    }
+    
+    .show-modal {
+        opacity: 1!important;
+        visibility: visible!important;
+        transform: scale(1.0)!important;
+        transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+    }
+    .close-button {
+        float: right;
+        width: 1.5rem;
+        line-height: 1.5rem;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 0.25rem;
+        background-color: lightgray;
+    }
+    .close-button:hover {
+        background-color: darkgray;
+    }
+    .modal-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding: 1rem 1.5rem;
+        width: 24rem;
+        border-radius: 0.5rem;
+        height: 400px;
+    }
+    .modal {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        opacity: 0;
+        visibility: hidden;
+        transform: scale(1.1);
+    }
+    @media screen and (min-width: 1560px) {
+        .modal-content {
+            height: 470px;
+        }
+    }
+</style>
+<div class="modal">
+<div class="modal-content">
+<span class="close-button">&times;</span>
+<div class="contact">
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h4 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h4>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="formBlog" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" alt="warning icon">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name_blog" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email_blog" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<textarea name="message" placeholder="* Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submitBlog" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/blog-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/subscribe.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/fe596132d47a2bf05be642a3d9d9707e-1638441204"></script>
+
+<script>
+            var headers = $('h2.posts-title');
+            headers.each(function(){
+                $(this).attr('id', $(this).text().replace(/[^a-z0-9\s]/gi, '').toLowerCase().trim().split(' ').join('_'));
+                $('.navigation_list').append('<li style="margin-top: 10px;"><a class="font-body-3" href="#' + $(this).attr('id') +  '">' + $(this).text().replace(':', ' ') + '</a></li>');
+            });
+            
+            function ready() {
+                var modal = document.getElementsByClassName("modal")[0];
+                var closeButton = document.getElementsByClassName("close-button")[0];
+            
+                function toggleModal() {
+                    modal.classList.toggle("show-modal");
+                }
+            
+                function windowOnClick(event) {
+                    if (event.target === modal) {
+                        toggleModal();
+                    }
+                }
+            
+                closeButton.addEventListener("click", toggleModal);
+                window.addEventListener("click", windowOnClick);
+            }
+        
+            document.addEventListener("DOMContentLoaded", ready);
+        </script>
+
+</body>
+</html>
