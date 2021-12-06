@@ -1,0 +1,1711 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<link rel="canonical" href="https://geniusee.com/portfolio/geniusee/ajuma">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Developed Product - Ajuma | Geniusee</title>
+<meta name="description" content="Award-winning app for Android and iOS that helps you to find the right amount of sun. 12 000 smart devices sold in Germany, Austria and Switzerland.">
+<meta name="keywords" content="">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="Ajuma | Geniusee" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/portfolio/ajuma/Ajuma.png" />
+<meta property="og:url" content="https://geniusee.com/portfolio/geniusee/ajuma" />
+<meta property="og:description" content="Award-winning app for Android and iOS that helps you to find the right amount of sun. 12 000 smart devices sold in Germany, Austria and Switzerland." />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109160850-1"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+</head>
+<body class="wrapper" id="template">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+
+<style>
+    .top-project-section.top-project-section-ajuma {
+        background: #00a2df;
+        margin-bottom: 0;
+        padding-top: 140px;
+    }
+    .scope-wrapper-ajuma .scope-card {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .scope-wrapper-ajuma .scope-card:nth-child(1)::after {
+        content: url(/storage/app/media/tamamProj/mock%20up.svg);
+    }
+    .scope-wrapper-ajuma .scope-card:nth-child(2)::after {
+        content: url(/storage/app/media/tamamProj/icon-android.svg);
+    }
+    .scope-wrapper-ajuma .scope-card:nth-child(3)::after {
+        content: url("/storage/app/media/tamamProj/coding.svg");
+    }
+    .scope-wrapper-ajuma .scope-card:nth-child(4)::after {
+        content: url("/storage/app/media/tamamProj/team.svg");
+    }
+    .row-center > p {
+        font-family: "Lato";
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 36px;
+        text-align: center;
+    }
+    .block .projects-row.row-no-padding {
+        padding: 0;
+    }
+    .block .projects-row.row-no-padding .row-column-half-padding:first-child {
+        padding: 60px 50px 1.72vw 9.72vw;
+    }
+    .block .projects-row.row-no-padding .row-column-half-padding:last-child {
+        padding: 30px 0;
+    }
+    .block .projects-row.row-no-padding .row-column-half-padding:last-child img {
+        margin-left: -5.5vw;
+    }
+    .grey-column {
+        background: #F5F5F5;
+        border: 1px solid #DCDCDC;
+    }
+    .row-text h4, .row-text p {
+        text-align: left;
+    }
+    .row-text h4 {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 48px;
+        margin-bottom: 24px;
+    }
+    h4.font-style-h4 {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 36px;
+    }
+    span.highlight-yellow {
+        position: relative;
+        background: linear-gradient(120deg, #FFF07C 0%, #FFF07C 100%);
+        background-repeat: no-repeat;
+        background-size: 100% 40%;
+        background-position: 0 100%;
+    }
+    span.highlight-blue {
+        position: relative;
+        background: linear-gradient(120deg, #8DDDFF 0%, #8DDDFF 100%);
+        background-repeat: no-repeat;
+        background-size: 100% 40%;
+        background-position: 0 100%;
+    }
+    .row-cards h2 {
+        text-align: left;
+    }
+    .cards-wrapper {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        position: relative;
+    }
+    .cards-wrapper .card-wrap {
+        display: flex;
+        flex-direction: column;
+        width: calc(100% / 3.1);
+        align-items: center;
+        background: #FFFFFF;
+        box-shadow: 0px 10px 70px rgba(143, 150, 206, 0.126727);
+        border-radius: 20px;
+        padding: 36px 50px;
+        z-index: 100;
+    }
+    .cards-wrapper .card-wrap img {
+        max-height: 140px;
+        margin-bottom: 20px;
+    }
+    .card-wrap.card-wrap-center {
+        text-align: center;
+    }
+    .card-wrap.card-wrap-center img {
+        max-height: 50px;
+    }
+    .cards-wrapper .card-wrap p.title {
+        margin-right: auto;
+        margin-bottom: 16px;
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .cards-wrapper .card-wrap p:last-child {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 28px;    
+    }
+    .column-half-no-padding:first-child {
+        padding: 40px 0 1.72vw 9.72vw;
+        width: calc(50% - 100px);
+        margin-right: auto;
+        flex-grow: 0.5;
+    }
+    .column-half-no-padding:last-child {
+        width: calc(50% + 97px);
+    }
+    ul.turtles-ul {
+        list-style-image: url("/storage/app/media/portfolio/ajuma/turtule_y.svg");
+        padding-left: 26px;    
+    }
+    ul.turtles-ul li p {
+        margin-bottom: 10px;
+        font-family: "Lato";
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 300;
+    }
+    .logos-wrapper {
+        display: flex;
+        width: 100%;
+        margin-top: 80px;
+        justify-content: center;
+    }
+    .round-card {
+        background: #FFFFFF;
+        border-radius: 20px;
+        filter: drop-shadow(0px 16px 40px rgba(109, 102, 134, 0.12));
+        padding: 20px;
+        margin-right: 15px;
+        align-items: center;
+        display: flex
+    }
+    .round-card:last-child {
+        margin-right: 0;
+    }
+    .blue-block {
+        background: #15B2ED;
+    }
+    .blue-block p, .blue-block h2 {
+        color: white!important;
+    }
+    .wrap {
+        width: 100%;    
+    }
+    .wrap p {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 28px;    
+    }
+    .grey-white-block {
+        background: linear-gradient(90deg, #F6F6FB 50%, #FFFFFF 50%);
+        position: relative;
+    }
+    .grey-white-block .cards-wrapper:before, .white-block:before {
+        content: "";
+        width: 250px;
+        height: 250px;
+        position: absolute;
+        background: linear-gradient(145.03deg, rgba(255, 225, 0, 0.5) 30.8%, rgba(255, 225, 0, 0.5) 93.44%);
+        filter: blur(40px);
+        transform: matrix(0.92, -0.4, 0.4, 0.92, 0, 0);
+        right: -20%;
+        bottom: -50%;
+    }
+    .white-block:after {
+        right: -20%;
+        left: auto!important;
+        top: 0%!important;
+    }
+    .white-block:before {
+        left: -20%;
+        right: auto!important;
+        bottom: 0%!important;
+    }
+    .white-block img {
+        z-index: 100;
+        position: relative;
+    }
+    .grey-white-block .cards-wrapper:after, .white-block:after {
+        content: "";
+        width: 250px;
+        height: 250px;
+        position: absolute;
+        background: linear-gradient(145.03deg, rgba(37, 189, 247, 0.5) 30.8%, rgba(247, 253, 255, 0.5) 93.44%);
+        filter: blur(40px);
+        transform: matrix(0.92, -0.4, 0.4, 0.92, 0, 0);
+        left: -20%;
+        top: -60%;
+    }
+    h2.big-title {
+        font-size: 80px;
+        text-align: center;
+        margin-top: 150px;
+        padding: 0 15%;
+        position: relative;
+    }
+    .big-title:before {
+        content: "";
+        background-image: url("/storage/app/media/portfolio/ajuma/title_1.png");
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        right: 0px;
+        top: -120px;
+    }
+    .big-title:after {
+        content: "";
+        background-image: url("/storage/app/media/portfolio/ajuma/title_2.png");
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        left: 0px;
+        bottom: -60px;
+    }
+    .white-block {
+        background: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(30px);
+        border-radius: 20px;
+        position: relative;
+    }
+    .block {
+        overflow: hidden;
+    }
+    .bg-blur .projects-row {
+        background: url("/storage/app/media/portfolio/ajuma/ajuma_bg_blur.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .column-half-square {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    .bg-light-grey {
+        background: #FBFBFB;
+    }
+    .bg-dark-grey {
+        background: #F5F5F5;
+    }
+    .column-half-square-block {
+        width: 70%;    
+    }
+    .column-half-square-block p {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 36px;
+    }
+    .row-display {
+        display: flex;
+        align-items: flex-start;
+    }
+    .w-100 {
+        width: 100%;    
+    }
+    .row-display img {
+        padding-top: 10px;
+    }
+    .row-display p {
+        margin-left: 32px;
+    }
+    .big-text {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: bold!important;
+        font-size: 88px!important;
+        line-height: 80px!important;
+        margin-bottom: 24px;
+    }
+    .middle-text {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: normal!important;
+        font-size: 24px!important;
+        line-height: 32px!important;
+    }
+    .row-columns-img {
+        position: relative;
+        height: 90vh;
+        display: flex;
+        align-items: center!important;
+    }
+    .row-columns-img img {
+        height: 90vh;
+        position: absolute;
+    }
+    .row-columns-img-right img {
+        right: 12%;
+    }
+    .row-columns-img-left img {
+        left: 12%;
+    }
+    .row-columns-text {
+        display: flex;
+        flex-direction: column;
+    }
+    .row-columns-text h2 {
+        margin-bottom: 0!important;
+    }
+    .row-columns-text span, .row-columns-text p {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 36px;
+        width: 40%;
+    }
+    .row-columns-img-left .row-columns-text {
+        margin-left: auto;
+        width: 40%;
+    }
+    .row-columns-img-left .row-columns-text p {
+        width: 100%;
+    }
+    .row-columns-img .row-columns-text img {
+        position: relative!important;
+        height: auto;
+        margin-top: 100px; 
+        margin-left: -25%;
+    }
+    .row-columns-img:last-child {
+        height: auto;    
+    }
+    .contact {
+        overflow: hidden;
+    }
+    @media(min-width: 1500px) {
+        .block .projects-row.row-no-padding .row-column-half-padding:last-child img {
+            margin: 0 auto;
+        }
+        .row-text {
+            justify-content: flex-start;
+        }
+        .column-half-no-padding:last-child img {
+            max-width: 100%;
+            margin-right: 0;
+        }
+    }
+    @media (max-width: 1414px) {
+        .projects-row.row-center.row-no-padding .row-column-half {
+            width: 100%;
+        }
+        .projects-row.row-center.row-no-padding .row-column-half:last-child {
+            display: none;
+        }
+    }
+    @media (max-width: 1000px) {
+        .block .projects-row.row-no-padding .row-column-half-padding:first-child {
+            padding: 0px 50px 0 80px;
+        }
+        .grey-block.block h2 {
+            margin-bottom: 40px!important;
+        }
+        .cards-wrapper .card-wrap {
+            padding: 26px;
+        }
+        .cards-wrapper .card-wrap img {
+            max-height: 85px;
+            margin-bottom: 10px;
+        }
+        .cards-wrapper .card-wrap p.title {
+            margin-bottom: 5px;
+        }
+        .block .projects-row.row-center p {
+            text-align: left;
+        }
+        .projects-row.row-center.row-no-padding .row-column-half-padding:first-child, .projects-row.row-center.row-no-padding .row-column-half {
+            padding: 20px 9.72222vw 20px;
+        }
+        .logos-wrapper {
+            margin-top: 0;
+        }
+        .row-cards h2 {
+            margin-bottom: 40px!important;
+            z-index: 100;
+        }
+        .column-half-square {
+            height: auto;
+        }
+        .row-columns-img {
+            height: auto;
+            padding-bottom: 0!important;
+        }
+        .row-columns-text {
+            width: 50%;
+        }
+        .row-columns-text p, .row-columns-text span {
+            width: 100%;
+        }
+        .row-columns-img img {
+            width: 50%;
+            height: auto;
+            position: relative;
+            right: auto;
+            left: auto;
+        }
+        .row-columns-img .row-columns-text img {
+            width: 100%;
+        }
+        .big-title:after {
+            left: -50px;
+        }
+    }
+    @media(max-width: 800px) {
+        .cards-wrapper, .logos-wrapper {
+            flex-wrap: wrap;
+        }
+        .cards-wrapper .card-wrap {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .round-card {
+            width: calc(50% - 25px);
+            margin-bottom: 20px;
+            margin-right: 0;
+        }
+        .column-half-square-block {
+            width: 100%;
+        }
+        .row-columns-img-right .row-columns-text {
+            padding-right: 20px;
+        }
+        .big-title:before {
+            top: -140px;    
+        }
+        .logos-wrapper {
+            justify-content: space-between;
+        }
+    }
+    @media(max-width: 600px) {
+        p {
+            font-size: 14px!important;
+            line-height: 24px!important;
+        }
+        h2 {
+            font-size: 56px!important;
+            line-height: 72px!important;
+        }
+        h4 {
+            font-size: 20px!important;
+            line-height: 30px!important;
+        }
+        .round-card {
+            width: 100%;
+            margin-right: 0!important;
+        }
+        .column-half-square-block.row-display {
+            flex-direction: column;
+        }
+        .column-half-square-block.row-display img {
+            max-height: 40px;
+        }
+        .row-display p  {
+            margin-left: 0;
+            margin-top: 10px;
+        }
+        .row-columns-text, .row-columns-img-left .row-columns-text {
+            width: 100%;
+        }
+        .row-columns-img img {
+            width: 100%;
+        }
+        .row-columns-img-left {
+            flex-direction: column-reverse;
+        }
+        .row-columns-img .row-columns-text img {
+            margin: 0;
+        }
+        .big-title:before, .big-title:after {
+            display: none;
+        }
+        .big-title {
+            margin-top: 50px!important;
+            padding: 0!important;
+        }
+        .projects-row.row-cards .award-project-row {
+            margin-top: 0!important;
+        }
+    }
+    @media (min-width: 900px) { 
+        .scope-wrapper-ajuma {
+            display: grid !important;
+            -ms-grid-rows: 1fr 50px 1fr 50px 1fr 50px 1fr;
+            grid-template-rows: repeat(4,1fr);
+            -ms-grid-columns: 1fr 50px 1fr 50px 1fr;
+            grid-template-columns: repeat(3,1fr);
+            grid-gap: 50px;
+            width: 100%;
+        }
+        .scope-wrapper-ajuma .scope-card {
+            width: 100%;
+        }
+        .scope-wrapper-ajuma .scope-card:nth-child(1) {
+            -ms-grid-row: 1;
+            -ms-grid-row-span: 2;
+            grid-row: 1/3;
+            -ms-grid-column: 2;
+            grid-column: 2;
+        }
+        .scope-wrapper-ajuma .scope-card:nth-child(2) {
+            -ms-grid-row: 2;
+            -ms-grid-row-span: 2;
+            grid-row: 2/4;
+            -ms-grid-column: 1;
+            grid-column: 1;
+        }
+        .scope-wrapper-ajuma .scope-card:nth-child(3) {
+            -ms-grid-row: 2;
+            -ms-grid-row-span: 2;
+            grid-row: 2/4;
+            -ms-grid-column: 3;
+            grid-column: 3;
+        }
+        .scope-wrapper-ajuma .scope-card:nth-child(4) {
+            -ms-grid-row: 3;
+            -ms-grid-row-span: 2;
+            grid-row: 3/5;
+            -ms-grid-column: 2;
+            grid-column: 2;
+        }
+    }
+    .block-realmfive .projects-row-img .row-column-half-img-right img,
+    .block-realmfive .projects-row-img .row-column-half-img-left img,
+    .projects-row-img .row-column-half-img-right img { 
+        max-width: 360px;
+        width: 100%;
+    }
+    
+    .block-realmfive .projects-row-img .row-column-half-img-right,
+    .block-realmfive .projects-row-img .row-column-half-img-left,
+    .projects-row-img .row-column-half-img-right img {
+        align-items: center;
+    }
+    @media (min-width: 845px) {
+        .block-realmfive .projects-row-img .row-column-half-img-right,
+        .projects-row-img .row-column-half-img-right {
+            align-items: flex-end;
+        }
+        .block-realmfive .projects-row-img .row-column-half-img-left {
+            align-items: flex-start;
+        }
+    }
+    .award-project-row { 
+        transform: translateY(50%); 
+        max-width: 793px; 
+        margin: 0 auto; 
+        padding: 23px 68px; 
+        background: #fff; 
+        box-shadow: 0px -4px 15px 0px rgba(0, 0, 0, 0.1);
+        border-radius: 20px;
+    }
+    .award-project-block { 
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .award-project-block .img {
+        flex-shrink: 0;
+        margin-right: 55px;
+    }
+    .award-description {
+        font-family: Lato;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1.5em;    
+    }
+    .projects-row.row-cards .award-project-row {
+        transform: none;
+        margin-top: 80px;
+    }
+    @media (max-width: 650px) {
+        .award-project-row { 
+            transform: translateY(0);
+        }
+        .award-project-block {
+            flex-direction: column;
+        }
+        .award-project-block .img {
+            margin-right: 0;
+            /*transform: translateY(-50%);*/
+            margin-bottom: 30px;
+        }
+        .award-description {
+            font-size: 20px;   
+        }
+    }
+    .block-realmfive .projects-row-img .row-column-half img,
+    .block-realmfive .projects-row-img.mob-reverse .row-column-half img {
+        position: relative !important;
+    }
+    @media (max-width: 768px) {
+        .block-realmfive-right .projects-row.projects-row-img .row-column-half img {
+            margin-right: auto;
+        }
+    }
+    @media (max-width: 1024px) {
+        .block-realmfive-right.ajuma .projects-row-img .row-column-half img {
+            right: 0!important;
+        }
+    }
+</style>
+<main class="main-project">
+<div class="projects-header header-mb">
+<div class="projects-column">
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/portfolio/all/1">Portfolio</a><span>></span>Ajuma
+</div>
+<div class="projects-row">
+<h1 class="title">Ajuma – Enjoy the Sun Safely</h1>
+</div>
+<div class="projects-row">
+<div class="quote-wrap">
+<div class="quote-img">
+<img src="/storage/app/media/tamamProj/quotes.svg" alt="quots" />
+</div>
+<div class="quote-text">
+<p>Award-winning technology that helps you to find the right amount of sun</p>
+<p>Ajuma</p>
+</div>
+</div>
+</div>
+<div class="projects-row">
+<div class="tags">
+<div class="tag expertise"><span>UI/UX Design</span></div>
+<div class="tag expertise"><span>Android App Development</span></div>
+<div class="tag expertise"><span>IOS App Development</span></div>
+<div class="tag expertise"><span>QA/QC</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="award-project-section">
+<div class="award-project-row">
+<div class="award-project-block">
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/award.png " alt="award" /></div>
+<div class="award-description">
+<p><span class="text-bold">DLR Health Challenge</span> of the European Space Program Copernicus Award</p>
+</div>
+</div>
+</div>
+</div>
+<div class="top-project-section top-project-section-ajuma">
+<div class="projects-row">
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/ajuma_1.png " alt="ajuma" /></div>
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/ajuma_2.png " alt="ajuma" /></div>
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/ajuma_3.png " alt="ajuma" /></div>
+</div>
+</div>
+<div class="lines-wrapper">
+<div class="projects-row row-center">
+<div class="comment-card">
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/card_img.png " alt="Julian Meyer-Arnek photo" /></div>
+<p>
+“What I find really special about Geniusee team is that whenever we have an urgent problem like on Friday when we noticed that you can't even add one user in the app with the cheap device, you are ready to help with a bug fix even Friday evening. Or ready to watch over the website Monday evening during our "Höhle der Löwen"-pitch . This is sooo incredibly helpful!”
+</p>
+<p>Julian Meyer-Arnek</p>
+<p>CTO at Ajuma</p>
+</div>
+</div>
+
+</div>
+
+
+<div class="block">
+<div class="projects-row row-center">
+<p>
+The Ajuma company was founded by a couple after the birth of their child. They wanted to protect their baby from the harmful effects of ultraviolet radiation sunburn and from potentially generated skin cancer in adulthood. That’s how they got the idea for the UV-Bodyguard, a smart UV-Assistant that warns on time before it’s too late.
+</p>
+</div>
+</div>
+<div class="block">
+<div class="projects-row row-center row-no-padding">
+<div class="row-column-half row-column-half-padding">
+<h2 class="title">Höhle der Löwen Show</h2>
+<p>
+“Geniusee provided an app and helped establish our backend and website solution that put Ajuma into a position to “go for the market” in Germany and neighboring countries in spring 2021. The launch of the product took part as part of the German TV <strong>show “Höhle der Löwen”</strong> (equivalent to “Shark Tank”) and was therefore causing an immense echo with ~<strong>100.000 unique visitors of the website</strong>,” – says Julian Meyer-Arnek.
+</p>
+</div>
+<div class="row-column-half row-column-half-padding grey-column">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_7.png " alt="Ajuma picture">
+</div>
+</div>
+</div>
+<div class="block">
+<div class="projects-row row-center row-text">
+<p>
+Looks familiar?<br>You take a walk along the beach, it’s cloudy, it’s windy, it’s chilly. Back home, looking into the mirror, you realize: oops, I’m red – I got a sunburn.
+</p>
+<p>
+Annette has experienced this a couple of times, she’s quite sun-sensitive. Julian is a physicist and atmospheric scientist, he´s an expert on UV radiation.<br>When their little daughter was born, they wanted to <strong>protect their little girl from sunburn</strong> as well as possible. That is how they got the idea for the <strong>UV-Bodyguard, a smart UV-Assistant</strong> that warns on time before it’s too late.
+</p>
+</div>
+</div>
+<div class="grey-block block">
+<div class="projects-row row-cards">
+<h2 class="title">How it works</h2>
+<div class="cards-wrapper">
+<div class="card-wrap">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_card_1.png " alt="card image">
+<p class="title">
+Connect
+</p>
+<p>
+Connect the UV-Bodyguard via Bluetooth with your smartphone and measure your personal healthy UV dose all the time.
+</p>
+</div>
+<div class="card-wrap">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_card_2.png " alt="card image">
+<p class="title">
+Individualize
+</p>
+<p>
+Just enter your skin type and the sun protection factor (SPF) of your sunscreen. Here we go!
+</p>
+</div>
+<div class="card-wrap">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_card_3.png " alt="card image">
+<p class="title">
+Protect
+</p>
+<p>
+You see how much % of your healthy UV dose you´ve already consumed, how long you can stay in the sun – and you get a warning on time before you get sunburned.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="block">
+<div class="projects-row row-center row-no-padding">
+<div class="row-column-half column-half-no-padding">
+<h2 class="title">Why use the UV-Bodyguard?</h2>
+<ul class="turtles-ul">
+<li><p>You see your healthy UV dose in real time</p></li>
+<li><p>You get a timely warning before you get sunburned</p></li>
+<li><p>You can easily attach the UV-Bodyguard to your clothes or your gear – clip it, use velcro tape or put it on your wrist</p></li>
+<li><p>The UV-Bodyguard is robust, it’s protected against splash water and sand</p></li>
+<li><p>You get a UV forecast and can see your past UV tracks</p></li>
+<li><p>Data privacy is important to us: The data stays on your smartphone, not in a cloud</p></li>
+<li><p>The UV-Bodyguard is locally produced in Southern Germany</p></li>
+</ul>
+<h4 class="font-style-h4">
+And even more! Our body needs a <span class="highlight-yellow">certain amount of sunlight</span> to build Vitamin D. The <span class="highlight-blue">UV-Bodyguard</span> shows you how long you should stay in the sun to fill up your <span class="highlight-yellow">Vitamin D</span> level in a simple way.
+</h4>
+</div>
+<div class="row-column-half column-half-no-padding">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_8.png " alt="Ajuma picture">
+</div>
+</div>
+</div>
+<div class="grey-block block">
+<div class="projects-row row-center">
+<h2 class="title">Who's with us?</h2>
+<div class="logos-wrapper">
+<div class="round-card">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_logo_1.png " alt="logo image">
+</div>
+<div class="round-card">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_logo_2.png " alt="logo image">
+</div>
+<div class="round-card">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_logo_3.png " alt="logo image">
+</div>
+<div class="round-card">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_logo_4.png " alt="logo image">
+</div>
+</div>
+</div>
+</div>
+<div class="blue-block block">
+<div class="projects-row row-center">
+<h2 class="title">
+Project timeline
+</h2>
+<div class="wrap">
+<ul class="turtles-ul">
+<li><p>Initial Research</p></li>
+</ul>
+<p>
+Competitor analysis, analytics review, content audit, user interviews, surveys, user testing.
+</p>
+<ul class="turtles-ul">
+<li><p>UX Design</p></li>
+</ul>
+<p>
+Use cases, persona creation, storyboards, users flow, custom journey map, wireframes, prototype testing.
+</p>
+<ul class="turtles-ul">
+<li><p>UI Design</p></li>
+</ul>
+<p>
+Developing grid system, color scheme, fonts selection, creating and preparing icons and images for the app. Completing full UI Kits for future development.
+</p>
+<ul class="turtles-ul">
+<li><p>MVP Development</p></li>
+</ul>
+<p>
+Development with Swift and Kotlin mobile apps for Android and IOS in 6 months. QA testing and bug fixing. Following support.
+</p>
+</div>
+</div>
+</div>
+<div class="grey-white-block block">
+<div class="projects-row row-cards">
+<h2 class="title">Our Tasks</h2>
+<div class="cards-wrapper">
+<div class="card-wrap card-wrap-center">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_card_4.png " alt="card image">
+<p>
+Protect users from sunburns
+</p>
+</div>
+<div class="card-wrap card-wrap-center">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_card_5.png " alt="card image">
+<p>
+Develop a program for a smart device for IOS & Android
+</p>
+</div>
+<div class="card-wrap card-wrap-center">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_card_6.png " alt="card image">
+<p>
+Integration with a smart device
+</p>
+</div>
+</div>
+<h2 class="big-title">Award-winning technology that helps you to find the right amount of sun</h2>
+<div class="row-display row-center w-100">
+<div class="award-project-section">
+<div class="award-project-row">
+<div class="award-project-block">
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/award.png " alt="award" /></div>
+<div class="award-description">
+<p><span class="text-bold">DLR Health Challenge</span> of the European Space Program Copernicus Award</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block bg-blur">
+<div class="projects-row row-center">
+<h2 class="title">Platform Map</h2>
+<div class="white-block">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_9.svg " alt="platfrom map">
+</div>
+</div>
+</div>
+<div class="block bg-blur">
+<div class="projects-row row-center row-no-padding">
+<div class="row-column-half column-half-square bg-light-grey">
+<div class="column-half-square-block row-display">
+<img src=" /storage/app/media/portfolio/ajuma/quotes.svg " alt="quotes image">
+<p>
+<strong>Geniusee</strong> provided over an app and helped establish backend and website solutions that put Ajuma into a position to “<strong>go for the market</strong>” in Germany and neighboring countries in <strong>spring 2021</strong>.
+</p>
+</div>
+</div>
+<div class="row-column-half column-half-square bg-dark-grey">
+<div class="column-half-square-block">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_10.png " alt="image">
+<p class="big-text">
+12000
+</p>
+<p class="middle-text">
+smart devices and happy clients in Germany, Austria, and Switzerland.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="grey-white-block block">
+<div class="projects-row row-columns-img row-columns-img-right">
+<div class="row-columns-text">
+<span>01</span>
+<h2 class="title">Dashboard</h2>
+<p>
+Your personal screen with the most important information - your UV-dose, time remaining to stay on the sun, and info about UV-level on your location right now.
+</p>
+</div>
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_11.png " alt="card image">
+</div>
+<div class="projects-row row-columns-img row-columns-img-left">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_12.png " alt="card image">
+<div class="row-columns-text">
+<span>02</span>
+<h2 class="title">Forecast</h2>
+<p>
+Information about what will be the UV-level in the nearest future brought to us by space technologies Copernicus.
+</p>
+</div>
+</div>
+<div class="projects-row row-columns-img row-columns-img-right">
+<div class="row-columns-text">
+<span>03</span>
+<h2 class="title">Tracking</h2>
+<p>
+Possibility to see your past results of the UV consumption.
+</p>
+</div>
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_13.png " alt="card image">
+</div>
+<div class="projects-row row-columns-img row-columns-img-left">
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_14.png " alt="card image">
+<div class="row-columns-text">
+<span>04</span>
+<h2 class="title">Profile</h2>
+<p>
+Individualize the app!<br>Fill in the main characteristics of your body to correctly calculate the desired dose of UV.<br>Select the color of your skin is light or dark and what SPF you use.
+</p>
+<img src=" /storage/app/media/portfolio/ajuma/ajuma_15.png " alt="card image">
+</div>
+</div>
+</div>
+<div class="grey-block block block-ceo">
+<div class="projects-row row-center">
+<div class="comment-card">
+<div class="img"><img src=" /storage/app/media/portfolio/ajuma/pm_photo.png " alt="Marina Rudenko photo" /></div>
+<p>
+“It's a pleasure working with Annette and Julian. These are people who are sincerely in love with their project and do everything for its success. They are professionals in their field and have spared no effort to guide us into the details of their device and explain how it should work.”
+</p>
+<p>Marina Rudenko</p>
+<p>PM at Geniusee</p>
+</div>
+</div>
+</div>
+<div class="block block-realmfive-right ajuma">
+<div class="projects-row projects-row-img">
+<div class="row-column-half">
+<h2 class="title">the outcome</h2>
+<p>
+Geniusee released 2 mobile apps for Android and IOS in 2020. So far, Ajumna has sold over 12 000 smart devices in Germany, Austria and Switzerland. With a stable version built in Swift and Kotlin, the app is now easy to maintain and augment with new features. It’s also much easier for new developers to jump quickly into the project. Since we began our collaboration, Ajuma has raised new fundings from European startup accelerators such as the Business Incubation Programme from the European Space Agency (ESA) and from private investors.
+</p>
+<p>
+<span class="text-bold">The success of this project hinged on the following factors:</span>
+</p>
+<ul class="circles-ul">
+<li><p>A client who clearly knows what they want to have in their application</p></li>
+<li class="markerMargin"><p>Validating ideas and cooperating closely with the client, combined with the impressive performance delivered by a highly functional team</p></li>
+<li class="markerMargin"><p>Creating well-written documentation and improving testing processes</p></li>
+</ul>
+</div>
+<div class="row-column-half row-column-half-img-right">
+<img style="right: 0!important;" src=" /storage/app/media/portfolio/ajuma/ajuma_6.png " alt="ajuma" />
+</div>
+</div>
+</div>
+</div>
+</main> 
+</div>
+
+<div class="other-projects">
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3>Check out our other projects<span style="color: #9595ef">.</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="printbi"><img src="/storage/app/media/printBi.svg" alt="record preview"></a></div><h3>PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="zaza"><img src="/storage/app/media/zaza.png" alt="record preview"></a></div><h3>ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="buzzshow"><img src="/storage/app/media/BuzShow 2.png" alt="record preview"></a></div><h3>BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+ </a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="circular-review-system-vehicles"><img src="/storage/app/media/Circular-Review-System-for-vehicles.png" alt="record preview"></a></div><h3>Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="crypto-analytics"><img src="/storage/app/media/bitspread.png" alt="record preview"></a></div><h3>Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="my-uber"><img src="/storage/app/media/myuber.png" alt="record preview"></a></div><h3>My Uber<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="pool-party"><img src="/storage/app/media/pool_party.png" alt="record preview"></a></div><h3>Pool party<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="ua-light"><img src="/storage/app/media/ua_light 2.png" alt="record preview"></a></div><h3>Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="totalizator-platform"><img src="/storage/app/media/totalizator.svg" alt="record preview"></a></div><h3>Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+ <div class="slide">
+<div class="img__wrap icon"><a href="digital-bits"><img src="/storage/app/media/digital_bits_preview.svg" alt="record preview"></a></div><h3>Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="tamam"><img src="/storage/app/media/tamam-preview.png" alt="record preview"></a></div><h3>Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="wyzoo"><img src="/storage/app/media/wyzoo-preview.png" alt="record preview"></a></div><h3>Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="ncourage"><img src="/storage/app/media/ncourageProj/ncourage-card@1x.png" alt="record preview"></a></div><h3>Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="validify"><img src="/storage/app/media/validifyProj/validify-card@1x.png" alt="record preview"></a></div><h3>Validify<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="gearhousepro"><img src="/storage/app/media/gearHousePro/preview.png" alt="record preview"></a></div><h3>GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="swoon"><img src="/storage/app/media/swoonProj/swoon-preview.png" alt="record preview"></a></div><h3>Swoon<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="tradesmarter"><img src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" alt="record preview"></a></div><h3>TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="factmata"><img src="/storage/app/media/factMata/factmata-preview.png" alt="record preview"></a></div><h3>FactMata<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="realmfive"><img src="/storage/app/media/realm_preview.png" alt="record preview"></a></div><h3>RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="revenu"><img src="/storage/app/media/revenu/login_dt.png" alt="record preview"></a></div><h3>Revenu<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="zedosh"><img src="/storage/app/media/portfolio/zedosh/zedosh.png" alt="record preview"></a></div><h3>Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="ajuma"><img src="/storage/app/media/portfolio/ajuma/Ajuma.png" alt="record preview"></a></div><h3>Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="pause"><img src="/storage/app/media/portfolio/pause/pause-preview.jpg" alt="record preview"></a></div><h3>Pause<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="crave-retail"><img src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" alt="record preview"></a></div><h3>Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="funderslink"><img src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" alt="record preview"></a></div><h3>Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="einkaufs-check"><img src="/storage/app/media/portfolio/einkaufs-check/preview.png" alt="record preview"></a></div><h3>EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+<li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+</div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+ <a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/portfolio-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/portfolio-single.new.css?v=2" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/5ccd8326678510919fac31fe32cc3f01-1638441204"></script>
+
+
+</div>
+</body>
+</html>

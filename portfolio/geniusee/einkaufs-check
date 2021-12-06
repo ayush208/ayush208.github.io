@@ -1,0 +1,1547 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<link rel="canonical" href="https://geniusee.com/portfolio/geniusee/einkaufs-check">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Developed Product - EinkaufsCheck | Geniusee</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Geniusee">
+<meta property="og:title" content="EinkaufsCheck | Geniusee" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://geniusee.com/storage/app/media/portfolio/einkaufs-check/preview.png" />
+<meta property="og:url" content="https://geniusee.com/portfolio/geniusee/einkaufs-check" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="Geniusee" />
+
+<meta name="twitter:image:alt" content="Alt text for image">
+
+<meta property="fb:app_id" content="1384034065094568" />
+<meta name="twitter:site" content="@website-username">
+<meta name="ahrefs-site-verification" content="413fa52683d659871419337a96b8182375d378942216f9c867d1013baad0e677">
+<link rel="icon" type="image/ico" href="/storage/app/media/favicon.ico">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<script>
+            if(window.location.protocol === "http:") {
+                window.location.protocol = "https:";
+            }
+        </script>
+<div id="loadOverlay" style="background-color:#fff; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index: 999999999;"> </div>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109160850-1"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T3SCJ6Q');</script>
+
+</head>
+<body class="wrapper" id="template">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3SCJ6Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<header>
+<div class="header-content">
+<a href="https://geniusee.com" class="logo-box"><img src="/storage/app/media/logo.svg" width="213" height="30" alt="Geniusee logo"></a>
+<div id="burger">
+<div class="top-strip"></div>
+<div class="bottom-strip"></div>
+</div>
+<nav>
+<ul class="nav-ul">
+<li><a href="https://geniusee.com/expertise">Expertise</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/aws">Amazon web services</a></li>
+<li><a href="https://geniusee.com/artificial-intelligence">Artificial intelligence</a></li>
+<li><a href="https://geniusee.com/blockchain">Blockchain</a></li>
+<li><a href="https://geniusee.com/business-analysis">Business Analisyis</a></li>
+<li><a href="https://geniusee.com/data-science">Data Science </a></li>
+<li><a href="https://geniusee.com/devops">DevOps Engineering</a></li>
+<li><a href="https://geniusee.com/mobile-development">Mobile Development</a></li>
+<li><a href="https://geniusee.com/ui-ux-design">UI/UX Design</a></li>
+<li><a href="https://geniusee.com/qaqc-testing">QA/QC Testing</a></li>
+<li><a href="https://geniusee.com/web-development">Web Development</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/services">Services</a>
+<ul class="sub-ul">
+<li class="gray-li"><a href="https://estimate.geniusee.com/">Estimator</a></li>
+<li><a href="https://geniusee.com/discovery-phase">Discovery Phase</a></li>
+<li><a href="https://geniusee.com/dedicated-team">Geniusee Dedicated Team</a></li>
+<li><a href="https://geniusee.com/data-science-poc">Data science POC</a></li>
+<li><a href="https://geniusee.com/mvp-startups">MVP for Startups</a></li>
+<li><a href="https://geniusee.com/product-development">Product Development</a></li>
+<li><a href="https://geniusee.com/website-technical-support">Website Support</a></li>
+<li><a href="https://geniusee.com/devops-support">DevOps Support</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/industries">Industries</a>
+<ul class="sub-ul">
+<li><a href="https://geniusee.com/fintech">FinTech</a></li>
+<li><a href="https://geniusee.com/edtech">EdTech</a></li>
+</ul>
+</li>
+<li><a href="https://geniusee.com/portfolio/all/1">Clients</a></li>
+<li><a href="https://geniusee.com/blog/all/1">Blog</a></li>
+<li><a href="https://geniusee.com/career">Career</a></li>
+<li><a href="https://geniusee.com/about">About</a></li>
+<li class="header-contact-us-box"><a class="btn-dark" href="#contact">Contact us</a></li>
+</ul>
+<span class="header-contact-us"><a href="#contact">Contact us</a></span>
+</nav>
+</div>
+</header>
+
+<style>
+    .quote-text p {
+        font-style: normal!important;
+    }
+    .projects-column_tags p {
+        font-family: "Lato";
+    }
+    .project-header__container {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    @media (max-width: 1060px) {
+        .project-header__container {
+            flex-direction: column;
+        }
+    }
+    .title-wrapper {
+        flex: 0 0 auto;
+        max-width: 100%;
+    }
+    .projects-column_tags {
+        padding-top: 1.5em;
+        flex: 0 0 50%;
+        justify-content: flex-end;
+    }
+    .projects-column_tags .projects-row {
+        justify-content: flex-start;
+    }
+    @media (max-width: 980px) {
+        .main-project .projects-header .tags {
+            width: auto !important;
+        }
+    }
+    .project-header__container .quote-wrap {
+        margin-top: 0;
+    }
+    .project-header__container .quote-text {
+        padding: 0;
+    }
+    .top-project-section.top-project-section-funderslink {
+        margin-top: 250px;
+        margin-bottom: 0;
+        background: url(/storage/app/media/portfolio/funderslink/bg.jpg)!important;
+    }
+    .top-project-section.top-project-section-funderslink .projects-row {
+        margin-bottom: 0;
+    }
+    .top-project-section-funderslink .projects-row .single-img {
+        margin-top: -400px;
+    }
+    .top-project-section-funderslink .projects-row .single-img img {
+        transform: scale(1.25);
+    }
+    @media (max-width: 980px) {
+        .top-project-section.top-project-section-funderslink {
+            margin-top: 0;
+        }
+        .top-project-section-funderslink .projects-row .single-img {
+            margin-top: -150px;
+        }
+        .top-project-section-funderslink .projects-row .single-img img {
+            transform: scale(1.25);
+        }
+    }
+    .top-project-section-revenu .projects-row {
+        justify-content: center;
+    }
+    .scope-wrapper.scope-wrapper-revenu {
+        justify-content: center;
+    }
+    .scope-wrapper.scope-wrapper-revenu .scope-card:not(:first-child) {
+        margin-left: auto;
+    }
+    .scope-wrapper.scope-wrapper-revenu .scope-card:nth-child(4),
+    .scope-wrapper.scope-wrapper-revenu .scope-card:nth-child(5) {
+        margin-right: auto;
+    }
+    @media (max-width: 1060px) {
+        .scope-wrapper.scope-wrapper-revenu {
+            justify-content: space-between;
+        }
+        .scope-wrapper.scope-wrapper-revenu .scope-card:not(:first-child) {
+            margin-left: 0;
+        }
+        .scope-wrapper.scope-wrapper-revenu .scope-card:nth-child(4),
+        .scope-wrapper.scope-wrapper-revenu .scope-card:nth-child(5) {
+            margin-right: 0;
+        }
+        .scope-wrapper.scope-wrapper-revenu .scope-card {
+            height: auto;
+        }
+    }
+    .title-container {
+        width: 100%;
+    }
+    .projects-row .row-column-half {
+        width: 48%;
+    }
+    .block .projects-row:not(:last-child) {
+        padding-bottom: 0;
+    }
+    .block .projects-row:last-child {
+        padding-top: 40px;
+        padding-bottom: 200px;
+    }
+    .block.block-padding .projects-row:last-child {
+        margin-bottom: 0;
+    }
+    .block-realmfive .projects-row-img .row-column-half.row-column-half_left img {
+        top: -100px;
+        right: auto;
+        left: 0;
+    }
+    @media (max-width: 1300px) {
+        .block-realmfive .projects-row-img .row-column-half.row-column-half_left img {
+            top: 50%;
+        }
+    }
+    .block .projects-row.projects-row_contact {
+        padding-top: 160px;
+        padding-bottom: 80px;
+    }
+    .title-container p {
+        font-family: "Lato";
+        font-size: 20px;
+        line-height: 36px;
+        font-weight: 300;
+        margin-bottom: 24px;
+    }
+    ul.circles-ul.fw500 li p {
+        font-weight: 500;
+    }
+    .title-container ul.circles-ul li p {
+        margin-bottom: 0;
+    }
+    .block .projects-row:last-child.image-shadow-container {
+        margin-bottom: 200px;
+        padding-bottom: 0;
+    }
+    .image-shadow {
+        margin: 160px 0 -160px;
+        border-radius: 50px;
+        box-shadow: 0 0 40px 5px rgba(0, 0, 0, 0.1);
+    }
+    .block-realmfive .projects-row-img .row-column-half .quouts img {
+        position: relative;
+        max-width: 70px;
+    }
+    @media (max-width: 600px) {
+        .block-realmfive .projects-row-img .row-column-half .quouts img {
+            max-width: 35px;
+        }
+    }
+    .quouts + img {
+        margin-top: 50px;
+    }
+    .block .projects-row.projects-row_last {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .projects-row_last img {
+        width: 100%;
+    }
+    .block .projects-row.pb0 {
+        padding-bottom: 0;
+    }
+    .col-thanks {
+        text-align: center;
+        font-family: "Lato";
+    }
+    .col-thanks p {
+        margin-top: 20px;
+    }
+    .col-thanks .upper-text {
+        text-transform: uppercase;
+    }
+    
+
+    .comment-card .img{
+        margin: 0 auto;
+    }
+    
+    .main-project-portfolio-wrap .row {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+     .block-realmfive .projects-row-img .row-column-half img {
+        position: absolute;
+        right: 0px;
+    }
+    .block-realmfive .projects-row-img.mob-reverse .row-column-half img {
+        position: absolute;
+        left: 0px;
+    }
+    .block-screens-wyzoo {
+        margin-top: 120px;
+    }
+    .block-screens .projects-row {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    /*.block-screens img {
+        margin-top: -180px;
+    }*/
+    .desktopMargin {
+        margin-left: 0px!important;
+    }
+    
+    .row-column-half-right .imgWrap {
+        text-align: right;
+        padding-right: 0!important;
+        padding-left: 24px;
+    }
+    .row-column-half .imgWrap {
+        margin-bottom: 24px;
+        padding-right: 24px;
+    }
+    .row-column-half .imgWrap img {
+        max-width: 100%;
+        margin: 0;
+        width: 100%;
+    }
+    .shadow {
+        filter: drop-shadow(10px 20px 50px rgba(109, 102, 134, 0.16));
+    }
+    @media (max-width: 1200px) {
+        .top-project-section-realmfive .projects-row .img, .top-project-section-realmfive .projects-row .img {
+            width: 100%;
+        }
+        .header-mb {
+            padding-top: 0!important;
+        }
+    }
+    @media (max-width: 1024px) {
+        .tablet-display-none {
+            display: none!important;
+        }
+        .row-column-half {
+            width: 100%!important;
+        }
+        .row .row-column-half {
+            width: calc(100%/2.1)!important;
+        }
+        .mob-reverse {
+            flex-direction: column-reverse;
+        }
+        .mob-reverse .desktopMargin {
+            position: relative!important;
+            left: -200px!important;
+            object-fit: contain;
+        }
+        .back-side-img {
+            left: -45px!important;
+        }
+        .block-realmfive-right .projects-row-img .row-column-half img {
+            position: relative!important;
+            right: -200px!important;
+            object-fit: contain;
+        }
+        .block-screens img {
+            width: calc(100%/3.2);
+        }
+        .row-column-half .imgWrap, .row-column-half-right .imgWrap {
+            padding: 0;
+        }
+    }
+    @media (max-width: 768px) {
+        .block-realmfive-right .projects-row.projects-row-img  .row-column-half img {
+            width: fit-content;
+            object-fit: contain;
+            margin-left: auto;
+            right: 0!important;
+        }
+        .block-realmfive-right .projects-row-img,
+        .block-realmfive-right .projects-row-img {
+            padding-bottom:0!important;
+            padding-left:9.72222vw!important;
+            padding-right:9.72222vw!important;
+        }
+        .block-realmfive-right .projects-row-img .row-column-half:nth-child(1) {
+            padding-right: 80px;
+            padding-left: 80px;
+        }
+        .block-realmfive-right .projects-row-img .row-column-half:nth-child(2) {
+            position: relative;
+            width: 100%;
+        }
+        .mob-reverse .desktopMargin {
+            left: -80px!important;
+        }
+        .lines-wrapper .projects-row.row-center:first-child {
+            padding-top: 0!important;
+        }
+        .block .projects-row:last-child {
+            paddin-bottom: 0!important;
+        }
+    }
+    @media (max-width: 600px) {
+        .block-realmfive-right .projects-row-img .row-column-half:nth-child(1) {
+            padding-right: 32px;
+            padding-left: 32px;
+        }
+        .block-screens {
+            margin-top: 50px;
+        }
+        .block-screens img {
+            margin-top: -80px;
+        }
+        .row .row-column-half {
+            width: 100%!important;
+        }
+        .mob-reverse .desktopMargin {
+            left: -45px!important;
+        }
+        .top-project-section-funderslink .projects-row .single-img img {
+            transform: scale(1.35);
+            margin-top: 50px;
+        }
+        .block .projects-row:last-child {
+            padding-bottom: 40px!important;
+        }
+        .block .projects-row.projects-row_contact {
+            padding-top: 40px!important;
+        }
+        .block .projects-row:last-child.image-shadow-container {
+            margin-bottom: 120px!important;
+        }
+        .image-shadow {
+            margin: 0 0 -160px;
+            border-radius: 10px;
+        }
+        .quouts + img {
+            display: none;
+        }
+        .imgPy {
+            padding: 0!important;
+        }
+        .blockpb .projects-row.row-center {
+            padding-top:0!important;
+        }
+    }
+    
+    
+.top-project-section.top-project-section-einkaufs-check {
+    margin-top: 250px;
+    background: url(/storage/app/media/portfolio/einkaufs-check/bg.png) !important;
+}
+
+@media (max-width: 900px) {
+    .top-project-section.top-project-section-einkaufs-check {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .projects-column_tags {
+        padding-top: 0;
+    }
+}
+
+.top-project-section .projects-row {
+    margin-top: -250px;
+}
+
+@media (max-width: 900px) {
+    .top-project-section .projects-row {
+        margin-top: 0;
+    }
+}
+
+.projects-column_tags .projects-row {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+@media (max-width: 600px) {
+    .projects-column_tags .projects-row {
+        flex-direction: column;
+    }
+}
+
+.projects-column_tags .projects-row:not(first-child) {
+    margin-top: 0.55556vw;
+}
+
+.projects-column_tags .projects-row p {
+    margin-top: 0.1em;
+    margin-right: 1.22222vw;
+    flex-shrink: 0;
+}
+
+@media (max-width: 600px) {
+    .projects-column_tags .projects-row p {
+        margin-bottom: 10px;
+    }
+}
+
+.projects-column_tags .projects-row .tags {
+    flex-wrap: wrap;
+    margin-left: -0.55556vw !important;
+}
+
+@media (max-width: 600px) {
+    .projects-column_tags .projects-row .tags {
+         margin-left: -8px !important;
+    }
+}
+
+.projects-column_tags .projects-row .tags .tag {
+    margin-right: 0;
+    margin-bottom: 1.11112vw;
+    margin-left: 0.55556vw;
+}
+
+@media (max-width: 600px) {
+    .projects-column_tags .projects-row .tags .tag,
+    .main-project-einkaufs-check .header-mb .tags .tag:not(:first-child) {
+        margin-right: 0 !important;
+        margin-bottom: 10px !important;
+        margin-left: 8px !important;
+    }
+}
+
+.scope-wrapper.scope-wrapper-einkaufs-check {
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(5, 120px);
+}
+
+@media (max-width: 900px) {
+    .scope-wrapper.scope-wrapper-einkaufs-check {
+        display: flex;
+    }
+}
+
+.scope-wrapper-einkaufs-check .scope-card {
+    width: 100%;
+    padding: 84px 35px;
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(1) {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(1)::after {
+    content: url("/storage/app/media/tamamProj/hands.svg");
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(2) {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.scope-wrapper-revenu .scope-card:nth-child(2)::after {
+    content: url("/storage/app/media/portfolio/pause/puzzle.svg");
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(3) {
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    height: auto;
+    transform: translateY(25%);
+}
+
+@media (max-width: 1200px) {
+    .scope-wrapper-einkaufs-check .scope-card:nth-child(3) {
+        grid-row-end: 5;
+        transform: translateY(0);
+    }
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(3)::after {
+    content: url("/storage/app/media/portfolio/einkaufs-check/puzzle.svg");
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(4) {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 5;
+}
+
+.scope-wrapper-einkaufs-check .scope-card:nth-child(4)::after {
+    content: url("/storage/app/media/tamamProj/team.svg");
+}
+    
+.quouts .text-italic {
+    font-style: italic;
+}
+    
+img.w-75 {
+    width: 75%;
+    margin-left: auto;
+}
+    
+img.w-90 {
+    width: 90%;
+    margin-left: auto;
+}
+
+.stack-title {
+    font-weight: 700 !important;
+    color: #656565;
+    text-transform: uppercase;
+}
+
+.circles-ul-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.circles-ul-row li {
+    flex: 0 0 33.33333%;
+}
+
+@media (max-width: 1200px) {
+    .circles-ul-row li {
+        flex: 0 0 50%;
+    }
+}
+
+.block-einkaufscheck-flow {
+    background-image: url(/storage/app/media/portfolio/einkaufs-check/flow-background.png);
+    background-size: 130%;
+    background-position: center 30%;
+    background-repeat: no-repeat;
+}
+.title_lower-case {
+    text-transform: lowercase !important;
+    color: inherit !important;
+}
+
+.main-project .projects-header h1.title {
+    font-family: Lato !important;
+    letter-spacing: 0.01em !important;
+}
+
+@media (max-width: 600px) {
+    .main-project .projects-header h1.title {
+        font-size: 38px !important;
+    }
+}
+
+.block-padding {
+    padding-top: 9vw;
+}
+
+.block-ceo {
+    margin-bottom: -300px;
+}
+
+.block-ceo .projects-row {
+    transform: translateY(-300px);
+}
+
+@media (max-width: 600px) {
+    .block-ceo {
+        margin-bottom: -400px;
+    }
+}
+</style>
+<main class="main-project main-project-einkaufs-check">
+<div class="projects-header header-mb">
+<div class="projects-column">
+<div class="breadcrumbs">
+<a href="https://geniusee.com">Home</a><span>></span><a href="https://geniusee.com/portfolio">Portfolio</a><span>></span>Einkaufs check
+</div>
+<div class="project-header__container">
+<div class="title-wrapper">
+<div class="projects-row">
+<h1 class="title">EinkaufsCHECK</h1>
+</div>
+<div class="projects-row">
+<div class="quote-wrap">
+<div class="quote-text">
+<p>Big data application to track your healthy habits</p>
+</div>
+</div>
+</div>
+</div>
+<div class="projects-column projects-column_tags">
+<div class="projects-row">
+<p>Services:</p>
+<div class="tags">
+<div class="tag expertise"><span>Mobile Development</span></div>
+<div class="tag"><span>Web Development</span></div>
+<div class="tag"><span>UI / UX Design</span></div>
+<div class="tag"><span>DevOps</span></div>
+<div class="tag"><span>QA</span></div>
+<div class="tag"><span>PM</span></div>
+<div class="tag"><span>BA</span></div>
+</div>
+</div>
+<div class="projects-row">
+<p>Industry:</p>
+<div class="tags">
+<div class="tag"><span>Healthcare/e-commerce</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="top-project-section top-project-section-einkaufs-check">
+<div class="projects-row">
+<div class="img">
+<img src=" /storage/app/media/portfolio/einkaufs-check/title_1.png " alt="Einkaufs check" />
+</div>
+<div class="img">
+<img src=" /storage/app/media/portfolio/einkaufs-check/title_2.png " alt="Einkaufs check" />
+</div>
+<div class="img">
+<img src=" /storage/app/media/portfolio/einkaufs-check/title_3.png " alt="Einkaufs check" />
+</div>
+</div>
+</div>
+<div class="lines-wrapper">
+<div class="projects-row row-center">
+<div class="comment-card">
+<div class="img"><img src=" /storage/app/media/portfolio/einkaufs-check/client.png " alt="Client's photo" /></div>
+<p>
+Our team recommends Geniusee for businesses that want to get a significant quality of deliverables and long-term partnerships to achieve even more than planned initially. We have been working with Geniusee for two years now. I am excited about their commitment and am happy to refer the company as a trustworthy tech partner.
+</p>
+<p>Jens Jetzki</p>
+<p>Founder EinkaufsCHECK</p>
+</div>
+</div>
+<div class="projects-row row-center">
+<h2 class="title">Scope and highlights</h2>
+</div>
+<div class="projects-row">
+<div class="scope-wrapper scope-wrapper-einkaufs-check">
+<div class="scope-card">
+<p>
+<span class="text-bold">2 years</span> of partnership
+</p>
+</div>
+<div class="scope-card">
+<p>
+<span class="text-bold">UX/UI</span> Design
+</p>
+</div>
+<div class="scope-card">
+<p>
+<span class="text-bold">9</span> front- and backend <span class="text-bold">developers</span>, Project manager, Software Architect, <span class="text-bold">QA/QC</span>, Business Analytics, DevOps, Technical support, <span class="text-bold">Data Analysis</span>
+</p>
+</div>
+<div class="scope-card">
+<p>
+Dedicated team of <span class="text-bold">14 members</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="grey-block block block-realmfive block-padding">
+<div class="projects-row">
+<div class="title-container"><h2 class="title">the challenge</h2></div>
+<div class="row-column-half">
+<p>
+Our main goal was to develop a <span class="text-bold">digital platform for healthy habits</span> called EinkaufsCHECK. We aimed to create a hybrid app for iOS and Android for the easiest and most accurate diet tracking and food selection. Based on <span class="text-bold">personal nutrition recommendations</span>, users can maitain, gain or lose weight. Based on users` body measurements as well as the results of <span class="text-bold">comprehensive scientific studies</span> (e.g., of the World Health Organization / WHO), the app EinkaufsCHECK acts as customers’ <span class="text-bold">everyday personal nutritionist</span> and calculates personal nutrition recommendations. The app we are building is intuitive and personalized. Users can choose specific diets, track food and calorie intake, order the set of recommended products, personalize suitable food recipes, filter and sort their lists.
+</p>
+<div class="title-container">
+<p>
+<span class="text-bold">Key challenges in this project included:</span>
+</p>
+<ul class="circles-ul">
+<li><p>Rethink and update an application design, make it more intuitive and functional.</p></li>
+<li><p>Create a complex hybrid app for iOS and Android for the most accurate diet tracking and food selection.</p></li>
+<li><p>Develop a fast and well-performing web application capable of working with a large amount of data</p></li>
+</ul>
+</div>
+</div>
+<div class="row-column-half">
+<img src=" /storage/app/media/portfolio/einkaufs-check/einkaufscheck_4.png " alt="Einkaufs check" />
+</div>
+</div>
+</div>
+<div class="block block-realmfive" style="padding-bottom: 250px;">
+<div class="projects-row projects-row_contact">
+<div class="conversion">
+<div class="conversion--text">
+<p id="convText">Are you looking for full cycle product development?</p>
+<p>You found what you were looking for. Just fill out the contact us form.</p>
+</div>
+<a class="conversion--btn" href="https://estimate.geniusee.com">Contact us</a>
+</div>
+</div>
+<div class="projects-row pt0">
+<div class="row-column-half">
+<h2 class="title">the process</h2>
+<div class="quouts">
+<div>
+<img src=" /storage/app/media/portfolio/funderslink/quots.png " alt="Quots" />
+</div>
+<p>
+<span class="text-italic">There was a lot of Big Data Geniusee team had to put together in order to achieve our business goals. <span class="text-bold">Managing the data was one of our biggest challenges</span>. I think we’ve managed it well.</span>
+</p>
+<p><span class="text-italic">With the help of Geniusee, we enhanced our team with the <span class="text-bold">9 developers</span> (front- and backend), UI/UX design team, project manager, software architect, QAs, and PM. The services Geniusee provides to us are: business analysis, project management, design, frontend and backend development, DevOps, technical support.</span>
+</p>
+<p>
+<strong>
+Jens Jetzki
+</strong>
+</p>
+</div>
+</div>
+<div class="row-column-half">
+<img src=" /storage/app/media/portfolio/einkaufs-check/einkaufscheck_5.png " class="w-75" alt="Einkaufs check" />
+</div>
+</div>
+<div class="projects-row pt0">
+<div class="row-column-half">
+<p><span class="text-bold">Project techstack:</span></p>
+</div>
+</div>
+<div class="projects-row pt0">
+<div class="row-column-half">
+<div class="title-container">
+<p class="stack-title">
+BackEnd
+</p>
+<ul class="circles-ul circles-ul-row">
+<li><p>Node.js</p></li>
+<li><p>ElasticSearch</p></li>
+<li><p>AppSync</p></li>
+<li><p>AWS</p></li>
+<li><p>AWS Lambda</p></li>
+<li><p>API Gateway</p></li>
+<li><p>Cognito</p></li>
+<li><p>S3</p></li>
+<li><p>DynamoDB</p></li>
+<li><p>IAM</p></li>
+</ul>
+</div>
+</div>
+<div class="row-column-half">
+<div class="title-container">
+<p class="stack-title">
+FrontEnd
+</p>
+<ul class="circles-ul">
+<li><p>RN</p></li>
+<li><p>React.js</p></li>
+<li><p>Apollo</p></li>
+<li><p>GraphQL</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="grey-block block block-ceo">
+<div class="projects-row row-center">
+<div class="comment-card">
+<div class="img"><img src=" /storage/app/media/portfolio/people/pavlo-v2.png " alt="Pavlo Kytsmey" /></div>
+<p>
+We are working on a complex long-term project for EinkaufsCHECK in partnership and trust. That is the core of our success. EinkaufsCHECK requires a lot of dedication and business decisions on the intersection of Big Data, detailed personalization, focus on healthcare trends and scientific studies. I am excited to see this project evolve relentlessly.
+</p>
+<p>
+Pavlo Kytsmey
+</p>
+<p>
+COO Geniusee
+</p>
+</div>
+</div>
+</div>
+<div class="grey-block block block-einkaufscheck-flow">
+<div class="projects-row">
+<h2 class="title">User flow</h2>
+<img src=" /storage/app/media/portfolio/einkaufs-check/einkaufscheck_6.png " alt="Einkaufs check flow" />
+</div>
+</div>
+<div class="block block-padding">
+<div class="projects-row projects-row-img pb0">
+<div class="title-container">
+<h2 class="title">the outcome</h2>
+</div>
+<div class="row-column-half">
+<p>
+“The Geniusee team helped to develop a high-load solution to tackle multiple performance challenges efficiently. The Geniusee dedicated team is upfront and transparent in communication. I am constantly talking to Pavlo, COO at Geniusee. We track progress and remove blockers to adhere to the deadlines and deliver our complex solution to customers. I am excited about Geniusee commitment and am happy to recommend the company as a trustworthy tech partner,” - says Jens Jetzki.
+</p>
+<p>
+<span class="text-bold">The success of this project hinged on the following factors:</span>
+</p>
+<ul class="circles-ul fw500">
+<li><p>Motivated and professional team members who were really dedicated to this project delivered the complex solution on time and within the budget.</p></li>
+<li class="markerMargin"><p>The team developed a high-load solution to meet customer demand and business goals.</p></li>
+</ul>
+</div>
+<div class="row-column-half">
+<img src=" /storage/app/media/portfolio/einkaufs-check/einkaufscheck_7.png " class="w-90" alt="Einkaufs check outcome" />
+</div>
+</div>
+</div>
+<div class="block blockpb">
+<div class="projects-row row-center">
+<div class="col col-thanks">
+<h2 class="title">Thank you</h2>
+<p class="upper-text">for watching</p>
+<p>Geniusee Design & Dev Team</p>
+<p class="mb0">2021</p>
+</div>
+</div>
+</div>
+</div>
+</main> 
+</div>
+
+<div class="other-projects">
+<div class="related_projects">
+<div class="related_projects-wrap">
+<h3>Check out our other projects<span style="color: #9595ef">.</span></h3>
+</div>
+<div class="related_projects-slider">
+<div class="related_projects-slider-items">
+<div class="slide">
+<div class="img__wrap icon"><a href="printbi"><img src="/storage/app/media/printBi.svg" alt="record preview"></a></div><h3>PrintBI<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="zaza"><img src="/storage/app/media/zaza.png" alt="record preview"></a></div><h3>ZaZa<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="buzzshow"><img src="/storage/app/media/BuzShow 2.png" alt="record preview"></a></div><h3>BuZZshow<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="circular-review-system-vehicles"><img src="/storage/app/media/Circular-Review-System-for-vehicles.png" alt="record preview"></a></div><h3>Circular review system vehicles<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="crypto-analytics"><img src="/storage/app/media/bitspread.png" alt="record preview"></a></div><h3>Crypto analytics<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="my-uber"><img src="/storage/app/media/myuber.png" alt="record preview"></a></div><h3>My Uber<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="pool-party"><img src="/storage/app/media/pool_party.png" alt="record preview"></a></div><h3>Pool party<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="ua-light"><img src="/storage/app/media/ua_light 2.png" alt="record preview"></a></div><h3>Ua Light Virtual Console<span style="color: #9595ef">.</span></h3><ul><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="totalizator-platform"><img src="/storage/app/media/totalizator.svg" alt="record preview"></a></div><h3>Totalizator platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/blockchain">
+Blockchain
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="digital-bits"><img src="/storage/app/media/digital_bits_preview.svg" alt="record preview"></a></div><h3>Digital bits<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="tamam"><img src="/storage/app/media/tamam-preview.png" alt="record preview"></a></div><h3>Tamam Delivery App<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="wyzoo"><img src="/storage/app/media/wyzoo-preview.png" alt="record preview"></a></div><h3>Wyzoo<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="ncourage"><img src="/storage/app/media/ncourageProj/ncourage-card@1x.png" alt="record preview"></a></div><h3>Ncourage<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="validify"><img src="/storage/app/media/validifyProj/validify-card@1x.png" alt="record preview"></a></div><h3>Validify<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="gearhousepro"><img src="/storage/app/media/gearHousePro/preview.png" alt="record preview"></a></div><h3>GearHousePros<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="swoon"><img src="/storage/app/media/swoonProj/swoon-preview.png" alt="record preview"></a></div><h3>Swoon<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="tradesmarter"><img src="/storage/app/media/tradeSmarter/tradesmarter-preview.png" alt="record preview"></a></div><h3>TradeSmarter<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="factmata"><img src="/storage/app/media/factMata/factmata-preview.png" alt="record preview"></a></div><h3>FactMata<span style="color: #9595ef">.</span></h3><ul><li><a href="/artificial-intelligence">
+AI&amp;ML
+</a></li><li><a href="/aws">
+AWS
+</a></li><li><a href="/data-science">
+Data Science
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="realmfive"><img src="/storage/app/media/realm_preview.png" alt="record preview"></a></div><h3>RealmFive<span style="color: #9595ef">.</span></h3><ul><li><a href="/aws">
+AWS
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="revenu"><img src="/storage/app/media/revenu/login_dt.png" alt="record preview"></a></div><h3>Revenu<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="zedosh"><img src="/storage/app/media/portfolio/zedosh/zedosh.png" alt="record preview"></a></div><h3>Zedosh<span style="color: #9595ef">.</span></h3><ul><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="ajuma"><img src="/storage/app/media/portfolio/ajuma/Ajuma.png" alt="record preview"></a></div><h3>Ajuma<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="pause"><img src="/storage/app/media/portfolio/pause/pause-preview.jpg" alt="record preview"></a></div><h3>Pause<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/devops">
+Devops
+</a></li><li><a href="/mobile-development">
+Mobile Development
+ </a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="crave-retail"><img src="/storage/app/media/portfolio/crave-retail/crave-retail-preview.jpg" alt="record preview"></a></div><h3>Crave Retail<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="funderslink"><img src="/storage/app/media/portfolio/funderslink/funderslink-preview.png" alt="record preview"></a></div><h3>Lending platform<span style="color: #9595ef">.</span></h3><ul><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/qaqc-testing">
+QA/QC Testing
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+<div class="slide">
+<div class="img__wrap icon"><a href="einkaufs-check"><img src="/storage/app/media/portfolio/einkaufs-check/preview.png" alt="record preview"></a></div><h3>EinkaufsCheck<span style="color: #9595ef">.</span></h3><ul><li><a href="/business-analysis">
+Business Analysis
+</a></li><li><a href="/mobile-development">
+Mobile Development
+</a></li><li><a href="/ui-ux-design">
+UI/UX Design
+</a></li><li><a href="/web-development">
+Web Development
+</a></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+<style>
+    .contact__back-side {
+        justify-content: flex-end!important;
+    }
+    .back-side-img {
+        position: absolute;
+        left: -73px;
+        height: 80%;
+        bottom: -8px;
+    }
+    .back-side-right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        width: 50%;
+        margin-right: 65px;
+    }
+    .back-side-right h3 {
+        font-size: 64px;
+        color: black;
+    }
+    .back-side-right p {
+        text-align: right;
+        font-size: 28px;
+        font-weight: 400;
+        letter-spacing: 0.9px;
+        color: black;
+    }
+    .back-side-img-mob {
+        display:none
+    }
+    @media screen and (max-width: 600px) {
+        .form-success {
+            border-radius: 40px;
+        }
+        .back-side-img-desktop {
+            display: none;
+        }
+        .form-success .back-side-img-mob {
+            display: block
+        }
+        .back-side-img {
+            position: absolute;
+            left: -13px;
+            height: 100%;
+            top: 20px;
+        }
+        .back-side-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 38px;
+            width: 85%;
+        }
+        .back-side-right h3 {
+            font-size: 40px;
+        }
+        .back-side-right p {
+            text-align: left;
+            font-size: 23px;
+            color: black!important;
+        }
+        .contact__back-side {
+            transform: rotateY(360deg)!important;
+            transition: transform 1s!important;
+            backface-visibility:hidden!important;
+            -webkit-backface-visibility: hidden!important;
+        }
+        .form-success .contact__back-side {
+            border-radius: 40px;
+            align-items: flex-start!important;
+            height: 540px!important;
+            padding-top: 75px;
+            display: block!important;
+        }
+        .form-success .contact__front-side {
+            display:none!important;
+        }
+    }
+</style>
+<section id="contact" class="contact">
+<div id="about" class="contacts-info">
+<ul class="contacts-items">
+<li class="contacts-item">
+<div class="contacts-img mail"></div>
+<a href="mail-to:info@geniusee.com" class="item-dscr  font-body-3">info@geniusee.com</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img phone"></div>
+<a href="tel:+1-512-394-8852" class="item-dscr  font-body-3">+1 512 394 8852</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker"></div>
+<a href="https://www.google.com.ua/maps/place/651+N+Broad+St+%23206,+Middletown,+DE+19709,+США/@39.4559138,-80.1998639,6z/data=!4m5!3m4!1s0x89c7a079b0b659fb:0x6576ccb231bb2892!8m2!3d39.4559138!4d-75.7174423?hl=ru" class="item-dscr font-body-3" target="_blank">651 N Broad St, Suite 206 Middletown, DE 19709, USA</a>
+</li>
+<li class="contacts-item">
+<div class="contacts-img marker-second"></div>
+<a href="https://www.google.com/maps/place/Yaroslavs'kyi+Ln,+4,+Kyiv,+04071/@50.4666093,30.5079586,19z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce6c81835f9b:0xa687447365b4271e!8m2!3d50.4666084!4d30.5085058" class="item-dscr font-body-3" target="_blank">04071 Kyiv, Ukraine, Yaroslavsky Lane 3/1, office center Y4</a>
+</li>
+</ul>
+<ul class="social-items">
+<li class="social-item fb">
+<a href="https://www.facebook.com/geniuseesoftware/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/facebook.svg" width="32" height="24" alt="facebook">
+</a>
+</li>
+<li class="social-item lk">
+<a href="https://www.linkedin.com/company/geniusee" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/linkedin.svg" width="32" height="24" alt="linkedin">
+</a>
+</li>
+ <li class="social-item bh">
+<a href="https://www.behance.net/geniusee_software" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/behance.svg" width="32" height="24" alt="behance">
+</a>
+</li>
+<li class="social-item ig">
+<a href="https://www.instagram.com/geniusee_software/" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/instagram.svg" width="32" height="24" alt="instagram">
+</a>
+</li>
+<li class="social-item tt">
+<a href="https://twitter.com/GeniuseeSW" target="_blank" class="item-link" rel="nofollow">
+<img src="/storage/app/media/twitter.svg" width="32" height="24" alt="twitter">
+</a>
+</li>
+</ul>
+</div>
+<div class="form-wrap" id="formWrap">
+<div class="contact__front-side">
+<div class="title-wrap">
+<h2 class="form-title  font-h3 text-left">Drop us a line<span>.</span></h2>
+<p class="form-dscr  font-body-3">Tell us how we can help you.</p>
+</div>
+<form method="POST" action="" id="form" class="form">
+<div class="form_error_message font-body-3" id="form_error_message"><img src="/storage/app/media/warning.svg" width="25" height="31" alt="warning">Please, fill out this field</div>
+<fieldset class="form-fieldset">
+<legend class="form-legend visually-hidden">Geniusee form</legend>
+<label class="form-label">
+<input id="main_form_name" type="text" name="name" placeholder="* Name" class="form-input">
+</label>
+<label class="form-label">
+<input id="main_form_email" type="email" name="email" placeholder="* Email" class="form-input">
+</label>
+<label class="form-label">
+<input type="tel" name="phone" placeholder="Phone" class="form-input">
+</label>
+<details id="industry_select" class="select_container">
+<summary>* Industry</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="industry" value="Finance">Finance
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Agriculture">Agriculture
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Education">Education
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Healthcare">Healthcare
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="E-commerce">E-commerce
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Biotechnology">Biotechnology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Logistic & Transportation">Logistic & Transportation
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Sports & Games">Sports & Games
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Construction">Construction
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Food & Supplements">Food & Supplements
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Consulting">Consulting
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Legal">Legal
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Marketing">Marketing
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Travel & Hospitality">Travel & Hospitality
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Delivery">Delivery
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Technology">Technology
+</label>
+<label class="select__option">
+<input type="radio" name="industry" value="Other">Other
+</label>
+</div>
+</details>
+<label class="form-label other_scope">
+<textarea name="industry_description" placeholder="Please write your industry" class="form-textarea"></textarea>
+</label>
+<details id="budget_select" class="select_container">
+<summary>* Expected Budget</summary>
+<div class="select">
+<label class="select__option">
+<input type="radio" name="expected_budget" value="<10k">&lt10k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="10k-30k">10k-30k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="30k-60k">30k-60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value=">60k">&gt60k
+</label>
+<label class="select__option">
+<input type="radio" name="expected_budget" value="N\A">N\A
+</label>
+</div>
+</details>
+<label class="form-label">
+<textarea minlength="10" name="message" placeholder="Message" class="form-textarea"></textarea>
+</label>
+</fieldset>
+<div class="form-btn-wrap">
+<button type="submit" id="submit" class=" font-button bborder">SEND</button>
+ </div>
+</form>
+</div>
+<div class="contact__back-side">
+
+<img data-src="/storage/app/media/thnx.svg" class="lazyload back-side-img back-side-img-desktop" alt="thank you " width="538" height="724"> 
+<img data-src="/storage/app/media/thnx_mob.svg" class="lazyload back-side-img back-side-img-mob" alt="thank you " width="399" height="574"> <div class="back-side-right">
+<h3 class="font-h3">Thank you<span style="color:#9595EF;">.</span></h3>
+<p class="font-body-2">
+We will answer you as soon as we determine which of the team members is the most worthy to talk to you :)
+</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="footer">
+<div class="footer__logo">
+<a href="https://geniusee.com"><img src="/storage/app/media/logo-footer.svg" alt="Geniusee"></a>
+</div>
+<div class="footer__links">
+<div class="footer__links-top">
+<ul>
+<li>
+<a href="https://geniusee.com/about">About Us</a>
+<a href="https://geniusee.com/blog/all/1">Blog</a>
+<a href="https://geniusee.com/career">Careers</a>
+</li>
+<li>
+<a href="#contact">Contacts</a>
+<a href="https://geniusee.com/portfolio/all/1">Portfolio</a>
+<a href="https://geniusee.com/services">Services</a>
+</li>
+<li>
+<a href="https://estimate.geniusee.com/">Estimator</a>
+
+<a href="https://geniusee.com/web-development">Web Development</a>
+<a href="https://geniusee.com/mobile-development">Mobile Development</a>
+</li>
+<li>
+<a href="https://geniusee.com/ui-ux-design">UI/UX Design</a>
+<a href="https://geniusee.com/blockchain">Blockchain</a>
+<a href="https://geniusee.com/business-analysis">Business Analysis</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6338252, playbookUuid: '3b267377-d429-44e4-a327-7ea5f9f6f90e',version: 2};
+
+(function () {
+    var w = window;
+    if (w.LeadBooster) {
+        console.warn('LeadBooster already exists');
+    } else {
+        w.LeadBooster = {q: [],on: function (n, h) {
+            this.q.push({ t: 'o', n: n, h: h });
+        },trigger: function (n) {this.q.push({ t: 't', n: n });},};}
+    })();
+</script>
+
+<script src='https://leadbooster-chat.pipedrive.com/assets/loader.js' defer></script>
+
+
+<div class="cookies_field_wrapper">
+<p class="info">The website uses cookies to improve your experience.<a href="#" id="cookies_learn_more">Learn more </a></p><a class="got_it" href="#" id="got_it">Got it</a>
+<img data-src="/storage/app/media/cookies_bg.jpg" class="lazyload cookies_bg" alt="cookies_bg" width="" height=""></div>
+<div class="cookie_policy-warpper">
+<div class="cookie_policy-content">
+<a href="#" class="cross" id="cookie_policy-cross"></a>
+<h2 class="font-h2">Privacy Policy</h2>
+<p class="font-body-2 font-body-2-top">Geniusee believes that mutual trust and user privacy are conducive to the future of the Internet development. Geniusee also believes that the correct collection, use and exchange of information contributes to the development of the Internet and electronic commerce, provided that such information is processed responsibly and securely. This Internet Privacy Policy is provided by Geniusee in order to inform our website users of Geniusee policies and activities referring to using and transferring information (including personal data).</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee collects personal information from users of its website of their own free will. Geniusee may collect basic contact information such as name, e-mail address, telephone number and company industry. Additionally, Geniusee may collect personal information through its website by using cookies and click trails. All information collected by means of cookies or click trails is anonymized, aggregated and used only by Geniusee to improve and track traffic patterns and the volume of use of its website. If you do not want to receive a cookie from our website, you may set your browser to refuse cookies or to notify you when you receive a cookie, which you may then refuse upon such notice.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee may use personal data received from its users for specific purposes, including:</p>
+<ul>
+<li class="font-body-2 font-body-2-top">Compiling website aggregate statistics;</li>
+<li class="font-body-2 font-body-2-top">Maintenance and administration of the Geniusee website;</li>
+<li class="font-body-2 font-body-2-top">Direct marketing and promotional campaigns by or on behalf of Geniusee (only if the user opts-in to receive such information).</li>
+</ul>
+
+<p class="font-body-2 font-body-2-top">Geniusee may disclose your personal information in urgent circumstances to protect personal safety, the public or Geniusee websites. It is also possible that we may be required by law to disclose your personal information pursuant to judicial or other government subpoenas, warrants, or orders, potentially, in any country where we do business.</p>
+
+<p class="font-body-2 font-body-2-top">
+In case a Geniusee website user has provided personal information and later wishes Geniusee to remove it, please contact <a href="mailto: info@geniusee.com"> info@geniusee.com </a>
+</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee has introduced certain security technologies and procedures in order to protect the personal information, its collection, using or transferring from loss, misusing, alteration or destruction.</p>
+
+<p class="font-body-2 font-body-2-top">Geniusee website may provide links to third party websites. Geniusee does not make any representations or warranties with respect to such third party websites. Geniusee website users should be aware that the owners and operators of such third party websites might collect, use or transfer personal information under different terms and conditions than those of Geniusee.</p>
+<p class="font-body-2 font-body-2-top">If you have any questions or concerns regarding the Geniusee Internet Privacy Policy, please contact us at<a href="mailto: info@geniusee.com"> info@geniusee.com </a></p>
+</div>
+</div>
+
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/style.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/portfolio-single.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/portfolio-single.new.css?v=2" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/header.css" rel="stylesheet">
+<link href="https://geniusee.com/themes/geniusee/assets/compiled/css/new-fonts.css" rel="stylesheet">
+
+<script src="https://geniusee.com/combine/5ccd8326678510919fac31fe32cc3f01-1638441204"></script>
+
+
+</div>
+</body>
+</html>
