@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="91" viewBox="0 0 75 91">
+  <g fill="none" fill-rule="evenodd">
+    <g fill="#F7F7FE" fill-rule="nonzero" stroke="#030303" stroke-dasharray="8 10" stroke-linecap="round" stroke-linejoin="round" transform="translate(15)">
+      <path d="M13.9285714,53.1325301 L0,29.2771084 L13.9285714,0.914634073 L42.8571429,0.914634073 L57.8571429,28.1927711 L28.9285714,28.1927711 L13.9285714,53.1325301 Z"/>
+      <path d="M16.0714286,90 L2.14285714,66.1445783 L16.0714286,37.782104 L45,37.782104 L60,65.060241 L31.0714286,65.060241 L16.0714286,90 Z" transform="rotate(180 31.071 63.891)"/>
+    </g>
+    <g transform="translate(0 35)">
+      <polygon fill="#383838" points="28.976 25.636 43.906 51.272 14.037 51.272"/>
+      <polygon fill="#666" points="29.153 25.636 0 25.636 14.393 51.272"/>
+      <polygon fill="#333" points="43.19 0 28.8 25.812 58.306 25.812"/>
+      <polygon fill="#1C1C1C" points="43.724 25.636 28.8 51.267 58.306 51.267" transform="matrix(1 0 0 -1 0 76.903)"/>
+    </g>
+    <g transform="rotate(180 30 27.5)">
+      <polygon fill="#383838" points="28.824 27.041 43.676 53 13.963 53"/>
+      <polygon fill="#666" points="29 27.041 0 27.041 14.318 53"/>
+      <polygon fill="#333" points="43.198 .898 29 27.036 58 27.036"/>
+      <polygon fill="#1C1C1C" points="43.495 27.041 28.649 52.995 58 52.995" transform="matrix(1 0 0 -1 0 80.036)"/>
+    </g>
+  </g>
+</svg>
